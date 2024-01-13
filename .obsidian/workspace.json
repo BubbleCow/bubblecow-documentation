@@ -25,26 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Marketing/Emails/Customer Emails/!Customer Service Emails.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1381fa99ea3a9135",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Marketing/Emails/Customer Emails/!Customer Service Emails.md",
+                "file": "Marketing/Emails/Customer Emails/Initial Copy Editing Response - Without Word Count.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Marketing/Emails/Customer Emails/!Customer Service Emails.md",
+                "file": "Marketing/Emails/Customer Emails/Initial Copy Editing Response - Without Word Count.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Marketing/Emails/Customer Emails/!Customer Service Emails.md",
+                "file": "Marketing/Emails/Customer Emails/Initial Copy Editing Response - Without Word Count.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Marketing/Emails/Customer Emails/!Customer Service Emails.md"
+                "file": "Marketing/Emails/Customer Emails/Initial Copy Editing Response - Without Word Count.md"
               }
             }
           }
@@ -171,11 +159,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1381fa99ea3a9135",
+  "active": "925a4e6dd222bd60",
   "lastOpenFiles": [
-    "Marketing/Emails/Customer Emails/Initial Copy Editing Response - Without Word Count.md",
-    "Marketing/Emails/Customer Emails/Initial Copy Editing Response - With Word Count.md",
     "Marketing/Emails/Customer Emails/!Customer Service Emails.md",
+    "Marketing/Emails/Customer Emails/Initial Copy Editing Response - With Word Count.md",
+    "Marketing/Emails/Customer Emails/Initial Copy Editing Response - Without Word Count.md",
     "Marketing/Emails/Customer Emails",
     "Admin/Legal/Non-Disclosure Agreement.md",
     "Marketing/Emails",

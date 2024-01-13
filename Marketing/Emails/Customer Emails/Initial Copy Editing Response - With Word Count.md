@@ -1,5 +1,5 @@
 > [!info]
->  This email is for the copy editing service and when the customer has given the manuscript's wordcount. 
+>  This email is for the copy editing service and when the customer has given the manuscript's word count. 
 
 Hi.
 

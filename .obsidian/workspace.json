@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Marketing/Blog/Pillars/BubbleCow Pillar Strategy.md",
+                "file": "Admin/Legal/Non-Disclosure Agreement.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Marketing/Blog/Pillars/BubbleCow Pillar Strategy.md",
+                "file": "Admin/Legal/Non-Disclosure Agreement.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Marketing/Blog/Pillars/BubbleCow Pillar Strategy.md",
+                "file": "Admin/Legal/Non-Disclosure Agreement.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Marketing/Blog/Pillars/BubbleCow Pillar Strategy.md"
+                "file": "Admin/Legal/Non-Disclosure Agreement.md"
               }
             }
           }
@@ -148,6 +148,10 @@
   },
   "active": "702a15bf0676c4cc",
   "lastOpenFiles": [
+    "Marketing/Blog/Pillars/BubbleCow Pillar Strategy.md",
+    "Admin/Legal/Non-Disclosure Agreement.md",
+    "Admin/Legal",
+    "Admin",
     "Marketing/Blog/Pillars/Writing Techniques and Styles/Narrative Point of View/Third Person Point Of View - A Comprehensive Overview For Writers.md",
     "Marketing/Blog/Pillars/Writing Techniques and Styles/Narrative Point of View/Mastering the Second Person Viewpoint - A Comprehensive Guide.md",
     "Marketing/Blog/Pillars/Writing Techniques and Styles/Narrative Point of View/Mastering Point of View in Writing - A Comprehensive Guide.md",
@@ -172,8 +176,6 @@
     "Marketing/Blog/Pillars/Book Editing/Developmental Editing/What does a developmental editor do.md",
     "Marketing/Blog/Pillars/Book Editing/Developmental Editing/What are the primary goals of developmental editing.md",
     "Marketing/Blog/Pillars/Book Editing/Developmental Editing/Is developmental editing worth it.md",
-    "Marketing/Blog/Pillars/Book Editing/Developmental Editing/How is developmental editing done.md",
-    "Marketing/Blog/Pillars/Book Editing/Developmental Editing/How Much Does Developmental Editing Cost.md",
     "Marketing/Blog/Pillars/Writing Techniques and Styles/Narrative Point of View",
     "Marketing/Blog/Pillars/Publishing/Book Trends and Insights",
     "Marketing/Blog/Pillars/Publishing/Book Genres",
@@ -181,8 +183,6 @@
     "Marketing/Blog/Pillars/Book Editing/Self Editing for Writers",
     "Marketing/Blog/Pillars/Book Editing/Manuscript Assessment",
     "Marketing/Blog/Pillars/Book Editing/Developmental Editing",
-    "Marketing/Blog/Pillars/Book Editing/Cost of book editing",
-    "Marketing/Blog/Pillars/Book Editing/Copy Editing",
-    "Marketing/Blog/Pillars/Book Editing/Careers in Book Editing"
+    "Marketing/Blog/Pillars/Book Editing/Cost of book editing"
   ]
 }

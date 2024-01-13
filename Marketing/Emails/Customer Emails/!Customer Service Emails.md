@@ -1,6 +1,7 @@
 This document contains information about the emails we send new customers when they enquire about a service.
 
-- [[Initial Copy Editing Response - With Wordcount]]
+- [[Initial Copy Editing Response - With Word Count]]
+- [[Initial Copy Editing Response - Without Word Count]]
 
 ## Copy Editing
 

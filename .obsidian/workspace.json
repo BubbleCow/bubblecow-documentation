@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Marketing/Emails/Customer Emails/Initial Copy Editing Response - Without Word Count.md",
+                "file": "Marketing/Emails/Customer Emails/!Customer Service Emails.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Marketing/Emails/Customer Emails/Initial Copy Editing Response - Without Word Count.md",
+                "file": "Marketing/Emails/Customer Emails/!Customer Service Emails.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Marketing/Emails/Customer Emails/Initial Copy Editing Response - Without Word Count.md",
+                "file": "Marketing/Emails/Customer Emails/!Customer Service Emails.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Marketing/Emails/Customer Emails/Initial Copy Editing Response - Without Word Count.md"
+                "file": "Marketing/Emails/Customer Emails/!Customer Service Emails.md"
               }
             }
           }
@@ -161,9 +161,9 @@
   },
   "active": "925a4e6dd222bd60",
   "lastOpenFiles": [
+    "Marketing/Emails/Customer Emails/Initial Copy Editing Response - Without Word Count.md",
     "Marketing/Emails/Customer Emails/!Customer Service Emails.md",
     "Marketing/Emails/Customer Emails/Initial Copy Editing Response - With Word Count.md",
-    "Marketing/Emails/Customer Emails/Initial Copy Editing Response - Without Word Count.md",
     "Marketing/Emails/Customer Emails",
     "Admin/Legal/Non-Disclosure Agreement.md",
     "Marketing/Emails",

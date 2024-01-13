@@ -1,5 +1,5 @@
 The goal of the blog is to help writers to become better writers. 
-## Current Layout
+## Pillar Layout
 
 - Pillar: [[Book Editing]]
 	- Sub-pillar: [[Costs of Book Editing]]

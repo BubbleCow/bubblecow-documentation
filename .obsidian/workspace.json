@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "cd8e440fd1c78863",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Marketing/Emails/Customer Emails/Initial Manuscript Assessment Response - With Word Count.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Marketing/Emails/Customer Emails/!Customer Service Emails.md",
+                "file": "Marketing/Emails/Customer Emails/Initial Manuscript Assessment Response - With Word Count.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Marketing/Emails/Customer Emails/!Customer Service Emails.md",
+                "file": "Marketing/Emails/Customer Emails/Initial Manuscript Assessment Response - With Word Count.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Marketing/Emails/Customer Emails/!Customer Service Emails.md"
+                "file": "Marketing/Emails/Customer Emails/Initial Manuscript Assessment Response - With Word Count.md"
               }
             }
           }
@@ -146,11 +159,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "702a15bf0676c4cc",
+  "active": "cd8e440fd1c78863",
   "lastOpenFiles": [
-    "Initial Manuscript Assessment Response - With Word Count.md",
-    "Marketing/Emails/Customer Emails/!Customer Service Emails.md",
     "Marketing/Emails/Customer Emails/Initial Response - Copy Editing - Without Word Count.md",
+    "Marketing/Emails/Customer Emails/Initial Response - Manuscript Assessment - Without Word Count.md",
+    "Marketing/Emails/Customer Emails/!Customer Service Emails.md",
+    "Marketing/Emails/Customer Emails/Initial Manuscript Assessment Response - With Word Count.md",
     "Marketing/Emails/Customer Emails/Initial Response - Copy Editing - With Word Count.md",
     "Marketing/Emails/Customer Emails",
     "Admin/Legal/Non-Disclosure Agreement.md",
@@ -182,7 +196,6 @@
     "Marketing/Blog/Pillars/Book Editing/Manuscript Assessment/Manuscript Critique - Understanding The Process And Its Benefits.md",
     "Marketing/Blog/Pillars/Book Editing/Manuscript Assessment/Manuscript Assessment.md",
     "Marketing/Blog/Pillars/Book Editing/Manuscript Assessment/Is A Manuscript Assessment Worth It.md",
-    "Marketing/Blog/Pillars/Book Editing/Developmental Editing/What is the meaning of developmental editing.md",
-    "Marketing/Blog/Pillars/Book Editing/Developmental Editing/What is included in a developmental edit.md"
+    "Marketing/Blog/Pillars/Book Editing/Developmental Editing/What is the meaning of developmental editing.md"
   ]
 }

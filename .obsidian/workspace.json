@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Marketing/Emails/Customer Emails/Initial Customer Service Emails.md",
+                "file": "Marketing/Emails/Customer Emails/Customer Service Emails.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Marketing/Emails/Customer Emails/Initial Customer Service Emails.md",
+                "file": "Marketing/Emails/Customer Emails/Customer Service Emails.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Marketing/Emails/Customer Emails/Initial Customer Service Emails.md",
+                "file": "Marketing/Emails/Customer Emails/Customer Service Emails.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Marketing/Emails/Customer Emails/Initial Customer Service Emails.md"
+                "file": "Marketing/Emails/Customer Emails/Customer Service Emails.md"
               }
             }
           }
@@ -146,11 +146,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "341fb5c098c93da7",
+  "active": "702a15bf0676c4cc",
   "lastOpenFiles": [
     "Marketing/Emails/Customer Emails",
     "Admin/Legal/Non-Disclosure Agreement.md",
-    "Marketing/Emails/Customer Emails/Initial Customer Service Emails.md",
+    "Marketing/Emails/Customer Emails/Customer Service Emails.md",
     "Marketing/Emails",
     "Editorial/Reports/Developmental Editing/Sample/FICTION BOOK TITLE- Sample - Editors Report - Development Editing - BubbleCow.md",
     "Editorial/Reports/Developmental Editing/Sample",

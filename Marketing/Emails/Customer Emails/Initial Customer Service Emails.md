@@ -31,14 +31,8 @@ If you can provide the word count, I can give you a final price. 
 Hi.
 
 Thank you for reaching out. I am excited to hear about your book and the opportunity to work with you to bring it to publication.
-()
-
-  
-
+(TEXT)
 So getting the nitty gritty out of the way...
-
-  
-
 The cost for editing your manuscript would be XXX. This price is a flat fee based on word count and is all-inclusive.
 
   

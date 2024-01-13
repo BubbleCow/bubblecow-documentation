@@ -16,24 +16,10 @@ Let me know if you have any questions, and we can begin the process. 
 
 ### Without Word Count
 
-  
-
 Hi.
-
-  
-
 Thank you for reaching out. I am excited to hear about your book and the opportunity to work with you to bring it to publication.
-
-  
-
-[text]
-
-  
-
+(TEXT)
 So getting the nitty gritty out of the way...
-
-  
-
 The cost for copy editing your manuscript would be based on word count. This price is a flat fee and is all-inclusive.
 
   

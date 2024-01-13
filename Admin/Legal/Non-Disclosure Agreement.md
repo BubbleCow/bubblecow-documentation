@@ -3,16 +3,8 @@ Parties:
 BubbleCow of 12 Tithebarn St, Liverpool L2 2DT (the Recipient) 
 and 
 [NAME OF INDIVIDUAL DISCLOSING INFORMATION] (the Discloser).
-  
-
-1. The Discloser intends to disclose information (book titled xxx) to the Recipient for the purpose of [editorial feedback in the form of mentoring, developmental editing, or manuscript assessment] (the Purpose).  
-
-  
-
+1. The Discloser intends to disclose information (book titled xxx) to the Recipient for the purpose of editorial feedback in the form of mentoring, developmental editing, or manuscript assessment (the Purpose).  
 2. The Recipient undertakes not to use the Confidential Information for any purpose except the Purpose, without first obtaining the written agreement of the Discloser. 
-
-  
-
 3. The Recipient undertakes to keep the Confidential Information secure and not to disclose it to any third party [except to its employees [and professional advisers] who need to know the same for the Purpose, who know they owe a duty of confidence to the Discloser and who are bound by obligations equivalent to those in clause 2 above and this clause 3. 
 
   

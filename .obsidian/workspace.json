@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Admin/Legal/Non-Disclosure Agreement.md",
+                "file": "Editorial/Reports/Developmental Editing/Sample/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Admin/Legal/Non-Disclosure Agreement.md",
+                "file": "Editorial/Reports/Developmental Editing/Sample/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Admin/Legal/Non-Disclosure Agreement.md",
+                "file": "Editorial/Reports/Developmental Editing/Sample/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Admin/Legal/Non-Disclosure Agreement.md"
+                "file": "Editorial/Reports/Developmental Editing/Sample/Untitled.md"
               }
             }
           }
@@ -146,14 +146,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "341fb5c098c93da7",
+  "active": "702a15bf0676c4cc",
   "lastOpenFiles": [
+    "Admin/Legal/Non-Disclosure Agreement.md",
+    "Editorial/Reports/Developmental Editing/Sample/Untitled.md",
+    "Editorial/Reports/Developmental Editing/Sample",
+    "Editorial/Reports/Manuscript Assessment",
     "Editorial/Reports/Copy Editing",
     "Editorial/Reports/Developmental Editing",
     "Editorial/Reports",
     "Editorial",
     "Marketing/Blog/Pillars/BubbleCow Pillar Strategy.md",
-    "Admin/Legal/Non-Disclosure Agreement.md",
     "Admin/Legal",
     "Admin",
     "Marketing/Blog/Pillars/Writing Techniques and Styles/Narrative Point of View/Third Person Point Of View - A Comprehensive Overview For Writers.md",
@@ -180,9 +183,6 @@
     "Marketing/Blog/Pillars/Book Editing/Developmental Editing/What does a developmental editor do.md",
     "Marketing/Blog/Pillars/Book Editing/Developmental Editing/What are the primary goals of developmental editing.md",
     "Marketing/Blog/Pillars/Writing Techniques and Styles/Narrative Point of View",
-    "Marketing/Blog/Pillars/Publishing/Book Trends and Insights",
-    "Marketing/Blog/Pillars/Publishing/Book Genres",
-    "Marketing/Blog/Pillars/Book Editing/Tools and Software",
-    "Marketing/Blog/Pillars/Book Editing/Self Editing for Writers"
+    "Marketing/Blog/Pillars/Publishing/Book Trends and Insights"
   ]
 }

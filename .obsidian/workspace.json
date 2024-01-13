@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Editorial/Reports/Developmental Editing/Sample/FICTION BOOK TITLE- Sample - Editors Report - Development Editing - BubbleCow.md",
+                "file": "Admin/Legal/Non-Disclosure Agreement.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Editorial/Reports/Developmental Editing/Sample/FICTION BOOK TITLE- Sample - Editors Report - Development Editing - BubbleCow.md",
+                "file": "Admin/Legal/Non-Disclosure Agreement.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Editorial/Reports/Developmental Editing/Sample/FICTION BOOK TITLE- Sample - Editors Report - Development Editing - BubbleCow.md",
+                "file": "Admin/Legal/Non-Disclosure Agreement.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Editorial/Reports/Developmental Editing/Sample/FICTION BOOK TITLE- Sample - Editors Report - Development Editing - BubbleCow.md"
+                "file": "Admin/Legal/Non-Disclosure Agreement.md"
               }
             }
           }
@@ -148,8 +148,8 @@
   },
   "active": "702a15bf0676c4cc",
   "lastOpenFiles": [
-    "Admin/Legal/Non-Disclosure Agreement.md",
     "Editorial/Reports/Developmental Editing/Sample/FICTION BOOK TITLE- Sample - Editors Report - Development Editing - BubbleCow.md",
+    "Admin/Legal/Non-Disclosure Agreement.md",
     "Editorial/Reports/Developmental Editing/Sample",
     "Editorial/Reports/Manuscript Assessment",
     "Editorial/Reports/Copy Editing",

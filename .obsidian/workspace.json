@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "925a4e6dd222bd60",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Marketing/Emails/Customer Emails/!Customer Service Emails.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -159,11 +146,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "925a4e6dd222bd60",
+  "active": "702a15bf0676c4cc",
   "lastOpenFiles": [
-    "Marketing/Emails/Customer Emails/Initial Copy Editing Response - Without Word Count.md",
+    "Initial Manuscript Assessment Response - With Word Count.md",
     "Marketing/Emails/Customer Emails/!Customer Service Emails.md",
-    "Marketing/Emails/Customer Emails/Initial Copy Editing Response - With Word Count.md",
+    "Marketing/Emails/Customer Emails/Initial Response - Copy Editing - Without Word Count.md",
+    "Marketing/Emails/Customer Emails/Initial Response - Copy Editing - With Word Count.md",
     "Marketing/Emails/Customer Emails",
     "Admin/Legal/Non-Disclosure Agreement.md",
     "Marketing/Emails",
@@ -195,7 +183,6 @@
     "Marketing/Blog/Pillars/Book Editing/Manuscript Assessment/Manuscript Assessment.md",
     "Marketing/Blog/Pillars/Book Editing/Manuscript Assessment/Is A Manuscript Assessment Worth It.md",
     "Marketing/Blog/Pillars/Book Editing/Developmental Editing/What is the meaning of developmental editing.md",
-    "Marketing/Blog/Pillars/Book Editing/Developmental Editing/What is included in a developmental edit.md",
-    "Marketing/Blog/Pillars/Book Editing/Developmental Editing/What is Developmental Editing?.md"
+    "Marketing/Blog/Pillars/Book Editing/Developmental Editing/What is included in a developmental edit.md"
   ]
 }

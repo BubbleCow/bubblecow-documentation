@@ -2,12 +2,12 @@ This document contains information about the emails we send new customers when t
 
 ## Copy Editing
 
-- [[Initial Copy Editing Response - With Word Count]]
-- [[Initial Copy Editing Response - Without Word Count]]
+- [[Initial Response - Copy Editing - With Word Count]]
+- [[Initial Response - Copy Editing - Without Word Count]]
 
 ## Manuscript Assessment
 
-- [[Initial Manuscript Assessment Response - With Word Count]]
+- [[Initial Responce - Manuscript Assessment Response - With Word Count]]
 
 
 ## Manuscript Assessment

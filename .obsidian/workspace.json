@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Admin/Legal/Non-Disclosure Agreement.md",
+                "file": "Marketing/Emails/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Admin/Legal/Non-Disclosure Agreement.md",
+                "file": "Marketing/Emails/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Admin/Legal/Non-Disclosure Agreement.md",
+                "file": "Marketing/Emails/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Admin/Legal/Non-Disclosure Agreement.md"
+                "file": "Marketing/Emails/Untitled.md"
               }
             }
           }
@@ -148,8 +148,10 @@
   },
   "active": "702a15bf0676c4cc",
   "lastOpenFiles": [
-    "Editorial/Reports/Developmental Editing/Sample/FICTION BOOK TITLE- Sample - Editors Report - Development Editing - BubbleCow.md",
     "Admin/Legal/Non-Disclosure Agreement.md",
+    "Marketing/Emails/Untitled.md",
+    "Marketing/Emails",
+    "Editorial/Reports/Developmental Editing/Sample/FICTION BOOK TITLE- Sample - Editors Report - Development Editing - BubbleCow.md",
     "Editorial/Reports/Developmental Editing/Sample",
     "Editorial/Reports/Manuscript Assessment",
     "Editorial/Reports/Copy Editing",
@@ -181,8 +183,6 @@
     "Marketing/Blog/Pillars/Book Editing/Developmental Editing/What is Developmental Editing?.md",
     "Marketing/Blog/Pillars/Book Editing/Developmental Editing/What does book editing include.md",
     "Marketing/Blog/Pillars/Book Editing/Developmental Editing/What does a developmental editor do.md",
-    "Marketing/Blog/Pillars/Book Editing/Developmental Editing/What are the primary goals of developmental editing.md",
-    "Marketing/Blog/Pillars/Writing Techniques and Styles/Narrative Point of View",
-    "Marketing/Blog/Pillars/Publishing/Book Trends and Insights"
+    "Marketing/Blog/Pillars/Writing Techniques and Styles/Narrative Point of View"
   ]
 }

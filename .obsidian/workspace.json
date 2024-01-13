@@ -1,0 +1,180 @@
+{
+  "main": {
+    "id": "a5002919b364ac27",
+    "type": "split",
+    "children": [
+      {
+        "id": "5398f96578b28dcf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "702a15bf0676c4cc",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e96285e8471e48ca",
+    "type": "split",
+    "children": [
+      {
+        "id": "1c78140c91c1d3bd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "341fb5c098c93da7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e2d1ad03792b6250",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bd400810b218821e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3cf92139757f6dee",
+    "type": "split",
+    "children": [
+      {
+        "id": "27e949461ae78dad",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3c62cc08ec8ddc2e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "dba069c5a48cc60c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2a8cbf4bf4ca2d08",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "43d3b39fc42a506d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "702a15bf0676c4cc",
+  "lastOpenFiles": [
+    "Marketing/Blog/Pillars/Writing Techniques and Styles/Narrative Point of View/Third Person Point Of View - A Comprehensive Overview For Writers.md",
+    "Marketing/Blog/Pillars/Writing Techniques and Styles/Narrative Point of View/Mastering the Second Person Viewpoint - A Comprehensive Guide.md",
+    "Marketing/Blog/Pillars/Writing Techniques and Styles/Narrative Point of View/Mastering Point of View in Writing - A Comprehensive Guide.md",
+    "Marketing/Blog/Pillars/Writing Techniques and Styles/Narrative Point of View/First Person Point of View - A Comprehensive Overview for Writers.md",
+    "Marketing/Blog/Pillars/Publishing/Book Genres/Which Book Genre Is The Most Popular.md",
+    "Marketing/Blog/Pillars/Publishing/Book Genres/The Ultimate Guide to Novel Tropes.md",
+    "Marketing/Blog/Pillars/Book Editing/Tools and Software/Which software is best for book editing.md",
+    "Marketing/Blog/Pillars/Book Editing/Tools and Software/Which app can I use to edit my book.md",
+    "Marketing/Blog/Pillars/Book Editing/Tools and Software/Book Editing Tools and Software.md",
+    "Marketing/Blog/Pillars/Book Editing/Self Editing for Writers/What do you need to edit books.md",
+    "Marketing/Blog/Pillars/Book Editing/Self Editing for Writers/Self-editing for writers.md",
+    "Marketing/Blog/Pillars/Book Editing/Self Editing for Writers/How can I edit my own book.md",
+    "Marketing/Blog/Pillars/Book Editing/Self Editing for Writers/How can I edit my book for free.md",
+    "Marketing/Blog/Pillars/Book Editing/Manuscript Assessment/Manuscript Evaluation 101 - How To Ensure Your Work Meets Standards And Gets Published.md",
+    "Marketing/Blog/Pillars/Book Editing/Manuscript Assessment/Manuscript Critique - Understanding The Process And Its Benefits.md",
+    "Marketing/Blog/Pillars/Book Editing/Manuscript Assessment/Manuscript Assessment.md",
+    "Marketing/Blog/Pillars/Book Editing/Manuscript Assessment/Is A Manuscript Assessment Worth It.md",
+    "Marketing/Blog/Pillars/Book Editing/Developmental Editing/What is the meaning of developmental editing.md",
+    "Marketing/Blog/Pillars/Book Editing/Developmental Editing/What is included in a developmental edit.md",
+    "Marketing/Blog/Pillars/Book Editing/Developmental Editing/What is Developmental Editing?.md",
+    "Marketing/Blog/Pillars/Book Editing/Developmental Editing/What does book editing include.md",
+    "Marketing/Blog/Pillars/Book Editing/Developmental Editing/What does a developmental editor do.md",
+    "Marketing/Blog/Pillars/Book Editing/Developmental Editing/What are the primary goals of developmental editing.md",
+    "Marketing/Blog/Pillars/Book Editing/Developmental Editing/Is developmental editing worth it.md",
+    "Marketing/Blog/Pillars/Book Editing/Developmental Editing/How is developmental editing done.md",
+    "Marketing/Blog/Pillars/Book Editing/Developmental Editing/How Much Does Developmental Editing Cost.md",
+    "Marketing/Blog/Pillars/Writing Techniques and Styles/Narrative Point of View",
+    "Marketing/Blog/Pillars/Publishing/Book Trends and Insights",
+    "Marketing/Blog/Pillars/Publishing/Book Genres",
+    "Marketing/Blog/Pillars/Book Editing/Tools and Software",
+    "Marketing/Blog/Pillars/Book Editing/Self Editing for Writers",
+    "Marketing/Blog/Pillars/Book Editing/Manuscript Assessment",
+    "Marketing/Blog/Pillars/Book Editing/Developmental Editing",
+    "Marketing/Blog/Pillars/Book Editing/Cost of book editing",
+    "Marketing/Blog/Pillars/Book Editing/Copy Editing",
+    "Marketing/Blog/Pillars/Book Editing/Careers in Book Editing"
+  ]
+}

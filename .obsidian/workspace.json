@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "5398f96578b28dcf",
+        "id": "6444c374fadcade6",
         "type": "tabs",
         "children": [
           {
-            "id": "702a15bf0676c4cc",
+            "id": "f82162004197bb8d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Editorial/Writers/T/Tony Farias/No I am Not a Rat/No I am Not a Rat - Rewrite Options.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Editorial/Writers/T/Tony Farias/No I am Not a Rat/No I am Not a Rat - Rewrite Options.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Editorial/Writers/T/Tony Farias/No I am Not a Rat/No I am Not a Rat - Rewrite Options.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Editorial/Writers/T/Tony Farias/No I am Not a Rat/No I am Not a Rat - Rewrite Options.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,12 +138,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "341fb5c098c93da7",
+  "active": "f82162004197bb8d",
   "lastOpenFiles": [
-    "Editorial/Writers/Untitled",
+    "Editorial/Writers/R/Robyn Atkinson/Canche Gringa/Developmental Editing/Untitled.canvas",
+    "Editorial/Writers/T/Tony Farias/No I am Not a Rat/No I am Not a Rat - Rewrite Options.md",
+    "Editorial/Writers/R/Robyn Atkinson/Canche Gringa/Developmental Editing",
+    "Editorial/Writers/R/Robyn Atkinson/Canche Gringa",
+    "Editorial/Writers/R/Robyn Atkinson",
+    "Editorial/Writers/R",
     "Editorial/Writers/Untitled.md",
     "Editorial/Writers/T",
-    "Editorial/Writers/T/Tony Farias/No I am Not a Rat/No I am Not a Rat - Rewrite Options.md",
     "Editorial/Writers/T/Tony Farias/No I am Not a Rat/No I am Not a Rat - Rewrite Options.docx",
     "Marketing/Emails/Customer Emails/!Customer Service Emails.md",
     "Editorial/Writers/T/Tony Farias/No I am Not a Rat",
@@ -164,11 +160,7 @@
     "Marketing/Emails/Customer Emails/Initial Response - Copy Editing - Without Word Count.md",
     "Marketing/Emails/Customer Emails",
     "Admin/Legal/Non-Disclosure Agreement.md",
-    "Marketing/Emails",
     "Editorial/Reports/Developmental Editing/Sample/FICTION BOOK TITLE- Sample - Editors Report - Development Editing - BubbleCow.md",
-    "Editorial/Reports/Developmental Editing/Sample",
-    "Editorial/Reports/Manuscript Assessment",
-    "Editorial/Reports/Copy Editing",
     "Marketing/Blog/Pillars/BubbleCow Pillar Strategy.md",
     "Marketing/Blog/Pillars/Writing Techniques and Styles/Narrative Point of View/Third Person Point Of View - A Comprehensive Overview For Writers.md",
     "Marketing/Blog/Pillars/Writing Techniques and Styles/Narrative Point of View/Mastering the Second Person Viewpoint - A Comprehensive Guide.md",

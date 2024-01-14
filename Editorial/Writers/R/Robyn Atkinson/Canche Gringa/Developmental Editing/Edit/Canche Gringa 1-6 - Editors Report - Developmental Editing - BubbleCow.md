@@ -110,7 +110,7 @@ WHAT I DON'T LIKE
 write a section that explains that it is imporant to establish the hopes and dreasm of the main character as ealry as possible. 
 this is dine via dialouge and actions
 the reader must be clear that the main character is trying to achieve, what obstlaces they must over come and what failure will mean to the charcter
-this will help to create a 
+this will help to create a sense of mobement and give the novel a narrative purpose. 
 
 ### Adverb Usage in "Canche Gringa"
 During my review of "Canche Gringa," I've noticed a frequent reliance on adverbs. While adverbs have their place in writing, their overuse can sometimes detract from the quality of your prose. In literary craftsmanship, adverbs are often regarded as a tool to be used sparingly. This is because they can be indicative of a tendency to 'tell' rather than 'show' in your writing.

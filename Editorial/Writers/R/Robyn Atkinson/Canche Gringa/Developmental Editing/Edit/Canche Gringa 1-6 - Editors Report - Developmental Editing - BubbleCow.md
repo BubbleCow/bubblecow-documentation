@@ -69,17 +69,10 @@ Please note that many of these changes have been made to help in the eBook conve
 - Ellipses have been formatted as … (dot dot dot), not . . . (dot space dot space dot space). 
 - I have removed exclamation marks, since these are often seen as a sign of weak writing and should be avoided where possible. 
 ## Stylistic and Typographical Summary
-
 Below is a list of changes that have been made to help with readability and add consistency. 
-
 ### Language
-
 American English
-
-British English
-
 ### Numeric Notation 
-
 Spell out whole numbers up to (and including) one hundred (e.g., zero, one, ten, ninety-six, 104). Spell out numbers that begin a sentence unless it begins with a year (e.g., "Twelve drummers," "The ten lords a-leaping," "2011's quota for off-season holiday references has been filled."). 
 
 Spell out ordinal numbers up to (and including) "hundredth" (e.g., second, sixty-first, 333rd, 1,024th). 
@@ -87,37 +80,21 @@ Spell out ordinal numbers up to (and including) "hundredth" (e.g., second, sixty
 If you're juggling a bunch of numbers within the same paragraph or series of paragraphs, be flexible with the number style if doing so will improve clarity and comprehension. For example, use one number style for items in one category and another style for another category: "I read four books with more than 400 pages, sixty books with more than 100 pages, and a hundred articles with less than 4 pages."
 
 ### Speech Marks
-
 Double for direct, single for reported. 
 
 ### Oxford Comma
-
 Yes.
 
 ### Narrative Perspective
-
 Third-person Limited.
 
-Third-person Omniscient.
-
-First-person.
-
 ### Tense
-
 Present
-
-  
-
-  
-  
-  
-
 ## Strengths and Weaknesses
 
 This section contains specific feedback about elements of your book that are immediately actionable. I have strived not only to explain any problems I have encountered but also to provide at least one solution you can apply to your book. 
 
-  
-  
+WHAT I LIJ
 
 ### Adverb Usage in "Canche Gringa"
 

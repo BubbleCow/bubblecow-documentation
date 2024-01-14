@@ -47,8 +47,7 @@ The editor’s report should be read first and is designed to ease you into the 
 I’ve split the report into several sections...
 #### Typographical and Stylistic Summary
 
-           You’ll find a summary of your book’s typographical and stylistic details, which lists things such as what form of English your book is written in, how you’re writing out times, whether you’re using the Oxford comma or not, etc. This section is useful as it collates information and is a future reference. It will also help you enforce a level of consistency in your book.
-
+ You’ll find a summary of your book’s typographical and stylistic details, which lists things such as what form of English your book is written in, how you’re writing out times, whether you’re using the Oxford comma or not, etc. This section is useful as it collates information and is a future reference. It will also help you enforce a level of consistency in your book.
 #### Strengths and Weaknesses
 
 You’ll find pointers that will give you an overview of what I think are the manuscript’s key strengths and weaknesses. If they’re turning up here, they are some of the manuscript’s biggest and most persistent problems and will need addressing before any others. I explain the problem, how it is manifested in your book, and why it is a problem. I’ll also suggest at least one possible solution.
@@ -57,11 +56,10 @@ You’ll find pointers that will give you an overview of what I think are the ma
 
 This section contains feedback specific to each chapter. The depth and detail of this feedback will vary depending on the issues encountered. This feedback is designed to be actionable but should also be read in conjugated with more general feedback and embedded notes in your manuscript. 
 
-            Please note: I’ve approached your book from the point of view of a new reader. This means that I may comment early on but then change my mind. This should give you a good indication of how a reader will be responding to the story and any confusion they may have. It should also help you to see my thinking process. Feedback has indicated that this can be very helpful for some authors.
-
+Please note: I’ve approached your book from the point of view of a new reader. This means that I may comment early on but then change my mind. This should give you a good indication of how a reader will be responding to the story and any confusion they may have. It should also help you to see my thinking process. Feedback has indicated that this can be very helpful for some authors.
+  
 #### Summary
-
-           Please remember that all the comments and changes come from a place of support, not criticism. I want to make the book the best it can be, as you do. I’m not here to cast judgment or project my own preferences. My role is to help nudge your writing style toward a place that will create the best possible reading experience. 
+Please remember that all the comments and changes come from a place of support, not criticism. I want to make the book the best it can be, as you do. I’m not here to cast judgment or project my own preferences. My role is to help nudge your writing style toward a place that will create the best possible reading experience. 
 
 Our goal is to produce better books and better writers.
 

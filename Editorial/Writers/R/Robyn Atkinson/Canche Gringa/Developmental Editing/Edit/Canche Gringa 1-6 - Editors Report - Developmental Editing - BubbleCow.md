@@ -157,43 +157,22 @@ I have added shorted paragraphs to this section to help increase readability and
 Looking at flowers. Kids at dinner. Fire and wine. Memory. Talks to husband. Storm.
 - This chapter does well at setting the 'normal' for the main character. The reader is left with a clear understanding of their 'status quo'. It also establishes the 'reflective' nature of the main character. 
 - I would have liked to have seen the main character set out some goals and dreams. By implication, she is seeking happiness but it would have been good for her to have established what this looks like and what she feels she needs to do to get to that point in her life.
-    
-
 ### Chapter 2
-
 Thinking about taking a pill. Memory. Roommate and talk to sister. Meet Chad. Chase is at home. 
-
 - I love this chapter. It is well-written and very emotional. I still feel the analogy with the branch isn't working but that a small point. 
-    
 - This chapter reads differently after the recent abortion law changes in the US. I am not sure you need to make alterations, but it does date the book pre-2023. 
-    
 - When you enter the scene in the mall, include additional location description to allow the reader to picture the scene in their mind's eye. 
-    
-
 ### Chapter 3
-
 Chase. Dating Chase. Worm dish. Drunken date.
-
-- Start the chapter with a brief location description. This will allow the reader to ground themselves in the scene and adjust the image in their mind's eye. You don't need much since you have already described the scene. Focus on things that are different or Chase as he moves through the scene.  
-    E.g.  
-    Chase walked ahead of me, stepping carefully on the rug and navigating to the worn sofa.
-    
+- Start the chapter with a brief location description. This will allow the reader to ground themselves in the scene and adjust the image in their mind's eye. You don't need much since you have already described the scene. Focus on things that are different or Chase as he moves through the scene.  E.g.  Chase walked ahead of me, stepping carefully on the rug and navigating to the worn sofa.
 - As with the previous chapter you need to pay attention to attribution, there's no need to add attribution to each sentence if it is clear who is speaking. 
-    
 - There's a section in this chapter where you outline the relationship between the main character and Chase. This is important information but it should be reduced. The problem is that you are giving it via narrative summary and it si difficult to keep a reader engaged when you are feeding them information in this manner. See if you can cut this section down. 
-    
 
 ### Chapter 4
-
-### Playing guitar. Prepare for the trip. See flowers. Chat in bar. Plane. Go to house. Meet family. 
-
+Playing guitar. Prepare for the trip. See flowers. Chat in bar. Plane. Go to house. Meet family. 
 - I really liked this chapter. You have a real gift for observational storytelling, deeply grounded in real life. It has a reflective quality that hooks the reader. 
-    
 
 ### Chapter 5
-
-### Wake. Breakfast. Bus. Meet friends. Book a hotel. 
-
-- ### I am seeing the same problem with attribution. You don't need to 'tag' every line of dialogue, its ok to on add attribution to avoid confusion. 
-    
+Wake. Breakfast. Bus. Meet friends. Book a hotel. 
+- I am seeing the same problem with attribution. You don't need to 'tag' every line of dialogue, its ok to on add attribution to avoid confusion. 
 - There's a moment where you mention them driving around town. I wanted you to layer in some location description. You don't need much but enough for them to get a feel for this new location, its culture and what it looks like.**

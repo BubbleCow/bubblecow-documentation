@@ -108,8 +108,6 @@ Secondly, the manuscript exhibits an overuse of adverbs. While adverbs can be us
 
 Lastly, there is a need to pay closer attention to the attribution in dialogue. Effective dialogue attribution is key to maintaining clarity and flow in conversations. In several instances, the attribution is either excessive or insufficiently clear, which can momentarily pull readers out of the narrative. Streamlining dialogue tags and ensuring they are used effectively will not only improve clarity but also enhance the overall reading experience.
 
-Addressing these aspects will not only refine the technical aspects of your writing in "Canche Gringa" but also deepen the emotional impact and engagement of the narrative.
-
 ### Establishing Hopes and Dreams
 In "Canche Gringa," it is crucial to establish the hopes and dreams of the main character as early as possible. This foundational step sets the stage for the reader’s journey with the character, providing a clear sense of direction and purpose for the narrative. The goals and aspirations of the protagonist act as a guiding light for the story, illuminating their motivations, actions, and the overall trajectory of the plot.
 #### Conveying Hopes and Dreams
@@ -171,12 +169,11 @@ Chase. Dating Chase. Worm dish. Drunken date.
 - Start the chapter with a brief location description. This will allow the reader to ground themselves in the scene and adjust the image in their mind's eye. You don't need much since you have already described the scene. Focus on things that are different or Chase as he moves through the scene.  E.g.  Chase walked ahead of me, stepping carefully on the rug and navigating to the worn sofa.
 - As with the previous chapter you need to pay attention to attribution, there's no need to add attribution to each sentence if it is clear who is speaking. 
 - There's a section in this chapter where you outline the relationship between the main character and Chase. This is important information but it should be reduced. The problem is that you are giving it via narrative summary and it si difficult to keep a reader engaged when you are feeding them information in this manner. See if you can cut this section down. 
-
 ### Chapter 4
 Playing guitar. Prepare for the trip. See flowers. Chat in bar. Plane. Go to house. Meet family. 
 - I really liked this chapter. You have a real gift for observational storytelling, deeply grounded in real life. It has a reflective quality that hooks the reader. 
-
 ### Chapter 5
 Wake. Breakfast. Bus. Meet friends. Book a hotel. 
 - I am seeing the same problem with attribution. You don't need to 'tag' every line of dialogue, its ok to on add attribution to avoid confusion. 
-- There's a moment where you mention them driving around town. I wanted you to layer in some location description. You don't need much but enough for them to get a feel for this new location, its culture and what it looks like.**
+- There's a moment where you mention them driving around town. I wanted you to layer in some location description. You don't need much but enough for them to get a feel for this new location, its culture and what it looks like.
+### Chapter 6

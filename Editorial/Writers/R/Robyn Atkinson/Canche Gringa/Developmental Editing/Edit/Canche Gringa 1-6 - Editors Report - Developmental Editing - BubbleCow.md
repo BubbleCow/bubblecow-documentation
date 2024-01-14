@@ -100,11 +100,15 @@ A noteworthy strength of the novel is the strong connection it establishes with 
 
 Furthermore, the deliberate and reflective 'voice' aligns perfectly with readers' expectations, enhancing their engagement with the story. This reflective quality invites readers to not only immerse themselves in the narrative but also to ponder and reflect on the underlying messages and themes. It's a voice that doesn't just tell a story but also invites introspection and connection, making a novel that not only entertains but also resonates on a deeper level.
 
+While your novel demonstrates many strengths, there are areas that require attention to elevate the manuscript further.
 
-WHAT I DON'T LIKE
-- You need to esabluish the main characters hopes and dreams, in your case happines, what this will look like and what she feels she needs to do to acheive this goals. 
-- there is an overuse of adverbs
-- Pay closer attention to the attribution in dialouge. 
+Firstly, there is a need for a clearer establishment of the main character's hopes and dreams. The narrative currently lacks a distinct articulation of what happiness means for the protagonist, how she envisions achieving it, and the specific steps she feels are necessary to reach these goals. This clarity is crucial as it not only drives the narrative but also allows readers to connect more deeply with her journey. By explicitly defining these aspects, the story can gain a stronger sense of purpose and direction.
+
+Secondly, the manuscript exhibits an overuse of adverbs. While adverbs can be useful, their excessive use can weaken the impact of the prose. It often leads to unnecessary verbosity and can detract from the strength of the verbs and adjectives. A more judicious use of adverbs, coupled with stronger and more precise word choices, can significantly enhance the readability and impact of your writing.
+
+Lastly, there is a need to pay closer attention to the attribution in dialogue. Effective dialogue attribution is key to maintaining clarity and flow in conversations. In several instances, the attribution is either excessive or insufficiently clear, which can momentarily pull readers out of the narrative. Streamlining dialogue tags and ensuring they are used effectively will not only improve clarity but also enhance the overall reading experience.
+
+Addressing these aspects will not only refine the technical aspects of your writing in "Canche Gringa" but also deepen the emotional impact and engagement of the narrative.
 
 ### Establishing Hopes and Dreams
 In "Canche Gringa," it is crucial to establish the hopes and dreams of the main character as early as possible. This foundational step sets the stage for the reader’s journey with the character, providing a clear sense of direction and purpose for the narrative. The goals and aspirations of the protagonist act as a guiding light for the story, illuminating their motivations, actions, and the overall trajectory of the plot.

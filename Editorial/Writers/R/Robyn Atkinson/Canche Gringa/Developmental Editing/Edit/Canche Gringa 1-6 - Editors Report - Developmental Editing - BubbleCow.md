@@ -177,5 +177,5 @@ Wake. Breakfast. Bus. Meet friends. Book a hotel. 
 - I am seeing the same problem with attribution. You don't need to 'tag' every line of dialogue, its ok to on add attribution to avoid confusion. 
 - There's a moment where you mention them driving around town. I wanted you to layer in some location description. You don't need much but enough for them to get a feel for this new location, its culture and what it looks like.
 ### Chapter 6
-Listen to band. Get changed. Meet with friends. Talk to Pablo. 
+Listen to band. Get changed. Meet with friends. Talk to Pablo. Go to beach. 
 - I have removed some of the unnecessary attribution. See my editor's note for more details. 

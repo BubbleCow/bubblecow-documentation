@@ -1,13 +1,7 @@
 
 **Editor**: Gary Smailes
 
-Completed: Add the date of completion
-
-  
-  
-
-
-  
+**Completed**: 14 January 2024
 
 ## Understanding Your Feedback
 
@@ -16,7 +10,6 @@ Before I launch into more detailed feedback, I thought I’d review how the edit
 You will have downloaded two files:
 
 1.    The edited manuscript.
-
 2.    The editor’s report.
 
 The first is your original manuscript but now contains detailed editorial notes. This is a Word document and contains both comments and tracked changes. If you don’t use Word, don’t worry; most modern word processing packages have the ability to ‘read’ Word manuscripts. Alternatively, you can download this excellent word processing software for free - [LibreOffice](https://www.libreoffice.org/). If you are having problems seeing your feedback, just let us know.
@@ -28,9 +21,6 @@ The approach is to provide clear and truthful feedback. If we see a problem, thi
 The role of the editor’s report is to provide a wider overview of the editing process. This means that if we have made changes to the manuscript that require a deeper rationale, these have been outlined and explained in the report. 
 
 One way to consider the two documents is to see the report as the wider instructions and the manuscript as the practical application. You should be able to start each editing session by reading the editor’s report before diving into the specific section of the manuscript. 
-
-  
-
 ### Using Tracked Changes
 
 Tracked changes are like magic. Once they are turned on, they record everything that happens to your manuscript. You then can go in and ‘accept’ or ‘reject’ the changes as you see fit. 
@@ -40,7 +30,6 @@ The way the tracked changes appear on your machine will vary depending on your m
 If you are having problems seeing the tracked changes, the first place to look is your settings; the two important elements are: ‘simple markup’ and ‘all markup’. If using Word, I suggest you look in the ‘review’ section of the ribbon at the top of your manuscript and ensure that you have set the markup to ‘all markup’. This way, you can see all the possible changes. 
 
 The video below will give you a more in-depth view of tracked changes and comments: [https://www.youtube.com/watch?v=AUf-IxzXyVk](https://www.youtube.com/watch?v=AUf-IxzXyVk)
-
 ### Edited Manuscript
 
 When you first open the edited manuscript, you may feel overwhelmed by the number of alterations. This is normal. 
@@ -56,7 +45,6 @@ Whenever I’ve identified a persistent problem, I’ve stopped explaining any f
 The editor’s report should be read first and is designed to ease you into the editing process by providing an overview and explanation. The aim is for you to use the feedback in both the manuscript and this report as a means of formulating a plan to elevate your manuscript to the next level. 
 
 I’ve split the report into several sections...
-
 #### Typographical and Stylistic Summary
 
            You’ll find a summary of your book’s typographical and stylistic details, which lists things such as what form of English your book is written in, how you’re writing out times, whether you’re using the Oxford comma or not, etc. This section is useful as it collates information and is a future reference. It will also help you enforce a level of consistency in your book.

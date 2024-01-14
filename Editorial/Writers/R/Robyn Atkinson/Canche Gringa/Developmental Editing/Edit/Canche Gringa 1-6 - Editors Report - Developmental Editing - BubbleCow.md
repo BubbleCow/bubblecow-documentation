@@ -111,15 +111,11 @@ In "Canche Gringa," it is crucial to establish the hopes and dreams of the main 
 #### Conveying Hopes and Dreams
 - Through Dialogue: Characters often reveal their deepest desires and aspirations through conversations. Whether it's a heartfelt confession to a confidante, a heated argument expressing hidden dreams, or a reflective monologue, dialogue can be a powerful tool for unveiling the inner workings of your protagonist’s mind. It's important, however, to weave these revelations naturally into conversations to avoid exposition that feels forced or out of place.
 - Through Actions: Actions often speak louder than words, and this is especially true in storytelling. How a character behaves in certain situations, the choices they make, and the paths they pursue can all subtly hint at or outright demonstrate their deepest desires and goals. Observing the protagonist’s actions allows the reader to infer what drives them, which can be more impactful than simply being told.
-
-Clarifying Goals, Obstacles, and Stakes
-Goals: Clearly articulate what the protagonist is striving to achieve. This could be a personal ambition, a quest for something greater than themselves, or a journey of self-discovery. The key is to make this goal evident early in the story, providing a clear destination for the narrative journey.
-
-Obstacles: No journey is without its challenges. What stands in the way of the protagonist achieving their dream? These obstacles, whether internal, external, or a combination of both, add tension and conflict to the story, making the journey compelling.
-
-Stakes: What does failure mean for the character? Establishing high stakes - what the protagonist stands to lose if they don’t achieve their goal - heightens the emotional investment of the reader. The risk of loss or failure adds urgency and weight to the protagonist’s quest, driving the narrative forward.
-
-The Result: A Sense of Movement and Purpose
+#### Clarifying Goals, Obstacles, and Stakes
+- Goals: Clearly articulate what the protagonist is striving to achieve. This could be a personal ambition, a quest for something greater than themselves, or a journey of self-discovery. The key is to make this goal evident early in the story, providing a clear destination for the narrative journey.
+- Obstacles: No journey is without its challenges. What stands in the way of the protagonist achieving their dream? These obstacles, whether internal, external, or a combination of both, add tension and conflict to the story, making the journey compelling.
+- Stakes: What does failure mean for the character? Establishing high stakes - what the protagonist stands to lose if they don’t achieve their goal - heightens the emotional investment of the reader. The risk of loss or failure adds urgency and weight to the protagonist’s quest, driving the narrative forward.
+#### The Result: A Sense of Movement and Purpose
 By establishing the protagonist's hopes and dreams effectively, "Canche Gringa" will not only have a strong narrative drive but also create a deeper connection between the reader and the main character. It sets a clear path for the story, giving the reader something to root for and a reason to turn the page. This sense of movement and purpose is essential for maintaining engagement and investment in the story
 
 ### Adverb Usage in "Canche Gringa"
@@ -133,7 +129,6 @@ In "Canche Gringa," consider revising sentences that rely heavily on adverbs. Lo
 
 Remember, writing is an art form, and like any art, it thrives on nuance and subtlety. While it's not a rule to completely avoid adverbs, being more judicious in their use can significantly elevate the quality of your writing. By focusing on 'showing' rather than 'telling', "Canche Gringa" will allow readers to immerse themselves more deeply in the narrative, creating a more memorable and engaging reading experience.
 ### Attribution in Dialogue: Best Practices for "Canche Gringa"
-
 In the context of your novel dialogue attribution plays a crucial role in clarifying who is speaking and how they are speaking. Simply put, attribution is the process of assigning a line of dialogue to a particular character, typically through tags like 'said' or 'asked'. For example, “I don’t agree,” John said. Here, 'said' is the attribution, linking the dialogue to John.
 #### The Purpose and Usage
 The primary purpose of attribution is to maintain clarity for the reader, ensuring they can easily follow conversations without confusion. It's also used to add context or emotional subtext to the dialogue, though this should be done sparingly to avoid over-explaining.

@@ -98,28 +98,25 @@ WHAT I LIKE
 - this is very well written
 - you have a strong connection with the reader
 - you voice is modern and contemporary 
-- you deliberate, reflective 'voice' will meet reader's expectations and will also help them to 
+- you deliberate, reflective 'voice' will meet reader's expectations and will also help them to engage more fully. 
+
+
+WHAT I DON'T LIKE
+- F
+- there is an overuse of adverbs
+- Pay 
+
 
 ### Adverb Usage in "Canche Gringa"
-
 During my review of "Canche Gringa," I've noticed a frequent reliance on adverbs. While adverbs have their place in writing, their overuse can sometimes detract from the quality of your prose. In literary craftsmanship, adverbs are often regarded as a tool to be used sparingly. This is because they can be indicative of a tendency to 'tell' rather than 'show' in your writing.
-
 #### Understanding 'Show, Don't Tell'
-
 The principle of 'show, don't tell' is pivotal in effective storytelling. It suggests that instead of explaining actions or emotions directly (telling), you should allow readers to infer them through description, action, or dialogue (showing). For example, instead of writing "She angrily slammed the door," a more immersive approach would be "The door banged shut behind her, echoing her frustration through the hallway." The second sentence removes the adverb 'angrily' but conveys the emotion more vividly through action.
-
 #### The Pitfalls of Adverbs
-
 Adverbs, especially those ending in '-ly', can often act as a crutch, propping up weak verbs or adjectives. They may inadvertently signal to the reader that the verb or the adjective needs extra help to convey the intended meaning, which could hint at a lack of precision in word choice. For instance, "walked slowly" could be replaced with "ambled" or "sauntered," each providing a more specific image with fewer words.
-
 #### Enhancing "Canche Gringa" by Minimizing Adverbs
-
 In "Canche Gringa," consider revising sentences that rely heavily on adverbs. Look for opportunities to replace them with stronger, more descriptive verbs. This will not only tighten your prose but also enhance the reader's experience by creating more vivid and engaging scenes. For instance, if a sentence reads, "He spoke softly and reassuringly," consider "He whispered a reassurance," which conveys the same meaning but in a more direct and impactful way.
 
 Remember, writing is an art form, and like any art, it thrives on nuance and subtlety. While it's not a rule to completely avoid adverbs, being more judicious in their use can significantly elevate the quality of your writing. By focusing on 'showing' rather than 'telling', "Canche Gringa" will allow readers to immerse themselves more deeply in the narrative, creating a more memorable and engaging reading experience.
-
-  
-
 ### Attribution in Dialogue: Best Practices for "Canche Gringa"
 
 In the context of your novel dialogue attribution plays a crucial role in clarifying who is speaking and how they are speaking. Simply put, attribution is the process of assigning a line of dialogue to a particular character, typically through tags like 'said' or 'asked'. For example, “I don’t agree,” John said. Here, 'said' is the attribution, linking the dialogue to John.

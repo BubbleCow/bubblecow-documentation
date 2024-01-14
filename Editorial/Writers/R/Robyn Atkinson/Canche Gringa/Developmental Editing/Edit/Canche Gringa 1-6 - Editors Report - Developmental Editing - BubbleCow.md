@@ -94,7 +94,11 @@ Present
 
 This section contains specific feedback about elements of your book that are immediately actionable. I have strived not only to explain any problems I have encountered but also to provide at least one solution you can apply to your book. 
 
-WHAT I LIJ
+WHAT I LIKE
+- this is very well written
+- you have a strong connection with the reader
+- you voice is modern and contemporary 
+- you deliberate, reflective 'voice' will meet reader's expectations and will also help them to 
 
 ### Adverb Usage in "Canche Gringa"
 

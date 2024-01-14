@@ -102,10 +102,11 @@ WHAT I LIKE
 
 
 WHAT I DON'T LIKE
-- F
+- You need to esabluish the main characters hopes and dreams, in your case happines, what this will look like and what she feels she needs to do to acheive this goals. 
 - there is an overuse of adverbs
-- Pay 
+- Pay closer attention to the attribution in dialouge. 
 
+### Establishing Hopes and Dreas
 
 ### Adverb Usage in "Canche Gringa"
 During my review of "Canche Gringa," I've noticed a frequent reliance on adverbs. While adverbs have their place in writing, their overuse can sometimes detract from the quality of your prose. In literary craftsmanship, adverbs are often regarded as a tool to be used sparingly. This is because they can be indicative of a tendency to 'tell' rather than 'show' in your writing.

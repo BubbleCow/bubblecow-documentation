@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Editorial/Writers/Tony Farias/No I am Not a Rat/No I am Not a Rat - Rewrite Options.md",
+                "file": "Editorial/Writers/T/Tony Farias/No I am Not a Rat/No I am Not a Rat - Rewrite Options.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Editorial/Writers/Tony Farias/No I am Not a Rat/No I am Not a Rat - Rewrite Options.md",
+                "file": "Editorial/Writers/T/Tony Farias/No I am Not a Rat/No I am Not a Rat - Rewrite Options.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Editorial/Writers/Tony Farias/No I am Not a Rat/No I am Not a Rat - Rewrite Options.md",
+                "file": "Editorial/Writers/T/Tony Farias/No I am Not a Rat/No I am Not a Rat - Rewrite Options.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Editorial/Writers/Tony Farias/No I am Not a Rat/No I am Not a Rat - Rewrite Options.md"
+                "file": "Editorial/Writers/T/Tony Farias/No I am Not a Rat/No I am Not a Rat - Rewrite Options.md"
               }
             }
           }
@@ -146,13 +146,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "702a15bf0676c4cc",
+  "active": "341fb5c098c93da7",
   "lastOpenFiles": [
-    "Editorial/Writers/Tony Farias/No I am Not a Rat/No I am Not a Rat - Rewrite Options.docx",
+    "Editorial/Writers/Untitled",
+    "Editorial/Writers/Untitled.md",
+    "Editorial/Writers/T",
+    "Editorial/Writers/T/Tony Farias/No I am Not a Rat/No I am Not a Rat - Rewrite Options.md",
+    "Editorial/Writers/T/Tony Farias/No I am Not a Rat/No I am Not a Rat - Rewrite Options.docx",
     "Marketing/Emails/Customer Emails/!Customer Service Emails.md",
-    "Editorial/Writers/Tony Farias/No I am Not a Rat/No I am Not a Rat - Rewrite Options.md",
-    "Editorial/Writers/Tony Farias/No I am Not a Rat",
-    "Editorial/Writers/Tony Farias",
+    "Editorial/Writers/T/Tony Farias/No I am Not a Rat",
+    "Editorial/Writers/T/Tony Farias",
     "Editorial/Writers",
     "Marketing/Emails/Customer Emails/Initial Response - Mentoring.md",
     "Marketing/Emails/Customer Emails/Initial Response - Copy Editing - With Word Count.md",
@@ -166,8 +169,6 @@
     "Editorial/Reports/Developmental Editing/Sample",
     "Editorial/Reports/Manuscript Assessment",
     "Editorial/Reports/Copy Editing",
-    "Editorial/Reports/Developmental Editing",
-    "Editorial/Reports",
     "Marketing/Blog/Pillars/BubbleCow Pillar Strategy.md",
     "Marketing/Blog/Pillars/Writing Techniques and Styles/Narrative Point of View/Third Person Point Of View - A Comprehensive Overview For Writers.md",
     "Marketing/Blog/Pillars/Writing Techniques and Styles/Narrative Point of View/Mastering the Second Person Viewpoint - A Comprehensive Guide.md",
@@ -182,7 +183,6 @@
     "Marketing/Blog/Pillars/Book Editing/Self Editing for Writers/Self-editing for writers.md",
     "Marketing/Blog/Pillars/Book Editing/Self Editing for Writers/How can I edit my own book.md",
     "Marketing/Blog/Pillars/Book Editing/Self Editing for Writers/How can I edit my book for free.md",
-    "Marketing/Blog/Pillars/Book Editing/Manuscript Assessment/Manuscript Evaluation 101 - How To Ensure Your Work Meets Standards And Gets Published.md",
-    "Marketing/Blog/Pillars/Book Editing/Manuscript Assessment/Manuscript Critique - Understanding The Process And Its Benefits.md"
+    "Marketing/Blog/Pillars/Book Editing/Manuscript Assessment/Manuscript Evaluation 101 - How To Ensure Your Work Meets Standards And Gets Published.md"
   ]
 }

@@ -1,51 +1,11 @@
-**Developmental Edit: 
 
-Editor’s Report
-
-Canche Gringa - Chapters 1 to 6
-
-Editor: Gary Smailes
+**Editor**: Gary Smailes
 
 Completed: Add the date of completion
 
   
   
 
-  
-
-[Understanding Your Feedback 3](https://docs.google.com/document/d/1HNceGVrdI_jkZb_WsmpBTjXP8Vy78Eq6B-jzrahLPkg/edit#heading=h.p2sbl0xrfbnb)
-
-[Using Tracked Changes 4](https://docs.google.com/document/d/1HNceGVrdI_jkZb_WsmpBTjXP8Vy78Eq6B-jzrahLPkg/edit#heading=h.4cx2o7sujeqh)
-
-[Edited Manuscript 4](https://docs.google.com/document/d/1HNceGVrdI_jkZb_WsmpBTjXP8Vy78Eq6B-jzrahLPkg/edit#heading=h.yskcbxpmex5w)
-
-[Editor’s Report 5](https://docs.google.com/document/d/1HNceGVrdI_jkZb_WsmpBTjXP8Vy78Eq6B-jzrahLPkg/edit#heading=h.fwwh7vr17vb)
-
-[Typographical and Stylistic Summary 5](https://docs.google.com/document/d/1HNceGVrdI_jkZb_WsmpBTjXP8Vy78Eq6B-jzrahLPkg/edit#heading=h.fg8z0in5xr66)
-
-[Strengths and Weaknesses 5](https://docs.google.com/document/d/1HNceGVrdI_jkZb_WsmpBTjXP8Vy78Eq6B-jzrahLPkg/edit#heading=h.olzyjx9e5x8c)
-
-[Chapter Breakdown 6](https://docs.google.com/document/d/1HNceGVrdI_jkZb_WsmpBTjXP8Vy78Eq6B-jzrahLPkg/edit#heading=h.14ibgbn6i8bh)
-
-[Summary 6](https://docs.google.com/document/d/1HNceGVrdI_jkZb_WsmpBTjXP8Vy78Eq6B-jzrahLPkg/edit#heading=h.qq6tf23b8unk)
-
-[Notes on the Edited Manuscript 7](https://docs.google.com/document/d/1HNceGVrdI_jkZb_WsmpBTjXP8Vy78Eq6B-jzrahLPkg/edit#heading=h.57fzfn2bbx79)
-
-[Stylistic and Typographical Summary 8](https://docs.google.com/document/d/1HNceGVrdI_jkZb_WsmpBTjXP8Vy78Eq6B-jzrahLPkg/edit#heading=h.33cc8f4weean)
-
-[Language 8](https://docs.google.com/document/d/1HNceGVrdI_jkZb_WsmpBTjXP8Vy78Eq6B-jzrahLPkg/edit#heading=h.6nbnw6jlpgun)
-
-[Numeric Notation 8](https://docs.google.com/document/d/1HNceGVrdI_jkZb_WsmpBTjXP8Vy78Eq6B-jzrahLPkg/edit#heading=h.yrsp0f5ck5v8)
-
-[Speech Marks 8](https://docs.google.com/document/d/1HNceGVrdI_jkZb_WsmpBTjXP8Vy78Eq6B-jzrahLPkg/edit#heading=h.u5ueigfnayjv)
-
-[Oxford Comma 8](https://docs.google.com/document/d/1HNceGVrdI_jkZb_WsmpBTjXP8Vy78Eq6B-jzrahLPkg/edit#heading=h.a0xp1lb6tap4)
-
-[Narrative Perspective 8](https://docs.google.com/document/d/1HNceGVrdI_jkZb_WsmpBTjXP8Vy78Eq6B-jzrahLPkg/edit#heading=h.pnav9abh1eiv)
-
-[Strengths and Weaknesses 10](https://docs.google.com/document/d/1HNceGVrdI_jkZb_WsmpBTjXP8Vy78Eq6B-jzrahLPkg/edit#heading=h.bdkh8sr7jsz5)
-
-[Chapter Breakdown 11](https://docs.google.com/document/d/1HNceGVrdI_jkZb_WsmpBTjXP8Vy78Eq6B-jzrahLPkg/edit#heading=h.iju8y657lgy9)
 
   
 

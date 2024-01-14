@@ -178,3 +178,4 @@ Wake. Breakfast. Bus. Meet friends. Book a hotel. 
 - There's a moment where you mention them driving around town. I wanted you to layer in some location description. You don't need much but enough for them to get a feel for this new location, its culture and what it looks like.
 ### Chapter 6
 Listen to band. 
+- I have removed some of the unnecessary attribution. See my editor's note for me. 

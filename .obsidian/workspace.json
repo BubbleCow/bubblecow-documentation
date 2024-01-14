@@ -11,8 +11,12 @@
             "id": "f82162004197bb8d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Editorial/Writers/R/Robyn Atkinson/Canche Gringa/Developmental Editing/Edit/Canche Gringa 1-6 - Editors Report - Developmental Editing - BubbleCow.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Editorial/Writers/R/Robyn Atkinson/Canche Gringa/Developmental Editing/Edit/Canche Gringa 1-6 - Editors Report - Developmental Editing - BubbleCow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Editorial/Writers/R/Robyn Atkinson/Canche Gringa/Developmental Editing/Edit/Canche Gringa 1-6 - Editors Report - Developmental Editing - BubbleCow.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Editorial/Writers/R/Robyn Atkinson/Canche Gringa/Developmental Editing/Edit/Canche Gringa 1-6 - Editors Report - Developmental Editing - BubbleCow.md"
+              }
             }
           }
         ]
@@ -140,6 +148,8 @@
   },
   "active": "f82162004197bb8d",
   "lastOpenFiles": [
+    "Editorial/Writers/R/Robyn Atkinson/Canche Gringa/Developmental Editing/Edit/Canche Gringa 1-6 - Editors Report - Developmental Editing - BubbleCow.md",
+    "Editorial/Writers/R/Robyn Atkinson/Canche Gringa/Developmental Editing/Edit",
     "Editorial/Writers/R/Robyn Atkinson/Canche Gringa/Developmental Editing/Untitled.canvas",
     "Editorial/Writers/T/Tony Farias/No I am Not a Rat/No I am Not a Rat - Rewrite Options.md",
     "Editorial/Writers/R/Robyn Atkinson/Canche Gringa/Developmental Editing",
@@ -158,7 +168,6 @@
     "Marketing/Emails/Customer Emails/Initial Response - Manuscript Assessment - With Word Count.md",
     "Marketing/Emails/Customer Emails/Initial Response - Manuscript Assessment - Without Word Count.md",
     "Marketing/Emails/Customer Emails/Initial Response - Copy Editing - Without Word Count.md",
-    "Marketing/Emails/Customer Emails",
     "Admin/Legal/Non-Disclosure Agreement.md",
     "Editorial/Reports/Developmental Editing/Sample/FICTION BOOK TITLE- Sample - Editors Report - Development Editing - BubbleCow.md",
     "Marketing/Blog/Pillars/BubbleCow Pillar Strategy.md",

@@ -132,56 +132,30 @@ Remember, writing is an art form, and like any art, it thrives on nuance and sub
 In the context of your novel dialogue attribution plays a crucial role in clarifying who is speaking and how they are speaking. Simply put, attribution is the process of assigning a line of dialogue to a particular character, typically through tags like 'said' or 'asked'. For example, “I don’t agree,” John said. Here, 'said' is the attribution, linking the dialogue to John.
 #### The Purpose and Usage
 The primary purpose of attribution is to maintain clarity for the reader, ensuring they can easily follow conversations without confusion. It's also used to add context or emotional subtext to the dialogue, though this should be done sparingly to avoid over-explaining.
-
 #### Best Practices in Attribution
-
-Simplicity is Key: Often, the best choice is the simplest one. Tags like 'said' and 'asked' are usually sufficient and unobtrusive. They allow the dialogue itself to take center stage without drawing attention to the tag.
-
-Avoid Overuse of Adverbs: Similar to the use of adverbs in general prose, be wary of overusing them in dialogue tags. For instance, “he said angrily” can often be shown through the dialogue and actions themselves.
-
-Show, Don’t Tell: Let the dialogue and actions of the characters convey their emotions and intentions, rather than relying heavily on attributions to do this job.
-
+- Simplicity is Key: Often, the best choice is the simplest one. Tags like 'said' and 'asked' are usually sufficient and unobtrusive. They allow the dialogue itself to take center stage without drawing attention to the tag.
+- Avoid Overuse of Adverbs: Similar to the use of adverbs in general prose, be wary of overusing them in dialogue tags. For instance, “he said angrily” can often be shown through the dialogue and actions themselves.
+- Show, Don’t Tell: Let the dialogue and actions of the characters convey their emotions and intentions, rather than relying heavily on attributions to do this job.
 #### Dialogue Between Two Characters
-
 In scenes where only two characters are conversing, it’s not always necessary to attribute every line of dialogue. Once it’s clear who is speaking initially, the back-and-forth exchange can often stand on its own without further attribution. This approach relies on the natural rhythm and flow of conversation. 
 
-For example:
-
-  
+For example:  
 
 “Are you sure about this?” asked Maria.
-
 “Absolutely,” replied John.
-
 “It seems risky.”
-
 “Sometimes, risk is necessary.”
-
-  
 
 In this exchange, after the initial attributions, it's clear that Maria and John are speaking alternately, eliminating the need for further tags.
 
 Effective use of dialogue attribution in "Canche Gringa" will enhance the readability of your narrative and provide a smoother reading experience. By following these best practices, you can ensure that the focus remains on the characters’ words and actions, rather than on unnecessary narrative mechanics.
-
-  
-  
-
 ## Chapter Feedback
-
 This section contains specific feedback about your chapters. This feedback is in addition to the Specific Feedback.  
-
-  
-
 ### Forward
-
 I have added shorted paragraphs to this section to help increase readability and the impact of your words. This shorter paragraphs help draw in the reader and pull them onto the next chapter.
-
 ### Chapter 1
-
 Looking at flowers. Kids at dinner. Fire and wine. Memory. Talks to husband. Storm.
-
 - This chapter does well at setting the 'normal' for the main character. The reader is left with a clear understanding of their 'status quo'. It also establishes the 'reflective' nature of the main character. 
-    
 - I would have liked to have seen the main character set out some goals and dreams. By implication, she is seeking happiness but it would have been good for her to have established what this looks like and what she feels she needs to do to get to that point in her life.
     
 

@@ -107,10 +107,22 @@ WHAT I DON'T LIKE
 - Pay closer attention to the attribution in dialouge. 
 
 ### Establishing Hopes and Dreams
-write a section that explains that it is imporant to establish the hopes and dreasm of the main character as ealry as possible. 
-this is dine via dialouge and actions
-the reader must be clear that the main character is trying to achieve, what obstlaces they must over come and what failure will mean to the charcter
-this will help to create a sense of mobement and give the novel a narrative purpose. 
+In "Canche Gringa," it is crucial to establish the hopes and dreams of the main character as early as possible. This foundational step sets the stage for the reader’s journey with the character, providing a clear sense of direction and purpose for the narrative. The goals and aspirations of the protagonist act as a guiding light for the story, illuminating their motivations, actions, and the overall trajectory of the plot.
+
+Conveying Hopes and Dreams
+Through Dialogue: Characters often reveal their deepest desires and aspirations through conversations. Whether it's a heartfelt confession to a confidante, a heated argument expressing hidden dreams, or a reflective monologue, dialogue can be a powerful tool for unveiling the inner workings of your protagonist’s mind. It's important, however, to weave these revelations naturally into conversations to avoid exposition that feels forced or out of place.
+
+Through Actions: Actions often speak louder than words, and this is especially true in storytelling. How a character behaves in certain situations, the choices they make, and the paths they pursue can all subtly hint at or outright demonstrate their deepest desires and goals. Observing the protagonist’s actions allows the reader to infer what drives them, which can be more impactful than simply being told.
+
+Clarifying Goals, Obstacles, and Stakes
+Goals: Clearly articulate what the protagonist is striving to achieve. This could be a personal ambition, a quest for something greater than themselves, or a journey of self-discovery. The key is to make this goal evident early in the story, providing a clear destination for the narrative journey.
+
+Obstacles: No journey is without its challenges. What stands in the way of the protagonist achieving their dream? These obstacles, whether internal, external, or a combination of both, add tension and conflict to the story, making the journey compelling.
+
+Stakes: What does failure mean for the character? Establishing high stakes - what the protagonist stands to lose if they don’t achieve their goal - heightens the emotional investment of the reader. The risk of loss or failure adds urgency and weight to the protagonist’s quest, driving the narrative forward.
+
+The Result: A Sense of Movement and Purpose
+By establishing the protagonist's hopes and dreams effectively, "Canche Gringa" will not only have a strong narrative drive but also create a deeper connection between the reader and the main character. It sets a clear path for the story, giving the reader something to root for and a reason to turn the page. This sense of movement and purpose is essential for maintaining engagement and investment in the story
 
 ### Adverb Usage in "Canche Gringa"
 During my review of "Canche Gringa," I've noticed a frequent reliance on adverbs. While adverbs have their place in writing, their overuse can sometimes detract from the quality of your prose. In literary craftsmanship, adverbs are often regarded as a tool to be used sparingly. This is because they can be indicative of a tendency to 'tell' rather than 'show' in your writing.

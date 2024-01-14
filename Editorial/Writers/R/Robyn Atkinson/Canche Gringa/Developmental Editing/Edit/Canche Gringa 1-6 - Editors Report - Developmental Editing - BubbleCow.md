@@ -98,7 +98,7 @@ You novel stands out for its exceptional literary craftsmanship. The writing is 
 
 A noteworthy strength of the novel is the strong connection it establishes with its readers. This is achieved through a narrative voice that is both modern and contemporary, resonating well with today's audience. The voice of the novel is not just a conduit of the story; it also serves as a bridge between the characters' world and the reader, fostering a deeper understanding and empathy.
 
-Furthermore, the deliberate and reflective 'voice' in "Canche Gringa" aligns perfectly with readers' expectations, enhancing their engagement with the story. This reflective quality invites readers to not only immerse themselves in the narrative but also to ponder and reflect on the underlying messages and themes. It's a voice that doesn't just tell a story but also invites introspection and connection, making "Canche Gringa" a novel that not only entertains but also resonates on a deeper level.
+Furthermore, the deliberate and reflective 'voice' aligns perfectly with readers' expectations, enhancing their engagement with the story. This reflective quality invites readers to not only immerse themselves in the narrative but also to ponder and reflect on the underlying messages and themes. It's a voice that doesn't just tell a story but also invites introspection and connection, making a novel that not only entertains but also resonates on a deeper level.
 
 
 WHAT I DON'T LIKE

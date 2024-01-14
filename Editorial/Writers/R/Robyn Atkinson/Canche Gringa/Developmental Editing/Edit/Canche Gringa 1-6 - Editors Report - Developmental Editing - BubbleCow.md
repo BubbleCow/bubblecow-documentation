@@ -179,4 +179,4 @@ Wake. Breakfast. Bus. Meet friends. Book a hotel. 
 ### Chapter 6
 Listen to band. Get changed. Meet with friends. Talk to Pablo. Go to beach. 
 - I have removed some of the unnecessary attribution. See my editor's note for more details. 
-- You need to make sure that you provide a better descritpion of the 
+- You need to make sure that you provide a better description of the beach scene. I was unable to picture this in my mind's eye and it was a little confusing. You need to make sure you clearly explain the location. 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Marketing/Emails/Customer Emails/!Customer Service Emails.md",
+                "file": "Editorial/Writers/Tony Farias/No I am Not a Rat/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Marketing/Emails/Customer Emails/!Customer Service Emails.md",
+                "file": "Editorial/Writers/Tony Farias/No I am Not a Rat/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Marketing/Emails/Customer Emails/!Customer Service Emails.md",
+                "file": "Editorial/Writers/Tony Farias/No I am Not a Rat/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Marketing/Emails/Customer Emails/!Customer Service Emails.md"
+                "file": "Editorial/Writers/Tony Farias/No I am Not a Rat/Untitled.md"
               }
             }
           }
@@ -148,8 +148,12 @@
   },
   "active": "702a15bf0676c4cc",
   "lastOpenFiles": [
-    "Marketing/Emails/Customer Emails/Initial Response - Mentoring.md",
     "Marketing/Emails/Customer Emails/!Customer Service Emails.md",
+    "Editorial/Writers/Tony Farias/No I am Not a Rat/Untitled.md",
+    "Editorial/Writers/Tony Farias/No I am Not a Rat",
+    "Editorial/Writers/Tony Farias",
+    "Editorial/Writers",
+    "Marketing/Emails/Customer Emails/Initial Response - Mentoring.md",
     "Marketing/Emails/Customer Emails/Initial Response - Copy Editing - With Word Count.md",
     "Marketing/Emails/Customer Emails/Initial Response - Manuscript Assessment - With Word Count.md",
     "Marketing/Emails/Customer Emails/Initial Response - Manuscript Assessment - Without Word Count.md",
@@ -163,10 +167,7 @@
     "Editorial/Reports/Copy Editing",
     "Editorial/Reports/Developmental Editing",
     "Editorial/Reports",
-    "Editorial",
     "Marketing/Blog/Pillars/BubbleCow Pillar Strategy.md",
-    "Admin/Legal",
-    "Admin",
     "Marketing/Blog/Pillars/Writing Techniques and Styles/Narrative Point of View/Third Person Point Of View - A Comprehensive Overview For Writers.md",
     "Marketing/Blog/Pillars/Writing Techniques and Styles/Narrative Point of View/Mastering the Second Person Viewpoint - A Comprehensive Guide.md",
     "Marketing/Blog/Pillars/Writing Techniques and Styles/Narrative Point of View/Mastering Point of View in Writing - A Comprehensive Guide.md",
@@ -182,7 +183,6 @@
     "Marketing/Blog/Pillars/Book Editing/Self Editing for Writers/How can I edit my book for free.md",
     "Marketing/Blog/Pillars/Book Editing/Manuscript Assessment/Manuscript Evaluation 101 - How To Ensure Your Work Meets Standards And Gets Published.md",
     "Marketing/Blog/Pillars/Book Editing/Manuscript Assessment/Manuscript Critique - Understanding The Process And Its Benefits.md",
-    "Marketing/Blog/Pillars/Book Editing/Manuscript Assessment/Manuscript Assessment.md",
-    "Marketing/Blog/Pillars/Book Editing/Manuscript Assessment/Is A Manuscript Assessment Worth It.md"
+    "Marketing/Blog/Pillars/Book Editing/Manuscript Assessment/Manuscript Assessment.md"
   ]
 }

@@ -111,7 +111,7 @@
 <p>The cost of a manuscript assessment varies widely, typically ranging from $300 to $2,000. This depends on factors like manuscript length, complexity, and the assessor's expertise. Shorter works or those requiring basic feedback are less expensive, whereas detailed analysis of longer, complex manuscripts costs more.</p>
 
 <div class="alert alert-primary" role="alert">
-    Find out about <a href="https://bubblecow.com/blog/manuscript-evaluation">the details of manuscript assessment</a>.
+    Want to know more about how much an manuscript assessment costs? <a href="https://bubblecow.com/blog/how-much-does-manuscript-assessment-cost">Check out this article</a>.
 </div>
 
 

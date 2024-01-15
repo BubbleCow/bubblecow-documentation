@@ -104,6 +104,6 @@ do we need an introduction? the reader needs to know who the person talkoing is
 lack of cash is an on going theme 
 ## Chapter Feedback
 This section contains specific feedback about your chapters. This feedback is in addition to the Specific Feedback.  
-### Chapter 1 – Hodson’s Choice 
+### Chapter 1 == 
 - I have made some alteration to the opening section of this chapter. I have tightened the information and tried to pull the reader into the story.  
 - I wanted you to say something about just how important a collection of records was to the DJ business at the time. Only by having a good collection where you able to ensure that you could do a good job. This is not, of course, the case now where DJs can just plug in Spotify. 

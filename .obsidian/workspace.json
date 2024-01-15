@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Marketing/Blog/Pillars/Book Editing/Manuscript Assessment/How much does a manuscript assessment cost.md",
+                "file": "Marketing/Blog/Pillars/BubbleCow Pillar Strategy.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Marketing/Blog/Pillars/Book Editing/Manuscript Assessment/How much does a manuscript assessment cost.md",
+                "file": "Marketing/Blog/Pillars/BubbleCow Pillar Strategy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Marketing/Blog/Pillars/Book Editing/Manuscript Assessment/How much does a manuscript assessment cost.md",
+                "file": "Marketing/Blog/Pillars/BubbleCow Pillar Strategy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Marketing/Blog/Pillars/Book Editing/Manuscript Assessment/How much does a manuscript assessment cost.md"
+                "file": "Marketing/Blog/Pillars/BubbleCow Pillar Strategy.md"
               }
             }
           }
@@ -161,8 +161,9 @@
   },
   "active": "35f903f2de1a9331",
   "lastOpenFiles": [
-    "Marketing/Blog/Pillars/Book Editing/Manuscript Assessment/Is A Manuscript Assessment Worth It.md",
+    "Marketing/Blog/Pillars/Book Editing/Book Editing.md",
     "Marketing/Blog/Pillars/Book Editing/Manuscript Assessment/How much does a manuscript assessment cost.md",
+    "Marketing/Blog/Pillars/Book Editing/Manuscript Assessment/Is A Manuscript Assessment Worth It.md",
     "Marketing/Blog/Pillars/BubbleCow Pillar Strategy.md",
     "Editorial/Writers/R/Robyn Atkinson/Canche Gringa/Developmental Editing/Edit/Canche Gringa 1-6 - Editors Report - Developmental Editing - BubbleCow.md",
     "Editorial/Writers/R/Robyn Atkinson/Canche Gringa/Developmental Editing/Edit/Canche Gringa_C1-6_Developmental_Edit_BubbleCow.docx",
@@ -196,7 +197,6 @@
     "Marketing/Blog/Pillars/Book Editing/Tools and Software/Which app can I use to edit my book.md",
     "Marketing/Blog/Pillars/Book Editing/Tools and Software/Book Editing Tools and Software.md",
     "Marketing/Blog/Pillars/Book Editing/Self Editing for Writers/What do you need to edit books.md",
-    "Marketing/Blog/Pillars/Book Editing/Self Editing for Writers/Self-editing for writers.md",
-    "Marketing/Blog/Pillars/Book Editing/Self Editing for Writers/How can I edit my own book.md"
+    "Marketing/Blog/Pillars/Book Editing/Self Editing for Writers/Self-editing for writers.md"
   ]
 }

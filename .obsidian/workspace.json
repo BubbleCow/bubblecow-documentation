@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d09391c77005ea7f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Marketing/Blog/Pillars/Book Editing/Manuscript Assessment/What is the difference between manuscript assessment and developmental editing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Marketing/Blog/Pillars/BubbleCow Pillar Strategy.md",
+                "file": "Marketing/Blog/Pillars/Book Editing/Manuscript Assessment/What is the difference between manuscript assessment and developmental editing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Marketing/Blog/Pillars/BubbleCow Pillar Strategy.md",
+                "file": "Marketing/Blog/Pillars/Book Editing/Manuscript Assessment/What is the difference between manuscript assessment and developmental editing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Marketing/Blog/Pillars/BubbleCow Pillar Strategy.md"
+                "file": "Marketing/Blog/Pillars/Book Editing/Manuscript Assessment/What is the difference between manuscript assessment and developmental editing.md"
               }
             }
           }
@@ -159,12 +171,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "35f903f2de1a9331",
+  "active": "341fb5c098c93da7",
   "lastOpenFiles": [
+    "Marketing/Blog/Pillars/BubbleCow Pillar Strategy.md",
+    "Marketing/Blog/Pillars/Book Editing/Manuscript Assessment/What is the difference between manuscript assessment and developmental editing.md",
     "Marketing/Blog/Pillars/Book Editing/Book Editing.md",
     "Marketing/Blog/Pillars/Book Editing/Manuscript Assessment/How much does a manuscript assessment cost.md",
     "Marketing/Blog/Pillars/Book Editing/Manuscript Assessment/Is A Manuscript Assessment Worth It.md",
-    "Marketing/Blog/Pillars/BubbleCow Pillar Strategy.md",
     "Editorial/Writers/R/Robyn Atkinson/Canche Gringa/Developmental Editing/Edit/Canche Gringa 1-6 - Editors Report - Developmental Editing - BubbleCow.md",
     "Editorial/Writers/R/Robyn Atkinson/Canche Gringa/Developmental Editing/Edit/Canche Gringa_C1-6_Developmental_Edit_BubbleCow.docx",
     "Editorial/Writers/R/Robyn Atkinson/Canche Gringa/Developmental Editing/Edit/Canche Gringa_C1-6_Developmental_Edit_BubbleCow(2).docx",
@@ -196,7 +209,6 @@
     "Marketing/Blog/Pillars/Book Editing/Tools and Software/Which software is best for book editing.md",
     "Marketing/Blog/Pillars/Book Editing/Tools and Software/Which app can I use to edit my book.md",
     "Marketing/Blog/Pillars/Book Editing/Tools and Software/Book Editing Tools and Software.md",
-    "Marketing/Blog/Pillars/Book Editing/Self Editing for Writers/What do you need to edit books.md",
-    "Marketing/Blog/Pillars/Book Editing/Self Editing for Writers/Self-editing for writers.md"
+    "Marketing/Blog/Pillars/Book Editing/Self Editing for Writers/What do you need to edit books.md"
   ]
 }

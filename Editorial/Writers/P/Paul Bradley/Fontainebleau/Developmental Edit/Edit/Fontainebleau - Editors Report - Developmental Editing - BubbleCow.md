@@ -102,6 +102,7 @@ If you're juggling a bunch of numbers within the same paragraph or series of par
 do we need an introduction? the reader needs to know who the person talking is
 adverbs
 lack of cash is an on going theme 
+hotel is a character
 ## Chapter Feedback
 This section contains specific feedback about your chapters. This feedback is in addition to the Specific Feedback.  
 ### Chapter 1 
@@ -116,4 +117,4 @@ This section contains specific feedback about your chapters. This feedback is in
 - This is the first time we see the hotel. The thing is that the hotel is almost like a character in the book and, therefore, needs sufficient description. I wanted you to try and layer in as much description as possible in this chapter. This will establish the hotel and give you an image to build on in the future chapters. 
 - The interactions between the brothers is much clearer now. In the first version, it was never clear that they have previously fallen out. 
 ### Chapter 5
-- This chapter opens in the bar, this is a chance to establish what the bar looks like and layer in more descritpion.
+- This chapter opens in the bar, this is a chance to establish what the bar looks like and layer in more description. 

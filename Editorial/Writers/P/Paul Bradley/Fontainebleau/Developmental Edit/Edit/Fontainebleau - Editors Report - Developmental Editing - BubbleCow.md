@@ -77,8 +77,9 @@ Please note, many of these changes have been made to help in the eBook conversio
 Below is a list of changes that have been made to help with readability and add consistency. 
 ### Language
 
-American English
-British English
+> [!warning]
+> American English
+> British English
 ### Numeric Notation 
 Spell out whole numbers up to (and including) one hundred (e.g., zero, one, ten, ninety-six, 104). Spell out numbers that begin a sentence unless it begins with a year (e.g., "Twelve drummers," "The ten lords a-leaping," "2011's quota for off-season holiday references has been filled."). 
 
@@ -87,13 +88,13 @@ Spell out ordinal numbers up to (and including) "hundredth" (e.g., second, sixty
 If you're juggling a bunch of numbers within the same paragraph or series of paragraphs, be flexible with the number style if doing so will improve clarity and comprehension. For example, use one number style for items in one category and another style for another category: "I read four books with more than 400 pages, sixty books with more than 100 pages, and a hundred articles with less than 4 pages."
 
 ### Speech Marks
-
-Double for direct, single for reported. 
-
+> [!warning]
+> Double for direct, single for reported. 
+> Single for direct, double for reported
 ### Oxford Comma
-
-Yes.
-
+> [!warning]
+> Yes.
+> No.
   
 
 ### Narrative Perspective

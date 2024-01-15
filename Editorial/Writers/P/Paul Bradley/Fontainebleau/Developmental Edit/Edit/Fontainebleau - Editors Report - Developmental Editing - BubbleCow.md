@@ -102,4 +102,5 @@ If you're juggling a bunch of numbers within the same paragraph or series of par
 
 ## Chapter Feedback
 This section contains specific feedback about your chapters. This feedback is in addition to the Specific Feedback.  
-### Chapter 1
+### Chapter 1 – Hodson’s Choice 
+

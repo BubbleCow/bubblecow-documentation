@@ -109,4 +109,4 @@ This section contains specific feedback about your chapters. This feedback is in
 - I wanted you to say something about just how important a collection of records was to the DJ business at the time. Only by having a good collection where you able to ensure that you could do a good job. This is not, of course, the case now where DJs can just plug in Spotify. 
 ### Chapter 2
 - I have moved the star of this chapter to the end of the previous chapter. I think it reads better. 
-- 
+- I wanted you to mention something about the growing trend towards package holidays. Buying the hotel might have seems crazy in the short term,.

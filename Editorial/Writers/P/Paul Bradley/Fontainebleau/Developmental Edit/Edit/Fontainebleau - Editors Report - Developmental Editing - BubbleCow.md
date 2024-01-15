@@ -105,4 +105,4 @@ do we need an introduction?
 ## Chapter Feedback
 This section contains specific feedback about your chapters. This feedback is in addition to the Specific Feedback.  
 ### Chapter 1 – Hodson’s Choice 
-I have made some 
+- I have made some alteration to the opening section of this chapter. I have tightened the information and tried to pull the reader into the story.  

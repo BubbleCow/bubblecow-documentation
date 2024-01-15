@@ -17,7 +17,7 @@
  <p class="card-header"><strong>Table of Contents</strong></p>
   <div class="card-body">
     <ul>
-      <li><a href="#manuscript-assessment-worth">What is the Manuscript Assessment?</a></li>
+      <li><a href="#manuscript-assessment-worth">Is A Manuscript Assessment Worth It?</a></li>
       <li><a href="#manuscript-critique">Manuscript Critique: Understanding The Process And Its Benefits</a></li>
       <li><a href="#manuscript-evaluation-101">Manuscript Evaluation 101: How To Ensure Your Work Meets Standards And Gets Published</a></li>
       <li><a href="#manuscript-assessment-cost">How Much Does a Manuscript Assessment Cost?</a></li>
@@ -117,6 +117,23 @@
 
 <h2 id="difference-assessment-developmental-editing">What is the Difference Between Manuscript Assessment and Developmental Editing?</h2>
 
+    <div itemscope itemtype="https://schema.org/ImageObject">
+      <img 
+        alt="manuscript assessment vs developmental editing" 
+        itemprop="contentUrl" 
+        src="https://bubblecow.com/assets/what-is-the-difference-between-manuscript-assessment-and-developmental-editing-compressed" 
+        class="post-media img-fluid rounded mx-auto d-block mt-1 mb-1" 
+        width="700" height="400"
+        />
+      <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+        <meta itemprop="name" content="Gary Smailes" />
+      </span>
+    </div>
 
+<p>Manuscript assessment offers a broad, overall review of your work, highlighting strengths and weaknesses without direct changes. Developmental editing involves deep, hands-on improvement of content, structure, and style, often leading to significant rewriting.</p>
+
+<div class="alert alert-primary" role="alert">
+    Discover more about the difference manuscript assessment and developmental editing <a href="https://bubblecow.com/blog/manuscript-assessment-v-developmental-editing">in this detailed article</a>.
+</div>
 
 </div>

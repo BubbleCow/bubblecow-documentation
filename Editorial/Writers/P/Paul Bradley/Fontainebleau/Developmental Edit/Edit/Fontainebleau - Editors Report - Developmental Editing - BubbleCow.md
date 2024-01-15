@@ -100,7 +100,7 @@ If you're juggling a bunch of numbers within the same paragraph or series of par
 
 
 do we need an introduction? the reader needs to know who the person talking is
-
+adverbs
 lack of cash is an on going theme 
 ## Chapter Feedback
 This section contains specific feedback about your chapters. This feedback is in addition to the Specific Feedback.  

@@ -113,4 +113,4 @@ This section contains specific feedback about your chapters. This feedback is in
 ### Chapter 3
 - I liked this chapter. The section at the end of the chapter works better in narrative non-fiction than it would have in fiction. It is now the narrator simply telling the reader the history of the town, this is much more inline with the reader's expectations.
 ### Chapter 4
-
+- This is the first time we see the hotel. The thing is that the hotel is almost like a character in the book and, therefore, needs sufficient description. I wanted you to t

@@ -79,9 +79,7 @@ Below is a list of changes that have been made to help with readability and add 
 
 American English
 British English
-
 ### Numeric Notation 
-
 Spell out whole numbers up to (and including) one hundred (e.g., zero, one, ten, ninety-six, 104). Spell out numbers that begin a sentence unless it begins with a year (e.g., "Twelve drummers," "The ten lords a-leaping," "2011's quota for off-season holiday references has been filled."). 
 
 Spell out ordinal numbers up to (and including) "hundredth" (e.g., second, sixty-first, 333rd, 1,024th). 

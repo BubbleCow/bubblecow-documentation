@@ -101,7 +101,7 @@ If you're juggling a bunch of numbers within the same paragraph or series of par
 
 do we need an introduction? 
 
-
+lack of cash is an on going
 ## Chapter Feedback
 This section contains specific feedback about your chapters. This feedback is in addition to the Specific Feedback.  
 ### Chapter 1 – Hodson’s Choice 

@@ -110,3 +110,5 @@ This section contains specific feedback about your chapters. This feedback is in
 ### Chapter 2
 - I have moved the star of this chapter to the end of the previous chapter. I think it reads better. 
 - I wanted you to mention something about the growing trend towards package holidays. Buying the hotel might have seems crazy in the short term, but it was certainly benefiting on a growing trend. The next ten, or so, years would see holidays in Spain becoming common for the aspirational working class of Maggie's Britain. 
+### Chapter 3
+

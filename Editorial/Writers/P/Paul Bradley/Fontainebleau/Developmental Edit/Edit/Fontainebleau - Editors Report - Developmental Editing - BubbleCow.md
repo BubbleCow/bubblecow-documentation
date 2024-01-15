@@ -118,3 +118,5 @@ This section contains specific feedback about your chapters. This feedback is in
 - The interactions between the brothers is much clearer now. In the first version, it was never clear that they have previously fallen out. 
 ### Chapter 5
 - This chapter opens in the bar, this is a chance to establish what the bar looks like and layer in more description. 
+### Chapter 6
+

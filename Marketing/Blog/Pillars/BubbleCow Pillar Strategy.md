@@ -32,7 +32,6 @@ The goal of the blog is to help writers to become better writers.
 		- Post: [[Is A Manuscript Assessment Worth It]]?
 		- Post: [[Manuscript Critique - Understanding The Process And Its Benefits]]
 		- Post: [[Manuscript Evaluation 101 - How To Ensure Your Work Meets Standards And Gets Published]]
-		-  Post: Manuscript Assessment Report: What You Should Expect - written
 		- Post: What is the manuscript assessment?
 		- Post: How much does a manuscript assessment cost?
 		- Post: What is the manuscript evaluation process?

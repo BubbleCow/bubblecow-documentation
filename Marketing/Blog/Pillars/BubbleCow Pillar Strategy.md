@@ -32,7 +32,7 @@ The goal of the blog is to help writers to become better writers.
 		- Post: [[Is A Manuscript Assessment Worth It]]?
 		- Post: [[Manuscript Critique - Understanding The Process And Its Benefits]]
 		- Post: [[Manuscript Evaluation 101 - How To Ensure Your Work Meets Standards And Gets Published]]
-		- Post: How much does a manuscript assessment cost?
+		- Post: [[How much does a manuscript assessment cost]]?
 		- Post: What is the difference between manuscript assessment and developmental editing?
 		
 	- Sub-pillar: Types of book editing

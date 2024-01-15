@@ -1,4 +1,6 @@
-
+> [!info] 
+> This is the developmental editor's report for non-ficiton.
+> Last updated: 15 Jan, 2024
 
 Editor: Gary Smailes
 

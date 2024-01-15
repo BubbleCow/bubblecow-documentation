@@ -99,7 +99,7 @@ If you're juggling a bunch of numbers within the same paragraph or series of par
 ## Strengths and Weaknesses
 
 
-do we need an introduction? 
+do we need an introduction? the reader needs to know who the person talkoing is
 
 lack of cash is an on going theme 
 ## Chapter Feedback

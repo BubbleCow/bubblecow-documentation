@@ -99,6 +99,8 @@ If you're juggling a bunch of numbers within the same paragraph or series of par
 ## Strengths and Weaknesses
 
 
+do we need an introduction? 
+
 
 ## Chapter Feedback
 This section contains specific feedback about your chapters. This feedback is in addition to the Specific Feedback.  

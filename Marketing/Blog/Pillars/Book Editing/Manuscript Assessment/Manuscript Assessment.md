@@ -17,19 +17,16 @@
  <p class="card-header"><strong>Table of Contents</strong></p>
   <div class="card-body">
     <ul>
-      <li><a href="#what-is-manuscript-assessment">What is the Manuscript Assessment?</a></li>
-      <li><a href="#manuscript-assessment-worth">Is A Manuscript Assessment Worth It?</a></li>
-      <li><a href="#manuscript-assessment-cost">How Much Does a Manuscript Assessment Cost?</a></li>
-      <li><a href="#manuscript-evaluation-process">What is the Manuscript Evaluation Process?</a></li>
-      <li><a href="#difference-assessment-developmental-editing">What is the Difference Between Manuscript Assessment and Developmental Editing?</a></li>
+      <li><a href="#manuscript-assessment-worth">What is the Manuscript Assessment?</a></li>
       <li><a href="#manuscript-critique">Manuscript Critique: Understanding The Process And Its Benefits</a></li>
       <li><a href="#manuscript-evaluation-101">Manuscript Evaluation 101: How To Ensure Your Work Meets Standards And Gets Published</a></li>
-      <li><a href="#manuscript-assessment-report">Manuscript Assessment Report: What You Should Expect</a></li>
+      <li><a href="#manuscript-assessment-cost">How Much Does a Manuscript Assessment Cost?</a></li>
+      <li><a href="#difference-assessment-developmental-editing">What is the Difference Between Manuscript Assessment and Developmental Editing?</a></li>
     </ul>
   </div>
 </div>
 
-<h2 id="what-is-manuscript-assessment">What is the Manuscript Assessment?</h2>
+<h2 id="manuscript-assessment-worth">Is A Manuscript Assessment Worth It?</h2>
 
     <div itemscope itemtype="https://schema.org/ImageObject">
       <img 
@@ -50,14 +47,6 @@
 <div class="alert alert-primary" role="alert">
     Discover more about a manuscript assessment with <a href="https://bubblecow.com/blog/is-a-manuscript-assessment-worth-it">this extensive article</a>.
 </div>
-
-<h2 id="manuscript-assessment-worth">Is A Manuscript Assessment Worth It?</h2>
-
-<h2 id="manuscript-assessment-cost">How Much Does a Manuscript Assessment Cost?</h2>
-
-<h2 id="manuscript-evaluation-process">What is the Manuscript Evaluation Process?</h2>
-
-<h2 id="difference-assessment-developmental-editing">What is the Difference Between Manuscript Assessment and Developmental Editing?</h2>
 
 <h2 id="manuscript-critique">Manuscript Critique: Understanding The Process And Its Benefits</h2>
 
@@ -104,8 +93,30 @@
     Find out about <a href="https://bubblecow.com/blog/manuscript-evaluation">the details of manuscript assessment</a>.
 </div>
 
+<h2 id="manuscript-assessment-cost">How Much Does a Manuscript Assessment Cost?</h2>
 
-<h2 id="manuscript-assessment-report">Manuscript Assessment Report: What You Should Expect</h2>
+    <div itemscope itemtype="https://schema.org/ImageObject">
+      <img 
+        alt="manuscript assessment and money" 
+        itemprop="contentUrl" 
+        src="https://bubblecow.com/assets/how-much-does-manuscript-assessment-cost" 
+        class="post-media img-fluid rounded mx-auto d-block mt-1 mb-1" 
+        width="700" height="400"
+        />
+      <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+        <meta itemprop="name" content="Gary Smailes" />
+      </span>
+    </div>
+
+<p>The cost of a manuscript assessment varies widely, typically ranging from $300 to $2,000. This depends on factors like manuscript length, complexity, and the assessor's expertise. Shorter works or those requiring basic feedback are less expensive, whereas detailed analysis of longer, complex manuscripts costs more.</p>
+
+<div class="alert alert-primary" role="alert">
+    Find out about <a href="https://bubblecow.com/blog/manuscript-evaluation">the details of manuscript assessment</a>.
+</div>
+
+
+<h2 id="difference-assessment-developmental-editing">What is the Difference Between Manuscript Assessment and Developmental Editing?</h2>
+
 
 
 </div>

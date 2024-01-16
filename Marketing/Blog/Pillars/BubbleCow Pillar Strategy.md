@@ -113,7 +113,7 @@ The goal of the blog is to help writers to become better writers.
 
 - Pillar: Storytelling Techniques
 	- Sub-pillar: Book Structure
-		- Post: [[The Importance Of Structure When Writing]] 
+		- Post: [[The Importance Of Structure When Writing]]
 	- Sub-pillar: Hero's Journey
 		- Post: What are the 12 steps of the hero's journey?
 		- Post: What are the 12 stages of the hero's quest?

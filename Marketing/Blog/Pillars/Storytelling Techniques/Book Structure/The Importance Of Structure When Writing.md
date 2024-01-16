@@ -43,9 +43,6 @@
      </span>
    </div>
 
-
-<img src="https://bubblecow.com/assets/freytag-pyramid" alt="Freytag pyramid" class="post-media img-fluid rounded mx-auto d-block" width="466" height="308">
-
 <p>The Five-Act structure can be broken down as follows:<p>
 
 <ol>
@@ -66,7 +63,18 @@
 <li><strong>Denouement</strong> - Lady Macbeth dies and Macbeth is executed. Malcolm becomes the king.</li>
 </ol>
 
-<img src="https://bubblecow.com/assets/hamlet-infographic" alt="hamlet infographic" class="post-media img-fluid rounded mx-auto d-block" width="594" height="768">
+   <div itemscope itemtype="https://schema.org/ImageObject">
+     <img
+       alt="Structure of Hamlet"
+       itemprop="contentUrl"
+       src="https://bubblecow.com/assets/hamlet-infographic"
+       class="post-media img-fluid rounded mx-auto d-block mt-1 mb-1"
+       width="700" height="400"
+       />
+     <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+       <meta itemprop="name" content="Gary Smailes" />
+     </span>
+   </div>
 
 <p>The Five Act Structure is a very classical interpretation of dramatic structure and highlights the importance of structure in writing. The start of the 19th Century (and the rise of the film) saw a more simple, but very similar, narrative structure increasing in popularity: the Three Act Structure.</p>
 
@@ -82,7 +90,18 @@
 <p>A good example of the Three-Act Structure is <em>Star Wars</em>.</p>
 <p>This flow diagram from William P. Coleman's blog offers an excellent simplification of the narrative arc.</p>
 
-<img src="https://bubblecow.com/assets/star-wars-timeline" alt="star wars timeline" class="post-media img-fluid rounded mx-auto d-block" width="456" height="466">
+   <div itemscope itemtype="https://schema.org/ImageObject">
+     <img
+       alt="Star Wars Timeline"
+       itemprop="contentUrl"
+       src="https://bubblecow.com/assets/star-wars-timeline"
+       class="post-media img-fluid rounded mx-auto d-block mt-1 mb-1"
+       width="700" height="400"
+       />
+     <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+       <meta itemprop="name" content="Gary Smailes" />
+     </span>
+   </div>
 
 <p><em>Star Wars</em> is famous for being written using a structure known as the Hero's Journey, which is a small progression from the three-act approach.<p>
 

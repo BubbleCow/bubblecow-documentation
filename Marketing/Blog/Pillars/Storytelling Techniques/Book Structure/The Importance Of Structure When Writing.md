@@ -53,12 +53,6 @@
 
 <p><em>Star Wars</em> is famous for being written using a structure known as the Hero's Journey, which is a small progression from the three-act approach.<p>
 
-<p>The video examines this in more detail.</p>
-
-<div class="post-media ratio ratio-16x9">
-<iframe src="https://www.youtube.com/embed/f7m8z-jgt5Q" title="The Hero's Journey in Star Wars - Nerdy Novel" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
 <h2>How to Write Using Structure</h2>
 <p>The theory behind story is long-established, but applying it to your writing is not an easy task. Although the importance of writing with structure is clear.</p>
 <p>As a starting point I would suggest you ask (and answer) these three questions considering their importance:</p>

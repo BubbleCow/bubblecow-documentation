@@ -121,4 +121,6 @@ This section contains specific feedback about your chapters. This feedback is in
 ### Chapter 6
 - The opening of this chapter is the perfect example of where you can build more of a picture of the hotel. In this case, you can create an image of the dining room. These's also a little bit later where you can layer in more description. 
 ### Chapter 7
+- Good chapter with solid storytelling, nothing new to add. 
+### Chapter 8
 

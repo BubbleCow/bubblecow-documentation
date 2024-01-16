@@ -29,6 +29,21 @@
 <p>In its very simplest terms, this is the idea of a start, middle, and end.</p>
 <p>In 1863 German playwright Gustav Freytag set out what was to become known as the 'dramatic arc'. Freytag identified a five-act structure: exposition, rising action, climax, falling action, and dénouement. He produced a pyramid to demonstrate this idea; this is known as the Freytag pyramid.</p>
 
+
+   <div itemscope itemtype="https://schema.org/ImageObject">
+     <img
+       alt="Freytag pyramid"
+       itemprop="contentUrl"
+       src="https://bubblecow.com/assets/freytag-pyramid"
+       class="post-media img-fluid rounded mx-auto d-block mt-1 mb-1"
+       width="700" height="400"
+       />
+     <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+       <meta itemprop="name" content="Gary Smailes" />
+     </span>
+   </div>
+
+
 <img src="https://bubblecow.com/assets/freytag-pyramid" alt="Freytag pyramid" class="post-media img-fluid rounded mx-auto d-block" width="466" height="308">
 
 <p>The Five-Act structure can be broken down as follows:<p>

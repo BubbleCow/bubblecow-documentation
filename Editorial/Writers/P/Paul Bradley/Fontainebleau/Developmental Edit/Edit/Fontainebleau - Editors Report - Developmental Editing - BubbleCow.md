@@ -135,4 +135,4 @@ This section contains specific feedback about your chapters. This feedback is in
 
 - Good chapters, nothing to add. 
 ### Chapter 15
-
+- This is the first chapter that you hint at money being a potnetial issue fo r 

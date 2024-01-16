@@ -114,7 +114,10 @@ The goal of the blog is to help writers to become better writers.
 - Pillar: Storytelling Techniques
 	- Sub-pillar: Novel Structure
 		- Post: [[The Importance Of Structure When Writing]]
-		- 
+		- Post: What is the basic structure of a novel?
+		- Post: What is the best structure for a novel?
+		- Post: What are the 4 structures of a story?
+		- Post: What is the 5 part structure of a story?
 	- Sub-pillar: Hero's Journey
 		- Post: What are the 12 steps of the hero's journey?
 		- Post: What are the 12 stages of the hero's quest?
@@ -128,7 +131,6 @@ The goal of the blog is to help writers to become better writers.
 		- Post: What are the three disasters in the snowflake method?
 	- Sub-pillar: Three-act structure
 	- Sub-pillar: Five-act structure
-
 - Pillar: [[Book Marketing and Promotion]]
 	- Sub-pillar: Effective book marketing strategies
 		- What is the best marketing strategy for a book?

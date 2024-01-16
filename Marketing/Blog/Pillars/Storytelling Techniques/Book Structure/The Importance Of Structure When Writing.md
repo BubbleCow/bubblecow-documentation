@@ -14,6 +14,9 @@
       <li><a href="#what-is-the-three-act-structure">What is the Three-Act Structure?</a></li>
       <li><a href="#how-to-write-using-structure">How to Write Using Structure</a></li>
       <li><a href="#building-acts">Building Acts</a></li>
+        <li><a href="#role-of-genre"> The Role of Genre in Determining Structure</a></li>
+        <li><a href="#character-development">Character Development Within Various Structures</a></li>
+        <li><a href="#impact">Impact of Structure on Pacing and Tension</a></li>
       <li><a href="#what-to-do-now">What To Do Now</a></li>
         <li><a href="#faq">Frequently Asked Questions</a></li>
       
@@ -94,6 +97,18 @@
 <p>An act is constructed by linking a number of scenes. The act, in itself, will have its own narrative arc with the same rules as the scene. An act will see the protagonist changing state as he overcomes conflict. Each scene will see the protagonist moving in a stepwise fashion from one state to the other.</p>
 <p>When considering an act structure for your novel, my tip is to start with the sweeping narrative of your story, then to build into this the three or five act structure. Once you have these acts in place, you can then pencil in the key events turning these into scenes. You can then sketch out the event, conflict and change in state for each scene before finally writing.</p>
 
+<h2 id="role-of-genre"> The Role of Genre in Determining Structure</h2>
+
+
+
+<h2 id="character-development">Character Development Within Various Structures</h2>
+
+
+
+<h2 id="impact">Impact of Structure on Pacing and Tension</h2>
+
+
+
 <h2 id="what-to-do-now">What To do Now</h2>
 <p>The three and five act structures are just two of many important act structures, but they are, especially the Three-Act, by far the most common form of story structure. I would urge you to go back to the novel you are currently writing and determine if you are applying an act structure to your narrative. If not, then it's time to act.</p>
 <p>My final note is a plea… don't fall into the trap of thinking at your writing is beyond the need for the act structure.</p>
@@ -107,6 +122,46 @@
 <p>Below are some frequently asked questions that will provide you with more information.</p>
 
 <div itemscope itemtype="https://schema.org/FAQPage" class="faq">
+
+<div itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
+    <h3 itemprop="name">What is the importance of structure in writing?</h3>
+    <div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+        <div itemprop="text">
+            <p>The structure in writing is crucial as it provides a framework that guides the narrative flow and organization of ideas. A well-structured piece ensures clarity, maintains reader engagement, and enhances the overall impact of the story or argument. It's akin to the skeleton of a body, supporting and shaping the content, making it easier for readers to follow and comprehend the writer's intent.</p>
+        </div>
+    </div>
+</div>
+
+
+<div itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
+    <h3 itemprop="name">How does the structure of a novel impact the overall meaning?</h3>
+    <div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+        <div itemprop="text">
+            <p>The structure of a novel significantly impacts its overall meaning by determining how the story unfolds, the pacing of plot developments, and the emphasis on certain themes or characters. It influences the reader's perception and understanding, allowing for a coherent and impactful delivery of the narrative. A well-structured novel can enhance thematic depth, character development, and narrative tension, thereby enriching the reader's experience and interpretation.</p>
+        </div>
+    </div>
+</div>
+
+
+<div itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
+    <h3 itemprop="name">What are the benefits of story structure?</h3>
+    <div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+        <div itemprop="text">
+            <p>Story structure offers multiple benefits: it provides a clear roadmap for narrative progression, ensuring logical flow and coherence; it helps maintain pacing and suspense, keeping readers engaged; it supports effective character development and theme exploration; and it assists writers in building a compelling beginning, a coherent middle, and a satisfying conclusion, leading to a more resonant and memorable story experience for the audience.</p>
+        </div>
+    </div>
+</div>
+
+
+<div itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
+    <h3 itemprop="name">What are the structures of writing a novel?</h3>
+    <div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+        <div itemprop="text">
+            <p>Common structures for writing a novel include the Three-Act Structure, which divides the story into a setup, confrontation, and resolution; the Five-Act Structure, often used in classical plays; the Hero's Journey, focusing on the protagonist's adventure and transformation; and the Fichtean Curve, emphasizing rising tension and climax. Other structures like nonlinear narrative and stream of consciousness are also employed, depending on the story's requirements and the writer's creative vision.</p>
+        </div>
+    </div>
+</div>
+
 
 </div>
 

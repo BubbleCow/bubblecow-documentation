@@ -124,5 +124,6 @@ This section contains specific feedback about your chapters. This feedback is in
 - Good chapters with solid storytelling, nothing new to add. 
 ### Chapter 9
 - I think this chapter works really well. You have managed to capture a very particular type of person from the British working class of that time. 
-### Chapter 1
+### Chapter 10
+
 

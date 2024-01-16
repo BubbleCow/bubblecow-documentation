@@ -119,4 +119,5 @@ This section contains specific feedback about your chapters. This feedback is in
 ### Chapter 5
 - This chapter opens in the bar, this is a chance to establish what the bar looks like and layer in more description. 
 ### Chapter 6
-- The opening of this chapter is the p
+- The opening of this chapter is the perfect example of where you can build more of a picture of the hotel. In this case, you can create an image of the dining room. 
+- 

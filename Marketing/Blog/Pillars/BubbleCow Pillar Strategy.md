@@ -54,7 +54,10 @@ The goal of the blog is to help writers to become better writers.
 		- Novel Editing Tips - needs updating
 		- How Does Book Editing Work? - needs updating
 		- Post: What are the 5 steps of the editing process?
-		- 
+	-  Sub-pillar: Book Editors
+		- Post: Hiring A Freelance Book Editor - written
+		- Post: What Does A Book Editor Really Do? - written
+		- Post: Editing Services: A Comprehensive Guide To Finding The Right Editor For Your Book - written
 	- Sub-pillar: mentoring
 		- Post: What is a book coach (written)
 	- Sub-pillar: [[Book Editing Tools and Software]]
@@ -110,7 +113,7 @@ The goal of the blog is to help writers to become better writers.
 
 - Pillar: Storytelling Techniques
 	- Sub-pillar: Book Structure
-		- Post: The Importance Of Structure When Writing - written
+		- Post: [[The Importance Of Structure When Writing]] - written
 	- Sub-pillar: Hero's Journey
 		- Post: What are the 12 steps of the hero's journey?
 		- Post: What are the 12 stages of the hero's quest?

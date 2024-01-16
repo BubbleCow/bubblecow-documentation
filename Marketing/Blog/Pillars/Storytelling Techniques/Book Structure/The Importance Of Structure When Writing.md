@@ -6,7 +6,20 @@
 <p>I used to ask myself, is structure important when writing?</p>
 <p>It was not until I learned more about the technical nature of writing and how a narrative can be constructed from scratch, that I finally lifted my own writing from a mediocre level, up to a level where <a href="https://bubblecow.com/blog/self-publishing-vs-traditional-publishing-which-is-better">publishers were prepared to take a gamble on my books</a>.</p>
 
-<h2>What is the Five-act Structure?</h2>
+<div class="toc card bg-light" id="toc">
+ <p class="card-header"><strong>Table of Contents</strong></p>
+  <div class="card-body">
+    <ul>
+      <li><a href="#what-is-the-five-act-structure">What is the Five-act Structure?</a></li>
+      <li><a href="#what-is-the-three-act-structure">What is the Three-Act Structure?</a></li>
+      <li><a href="#how-to-write-using-structure">How to Write Using Structure</a></li>
+      <li><a href="#building-acts">Building Acts</a></li>
+      <li><a href="#what-to-do-now">What To Do Now</a></li>
+    </ul>
+  </div>
+</div>
+
+<h2 id="what-is-the-five-act-structure">What is the Five-act Structure?</h2>
 <p>What is the Five-Act Structure? Dramatic Structure is a narrative structure taken from the ancient Greeks and was used with great success by Shakespeare. In fact, Dramatic Structure remains the basic narrative framework on which the majority of successful novels, plays, and films are based.</p>
 <p>In its very simplest terms, this is the idea of a start, middle, and end.</p>
 <p>In 1863 German playwright Gustav Freytag set out what was to become known as the 'dramatic arc'. Freytag identified a five-act structure: exposition, rising action, climax, falling action, and dénouement. He produced a pyramid to demonstrate this idea; this is known as the Freytag pyramid.</p>
@@ -37,7 +50,7 @@
 
 <p>The Five Act Structure is a very classical interpretation of dramatic structure and highlights the importance of structure in writing. The start of the 19th Century (and the rise of the film) saw a more simple, but very similar, narrative structure increasing in popularity: the Three Act Structure.</p>
 
-<h2>What is the Three-Act Structure?</h2>
+<h2 id="what-is-the-three-act-structure">What is the Three-Act Structure?</h2>
 <p>What is the Three-Act Structure? The best way to think of the Three-Act Structure is as a simplification of the Five-Act Structure:</p>
 
 <ol>
@@ -53,7 +66,7 @@
 
 <p><em>Star Wars</em> is famous for being written using a structure known as the Hero's Journey, which is a small progression from the three-act approach.<p>
 
-<h2>How to Write Using Structure</h2>
+<h2 id="how-to-write-using-structure">How to Write Using Structure</h2>
 <p>The theory behind story is long-established, but applying it to your writing is not an easy task. Although the importance of writing with structure is clear.</p>
 <p>As a starting point I would suggest you ask (and answer) these three questions considering their importance:</p>
 <ol>
@@ -64,7 +77,7 @@
 
 <p>The answer to these questions will give you the framework on which you can build your three or five-act story. However, to build the structure, you must first understand how acts are formed.</p>
 
-<h2>Building Acts</h2>
+<h2 id="building-acts">Building Acts</h2>
 <p>The building blocks of an act are scenes.</p>
 <p>In its simplest form a scene is an event that forces the protagonist to act, altering them in the process.</p>
 <p>To examine further… the scene will begin with the protagonist in a certain state. This may be as simple as happy or sad, or something far more complex as being perceived as a hero or villain. An event will occur that will force the protagonist to react. In reacting to the event, the protagonist is faced with conflict, which they overcome. In this process, their state is altered.</p>
@@ -78,7 +91,8 @@
 <p>This is a good example of why events in themselves are of little interest, but the way characters react to these events is fascinating.</p>
 <p>An act is constructed by linking a number of scenes. The act, in itself, will have its own narrative arc with the same rules as the scene. An act will see the protagonist changing state as he overcomes conflict. Each scene will see the protagonist moving in a stepwise fashion from one state to the other.</p>
 <p>When considering an act structure for your novel, my tip is to start with the sweeping narrative of your story, then to build into this the three or five act structure. Once you have these acts in place, you can then pencil in the key events turning these into scenes. You can then sketch out the event, conflict and change in state for each scene before finally writing.</p>
-<h2>What To do Now</h2>
+
+<h2 id="what-to-do-now">What To do Now</h2>
 <p>The three and five act structures are just two of many important act structures, but they are, especially the Three-Act, by far the most common form of story structure. I would urge you to go back to the novel you are currently writing and determine if you are applying an act structure to your narrative. If not, then it's time to act.</p>
 <p>My final note is a plea… don't fall into the trap of thinking at your writing is beyond the need for the act structure.</p>
 <p>It is true that there are examples of unstructured novels and films. They exist, but to be honest they are very rare.</p> 

@@ -15,6 +15,8 @@
       <li><a href="#how-to-write-using-structure">How to Write Using Structure</a></li>
       <li><a href="#building-acts">Building Acts</a></li>
       <li><a href="#what-to-do-now">What To Do Now</a></li>
+        <li><a href="#faq">Frequently Asked Questions</a></li>
+      
     </ul>
   </div>
 </div>
@@ -99,5 +101,13 @@
 <p>If you are looking to apply an act structure to your novel, start with the three-act structure, it is the easiest to understand and will give you the best results with the least amount of effort. A well-written novel, which falls into a three or five-act framework, has a far better chance of being published than one that is written with an unstructured narrative.</p>
 <p>If you want to learn more, it is worth considering the role that <a href="https://bubblecow.com/blog/third-person-viewpoint">narrative point</a> of view plays in the way you structure your book.</p>
 <p>If you are looking to improve your technique, consider this article about how to <a href="https://bubblecow.com/blog/show-dont-tell-and-character-descriptions">write better character descriptions.</a></p> 
+
+
+<h2 id="faq">Frequently Asked Questions</h2>
+<p>Below are some frequently asked questions that will provide you with more information.</p>
+
+<div itemscope itemtype="https://schema.org/FAQPage" class="faq">
+
+</div>
 
 </div>

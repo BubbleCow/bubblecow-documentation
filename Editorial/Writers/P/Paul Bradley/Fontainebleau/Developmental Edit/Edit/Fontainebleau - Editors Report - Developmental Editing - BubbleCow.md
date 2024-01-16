@@ -125,5 +125,5 @@ This section contains specific feedback about your chapters. This feedback is in
 ### Chapter 9
 - I think this chapter works really well. You have managed to capture a very particular type of person from the British working class of that time. 
 ### Chapter 10
-- I wanted you to 
+- I wanted you to make more of the initial ineraction between the Wings guy and the chef. You should describe how they are acting without any explanation. You need to let the reader work it out and 
 

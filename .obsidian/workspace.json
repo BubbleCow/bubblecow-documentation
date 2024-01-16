@@ -20,8 +20,21 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "c56d036905307c4c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Marketing/Blog/Pillars/BubbleCow Pillar Strategy.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -87,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Editorial/Writers/P/Paul Bradley/Fontainebleau/Developmental Edit/Edit/Fontainebleau - Editors Report - Developmental Editing - BubbleCow.md",
+                "file": "Marketing/Blog/Pillars/BubbleCow Pillar Strategy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Editorial/Writers/P/Paul Bradley/Fontainebleau/Developmental Edit/Edit/Fontainebleau - Editors Report - Developmental Editing - BubbleCow.md",
+                "file": "Marketing/Blog/Pillars/BubbleCow Pillar Strategy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Editorial/Writers/P/Paul Bradley/Fontainebleau/Developmental Edit/Edit/Fontainebleau - Editors Report - Developmental Editing - BubbleCow.md"
+                "file": "Marketing/Blog/Pillars/BubbleCow Pillar Strategy.md"
               }
             }
           }
@@ -148,10 +161,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "35f903f2de1a9331",
+  "active": "c56d036905307c4c",
   "lastOpenFiles": [
-    "Marketing/Blog/Pillars/BubbleCow Pillar Strategy.md",
     "Editorial/Writers/P/Paul Bradley/Fontainebleau/Developmental Edit/Edit/Fontainebleau - Editors Report - Developmental Editing - BubbleCow.md",
+    "Marketing/Blog/Pillars/BubbleCow Pillar Strategy.md",
     "Editorial/Reports/Developmental Editing/Non-fiction/NON-FICTION - Editors Report - Developmental Editing - BubbleCow.md",
     "Editorial/Reports/Developmental Editing/Non-fiction/Untitled.md",
     "Editorial/Reports/Developmental Editing/Non-fiction",

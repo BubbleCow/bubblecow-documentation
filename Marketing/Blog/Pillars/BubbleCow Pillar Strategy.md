@@ -34,7 +34,6 @@ The goal of the blog is to help writers to become better writers.
 		- Post: [[Manuscript Evaluation 101 - How To Ensure Your Work Meets Standards And Gets Published]]
 		- Post: [[How much does a manuscript assessment cost]]?
 		- Post: [[What is the difference between manuscript assessment and developmental editing]]?
-		
 	- Sub-pillar: Types of book editing
 		- Types of book editing and how to decide which editing type is best for your book - Needs updating
 		- What is the meaning of book editing?

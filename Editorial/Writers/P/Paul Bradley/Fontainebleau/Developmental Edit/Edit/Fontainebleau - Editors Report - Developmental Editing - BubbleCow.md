@@ -119,4 +119,4 @@ This section contains specific feedback about your chapters. This feedback is in
 ### Chapter 5
 - This chapter opens in the bar, this is a chance to establish what the bar looks like and layer in more description. 
 ### Chapter 6
-
+- The opening of this chapter is the p

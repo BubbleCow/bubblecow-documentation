@@ -133,6 +133,6 @@ This section contains specific feedback about your chapters. This feedback is in
 - The hotel is a character in your book. It needs to be ever present. The start of this chapter is a good example of where you need to add more detail to the location of the hotel. This will allow the reader to picture the scene more clearly and really cement the image of the hotel in their mind's eye. 
 ### Chapter 13 & 14
 
-- Good chapter, nothing to add. 
-### Chapter 14
+- Good chapters, nothing to add. 
+### Chapter 15
 

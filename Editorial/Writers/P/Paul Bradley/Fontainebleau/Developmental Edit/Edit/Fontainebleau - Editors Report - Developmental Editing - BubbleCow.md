@@ -103,6 +103,7 @@ do we need an introduction? the reader needs to know who the person talking is
 adverbs
 lack of cash is an on going theme 
 hotel is a character
+lost threart of the income
 ## Chapter Feedback
 This section contains specific feedback about your chapters. This feedback is in addition to the Specific Feedback.  
 ### Chapter 1 

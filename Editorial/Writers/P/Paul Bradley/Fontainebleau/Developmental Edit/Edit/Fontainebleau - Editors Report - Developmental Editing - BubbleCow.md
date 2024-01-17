@@ -141,4 +141,8 @@ This section contains specific feedback about your chapters. This feedback is in
 ### Chapter 17
 - Good chapter. I think it might have been good to have the dad say something like - 'if business fails to pick up soon we will all be heading back to England.'
 ### Chapter 18
-- I have noticed that you often use 'said' when asking questions in dialogue. This should be 
+- I have noticed that you often use 'said' when asking questions in dialogue. This should be 'asked'. I have changed this when i find it but keep an eye out in later rereads.
+### Chapter 19
+- Good chapter, nothing to add. 
+### Chapter 20
+

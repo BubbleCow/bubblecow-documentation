@@ -109,8 +109,6 @@ The goal of the blog is to help writers to become better writers.
 	    - Do book editors make good money?
 	    - Are book editors in demand?
 	    - Career Development In Book Editing - written
-
-
 - Pillar: Storytelling Techniques
 	- Sub-pillar: Novel Structure
 		- Post: [[The Importance Of Structure When Writing]]

@@ -139,4 +139,6 @@ This section contains specific feedback about your chapters. This feedback is in
 ### Chapter 16
 - This is a the first chapter where you fit the finances head on. However, as you will see from my editor's note, I think that you should make it clearer to the reader that money is an issue. I don't think that you need to say outright that finances are a problems in earlier chapters, but I do feel that you need to mention two or three times that the hotel is struggling to break even. This will create a low level tension and then allow this chapter to have a greater impact. 
 ### Chapter 17
-- Good chapter. I think it might have been good to have the dad say somethign 
+- Good chapter. I think it might have been good to have the dad say something like - 'if business fails to pick up soon we will all be heading back to England.'
+### Chapter 18
+

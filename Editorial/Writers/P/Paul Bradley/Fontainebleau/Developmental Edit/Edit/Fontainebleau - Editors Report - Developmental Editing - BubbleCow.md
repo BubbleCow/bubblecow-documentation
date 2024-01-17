@@ -145,4 +145,11 @@ This section contains specific feedback about your chapters. This feedback is in
 ### Chapter 19
 - Good chapter, nothing to add. 
 ### Chapter 20
+- There's a moment in this chapter where you move between scenes but don't add any new location or character description. You don't need much but you do need some to allow the reader to adjust. 
+### Chapter 21 and 22
+- Good chapters with nothing to add. 
+### Chapter 23
+- This is good but remember any non-English speech should be in italics. I have altered this in this chapter. This is something to keep in mind for rereads etc. 
+### Chapter 24
+
 

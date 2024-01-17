@@ -137,4 +137,4 @@ This section contains specific feedback about your chapters. This feedback is in
 ### Chapter 15
 - This is the first chapter that you hint at money being a potential issue for the hotel. This is something that was developed in the novel but it not present in this version. See my editor's note above.  
 ### Chapter 16
-
+- This is a the first chapter where you 

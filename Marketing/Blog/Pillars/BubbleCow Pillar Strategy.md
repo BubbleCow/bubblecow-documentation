@@ -149,6 +149,7 @@ The goal of the blog is to help writers to become better writers.
 		- What are the 7 rules of dialogue?
 		- How do you format dialogue in fiction? EXISTING - https://bubblecow.com/blog/how-to-format-dialogue-in-a-story-quick-and-dirty-guide/
 		- How do you write dialogue in fiction grammar?
+	- Sub-pillar: Writing Description in Fiction
 - Pillar: [[Book Marketing and Promotion]]
 	- Sub-pillar: Effective book marketing strategies
 		- What is the best marketing strategy for a book?

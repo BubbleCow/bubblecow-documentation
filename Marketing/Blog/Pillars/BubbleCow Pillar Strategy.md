@@ -135,7 +135,7 @@ The goal of the blog is to help writers to become better writers.
 		- Post: World Building Basics - written
 	- Sub-pillar: Pacing
 	  - Post: Pacing: The Invisible Guide Of Storytelling - written
-	- -b-pillar: Narrative Point of View
+	- Sub-pillar: Point of View
 		- [[Third Person Point Of View - A Comprehensive Overview For Writers]] 
 		- [[Mastering the Second Person Viewpoint - A Comprehensive Guide]] 
 		- [[First Person Point of View - A Comprehensive Overview for Writers]]

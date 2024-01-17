@@ -20,8 +20,21 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "7d48ea3ccb79f8c9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Marketing/Blog/Pillars/BubbleCow Pillar Strategy.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -87,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Editorial/Writers/P/Paul Bradley/Fontainebleau/Developmental Edit/Edit/Fontainebleau - Editors Report - Developmental Editing - BubbleCow.md",
+                "file": "Marketing/Blog/Pillars/BubbleCow Pillar Strategy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Editorial/Writers/P/Paul Bradley/Fontainebleau/Developmental Edit/Edit/Fontainebleau - Editors Report - Developmental Editing - BubbleCow.md",
+                "file": "Marketing/Blog/Pillars/BubbleCow Pillar Strategy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Editorial/Writers/P/Paul Bradley/Fontainebleau/Developmental Edit/Edit/Fontainebleau - Editors Report - Developmental Editing - BubbleCow.md"
+                "file": "Marketing/Blog/Pillars/BubbleCow Pillar Strategy.md"
               }
             }
           }
@@ -148,12 +161,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "35f903f2de1a9331",
+  "active": "7d48ea3ccb79f8c9",
   "lastOpenFiles": [
+    "Editorial/Writers/P/Paul Bradley/Fontainebleau/Developmental Edit/Edit/Fontainebleau - Editors Report - Developmental Editing - BubbleCow.md",
     "Marketing/Blog/Pillars/BubbleCow Pillar Strategy.md",
     "Marketing/Blog/Pillars/Storytelling Techniques/Novel Structure/What is the basic structure of a novel.md",
     "Editorial/Reports/Developmental Editing/Non-fiction/Untitled.md",
-    "Editorial/Writers/P/Paul Bradley/Fontainebleau/Developmental Edit/Edit/Fontainebleau - Editors Report - Developmental Editing - BubbleCow.md",
     "Editorial/Writers/T/Tony Farias/No I am Not a Rat/No I am not a rat - manuscript.md",
     "Editorial/Writers/T/Tony Farias/No I am Not a Rat/No I am Not a Rat - Rewrite Options.md",
     "Marketing/Emails/Customer Emails/Initial Response - Copy Editing - Without Word Count.md",

@@ -151,5 +151,10 @@ This section contains specific feedback about your chapters. This feedback is in
 ### Chapter 23
 - This is good but remember any non-English speech should be in italics. I have altered this in this chapter. This is something to keep in mind for rereads etc. 
 ### Chapter 24
-- I wanted you to open the chapter with a better description of the writer. He has only been in one scene and I wanted you to remind the reader about the character and his appearance. 
+- I wanted you to open the chapter with a better description of the writer. He has only been in one scene and I wanted you to remind the reader about the character and his appearance.
+### Chapter 25
+- Good chapter. There's a few places where you need to put the Spanish words into italics.
+### Chapter 26
+
+
 

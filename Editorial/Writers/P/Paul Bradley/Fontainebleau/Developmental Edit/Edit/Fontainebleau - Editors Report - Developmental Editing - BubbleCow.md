@@ -155,6 +155,7 @@ This section contains specific feedback about your chapters. This feedback is in
 ### Chapter 25
 - Good chapter. There's a few places where you need to put the Spanish words into italics.
 ### Chapter 26
-
+- You need to add a better character description of Lucia, she's an important character. 
+- Ensure that you are putting Spanish in italics. 
 
 

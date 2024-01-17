@@ -26,7 +26,6 @@
       <li><a href="#themes-motifs">Themes and Motifs: Weaving Depth into Your Novel</a></li>
       <li><a href="#point-of-view">Point of View: Choosing the Right Lens for Your Story</a></li>
       <li><a href="#dialogue-description">Dialogue and Description: Painting Scenes with Words</a></li>
-      <li><a href="#editing-refining">Editing and Refining: Polishing Your Novel's Structure</a></li>
       <li><a href="#faq">Frequently Asked Questions</a></li>
       <li><a href="#conclusion">Conclusion: Embracing Flexibility in Novel Structure</a></li>
     </ul>
@@ -147,7 +146,6 @@
 
 <h2 id="dialogue-description">Dialogue and Description: Painting Scenes with Words</h2>
 
-<h2 id="editing-refining">Editing and Refining: Polishing Your Novel's Structure</h2>
 
 <h2 id="faq">Frequently Asked Questions</h2>
 

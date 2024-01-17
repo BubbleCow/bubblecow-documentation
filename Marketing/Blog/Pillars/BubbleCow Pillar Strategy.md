@@ -135,6 +135,15 @@ The goal of the blog is to help writers to become better writers.
 		- Post: World Building Basics - written
 	- Sub-pillar: Pacing
 	  - Post: Pacing: The Invisible Guide Of Storytelling - written
+	- -b-pillar: Narrative Point of View
+		- [[Third Person Point Of View - A Comprehensive Overview For Writers]] 
+		- [[Mastering the Second Person Viewpoint - A Comprehensive Guide]] 
+		- [[First Person Point of View - A Comprehensive Overview for Writers]]
+		- [[Mastering Point of View in Writing - A Comprehensive Guide]]
+		- What is a viewpoint narrative?
+		- What are examples of narrative point of view?
+		- What are the three main narrative viewpoints?
+		- What is meant by narrative perspective?
 - Pillar: [[Book Marketing and Promotion]]
 	- Sub-pillar: Effective book marketing strategies
 		- What is the best marketing strategy for a book?
@@ -213,15 +222,6 @@ The goal of the blog is to help writers to become better writers.
 		- How do you develop a compelling character?
 		- How do you create a nuanced character?
 		- How do you make a character interesting?
-	- Sub-pillar: Narrative Point of View
-		- [[Third Person Point Of View - A Comprehensive Overview For Writers]] 
-		- [[Mastering the Second Person Viewpoint - A Comprehensive Guide]] 
-		- [[First Person Point of View - A Comprehensive Overview for Writers]]
-		- [[Mastering Point of View in Writing - A Comprehensive Guide]]
-		- What is a viewpoint narrative?
-		- What are examples of narrative point of view?
-		- What are the three main narrative viewpoints?
-		- What is meant by narrative perspective?
 	- Sub-pillar: Writing fantasy
 		- How do you make a magic system in worldbuilding?
 		- What are the magic systems in fantasy?

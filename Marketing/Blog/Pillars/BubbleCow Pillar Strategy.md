@@ -132,6 +132,7 @@ The goal of the blog is to help writers to become better writers.
 	- Sub-pillar: Three-act structure
 	- Sub-pillar: Five-act structure
 	- Sub-pillar: World Building
+		- Post: World Building Basics - written
 - Pillar: [[Book Marketing and Promotion]]
 	- Sub-pillar: Effective book marketing strategies
 		- What is the best marketing strategy for a book?

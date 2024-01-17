@@ -112,7 +112,7 @@ The goal of the blog is to help writers to become better writers.
 - Pillar: Storytelling Techniques
 	- Sub-pillar: Novel Structure
 		- Post: [[The Importance Of Structure When Writing]]
-		- Post: What is the basic structure of a novel?
+		- Post: [[What is the basic structure of a novel]]?
 		- Post: What is the best structure for a novel?
 		- Post: What are the 4 structures of a story?
 		- Post: What is the 5 part structure of a story?
@@ -122,7 +122,7 @@ The goal of the blog is to help writers to become better writers.
 		- Post: What are the 5 basic stages of the hero's journey?
 		- Post: Is Percy Jackson a hero's journey?
 	- Sub-pillar: Snowflake Method
-		- Post: The Snowflake Method Of Writing In 10 Easy Steps - written
+		- Post: The Snowflake Method Of Writing In 10 Easy Steps
 		- Post: How does the snowflake method work?
 		- Post: What is the snowflake method of organizing?
 		- Post: How do you plot a novel using the snowflake method?

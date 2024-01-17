@@ -32,9 +32,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "914572598a0c7bac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "What is the basic structure of a novel.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -100,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Marketing/Blog/Pillars/BubbleCow Pillar Strategy.md",
+                "file": "What is the basic structure of a novel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Marketing/Blog/Pillars/BubbleCow Pillar Strategy.md",
+                "file": "What is the basic structure of a novel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Marketing/Blog/Pillars/BubbleCow Pillar Strategy.md"
+                "file": "What is the basic structure of a novel.md"
               }
             }
           }
@@ -161,15 +173,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "154dd9c4f5bc9e0e",
+  "active": "914572598a0c7bac",
   "lastOpenFiles": [
+    "Marketing/Blog/Pillars/BubbleCow Pillar Strategy.md",
+    "What is the basic structure of a novel.md",
     "Editorial/Reports/Developmental Editing/Non-fiction/Untitled.md",
     "Editorial/Writers/P/Paul Bradley/Fontainebleau/Developmental Edit/Edit/Fontainebleau - Editors Report - Developmental Editing - BubbleCow.md",
     "Editorial/Writers/T/Tony Farias/No I am Not a Rat/No I am not a rat - manuscript.md",
     "Editorial/Writers/T/Tony Farias/No I am Not a Rat/No I am Not a Rat - Rewrite Options.md",
     "Marketing/Emails/Customer Emails/Initial Response - Copy Editing - Without Word Count.md",
     "Marketing/Emails/Customer Emails/Initial Response - Copy Editing - With Word Count.md",
-    "Marketing/Blog/Pillars/BubbleCow Pillar Strategy.md",
     "Marketing/Blog/Pillars/Storytelling Techniques/Novel Structure/The Importance Of Structure When Writing.md",
     "Marketing/Blog/Pillars/Storytelling Techniques/Novel Structure",
     "Marketing/Blog/Pillars/Storytelling Techniques/Book Structure",
@@ -198,7 +211,6 @@
     "Editorial/Reports/Developmental Editing/Sample/FICTION BOOK TITLE- Sample - Editors Report - Development Editing - BubbleCow.md",
     "Marketing/Blog/Pillars/Writing Techniques and Styles/Narrative Point of View/Third Person Point Of View - A Comprehensive Overview For Writers.md",
     "Marketing/Blog/Pillars/Writing Techniques and Styles/Narrative Point of View/Mastering the Second Person Viewpoint - A Comprehensive Guide.md",
-    "Marketing/Blog/Pillars/Writing Techniques and Styles/Narrative Point of View/Mastering Point of View in Writing - A Comprehensive Guide.md",
-    "Marketing/Blog/Pillars/Writing Techniques and Styles/Narrative Point of View/First Person Point of View - A Comprehensive Overview for Writers.md"
+    "Marketing/Blog/Pillars/Writing Techniques and Styles/Narrative Point of View/Mastering Point of View in Writing - A Comprehensive Guide.md"
   ]
 }

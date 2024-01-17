@@ -137,4 +137,4 @@ This section contains specific feedback about your chapters. This feedback is in
 ### Chapter 15
 - This is the first chapter that you hint at money being a potential issue for the hotel. This is something that was developed in the novel but it not present in this version. See my editor's note above.  
 ### Chapter 16
-- This is a the first chapter where you fit the finances head on. However, as you will see from my editor's note, I think that you should make it clearer to the reader that money is an issue. I don't think that you need to say outright that finances are a problems in earlier chapters, but I do feel that you need to mention tw
+- This is a the first chapter where you fit the finances head on. However, as you will see from my editor's note, I think that you should make it clearer to the reader that money is an issue. I don't think that you need to say outright that finances are a problems in earlier chapters, but I do feel that you need to mention two or three times that the hotel is struggling to break even. This will create a low level tension and then allow this chapter to have a greater impact.  

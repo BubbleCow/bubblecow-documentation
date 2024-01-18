@@ -101,7 +101,7 @@ If you're juggling a bunch of numbers within the same paragraph or series of par
 
 do we need an introduction? the reader needs to know who the person talking is
 adverbs
-lack of cash is an on going theme 
+lack of cash is an on going theme  - why suddenly good in chapter 32, need to make it clear what aletrs to allow it to be paind off. 
 hotel is a character
 lost threart of the income
 ## Chapter Feedback
@@ -162,6 +162,16 @@ This section contains specific feedback about your chapters. This feedback is in
 ### Chapter 28
 - Good chapter. I always like when you saw insights into the local culture and habits. I think these things are fascinating to the reader, especially an English reader.
 ## Chapter 29
+- I loved the insight into a Spanish celebration but the crash back to reality with the sale of the Rolls at the end of the chapter works really well. 
+### Chapter 30
+- Good chapter. 
+### Chapter 31
+- Be careful with the capatilsation of Dad.  
+### Chapter 32
+- In the previous chapters, you are talking about money being a problem, but, suddenly, in this chapter the debt is repaid. What changed? 
+### Chapter 33
+-
+
 
 
 

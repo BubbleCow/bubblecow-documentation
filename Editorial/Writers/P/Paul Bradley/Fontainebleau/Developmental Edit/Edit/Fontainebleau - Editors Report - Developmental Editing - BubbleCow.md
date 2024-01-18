@@ -159,5 +159,9 @@ This section contains specific feedback about your chapters. This feedback is in
 - Ensure that you are putting Spanish in italics. 
 ### Chapter 27
 - This is the one of the few chances you get to describe the village, add a more detailed description. 
+### Chapter 28
+- Good chapter. I always like when you saw insights into the local culture and habits. I think these things are fascinating to the reader, especially an English reader.
+## Chapter 29
+
 
 

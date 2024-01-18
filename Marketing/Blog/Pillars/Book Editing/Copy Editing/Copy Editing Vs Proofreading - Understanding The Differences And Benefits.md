@@ -49,6 +49,10 @@
 
 <p>Copy editing is a comprehensive process that requires a keen eye for detail, a good understanding of grammar and style, and a thorough knowledge of the English language. It is a time-consuming process that requires a lot of patience and attention to detail, but the end result is a well-written and error-free text.</p>
 
+<div class="alert alert-primary" role="alert">
+ Get a free instant quote for copy editing your book with <a href="https://bubblecow.com/copy-editing#item-price-calculator">our copy editing price calculator</a>.
+</div>
+
 <h2 id="item-3">What is Proofreading?</h2>
 
 <p>Proofreading is the final step in the editing process and involves checking the text for any remaining errors such as typos, misspellings, and grammatical mistakes. The goal of proofreading is to catch any errors that may have been missed during the copy editing process and ensure that the text is error-free and ready for publication or distribution.</p>

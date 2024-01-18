@@ -25,6 +25,28 @@
 
     <div itemscope itemtype="https://schema.org/ImageObject">
       <img 
+        alt="a novel surrounded by scaffolding" 
+        itemprop="contentUrl" 
+        src="https://bubblecow.com/assets/importance-of-structure-when-writing-a-novel-compressed" 
+        class="post-media img-fluid rounded mx-auto d-block mt-1 mb-1" 
+        width="700" height="400"
+        />
+      <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+        <meta itemprop="name" content="Gary Smailes" />
+      </span>
+    </div>
+
+<p>Structure in novel writing is vital, acting as a blueprint for storytelling. It guides the narrative flow, ensuring coherence and engagement. A well-planned structure helps maintain focus, effectively develops characters, and delivers a satisfying reader experience.</p>
+
+<div class="alert alert-primary" role="alert">
+ Discover the importance of structure by <a href="https://bubblecow.com/blog/importance-of-structure">checking out this article</a>.
+</div>
+
+
+<h2 id="basic-structure-of-a-novel">What is the basic structure of a novel?</h2>
+
+    <div itemscope itemtype="https://schema.org/ImageObject">
+      <img 
         alt="a book surrounded by scaffolding" 
         itemprop="contentUrl" 
         src="https://bubblecow.com/assets/what-is-the-basic-structure-of-a-novel-compressed" 
@@ -39,7 +61,7 @@
 <p>Structure in writing serves as a roadmap, guiding readers through the narrative journey. It provides a framework that shapes the story, ensuring clarity and coherence. Without structure, stories risk becoming disjointed, losing the reader's engagement and diluting the impact of the narrative.</p>
 
 <div class="alert alert-primary" role="alert">
- Find out more about the basics of nove structure by <a href="https://bubblecow.com/blog/what-is-the-basic-structure-of-a-novel">reading this article</a>.
+ Find out more about the basics of novel structure by <a href="https://bubblecow.com/blog/what-is-the-basic-structure-of-a-novel">reading this article</a>.
 </div>
 
 </div>

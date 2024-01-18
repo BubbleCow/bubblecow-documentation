@@ -157,5 +157,7 @@ This section contains specific feedback about your chapters. This feedback is in
 ### Chapter 26
 - You need to add a better character description of Lucia, she's an important character. 
 - Ensure that you are putting Spanish in italics. 
+### Chapter 27
+- This is the one of the few chances you get to describe the village, add a more detailed description. 
 
 

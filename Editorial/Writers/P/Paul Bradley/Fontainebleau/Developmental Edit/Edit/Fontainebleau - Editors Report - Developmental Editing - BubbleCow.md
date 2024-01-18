@@ -174,6 +174,15 @@ This section contains specific feedback about your chapters. This feedback is in
 - Good chapter.
 ### Chapter 34
 - I think that you are ok in most of this chapter with minimal description. However, when he goes to the bathroom to fix a problem you need to layer in better description to allow the reader to picture the scene. 
+- I wanted you to make more of the drain situation. My brother often tells me stories of the way the Spanish drainage system fails. I think its common place for the system to be badly designed. he also jokes that the first rain of the year brings loads of jobs as the drains laid during the summer start to fail. 
+### Chapter 35
+- Good chapter. 
+### Chapter 36
+- This chapter is good and I think it is natural that he is thinking about going back to the UK. However, I don't think you have managed to lay out what the main character is looking for in life and what he thinks happiness looks like. If the reader knows, then these types of choices make mire sense. I have wrote more about this above. 
+### Chapter 37
+- Good chapter. 
+### Chapter 38
+- In the driving test section provide a better descritpion of the location. This is a chance for the reader to be able to pict
 
 
 

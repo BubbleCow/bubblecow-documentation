@@ -104,6 +104,7 @@ adverbs
 lack of cash is an on going theme  - why suddenly good in chapter 32, need to make it clear what aletrs to allow it to be paind off. 
 hotel is a character
 lost threart of the income
+what is hte main chatracer seeking? What will it looklik ewhen hr finds it? What will he have to overcome?
 ## Chapter Feedback
 This section contains specific feedback about your chapters. This feedback is in addition to the Specific Feedback.  
 ### Chapter 1 
@@ -170,7 +171,9 @@ This section contains specific feedback about your chapters. This feedback is in
 ### Chapter 32
 - In the previous chapters, you are talking about money being a problem, but, suddenly, in this chapter the debt is repaid. What changed? 
 ### Chapter 33
--
+- Good chapter.
+### Chapter 34
+- I think that you are ok in most of this chapter with minimal description. However, when he goes to the bathroom to fix a problem you need to layer in better description to allow the reader to picture the scene. 
 
 
 

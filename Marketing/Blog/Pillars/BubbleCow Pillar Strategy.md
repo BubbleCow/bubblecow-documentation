@@ -113,10 +113,11 @@ The goal of the blog is to help writers to become better writers.
 	- Sub-pillar: [[Novel Structure]]
 		- Post: [[The Importance Of Structure When Writing]]
 		- Post: [[What is the basic structure of a novel]]?
-		- Post: What is the best structure for a novel?
+		- Post: [[What is the best structure for a novel]]?
 		- Post: What are the 4 structures of a story?
 		- Post: What is the 5 part structure of a story?
 	- Sub-pillar: Hero's Journey
+		- Post: Using the hero's journey to write a novel
 		- Post: What are the 12 steps of the hero's journey?
 		- Post: What are the 12 stages of the hero's quest?
 		- Post: What are the 5 basic stages of the hero's journey?

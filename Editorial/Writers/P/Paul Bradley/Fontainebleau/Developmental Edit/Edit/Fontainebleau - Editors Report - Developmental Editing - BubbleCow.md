@@ -105,6 +105,7 @@ lack of cash is an on going theme  - why suddenly good in chapter 32, need to ma
 hotel is a character
 lost threart of the income
 what is hte main chatracer seeking? What will it looklik ewhen hr finds it? What will he have to overcome?
+What happend to David Wilkes the writer?
 ## Chapter Feedback
 This section contains specific feedback about your chapters. This feedback is in addition to the Specific Feedback.  
 ### Chapter 1 
@@ -182,7 +183,9 @@ This section contains specific feedback about your chapters. This feedback is in
 ### Chapter 37
 - Good chapter. 
 ### Chapter 38
-- In the driving test section provide a better descritpion of the location. This is a chance for the reader to be able to pict
+- In the driving test section provide a better description of the location. This is a chance for the reader to be able to picture Malaga and the surrounding area.
+### Chapter 39
+- At the start of this chapter you talk about the lack of guests. I wanted to know why the drop off and what the main character felt would be needed to be done to fix the problem. I wanted the reader to have some idea of potential solutions.
 
 
 

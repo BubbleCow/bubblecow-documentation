@@ -43,7 +43,7 @@
 </div>
 
 
-<h2 id="basic-structure-of-a-novel">What is the basic structure of a novel?</h2>
+<h2 id="best-structure-of-a-novel">What is the basic structure of a novel?</h2>
 
     <div itemscope itemtype="https://schema.org/ImageObject">
       <img 
@@ -61,7 +61,28 @@
 <p>Structure in writing serves as a roadmap, guiding readers through the narrative journey. It provides a framework that shapes the story, ensuring clarity and coherence. Without structure, stories risk becoming disjointed, losing the reader's engagement and diluting the impact of the narrative.</p>
 
 <div class="alert alert-primary" role="alert">
- Find out more about the basics of novel structure by <a href="https://bubblecow.com/blog/what-is-the-basic-structure-of-a-novel">reading this article</a>.
+ <a href="https://bubblecow.com/blog/what-is-the-basic-structure-of-a-novel">Find out more about the basics of novel structure by reading this article</a>.
+</div>
+
+<h2 id="best-structure-for-a-novel">What is the best structure of a novel?</h2>
+
+    <div itemscope itemtype="https://schema.org/ImageObject">
+      <img 
+        alt="the best book surrounded by scaffolding" 
+        itemprop="contentUrl" 
+        src="https://bubblecow.com/assets/what-is-the-best-structure-of-a-novel-compressed" 
+        class="post-media img-fluid rounded mx-auto d-block mt-1 mb-1" 
+        width="700" height="400"
+        />
+      <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+        <meta itemprop="name" content="Gary Smailes" />
+      </span>
+    </div>
+
+<p>The ideal novel structure balances character development, plot progression, and thematic depth. The three-act structure is widely favored, featuring a clear beginning, conflict, and resolution. Yet, flexibility reigns supreme, as genres like mystery or fantasy might demand unique frameworks. Ultimately, the best structure resonates with the story's heart and the writer's intent, creating an immersive and compelling narrative journey for readers.</p>
+
+<div class="alert alert-primary" role="alert">
+ <a href="https://bubblecow.com/blog/what-is-the-basic-structure-of-a-novel">Discover the best novel structure in this article</a>.
 </div>
 
 </div>

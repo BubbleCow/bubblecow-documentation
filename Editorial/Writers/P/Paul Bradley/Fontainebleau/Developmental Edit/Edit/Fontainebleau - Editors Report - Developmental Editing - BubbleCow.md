@@ -106,6 +106,7 @@ hotel is a character
 lost threart of the income
 what is hte main chatracer seeking? What will it looklik ewhen hr finds it? What will he have to overcome?
 What happend to David Wilkes the writer?
+return to enlgsnd is rushed chapter 40
 ## Chapter Feedback
 This section contains specific feedback about your chapters. This feedback is in addition to the Specific Feedback.  
 ### Chapter 1 
@@ -187,8 +188,8 @@ This section contains specific feedback about your chapters. This feedback is in
 ### Chapter 39
 - At the start of this chapter you talk about the lack of guests. I wanted to know why the drop off and what the main character felt would be needed to be done to fix the problem. I wanted the reader to have some idea of potential solutions.
 ## Chapter 40
-- This is a good chapter but I want more about the struggles are returning to the UK. I think the problem is that the model for happiness is not defined. I feel in the openign chapters, you need to clearly set out what the main character feels happiness 'looks like', and why returning to the UK is such a difference. 
-- 
-
-
-
+- This is a good chapter but I want more about the struggles are returning to the UK. I think the problem is that the model for happiness is not defined. I feel in the opening chapters, you need to clearly set out what the main character feels happiness 'looks like', and why returning to the UK is such a difference. 
+- This chapter feels a little rushed, I have made a note above.
+### Chapter 41
+- Good chapter.
+### Chapter 42

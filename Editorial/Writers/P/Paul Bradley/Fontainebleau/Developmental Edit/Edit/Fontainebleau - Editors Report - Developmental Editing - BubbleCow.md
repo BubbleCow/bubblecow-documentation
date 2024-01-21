@@ -193,3 +193,4 @@ This section contains specific feedback about your chapters. This feedback is in
 ### Chapter 41
 - Good chapter.
 ### Chapter 42
+- I like that this chapter really leans into the nostalgia of the holidays in Spain. 

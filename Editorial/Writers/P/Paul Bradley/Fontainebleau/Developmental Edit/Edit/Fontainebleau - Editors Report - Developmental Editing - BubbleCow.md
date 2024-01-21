@@ -197,3 +197,5 @@ This section contains specific feedback about your chapters. This feedback is in
 ### Chapter 43
 - I loved the welcome meeting in this chapter. I think your examination of the nostalgia aspect of the story is very effective. 
 ### Chapter 44
+- I loved the  flamenco scene, I can picture this from my childhood trips to Spain. 
+### Chapter 45

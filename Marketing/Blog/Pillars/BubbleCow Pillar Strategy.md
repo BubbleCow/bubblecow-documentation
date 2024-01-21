@@ -125,11 +125,10 @@ The goal of the blog is to help writers to become better writers.
 	- Sub-pillar: Non-Linear Narratives
 	- Sub-pillar: Episodic Structure
 	- Sub-pillar: Snowflake Method
-		- Post: The Snowflake Method Of Writing In 10 Easy Steps
+		- Post: [[The Snowflake Method Of Writing In 10 Easy Steps]]
 		- Post: How does the snowflake method work?
 		- Post: What is the snowflake method of organizing?
 		- Post: How do you plot a novel using the snowflake method?
-		- Post: What are the three disasters in the snowflake method?
 	- Sub-pillar: Three-act structure
 	- Sub-pillar: Five-act structure
 	- Sub-pillar: World Building

@@ -188,6 +188,7 @@ This section contains specific feedback about your chapters. This feedback is in
 - At the start of this chapter you talk about the lack of guests. I wanted to know why the drop off and what the main character felt would be needed to be done to fix the problem. I wanted the reader to have some idea of potential solutions.
 ## Chapter 40
 - This is a good chapter but I want more about the struggles are returning to the UK. I think the problem is that the model for happiness is not defined. I feel in the openign chapters, you need to clearly set out what the main character feels happiness 'looks like', and why returning to the UK is such a difference. 
+- 
 
 
 

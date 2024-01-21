@@ -186,6 +186,7 @@ This section contains specific feedback about your chapters. This feedback is in
 - In the driving test section provide a better description of the location. This is a chance for the reader to be able to picture Malaga and the surrounding area.
 ### Chapter 39
 - At the start of this chapter you talk about the lack of guests. I wanted to know why the drop off and what the main character felt would be needed to be done to fix the problem. I wanted the reader to have some idea of potential solutions.
+## Chapter 40
 
 
 

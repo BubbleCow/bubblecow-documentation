@@ -193,4 +193,7 @@ This section contains specific feedback about your chapters. This feedback is in
 ### Chapter 41
 - Good chapter.
 ### Chapter 42
-- I like that this chapter really leans into the nostalgia of the holidays in Spain. 
+- I like that this chapter really leans into the nostalgia of the holidays in Spain. personal
+### Chapter 43
+- I loved the welcome meeting in this chapter. I think your examination of the nostalgia aspect of the story is very effective. 
+### Chapter 44

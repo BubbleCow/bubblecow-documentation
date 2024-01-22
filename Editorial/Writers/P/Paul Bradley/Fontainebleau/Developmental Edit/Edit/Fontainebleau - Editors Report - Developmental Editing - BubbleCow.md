@@ -97,6 +97,24 @@ If you're juggling a bunch of numbers within the same paragraph or series of par
 > No.
   
 ## Strengths and Weaknesses
+I really enjoyed this version of your book. Here's what found particularly interesting:
+
+**Successful Non-Fiction Transition**: The most notable achievement of this book is its seamless transition from a fictional narrative to a non-fiction format. You have managed to maintain the allure of storytelling while providing valuable insights and information about the setting and culture of Spain. This blending of genres is executed flawlessly and sets the book apart in the non-fiction genre.
+
+**Dual Characterization**: A unique aspect of this book is the presence of two distinct characters - the protagonist and the hotel. These entities are brought to life in such a way that they become central figures in the narrative. The reader forms a deep connection with both, and their development throughout the book is masterfully executed.
+
+**Confident and Engaging Writing Voice**: Your writing voice exudes confidence and captivates the reader from the very beginning. This engaging style not only keeps the reader engrossed but also enhances the overall reading experience. It is evident that you are well-versed in their subject matter, which adds to the book's credibility.
+
+**Clever Mix of Storytelling and Nostalgia**: One of the book's standout qualities is its ability to evoke a sense of nostalgia while telling a compelling story. The inclusion of nostalgia adds depth to the narrative, allowing readers to connect with the experiences and emotions of the characters.
+
+**Cultural Integration**: The book successfully weaves the rich culture of the Spanish setting into the story. It doesn't merely serve as a backdrop but becomes an integral part of the narrative. This cultural immersion enriches the reading experience, making readers feel as if they are exploring Spain alongside the characters.
+
+**Fully Formed Three-Dimensional Characters**: The characters in the book are not mere placeholders but fully formed and three-dimensional. Their complexity and relatability make them come alive on the pages. Readers will find themselves emotionally invested in their journeys.
+
+This said, there were still a few elements that need addressing:
+
+
+
 
 
 do we need an introduction? the reader needs to know who the person talking is

@@ -201,3 +201,4 @@ This section contains specific feedback about your chapters. This feedback is in
 ### Chapter 45
 - Good chapter. 
 ### Chapter 46
+- As with the other chapters, I think this delve into the culture and rituals is very engaging for the reader. 

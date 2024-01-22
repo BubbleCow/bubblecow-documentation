@@ -50,7 +50,6 @@ The editor’s report should be read first, and is designed to ease you into the
 I’ve split the report into several sections...
 #### Typographical and Stylistic Details
 You’ll find a summary of your book’s typographical and stylistic details, which lists things such as what form of English your book is written in, how you’re writing out times, whether you’re using the Oxford comma or not, etc. This section is useful as it collates information and serves as a future reference. It will also help you enforce a level of consistency on your book.
-
 #### Strengths and Weaknesses
 You’ll also find pointers that will give you an overview of what I think are the manuscript’s key strengths and weaknesses. If they’re turning up here, they are some of the manuscript’s biggest and most persistent problems, and will need addressing before any others. I’ll explain what the problem is, how it is manifested in your book, and why it is a problem. I’ll also suggest at least one possible solution.
 
@@ -77,25 +76,17 @@ Please note, many of these changes have been made to help in the eBook conversio
 Below is a list of changes that have been made to help with readability and add consistency. 
 ### Language
 
-> [!warning]
-> American English
-> British English
+British English
 ### Numeric Notation 
 Spell out whole numbers up to (and including) one hundred (e.g., zero, one, ten, ninety-six, 104). Spell out numbers that begin a sentence unless it begins with a year (e.g., "Twelve drummers," "The ten lords a-leaping," "2011's quota for off-season holiday references has been filled."). 
 
 Spell out ordinal numbers up to (and including) "hundredth" (e.g., second, sixty-first, 333rd, 1,024th). 
 
 If you're juggling a bunch of numbers within the same paragraph or series of paragraphs, be flexible with the number style if doing so will improve clarity and comprehension. For example, use one number style for items in one category and another style for another category: "I read four books with more than 400 pages, sixty books with more than 100 pages, and a hundred articles with less than 4 pages."
-
 ### Speech Marks
-> [!warning]
-> Double for direct, single for reported. 
-> Single for direct, double for reported
+Double for direct, single for reported. 
 ### Oxford Comma
-> [!warning]
-> Yes.
-> No.
-  
+No.
 ## Strengths and Weaknesses
 I really enjoyed this version of your book. Here's what found particularly interesting:
 
@@ -155,15 +146,18 @@ The second pacing issue arises in Chapter 40 when the main character returns to 
 
 By addressing these pacing issues in Chapter 32 and Chapter 40, the narrative gains greater depth and clarity, allowing readers to fully immerse themselves in the character's financial and emotional journey, and enhancing their overall engagement with the story.
 
-do we need an introduction? the reader needs to know who the person talking is
-adverbs
+## Introduction?
+Introducing a non-fiction book, especially one as rich and captivating as the tale of a man who embarked on a life-changing journey to Spain in the 1970s to purchase a hotel, can greatly enhance the reader's engagement and understanding of the narrative. This introduction serves as the gateway into a world of dreams, challenges, and triumphs that lie ahead.
 
+The story of this man's transformation and the acquisition of the hotel is one that captivates readers with its vivid portrayal of life in Spain during the 1970s. As the reader embarks on this journey, it is only fitting to provide a brief glimpse into the author's background and motivation behind penning this remarkable tale.
 
+The introduction can offer a glimpse into the author's own life before this pivotal decision, providing insight into what led him to leave his previous life and embark on this adventure. This context helps readers connect with the author on a personal level and understand the motivations behind the narrative. Additionally, an introduction can set the stage for the reader by offering a glimpse into the cultural, social, and historical backdrop of Spain during the 1970s. It can provide a brief overview of the political climate, the social dynamics, and the economic conditions, which will help readers contextualize the events and challenges that unfold in the book.
 
-
+Moreover, it is an opportunity to create a sense of anticipation, drawing readers in with the promise of a captivating story of transformation, personal growth, and the pursuit of happiness in a foreign land.
 ### What happened to David Wilkes? 
+David Wilkes, a character who once held a prominent role in the initial version of the book, has seen his presence diminish in the current narrative. However, recognizing his potential to enrich the story, it is worth revisiting and redeveloping his character to breathe new life into the tale.
 
-
+In the initial version, David Wilkes was a strong and impactful figure, leaving a lasting impression on readers. To harness this potential further, consider reintroducing him into the narrative with more substantial interactions. His role can be expanded, allowing readers to become more deeply acquainted with his character and his dynamic with the main character. One way to achieve this is to emphasize the significance of David Wilkes' book within the context of the story. His work could be portrayed as a catalyst or a source of inspiration for the main character, contributing in some way to the eventual success of the hotel. This connection adds depth to David Wilkes' character and underscores the role he plays in the protagonist's journey.
 ## Chapter Feedback
 This section contains specific feedback about your chapters. This feedback is in addition to the Specific Feedback.  
 ### Chapter 1 

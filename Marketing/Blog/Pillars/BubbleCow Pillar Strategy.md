@@ -111,7 +111,7 @@ The goal of the blog is to help writers to become better writers.
 	    - Career Development In Book Editing - written
 - Pillar: [[Storytelling Techniques]]
 	- Sub-pillar: [[Novel Structure]]
-		- Post: [[The Importance Of Structure When Writing]]
+		- Post: [[The Importance Of Structure When Writing a novel]]
 		- Post: [[What is the basic structure of a novel]]?
 		- Post: [[What is the best structure for a novel]]?
 		- Post: What are the 4 structures of a story?

@@ -85,4 +85,25 @@
  <a href="https://bubblecow.com/blog/what-is-the-basic-structure-of-a-novel">Discover the best novel structure in this article</a>.
 </div>
 
+<h2 id="four-structures-of-a-story">What are the 4 structures of a story?</h2>
+
+    <div itemscope itemtype="https://schema.org/ImageObject">
+      <img 
+        alt="book surrounded by scaffolding" 
+        itemprop="contentUrl" 
+        src="https://bubblecow.com/assets/what-are-the-4-structures-of-a-story-compressed" 
+        class="post-media img-fluid rounded mx-auto d-block mt-1 mb-1" 
+        width="700" height="400"
+        />
+      <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+        <meta itemprop="name" content="Gary Smailes" />
+      </span>
+    </div>
+
+<p>Dive into storytelling's heart with four structures shaping narratives: Linear (a classic beginning-to-end journey), Non-linear (a time-jumping, perspective-shifting puzzle), Circular (where the end mirrors the beginning), and Interactive (a modern twist where audience choices drive the story). Each structure offers a distinct storytelling experience, blending tradition with innovation.</p>
+
+<div class="alert alert-primary" role="alert">
+ <a href="https://bubblecow.com/blog/what-are-the-4-structures-of-a-story">Jump into the four novel structures in this article</a>.
+</div>
+
 </div>

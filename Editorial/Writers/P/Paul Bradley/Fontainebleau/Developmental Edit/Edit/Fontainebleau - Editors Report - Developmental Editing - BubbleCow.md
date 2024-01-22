@@ -210,4 +210,8 @@ This section contains specific feedback about your chapters. This feedback is in
 ### Chapter 49
 - Good chapter, the transition away from the hotel make logical sense and the book feels as though its drawing to a natural conclusion. 
 ### Chapter 50
-- 
+- Good chapter. 
+### Chapter 51
+- Love this chapter. I like the way you have finally resolved the issue of sustainable business. It seems like the arc for the hotel. 
+### Epilogue
+- Good ending. 

@@ -113,19 +113,57 @@ I really enjoyed this version of your book. Here's what found particularly inter
 
 This said, there were still a few elements that need addressing:
 
+**Main Character's Emotional Arc**: While the main character is well-developed and three-dimensional, there is room for improvement in terms of the emotional arc. It would greatly benefit the narrative if the character's goals were clearly defined from the outset. This will provide readers with a stronger sense of purpose and direction for the protagonist, allowing them to better connect with and root for the character throughout their journey.
 
+**Financial Problems of the Hotel**: The financial problems of the hotel, being one of the central elements in the narrative, require more attention and exploration. To enhance the book, consider delving deeper into the specifics of these financial challenges. This could involve providing more context, details, and perhaps even historical background related to the hotel's financial struggles. This added depth will not only make the story more engaging but also enable readers to better understand the significance of these challenges to the overall narrative.
 
+### Main Character's Emotional Arc
+The main character in the book is undoubtedly a well-crafted individual, and his physical journey throughout the narrative is clear and compelling. However, to truly enrich his emotional arc and make it resonate with readers, a few essential elements need to be addressed.
 
+In the opening chapters, it is crucial to establish why the protagonist is unhappy in the UK. Readers need to delve into the depths of his dissatisfaction, understanding the root causes that drive him to seek a life-changing adventure in Spain. Is it the monotony of his daily routine, unfulfilling work, or a sense of longing for something more? These initial chapters should paint a vivid picture of his discontentment, setting the stage for his transformation.
+
+To strengthen his emotional arc, it is imperative to illustrate what he believes happiness looks like. This can be achieved through both conversations with other characters and his internal dialogue. Readers should gain insight into his aspirations, and one pivotal image could be his desire to own a house bathed in the warm Spanish sun. This visual representation becomes a symbol of his dreams and what he believes will bring him happiness.
+
+Furthermore, the narrative should clearly establish the steps he envisions to reach this goal. These steps, predominantly financial in nature, might include savings targets, investment plans, or a vision of his career path. Additionally, the idea of a family could be intertwined with his vision of happiness, amplifying the emotional stakes. This provides readers with a roadmap of his ambitions and sets the tone for the journey ahead.
+
+Once the reader is crystal clear about what happiness looks like for the protagonist, the story can organically unfold. The reader becomes emotionally invested in his pursuit of this vision, creating a strong bond with the character.
+
+In the final chapters, as the protagonist nears the realization of his dream, it's essential to introduce moments of intense doubt and seemingly insurmountable obstacles. The first of these challenges could be his return to the UK, where the familiarity of his old life threatens to pull him back. This creates a moment of internal conflict that tests his commitment to his newfound path.
+
+The second significant obstacle should be closely linked to the failing hotel and financial issues. This can be a culmination of the struggles he faces along his journey. As the dream teeters on the edge of collapse, readers will share in his desperation, making the ultimate achievement of his goal all the more satisfying.
+
+By addressing these aspects of the main character's emotional arc, the narrative will resonate more deeply with readers, creating a compelling and emotionally charged journey of transformation and fulfillment.
+### Financial Problems for the Hotel
+The financial plight of the hotel is a pivotal element in the narrative, and its portrayal must be carefully orchestrated to create a sense of constant tension and suspense throughout the book. From the very start, it should be abundantly clear that the hotel is teetering on the brink of financial disaster. Readers must grasp the precariousness of the situation, understanding that the hotel's survival is hanging by a thread. This sense of impending doom should permeate the early chapters, setting a somber tone and highlighting the urgency of the situation.
+
+Each passing season should only amplify the struggle. As the story unfolds, it should appear that the hotel is barely scraping through, with each financial victory overshadowed by the looming uncertainty of the approaching winter. This cycle of hope followed by despair serves to intensify the reader's apprehension, keeping them engaged and invested in the hotel's fate.
+
+While the father may initially keep the full extent of the financial struggle a secret, the underlying tension should remain palpable. Subtle hints and glimpses of financial difficulties should be sprinkled throughout the first half of the book, leaving readers with a nagging sense that something is amiss.
+
+In the middle of the story, the full nature of the problem comes to light, casting a dark shadow over the hotel's prospects. Moments of crisis and despair should abound, making it seem as though everything is on the verge of collapse. These tumultuous periods keep the reader on edge, wondering if the hotel can ever overcome these seemingly insurmountable obstacles.
+
+The latter part of the book, particularly from the protagonist's retirement onwards, should focus on the steps he takes to improve the hotel's finances. Incremental progress should be evident, with each passing month bringing about positive changes. Readers should witness a gradual upturn in the hotel's fortunes, and with each chapter, the tension should heighten as the financial situation improves. This steady buildup of momentum leads to the final chapters, where the hotel experiences a significant turnaround, flourishing and thriving.
+
+This carefully orchestrated narrative of financial struggle, tension, and ultimate triumph serves as a powerful driving force, compelling readers to eagerly turn the pages, eager to see if the hotel can indeed emerge from the brink of collapse to achieve financial success.
+
+### Moments the Pacing is Off
+Pacing is a crucial element in storytelling, determining the speed at which the narrative unfolds and the reader's engagement. In this non-fiction book set in Spain, there are two instances where the pacing feels rushed, leaving readers wanting for more depth and clarity.
+
+The first of these moments occurs in Chapter 32. Here, there is a sudden mention of a debt being repaid, seemingly out of nowhere. This development lacks adequate explanation and leaves readers wondering how such a significant financial shift has occurred. To rectify this, the narrative needs to provide a clearer depiction of the steps taken to address this debt, the changes that have transpired to make repayment possible, and the impact of this action on the overall financial situation. By delving into these details, the reader gains a deeper understanding of the character's financial journey and the significance of this pivotal moment.
+
+The second pacing issue arises in Chapter 40 when the main character returns to the UK. This section feels rushed, and the narrative lacks the emotional depth required for a significant turning point. To rectify this, it is essential to add more detail to this portion of the story. The reader should be able to feel the weight of the character's failure and the crushing sense of distance from his dream of living in the sun. The character's internal turmoil, regrets, and sense of desolation should be vividly portrayed, allowing readers to empathize with his struggle and disappointment. By slowing down the pacing and exploring the character's emotional journey in more depth, this pivotal moment becomes more impactful and emotionally resonant.
+
+By addressing these pacing issues in Chapter 32 and Chapter 40, the narrative gains greater depth and clarity, allowing readers to fully immerse themselves in the character's financial and emotional journey, and enhancing their overall engagement with the story.
 
 do we need an introduction? the reader needs to know who the person talking is
 adverbs
-lack of cash is an on going theme  - why suddenly good in chapter 32, need to make it clear what aletrs to allow it to be paind off. 
-hotel is a character
-lost threart of the income
-what is hte main chatracer seeking? What will it looklik ewhen hr finds it? What will he have to overcome?
-What happend to David Wilkes the writer?
-return to enlgsnd is rushed chapter 40
-needs an emotioknal conclsuoin - cjapter 48, house in the sun
+
+
+
+
+### What happened to David Wilkes? 
+
+
 ## Chapter Feedback
 This section contains specific feedback about your chapters. This feedback is in addition to the Specific Feedback.  
 ### Chapter 1 

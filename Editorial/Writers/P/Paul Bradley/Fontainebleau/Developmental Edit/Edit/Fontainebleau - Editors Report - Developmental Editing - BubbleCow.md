@@ -107,7 +107,7 @@ lost threart of the income
 what is hte main chatracer seeking? What will it looklik ewhen hr finds it? What will he have to overcome?
 What happend to David Wilkes the writer?
 return to enlgsnd is rushed chapter 40
-needs an emotioknal conclsuoin
+needs an emotioknal conclsuoin - cjapter 48, house in the sun
 ## Chapter Feedback
 This section contains specific feedback about your chapters. This feedback is in addition to the Specific Feedback.  
 ### Chapter 1 
@@ -206,4 +206,8 @@ This section contains specific feedback about your chapters. This feedback is in
 ### Chapter 47
 - This is another good chapter with strong links to the culture. These strike a really nice balance between building a picture of the village and the story of the hotel. 
 ### Chapter 48
+- This seems to be the climax of the book. The fact they have their own place in Spain. This needs two things. The first is a better description of the reader can picture the scene. The second is more set up, see my bigger editor's note. 
+### Chapter 49
+- Good chapter, the transition away from the hotel make logical sense and the book feels as though its drawing to a natural conclusion. 
+### Chapter 50
 - 

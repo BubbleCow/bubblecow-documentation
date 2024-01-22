@@ -107,6 +107,7 @@ lost threart of the income
 what is hte main chatracer seeking? What will it looklik ewhen hr finds it? What will he have to overcome?
 What happend to David Wilkes the writer?
 return to enlgsnd is rushed chapter 40
+needs an emotioknal conclsuoin
 ## Chapter Feedback
 This section contains specific feedback about your chapters. This feedback is in addition to the Specific Feedback.  
 ### Chapter 1 
@@ -202,3 +203,7 @@ This section contains specific feedback about your chapters. This feedback is in
 - Good chapter. 
 ### Chapter 46
 - As with the other chapters, I think this delve into the culture and rituals is very engaging for the reader. 
+### Chapter 47
+- This is another good chapter with strong links to the culture. These strike a really nice balance between building a picture of the village and the story of the hotel. 
+### Chapter 48
+- 

@@ -11,8 +11,12 @@
             "id": "fab65a582fe6d7f0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Marketing/Blog/Pillars/BubbleCow Pillar Strategy.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Marketing/Blog/Pillars/BubbleCow Pillar Strategy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Marketing/Blog/Pillars/BubbleCow Pillar Strategy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Marketing/Blog/Pillars/BubbleCow Pillar Strategy.md"
+              }
             }
           }
         ]
@@ -140,13 +148,15 @@
   },
   "active": "fab65a582fe6d7f0",
   "lastOpenFiles": [
+    "What is the 5 part structure of a story.md",
+    "Marketing/Blog/Pillars/Storytelling Techniques/Novel Structure/What is the 5 part structure of a story.md",
+    "Marketing/Blog/Pillars/BubbleCow Pillar Strategy.md",
     "Editorial/Writers/P/Paul Bradley/Fontainebleau/Developmental Edit/Edit/Fontainebleau - Editors Report - Developmental Editing - BubbleCow.md",
     "Editorial/Writers/P/Paul Bradley/Fontainebleau/Developmental Edit/Edit/The Fontainebleau - new version 2 - developemental edit - BubbleCow.docx",
     "Editorial/Writers/P/Paul Bradley/Fontainebleau/Developmental Edit/Edit/The Fontainebleau - new version 2 - developemental edit - BubbleCow(2).docx",
     "Editorial/Writers/P/Paul Bradley/Fontainebleau/Developmental Edit/Edit/lu28902ebw1h.tmp",
     "Editorial/Writers/P/Paul Bradley/Fontainebleau/Developmental Edit/Edit/Fontainebleau - Editors Report - Developmental Editing - BubbleCow.docx",
     "Marketing/Blog/Pillars/Storytelling Techniques/Novel Structure/What are the 4 structures of a story.md",
-    "Marketing/Blog/Pillars/BubbleCow Pillar Strategy.md",
     "Marketing/Blog/Pillars/Storytelling Techniques/Snowflake Method",
     "Marketing/Blog/Pillars/Storytelling Techniques/Snowflake Method/The Snowflake Method Of Writing In 10 Easy Steps.md",
     "Marketing/Blog/Pillars/Storytelling Techniques/Novel Structure/What is the best structure for a novel.md",
@@ -174,7 +184,6 @@
     "Editorial/Writers/R/Robyn Atkinson/Canche Gringa/Developmental Editing/Untitled.canvas",
     "Editorial/Writers/Untitled.md",
     "Marketing/Emails/Customer Emails/!Customer Service Emails.md",
-    "Marketing/Emails/Customer Emails/Initial Response - Mentoring.md",
-    "Marketing/Emails/Customer Emails/Initial Response - Manuscript Assessment - With Word Count.md"
+    "Marketing/Emails/Customer Emails/Initial Response - Mentoring.md"
   ]
 }

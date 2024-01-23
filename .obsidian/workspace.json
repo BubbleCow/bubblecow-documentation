@@ -4,21 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "6444c374fadcade6",
+        "id": "bf769cd86b25ce42",
         "type": "tabs",
         "children": [
           {
-            "id": "35f903f2de1a9331",
+            "id": "fab65a582fe6d7f0",
             "type": "leaf",
-            "pinned": true,
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Editorial/Writers/P/Paul Bradley/Fontainebleau/Developmental Edit/Edit/Fontainebleau - Editors Report - Developmental Editing - BubbleCow.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -87,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Editorial/Writers/P/Paul Bradley/Fontainebleau/Developmental Edit/Edit/Fontainebleau - Editors Report - Developmental Editing - BubbleCow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Editorial/Writers/P/Paul Bradley/Fontainebleau/Developmental Edit/Edit/Fontainebleau - Editors Report - Developmental Editing - BubbleCow.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Editorial/Writers/P/Paul Bradley/Fontainebleau/Developmental Edit/Edit/Fontainebleau - Editors Report - Developmental Editing - BubbleCow.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -148,15 +138,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "35f903f2de1a9331",
+  "active": "fab65a582fe6d7f0",
   "lastOpenFiles": [
+    "Editorial/Writers/P/Paul Bradley/Fontainebleau/Developmental Edit/Edit/Fontainebleau - Editors Report - Developmental Editing - BubbleCow.md",
     "Editorial/Writers/P/Paul Bradley/Fontainebleau/Developmental Edit/Edit/The Fontainebleau - new version 2 - developemental edit - BubbleCow.docx",
     "Editorial/Writers/P/Paul Bradley/Fontainebleau/Developmental Edit/Edit/The Fontainebleau - new version 2 - developemental edit - BubbleCow(2).docx",
     "Editorial/Writers/P/Paul Bradley/Fontainebleau/Developmental Edit/Edit/lu28902ebw1h.tmp",
     "Editorial/Writers/P/Paul Bradley/Fontainebleau/Developmental Edit/Edit/Fontainebleau - Editors Report - Developmental Editing - BubbleCow.docx",
     "Marketing/Blog/Pillars/Storytelling Techniques/Novel Structure/What are the 4 structures of a story.md",
     "Marketing/Blog/Pillars/BubbleCow Pillar Strategy.md",
-    "Editorial/Writers/P/Paul Bradley/Fontainebleau/Developmental Edit/Edit/Fontainebleau - Editors Report - Developmental Editing - BubbleCow.md",
     "Marketing/Blog/Pillars/Storytelling Techniques/Snowflake Method",
     "Marketing/Blog/Pillars/Storytelling Techniques/Snowflake Method/The Snowflake Method Of Writing In 10 Easy Steps.md",
     "Marketing/Blog/Pillars/Storytelling Techniques/Novel Structure/What is the best structure for a novel.md",
@@ -176,7 +166,6 @@
     "Editorial/Reports/Developmental Editing/Non-fiction/NON-FICTION - Editors Report - Developmental Editing - BubbleCow.md",
     "Editorial/Reports/Developmental Editing/Non-fiction",
     "Editorial/Reports/Developmental Editing",
-    "Editorial/Reports",
     "Editorial/Writers/R/Robyn Atkinson/Canche Gringa/Developmental Editing/Edit/Canche Gringa 1-6 - Editors Report - Developmental Editing - BubbleCow.md",
     "Marketing/Blog/Pillars/Book Editing/Manuscript Assessment/What is the difference between manuscript assessment and developmental editing.md",
     "Marketing/Blog/Pillars/Book Editing/Book Editing.md",

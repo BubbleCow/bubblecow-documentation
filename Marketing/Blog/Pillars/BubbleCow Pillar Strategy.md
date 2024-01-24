@@ -136,14 +136,11 @@ The goal of the blog is to help writers to become better writers.
 	- Sub-pillar: Pacing
 	  - Post: Pacing: The Invisible Guide Of Storytelling - written
 	- Sub-pillar: Point of View
-		- [[Third Person Point Of View - A Comprehensive Overview For Writers]] 
-		- [[Mastering the Second Person Viewpoint - A Comprehensive Guide]] 
-		- [[First Person Point of View - A Comprehensive Overview for Writers]]
+		- Post: [[Third Person Point Of View - A Comprehensive Overview For Writers]] 
+		- Post:  [[Mastering the Second Person Viewpoint - A Comprehensive Guide]] 
+		- Post:  [[First Person Point of View - A Comprehensive Overview for Writers]]
 		- [[Mastering Point of View in Writing - A Comprehensive Guide]]
-		- What is a viewpoint narrative?
-		- What are examples of narrative point of view?
-		- What are the three main narrative viewpoints?
-		- What is meant by narrative perspective?
+		
 		- second person
 	- Sub-pillar: Writing dialogue in fiction
 		- How do you write good dialogue in fiction? EXISTING - https://bubblecow.com/blog/how-to-write-effective-dialogue-in-your-novels

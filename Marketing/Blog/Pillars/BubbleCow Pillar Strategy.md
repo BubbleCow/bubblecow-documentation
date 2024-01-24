@@ -135,13 +135,18 @@ The goal of the blog is to help writers to become better writers.
 		- Post: World Building Basics - written
 	- Sub-pillar: Pacing
 	  - Post: Pacing: The Invisible Guide Of Storytelling - written
-	- Sub-pillar: Point of View
+	- Sub-pillar: [[Point of View]]
+		- Post: [[Mastering Point of View in Writing - A Comprehensive Guide]]
+		- Post: [[First Person Point of View - A Comprehensive Overview for Writers]]
 		- Post: [[Third Person Point Of View - A Comprehensive Overview For Writers]] 
-		- Post:  [[Mastering the Second Person Viewpoint - A Comprehensive Guide]] 
-		- Post:  [[First Person Point of View - A Comprehensive Overview for Writers]]
-		- [[Mastering Point of View in Writing - A Comprehensive Guide]]
+		- Post: [[Mastering the Second Person Viewpoint - A Comprehensive Guide]] 
+		- Post: What is the point of view?
+		- Post: What are the 3 points of view?
+		- Post: What is 1st person 2nd person 3rd person with examples?
+		- Post: What does we point of view mean?
+		- Post: What is one person point of view?
+		- Post: What is the best point of view?
 		
-		- second person
 	- Sub-pillar: Writing dialogue in fiction
 		- How do you write good dialogue in fiction? EXISTING - https://bubblecow.com/blog/how-to-write-effective-dialogue-in-your-novels
 		- What are the 7 rules of dialogue?

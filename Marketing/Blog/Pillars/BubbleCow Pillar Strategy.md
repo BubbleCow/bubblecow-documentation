@@ -144,6 +144,7 @@ The goal of the blog is to help writers to become better writers.
 		- What are examples of narrative point of view?
 		- What are the three main narrative viewpoints?
 		- What is meant by narrative perspective?
+		- second person
 	- Sub-pillar: Writing dialogue in fiction
 		- How do you write good dialogue in fiction? EXISTING - https://bubblecow.com/blog/how-to-write-effective-dialogue-in-your-novels
 		- What are the 7 rules of dialogue?

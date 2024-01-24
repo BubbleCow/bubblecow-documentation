@@ -106,4 +106,25 @@
  <a href="https://bubblecow.com/blog/what-are-the-4-structures-of-a-story">Jump into the four novel structures in this article</a>.
 </div>
 
+<h2 id="five-part-structure-of-a-story">What is the 5 part structure of a story?</h2>
+
+    <div itemscope itemtype="https://schema.org/ImageObject">
+      <img 
+        alt="book surrounded by scaffolding" 
+        itemprop="contentUrl" 
+        src="https://bubblecow.com/assets/what-is-the-5-part-structure-of-a-story-compressed" 
+        class="post-media img-fluid rounded mx-auto d-block mt-1 mb-1" 
+        width="700" height="400"
+        />
+      <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+        <meta itemprop="name" content="Gary Smailes" />
+      </span>
+    </div>
+
+<p>The five-part story structure is an essential blueprint in literature. It starts with Exposition, introducing characters and settings. The Rising Action builds suspense with challenges. At the Climax, tension peaks. Falling Action leads to conflict resolution, culminating in the Resolution, where stories find closure. This structure ensures a compelling, coherent narrative journey.</p>
+
+<div class="alert alert-primary" role="alert">
+ <a href="https://bubblecow.com/blog/what-is-the-5-part-structure-of-a-story">Learn more about the 5 part structure in this article</a>.
+</div>
+
 </div>

@@ -1,10 +1,8 @@
 <div data-spy="scroll" data-target="#toc" data-offset="0">
 
-<p>As I sit down to share my insights, I can't help but reflect on the pivotal role of book editing in the journey of publishing. Imagine your manuscript as a raw gem - full of potential yet needing refinement. Book editing is the meticulous art of transforming this raw gem into a polished masterpiece, a process crucial for any author aspiring to make their mark in the literary world.</p>
-
-<p>In this comprehensive guide, we delve into the intricate world of book editing. Whether you're pondering the costs of hiring a professional editor, considering the adventurous path of DIY editing, or seeking the best tools and software to aid your journey, this guide is your beacon. We'll explore the various facets of book editing, answering the most pressing questions and offering practical advice to navigate this essential phase of your writing journey.</p>
-
-<p>From understanding the financial implications of professional editing to mastering the art of self-editing and utilizing cutting-edge tools, this guide is designed to equip you with the knowledge and confidence needed to make informed decisions.</p>
+<p>Book editing is really important for publishing. It's like turning a rough gem into something shiny and perfect. This process is super important for any writer who wants to be noticed in the world of books.</p>
+<p>This guide will take you through everything about book editing. If you're wondering how much it costs to get a professional editor, or if you want to try editing your book yourself, or if you need the best tools and software for editing, this guide has got you covered. We'll look at all parts of book editing, answer your big questions, and give you helpful tips for this important part of writing your book.</p>
+<p>We'll help you understand how much it costs to get your book professionally edited, teach you how to edit your own book, and show you the latest tools to use. This guide is here to give you all the info and confidence you need to make good choices about editing your book.</p>
 
 
 <div class="toc card bg-light" id="toc">
@@ -15,23 +13,6 @@
       <li><a href="#developmental-editing">Developmental Editing</a></li>
       <li><a href="#copy-editing">Copy Editing</a></li>
       <li><a href="#manuscript-assessment">Manuscript Assessment</a></li>
-      <li><a href="#diy-book-editing">Self-editing for writers</a>
-        <ul>
-          <li class="child-link"><a href="#how-can-i-edit-my-own-book">How Can I Edit My Own Book?</a></li>
-          <li class="child-link"><a href="#where-can-i-edit-books-for-free">Where Can I Edit Books for Free?</a></li>
-          <li class="child-link"><a href="#how-can-i-edit-my-book-for-free">How Can I Edit My Book for Free?</a></li>
-          <li class="child-link"><a href="#how-to-do-your-own-developmental-editing">How to Do Your Own Developmental Editing?</a></li>
-          <li class="child-link"><a href="#what-is-self-editing-in-writing">What is self-editing in writing?</a></li>
-          <li class="child-link"><a href="#how-do-you-self-edit-creative-writing">How do you self edit creative writing?</a></li>
-          <li class="child-link"><a href="#what-strategies-can-writers-use-to-edit-thier-writing">What strategies can writers use to edit their writing?</a></li>
-        </ul>
-      </li>
-      <li><a href="#book-editing-tools-and-software">Book Editing Tools and Software</a>
-        <ul>
-          <li class="child-link"><a href="#which-app-can-i-use-to-edit-my-book">Which App Can I Use to Edit My Book?</a></li>
-          <li class="child-link"><a href="#which-software-is-best-for-book-editing">Which Software Is Best for Book Editing?</a></li>
-        </ul>
-      </li>
     </ul>
   </div>
 </div>

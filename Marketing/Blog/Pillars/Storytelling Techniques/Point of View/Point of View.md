@@ -106,4 +106,25 @@
         <a href="https://bubblecow.com/blog/third-person-viewpoint">Discover more about third person point of view in this article</a>.
     </div>
 
+<h2 id="what-is-point-of-view">What is the Point of View?</h2>
+
+    <div itemscope itemtype="https://schema.org/ImageObject">
+      <img 
+        alt="man at a desk" 
+        itemprop="contentUrl" 
+        src="https://bubblecow.com/assets/what-is-point-of-view-compressed" 
+        class="post-media img-fluid rounded mx-auto d-block mt-1 mb-1" 
+        width="700" height="400"
+        />
+      <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+        <meta itemprop="name" content="Gary Smailes" />
+      </span>
+    </div>
+
+    <p>Point of view in writing dictates how a story is told. First-person uses "I", offering intimacy. Second-person, "you", is rare but engaging. Third-person provides an outside narrator's perspective. Each POV shapes the reader's experience distinctly.</p>
+
+    <div class="alert alert-primary" role="alert">
+        <a href="https://bubblecow.com/blog/what-is-the-point-of-view">This article will tell you more about point of view</a>.
+    </div>
+
 </div>

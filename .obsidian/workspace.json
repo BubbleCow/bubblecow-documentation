@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Marketing/Blog/Pillars/Storytelling Techniques/Point of View/What is the point of view.md",
+                "file": "Marketing/Blog/Pillars/BubbleCow Pillar Strategy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Marketing/Blog/Pillars/Storytelling Techniques/Point of View/What is the point of view.md",
+                "file": "Marketing/Blog/Pillars/BubbleCow Pillar Strategy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Marketing/Blog/Pillars/Storytelling Techniques/Point of View/What is the point of view.md"
+                "file": "Marketing/Blog/Pillars/BubbleCow Pillar Strategy.md"
               }
             }
           }
@@ -146,10 +146,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "341fb5c098c93da7",
+  "active": "e4080affdfdde18c",
   "lastOpenFiles": [
-    "Marketing/Blog/Pillars/BubbleCow Pillar Strategy.md",
     "Marketing/Blog/Pillars/Storytelling Techniques/Point of View/What is the point of view.md",
+    "Marketing/Blog/Pillars/BubbleCow Pillar Strategy.md",
     "Marketing/Blog/Pillars/Storytelling Techniques/Point of View/First Person Point of View - A Comprehensive Overview for Writers.md",
     "Marketing/Blog/Pillars/Storytelling Techniques/Point of View/Mastering Point of View in Writing - A Comprehensive Guide.md",
     "Marketing/Blog/Pillars/Storytelling Techniques/Point of View/Point of View.md",

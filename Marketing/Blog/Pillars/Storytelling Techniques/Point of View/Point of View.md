@@ -127,4 +127,27 @@
         <a href="https://bubblecow.com/blog/what-is-the-point-of-view">This article will tell you more about point of view</a>.
     </div>
 
+
+  <h2 id="three-points-of-view">What are the 3 Points of View?</h2>#
+
+      <div itemscope itemtype="https://schema.org/ImageObject">
+      <img 
+        alt="woman at a desk writing" 
+        itemprop="contentUrl" 
+        src="https://bubblecow.com/assets/what-are-the-3-points-of-view-compressed" 
+        class="post-media img-fluid rounded mx-auto d-block mt-1 mb-1" 
+        width="700" height="400"
+        />
+      <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+        <meta itemprop="name" content="Gary Smailes" />
+      </span>
+    </div>
+
+    <p>Point of view in writing dictates how a story is told. First-person uses "I", offering intimacy. Second-person, "you", is rare but engaging. Third-person provides an outside narrator's perspective. Each POV shapes the reader's experience distinctly.</p>
+
+    <div class="alert alert-primary" role="alert">
+        <a href="https://bubblecow.com/blog/what-are-the-three-points-of-view">This detailed article will explore the three points of view</a>.
+    </div>
+
+
 </div>

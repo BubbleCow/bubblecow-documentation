@@ -9,63 +9,15 @@
   <p class="card-header"><strong>Table of Contents</strong></p>
   <div class="card-body">
     <ul>
-      <li><a href="#costs-of-book-editing">Costs of Book Editing</a></li>
       <li><a href="#developmental-editing">Developmental Editing</a></li>
       <li><a href="#copy-editing">Copy Editing</a></li>
       <li><a href="#manuscript-assessment">Manuscript Assessment</a></li>
+      <li><a href="#costs-of-book-editing">Costs of Book Editing</a></li>
     </ul>
   </div>
 </div>
 
-<h2 id="costs-of-book-editing">Costs of Book Editing</h2>
-
-    <div itemscope itemtype="https://schema.org/ImageObject">
-      <img 
-        alt="two book editors talking about editing a book" 
-        itemprop="contentUrl" 
-        src="https://bubblecow.com/assets/Costs_of_Book_Editing_compressed" 
-        class="post-media img-fluid rounded mx-auto d-block mt-1 mb-1" 
-        width="700" height="400"
-        />
-      <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
-        <meta itemprop="name" content="Gary Smailes" />
-      </span>
-    </div>
-
-<p>Embarking on the journey of publishing a book brings numerous questions to the forefront, one of the most crucial being the cost of editing. Whether you're a first-time author or a seasoned writer, understanding the financial aspect of book editing is essential for a successful publication process. This guide aims to shed light on various aspects of book editing costs.</p>
-
-<h3>Can You Hire Someone to Edit Your Book?</h3>
-<p>Yes, hiring a professional editor for your book is not only possible but recommended. Editors bring a critical eye to your work, enhancing its quality and readability.</p>
-
-<h3>What Is the Cost of Hiring a Book Editor?</h3>
-<p>The cost of hiring a book editor varies widely based on several factors, including the type of editing required, the editor's experience, and the book's length. Generally, editing services can range from $0.01 to $0.05 per word.</p>
-
-<h3>Cost Analysis for a 200-Page Book</h3>
-<ul>
-    <li><strong>200-Page Book:</strong> For a 200-page book (assuming 250 words per page), the cost can range from $500 to $2,500.</li>
-</ul>
-
-<h3>Book Editing Costs in Different Regions</h3>
-<ul>
-    <li><strong>United Kingdom:</strong> In the UK, book editors charge approximately £0.01 to £0.03 per word.</li>
-    <li><strong>United States:</strong> In the US, the rates are similar, often ranging from $0.01 to $0.05 per word.</li>
-</ul>
-
-<h3>Why Is Book Editing Expensive?</h3>
-<p>Book editing can seem costly due to the meticulous and skilled work it involves. Editors not only correct grammar but also enhance the flow, coherence, and overall quality of the text, requiring a significant investment of time and expertise.</p>
-
-<h3>Cost for Editing a 50,000-Word Book</h3>
-<ul>
-    <li><strong>50,000-Word Book:</strong> For a book of this length, editing costs can range from $500 to $2,500, depending on the editor's rates and the depth of editing required.</li>
-</ul>
-
-<p>In conclusion, while the cost of book editing varies, it is a critical investment in the quality of your work. The right editor not only polishes your manuscript but also enhances its chances of success in the competitive literary market.</p>
-
-<div class="alert alert-primary" role="alert">
- Discover more about the costs of book editing with <a href="https://bubblecow.com/blog/costs-of-book-editing">this extensive article</a>.
-</div>
-
-<h2 id="devlopmental-editing">Developmental Editing</h2>
+<h2 id="developmental-editing">Developmental Editing</h2>
 
     <div itemscope itemtype="https://schema.org/ImageObject">
       <img 
@@ -332,6 +284,55 @@
 <div class="alert alert-primary" role="alert">
   Find out more about manuscript assessment with <a href="https://bubblecow.com/bAll Mark-uplog/manuscript-assessment">this article</a>.
 </div>
+
+<h2 id="costs-of-book-editing">Costs of Book Editing</h2>
+
+    <div itemscope itemtype="https://schema.org/ImageObject">
+      <img 
+        alt="two book editors talking about editing a book" 
+        itemprop="contentUrl" 
+        src="https://bubblecow.com/assets/Costs_of_Book_Editing_compressed" 
+        class="post-media img-fluid rounded mx-auto d-block mt-1 mb-1" 
+        width="700" height="400"
+        />
+      <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+        <meta itemprop="name" content="Gary Smailes" />
+      </span>
+    </div>
+
+<p>Embarking on the journey of publishing a book brings numerous questions to the forefront, one of the most crucial being the cost of editing. Whether you're a first-time author or a seasoned writer, understanding the financial aspect of book editing is essential for a successful publication process. This guide aims to shed light on various aspects of book editing costs.</p>
+
+<h3>Can You Hire Someone to Edit Your Book?</h3>
+<p>Yes, hiring a professional editor for your book is not only possible but recommended. Editors bring a critical eye to your work, enhancing its quality and readability.</p>
+
+<h3>What Is the Cost of Hiring a Book Editor?</h3>
+<p>The cost of hiring a book editor varies widely based on several factors, including the type of editing required, the editor's experience, and the book's length. Generally, editing services can range from $0.01 to $0.05 per word.</p>
+
+<h3>Cost Analysis for a 200-Page Book</h3>
+<ul>
+    <li><strong>200-Page Book:</strong> For a 200-page book (assuming 250 words per page), the cost can range from $500 to $2,500.</li>
+</ul>
+
+<h3>Book Editing Costs in Different Regions</h3>
+<ul>
+    <li><strong>United Kingdom:</strong> In the UK, book editors charge approximately £0.01 to £0.03 per word.</li>
+    <li><strong>United States:</strong> In the US, the rates are similar, often ranging from $0.01 to $0.05 per word.</li>
+</ul>
+
+<h3>Why Is Book Editing Expensive?</h3>
+<p>Book editing can seem costly due to the meticulous and skilled work it involves. Editors not only correct grammar but also enhance the flow, coherence, and overall quality of the text, requiring a significant investment of time and expertise.</p>
+
+<h3>Cost for Editing a 50,000-Word Book</h3>
+<ul>
+    <li><strong>50,000-Word Book:</strong> For a book of this length, editing costs can range from $500 to $2,500, depending on the editor's rates and the depth of editing required.</li>
+</ul>
+
+<p>In conclusion, while the cost of book editing varies, it is a critical investment in the quality of your work. The right editor not only polishes your manuscript but also enhances its chances of success in the competitive literary market.</p>
+
+<div class="alert alert-primary" role="alert">
+ Discover more about the costs of book editing with <a href="https://bubblecow.com/blog/costs-of-book-editing">this extensive article</a>.
+</div>
+
 
 <h2 id="diy-book-editing">Self Editing for Writers</h2>
 

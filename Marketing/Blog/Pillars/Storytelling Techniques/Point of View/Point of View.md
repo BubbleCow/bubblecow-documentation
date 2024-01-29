@@ -128,7 +128,7 @@
     </div>
 
 
-  <h2 id="three-points-of-view">What are the 3 Points of View?</h2>#
+  <h2 id="three-points-of-view">What are the 3 Points of View?</h2>
 
       <div itemscope itemtype="https://schema.org/ImageObject">
       <img 
@@ -149,5 +149,25 @@
         <a href="https://bubblecow.com/blog/what-are-the-three-points-of-view">This detailed article will explore the three points of view</a>.
     </div>
 
+  <h2 id="first-second-third-person-examples">What is 1st Person, 2nd Person, 3rd Person with Examples?</h2>
+
+        <div itemscope itemtype="https://schema.org/ImageObject">
+      <img 
+        alt="book editor at a desk writing" 
+        itemprop="contentUrl" 
+        src="https://bubblecow.com/assets/what-is-1st-person-2nd-person-3rd-person-with-examples-compressed" 
+        class="post-media img-fluid rounded mx-auto d-block mt-1 mb-1" 
+        width="700" height="400"
+        />
+      <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+        <meta itemprop="name" content="Gary Smailes" />
+      </span>
+    </div>
+
+    <p>Narrative perspective shapes a story's intimacy and connection. In first person, "I" or "we" brings readers into the narrator's world, as in "I walked along the beach." Second person, less common, directly addresses the reader with "you," creating an immersive experience: "You walk into the room." Third person uses "he," "she," or "they," offering an external viewpoint, like "She smiled at the sunset." Each perspective provides a unique lens through which stories unfold, influencing how readers perceive and engage with the narrative.</p>
+
+    <div class="alert alert-primary" role="alert">
+        <a href="https://bubblecow.com/blog/what-is-1st-person-2nd-person-3rd-person-with-examples">This detailed guide will explore the different points of view</a>.
+    </div>
 
 </div>

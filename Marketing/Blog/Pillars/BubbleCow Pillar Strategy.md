@@ -142,7 +142,7 @@ The goal of the blog is to help writers to become better writers.
 		- Post: [[Mastering the Second Person Viewpoint - A Comprehensive Guide]] 
 		- Post: [[What is the point of view]]?
 		- Post: [[What are the 3 points of view]]?
-		- Post: What is 1st person 2nd person 3rd person with examples?
+		- Post: [[What is 1st person 2nd person 3rd person with examples]]?
 		- Post: What does we point of view mean?
 		- Post: What is one person point of view?
 		- Post: What is the best point of view?

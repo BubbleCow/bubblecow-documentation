@@ -17,6 +17,7 @@
       <li><a href="#best-structure-for-a-novel">What is the best structure for a novel?</a></li>
       <li><a href="#four-structures-of-a-story">What are the 4 structures of a story?</a></li>
       <li><a href="#five-part-structure-of-a-story">What is the 5 part structure of a story?</a></li>
+      <li><a href="#three-act-structure">Mastering The Three Act Structure</a></li> 
     </ul>
   </div>
 </div>
@@ -125,6 +126,27 @@
 
 <div class="alert alert-primary" role="alert">
  <a href="https://bubblecow.com/blog/what-is-the-5-part-structure-of-a-story">Learn more about the 5 part structure in this article</a>.
+</div>
+
+<h2 id="three-act-structure">Mastering The Three Act Structure</h2>
+
+    <div itemscope itemtype="https://schema.org/ImageObject">
+      <img 
+        alt="story in three acts" 
+        itemprop="contentUrl" 
+        src="https://bubblecow.com/assets/three-act-structure-compressed" 
+        class="post-media img-fluid rounded mx-auto d-block mt-1 mb-1" 
+        width="700" height="400"
+        />
+      <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+        <meta itemprop="name" content="Gary Smailes" />
+      </span>
+    </div>
+
+<p>The three-act structure, a fundamental framework in storytelling, is akin to a journey through beginning, conflict, and resolution. Act One establishes the setting and characters, providing a launchpad for the narrative. Act Two, often the longest, plunges characters into escalating conflict, revealing their depths. Finally, Act Three brings resolution, where characters and themes reach their culmination. Mastering this structure transforms a mere story into an engaging, memorable experience, essential for writers and storytellers.</p>
+
+<div class="alert alert-primary" role="alert">
+ <a href="https://bubblecow.com/blog/three-act-structure">This article takes a deep dive into the three act structure</a>.
 </div>
 
 </div>

@@ -99,6 +99,9 @@ If you're juggling a bunch of numbers within the same paragraph or series of par
 ## Strengths and Weaknesses
 
 
+sentence level issues - mostly done to improve readability and help the reader to engage more fully with the story - these are most small issues - changes have been made in a way that enhacing the 'voice', without altering it significantly. - mention that the first paragraph of each chapter is flush and the rest are indetned
+
+show, don't tell in narrative non-ficiotn - explain waht show don't tell is - explain that it helps the reader to connect more fully with the books and its topics - add more detail about the improtance of show, don'y tell in narrative ficiton - add an example
 
 ## Chapter Feedback
 This section contains specific feedback about your chapters. This feedback is in addition to the Specific Feedback.  

@@ -117,6 +117,7 @@ The goal of the blog is to help writers to become better writers.
 		- Post: [[What are the 4 structures of a story]]?
 		- Post: [[What is the 5 part structure of a story]]?
 	- Sub-pillar: Hero's Journey
+		- Post: [[Mastering The Hero's Journey]]
 		- Post: Using the hero's journey to write a novel
 		- Post: What are the 12 steps of the hero's journey?
 		- Post: What are the 12 stages of the hero's quest?
@@ -129,8 +130,6 @@ The goal of the blog is to help writers to become better writers.
 		- Post: How does the snowflake method work?
 		- Post: What is the snowflake method of organizing?
 		- Post: How do you plot a novel using the snowflake method?
-	- Sub-pillar: Three-act structure
-	- Sub-pillar: Five-act structure
 	- Sub-pillar: World Building
 		- Post: World Building Basics - written
 	- Sub-pillar: Pacing

@@ -2,7 +2,6 @@ Editor: Gary Smailes
 
 Completed: 30 Jan 2024
 ## Understanding Your Feedback
-
 Before I launch into more detailed feedback, I thought I’d run through how the edit has been structured.
 
 You will have downloaded two files:
@@ -24,7 +23,6 @@ The role of the editor’s report is to provide a wider overview of the editing 
 
 One way to consider the two documents is to see the report as the wider instructions and the manuscript as the practical application. You should be able to start each editing session by reading the editor’s report, before diving into the specific section of the manuscript. 
 ### Using Tracked Changes
-
 If you are comfortable with comments and tracked changes, then you can jump ahead to the next section (‘Edited Manuscript’).
 
 Tracked changes are like magic. Once they are turned on, they record everything that happens to your manuscript. You then have the power to go in and accept or reject the changes as you see fit. 
@@ -34,7 +32,6 @@ Comments are the little ‘speech’ bubbles that appear on the side of your man
 The video below will give you a more in-depth view of tracked changes and comments. 
 
 [https://www.youtube.com/watch?v=AUf-IxzXyVk](https://www.youtube.com/watch?v=AUf-IxzXyVk)
-
 ### Edited Manuscript
 When you first open the edited manuscript, you may feel overwhelmed by the number of alterations. This is normal. 
 
@@ -62,7 +59,6 @@ Our goal is to produce better books and better writers.
 
 Finally, once you delve into the feedback, I’d suggest you read the notes and then take a day or two to absorb what I’ve suggested. If you disagree with any changes, that’s fine but please do take a little time to think them over before getting back to me. If after this cool-off period you have any questions or comments, please don’t hesitate to email me at gary@bubblecow.com.
 ## Notes on the Edited Manuscript
-
 Below is a list of general comments about your manuscript. 
 
 Please note, many of these changes have been made to help in the eBook conversion process. This process often involves the use of the original manuscript’s formatting to help ‘set’ the formatting of the eBook. However, this can be problematic. I have, therefore, made some changes to help negate any potential future issues. 
@@ -76,26 +72,17 @@ Please note, many of these changes have been made to help in the eBook conversio
 
 Below is a list of changes that have been made to help with readability and add consistency. 
 ### Language
-
-> [!warning]
-> American English
-> British English
+American English
 ### Numeric Notation 
 Spell out whole numbers up to (and including) one hundred (e.g., zero, one, ten, ninety-six, 104). Spell out numbers that begin a sentence unless it begins with a year (e.g., "Twelve drummers," "The ten lords a-leaping," "2011's quota for off-season holiday references has been filled."). 
 
 Spell out ordinal numbers up to (and including) "hundredth" (e.g., second, sixty-first, 333rd, 1,024th). 
 
 If you're juggling a bunch of numbers within the same paragraph or series of paragraphs, be flexible with the number style if doing so will improve clarity and comprehension. For example, use one number style for items in one category and another style for another category: "I read four books with more than 400 pages, sixty books with more than 100 pages, and a hundred articles with less than 4 pages."
-
 ### Speech Marks
-> [!warning]
-> Double for direct, single for reported. 
-> Single for direct, double for reported
+Single for direct, double for reported
 ### Oxford Comma
-> [!warning]
-> Yes.
-> No.
-  
+No.
 ## Strengths and Weaknesses
 It's evident from your writing that your knowledge of the lake's locale is not only extensive but also presented in a manner that captivates and engages the reader. This depth of understanding adds a rich layer to your narrative, making the lake and its surroundings come alive in the reader's imagination.
 
@@ -128,7 +115,6 @@ For example, consider a passage about a serene lake. Instead of simply stating, 
 In this 'showing' example, the reader can almost see, smell, and feel the tranquility of the lake. It's no longer just an abstract concept of beauty and calmness; it's a vivid scene that the reader can mentally inhabit. This engagement is what makes narrative non-fiction compelling and memorable.
 
 Incorporating "show, don't tell" in your writing enriches your narrative, providing a more textured and nuanced exploration of your topics. It's not just about presenting facts; it's about bringing those facts to life in a way that resonates with your readers, enabling them to fully immerse themselves in the world you are describing.
-
 ## Chapter Feedback
 This section contains specific feedback about your chapters. This feedback is in addition to the Specific Feedback.  
 ### Chapter 1

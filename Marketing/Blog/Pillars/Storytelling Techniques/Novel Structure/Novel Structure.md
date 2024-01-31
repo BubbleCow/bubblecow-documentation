@@ -18,6 +18,7 @@
       <li><a href="#four-structures-of-a-story">What are the 4 structures of a story?</a></li>
       <li><a href="#five-part-structure-of-a-story">What is the 5 part structure of a story?</a></li>
       <li><a href="#three-act-structure">Mastering The Three Act Structure</a></li> 
+      <li><a href="#five-act-structure">Mastering The Five Act Structure</a></li> 
     </ul>
   </div>
 </div>
@@ -147,6 +148,27 @@
 
 <div class="alert alert-primary" role="alert">
  <a href="https://bubblecow.com/blog/three-act-structure">This article takes a deep dive into the three act structure</a>.
+</div>
+
+<h2 id="five-act-structure">Mastering The Five Act Structure</h2>
+
+    <div itemscope itemtype="https://schema.org/ImageObject">
+      <img 
+        alt="story in five acts" 
+        itemprop="contentUrl" 
+        src="https://bubblecow.com/assets/five-act-structure-compressed" 
+        class="post-media img-fluid rounded mx-auto d-block mt-1 mb-1" 
+        width="700" height="400"
+        />
+      <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+        <meta itemprop="name" content="Gary Smailes" />
+      </span>
+    </div>
+
+<p>The Five Act Structure, a cornerstone in dramatic writing, unfolds a story’s narrative in a compelling sequence. Act One sets the stage, introducing characters and conflict. Act Two escalates tension, leading to Act Three's climax. Act Four begins the fallout, setting up Act Five's resolution. This structure guides writers in crafting engaging and well-paced stories, ensuring each part contributes to a cohesive and satisfying narrative journey. Understanding and mastering it is essential for any storyteller seeking to captivate their audience.</p>
+
+<div class="alert alert-primary" role="alert">
+ <a href="https://bubblecow.com/blog/five-act-structure">This article examines the five act structure</a>.
 </div>
 
 </div>

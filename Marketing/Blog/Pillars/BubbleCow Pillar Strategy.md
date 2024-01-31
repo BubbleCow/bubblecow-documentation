@@ -116,8 +116,8 @@ The goal of the blog is to help writers to become better writers.
 		- Post: [[What is the best structure for a novel]]?
 		- Post: [[What are the 4 structures of a story]]?
 		- Post: [[What is the 5 part structure of a story]]?
-		- Post: [[Mastering the Three Act Structure
-		- Post: 5 act
+		- Post: [[Mastering the Three Act Structure]]
+		- Post: [[Mastering the Five Act Structure]]
 	- Sub-pillar: Hero's Journey
 		- Post: [[Mastering The Hero's Journey]]
 		- Post: Using the hero's journey to write a novel

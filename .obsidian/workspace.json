@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "279510e2ba4d0280",
+        "id": "9297bf3311fc59bc",
         "type": "tabs",
         "children": [
           {
-            "id": "a996e351fdb53ddb",
+            "id": "05245b2726e5bac2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Editorial/Writers/D/David Cohen/Travel Book/Developmental Edit/MacDerby Farm Chapter - Editors Report - Developmental Editing - BubbleCow.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Editorial/Writers/D/David Cohen/Travel Book/Developmental Edit/MacDerby Farm Chapter - Editors Report - Developmental Editing - BubbleCow.md",
+                "file": "Marketing/Emails/Customer Emails/Initial Response - Manuscript Assessment - Without Word Count.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Editorial/Writers/D/David Cohen/Travel Book/Developmental Edit/MacDerby Farm Chapter - Editors Report - Developmental Editing - BubbleCow.md",
+                "file": "Marketing/Emails/Customer Emails/Initial Response - Manuscript Assessment - Without Word Count.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Editorial/Writers/D/David Cohen/Travel Book/Developmental Edit/MacDerby Farm Chapter - Editors Report - Developmental Editing - BubbleCow.md"
+                "file": "Marketing/Emails/Customer Emails/Initial Response - Manuscript Assessment - Without Word Count.md"
               }
             }
           }
@@ -146,12 +142,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a996e351fdb53ddb",
+  "active": "341fb5c098c93da7",
   "lastOpenFiles": [
+    "Editorial/Writers/D/David Cohen/Travel Book/Developmental Edit/MacDerby Farm Chapter - Editors Report - Developmental Editing - BubbleCow.md",
     "Editorial/Writers/D/David Cohen/Travel Book/Developmental Edit/MacDerby Farm Chapter - Editors Report - Developmental Editing - BubbleCow.pdf",
     "Editorial/Writers/D/David Cohen/Travel Book/Developmental Edit/MacDarby Farm - developmental edit - bubblecow.docx",
     "Editorial/Reports/Developmental Editing/Non-fiction/NON-FICTION - Editors Report - Developmental Editing - BubbleCow.md",
-    "Editorial/Writers/D/David Cohen/Travel Book/Developmental Edit/MacDerby Farm Chapter - Editors Report - Developmental Editing - BubbleCow.md",
     "Editorial/Writers/D/David Cohen/Travel Book/Developmental Edit",
     "Editorial/Writers/D/David Cohen/Travel Book",
     "Editorial/Writers/D/David Cohen",
@@ -176,7 +172,6 @@
     "Marketing/Blog/Pillars/Storytelling Techniques/Novel Structure/What is the 5 part structure of a story.md",
     "Editorial/Writers/P/Paul Bradley/Fontainebleau/Developmental Edit/Edit/The Fontainebleau - new version 2 - developemental edit - BubbleCow.docx",
     "Editorial/Writers/P/Paul Bradley/Fontainebleau/Developmental Edit/Edit/The Fontainebleau - new version 2 - developemental edit - BubbleCow(2).docx",
-    "Editorial/Writers/P/Paul Bradley/Fontainebleau/Developmental Edit/Edit/lu28902ebw1h.tmp",
     "Marketing/Blog/Pillars/Storytelling Techniques/Novel Structure/What are the 4 structures of a story.md",
     "Marketing/Blog/Pillars/Storytelling Techniques/Snowflake Method/The Snowflake Method Of Writing In 10 Easy Steps.md",
     "Marketing/Blog/Pillars/Storytelling Techniques/Novel Structure/What is the best structure for a novel.md",

@@ -146,7 +146,7 @@ The goal of the blog is to help writers to become better writers.
 		- Post: [[What is 1st person 2nd person 3rd person with examples]]?
 	- Sub-pillar: [[Writing dialogue in Fiction]]
 		- Post: [[How to Format Dialogue in a Novel]]
-		- Post: [[How do you write a good dialogue]]?
+		- Post: [[How do you write good dialogue]]?
 		- Post: What are the 7 rules of dialogue?
 		- What is an example of good dialogue?
 		- What are the 5 rules of writing dialogue?

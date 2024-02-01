@@ -25,14 +25,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Editorial/Writers/T/Tony Farias/No I am Not a Rat/Unaltered Manuscript/00.md",
+                "file": "Marketing/Blog/Pillars/BubbleCow Pillar Strategy.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0d790052b43d0ff7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Marketing/Blog/Pillars/BubbleCow Pillar Strategy.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6a7502de008d7ce3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Marketing/Blog/Pillars/Writing dialogue in Fiction/Writing dialogue in Fiction.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -98,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Editorial/Writers/T/Tony Farias/No I am Not a Rat/Unaltered Manuscript/00.md",
+                "file": "Marketing/Blog/Pillars/Writing dialogue in Fiction/Writing dialogue in Fiction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Editorial/Writers/T/Tony Farias/No I am Not a Rat/Unaltered Manuscript/00.md",
+                "file": "Marketing/Blog/Pillars/Writing dialogue in Fiction/Writing dialogue in Fiction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Editorial/Writers/T/Tony Farias/No I am Not a Rat/Unaltered Manuscript/00.md"
+                "file": "Marketing/Blog/Pillars/Writing dialogue in Fiction/Writing dialogue in Fiction.md"
               }
             }
           }
@@ -159,8 +183,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b75f333d2b49f1aa",
+  "active": "341fb5c098c93da7",
   "lastOpenFiles": [
+    "Marketing/Blog/Pillars/BubbleCow Pillar Strategy.md",
+    "Marketing/Blog/Pillars/Writing dialogue in Fiction/Writing dialogue in Fiction.md",
+    "Marketing/Blog/Pillars/Writing dialogue in Fiction/How do you write a good dialogue.md",
+    "Marketing/Blog/Pillars/Writing dialogue in Fiction/How to Write Dialogue in a Novel.md",
+    "Marketing/Blog/Pillars/Writing dialogue in Fiction",
+    "Editorial/Writers/T/Tony Farias/No I am Not a Rat/Unaltered Manuscript/00.md",
     "Editorial/Writers/T/Tony Farias/No I am Not a Rat/Unaltered Manuscript/18.md",
     "Editorial/Writers/T/Tony Farias/No I am Not a Rat/No I am not a rat - manuscript.md",
     "Editorial/Writers/T/Tony Farias/No I am Not a Rat/Unaltered Manuscript/17.md",
@@ -170,7 +200,6 @@
     "Editorial/Writers/T/Tony Farias/No I am Not a Rat/Unaltered Manuscript/13.md",
     "Editorial/Writers/T/Tony Farias/No I am Not a Rat/Unaltered Manuscript/12.md",
     "Editorial/Writers/T/Tony Farias/No I am Not a Rat/Unaltered Manuscript/11.md",
-    "Editorial/Writers/T/Tony Farias/No I am Not a Rat/Unaltered Manuscript/00.md",
     "Editorial/Writers/T/Tony Farias/No I am Not a Rat/Unaltered Manuscript/10.md",
     "Editorial/Writers/T/Tony Farias/No I am Not a Rat/Unaltered Manuscript/09.md",
     "Editorial/Writers/T/Tony Farias/No I am Not a Rat/Unaltered Manuscript/08.md",
@@ -184,19 +213,14 @@
     "Editorial/Writers/T/Tony Farias/No I am Not a Rat/Unaltered Manuscript/02-chapter-1",
     "Editorial/Writers/T/Tony Farias/No I am Not a Rat/Unaltered Manuscript",
     "Editorial/Writers/T/Tony Farias/No I am Not a Rat/No I am Not a Rat - Rewrite Options.md",
-    "Marketing/Blog/Pillars/BubbleCow Pillar Strategy.md",
     "Marketing/Blog/Pillars/Storytelling Techniques/Novel Structure/Mastering the Five Act Structure.md",
-    "Editorial/Writers/D/David Cohen/Travel Book/Developmental Edit/MacDerby Farm Chapter - Editors Report - Developmental Editing - BubbleCow.md",
     "Editorial/Writers/D/David Cohen/Travel Book/Developmental Edit/MacDerby Farm Chapter - Editors Report - Developmental Editing - BubbleCow.pdf",
     "Editorial/Writers/D/David Cohen/Travel Book/Developmental Edit/MacDarby Farm - developmental edit - bubblecow.docx",
-    "Editorial/Reports/Developmental Editing/Non-fiction/NON-FICTION - Editors Report - Developmental Editing - BubbleCow.md",
     "Editorial/Writers/D/David Cohen/Travel Book/Developmental Edit",
     "Editorial/Writers/D/David Cohen/Travel Book",
     "Editorial/Writers/D/David Cohen",
     "Editorial/Writers/D",
-    "Marketing/Blog/Pillars/Book Marketing and Promotion/Book Marketing and Promotion.md",
     "Marketing/Blog/Pillars/Storytelling Techniques/Hero Journey",
-    "Marketing/Blog/Pillars/Storytelling Techniques/Point of View",
     "Editorial/Writers/R/Robyn Atkinson/Canche Gringa/Developmental Editing/Untitled.canvas"
   ]
 }

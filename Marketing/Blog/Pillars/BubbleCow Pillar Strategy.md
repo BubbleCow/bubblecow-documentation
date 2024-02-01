@@ -144,11 +144,13 @@ The goal of the blog is to help writers to become better writers.
 		- Post: [[What is the point of view]]?
 		- Post: [[What are the 3 points of view]]?
 		- Post: [[What is 1st person 2nd person 3rd person with examples]]?
-	- Sub-pillar: Writing dialogue in fiction
-		- How do you write good dialogue in fiction? EXISTING - https://bubblecow.com/blog/how-to-write-effective-dialogue-in-your-novels
-		- What are the 7 rules of dialogue?
-		- How do you format dialogue in fiction? EXISTING - https://bubblecow.com/blog/how-to-format-dialogue-in-a-story-quick-and-dirty-guide/
-		- How do you write dialogue in fiction grammar?
+	- Sub-pillar: [[Writing dialogue in Fiction]]
+		- Post: [[How to Format Dialogue in a Novel]]
+		- Post: [[How do you write a good dialogue]]?
+		- Post: What are the 7 rules of dialogue?
+		- What is an example of good dialogue?
+		- What are the 5 rules of writing dialogue?
+		- What are the 10 rules of dialogue?
 	- Sub-pillar: Writing Description in Fiction
 - Pillar: [[Book Marketing and Promotion]]
 	- Sub-pillar: Effective book marketing strategies

@@ -1,12 +1,13 @@
+> [!info] 
+> This is thoughts and feelings on how to build an education element to BubbleCow and prepare it for an AI driven world
+## Driving Principles
+
+- AI will transform the way people use the Google. Simple questions will be answered at the point of asking. This means that the traffic to sites will change and be replaced with those looking for products, services or complex answers. 
+- AI will make access to knowledge unlimited, therefore the problem is not accessing information as it was in the pre-Internet days, but finding the best, curated information that fits a users needs. We will more from general to bespoke. This means that charging for general or 'best practice' information is pointless, the value is in crafting bespoke solutions. 
+- Community will continue to become increasingly valuable. The desire for someone to belong will never alter. An ability to provide an inclusive environment 
 
 
 
-
-
-
-
-best practice is free, pay for bespoke
-how do i make writers betterr - editing 2.0
 
 
 

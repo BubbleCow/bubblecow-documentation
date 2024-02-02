@@ -1,12 +1,26 @@
 > [!info] 
 > This is thoughts and feelings on how to build an education element to BubbleCow and prepare it for an AI driven world
+
 ## Driving Principles
 
 - AI will transform the way people use the Google. Simple questions will be answered at the point of asking. This means that the traffic to sites will change and be replaced with those looking for products, services or complex answers. 
 - AI will make access to knowledge unlimited, therefore the problem is not accessing information as it was in the pre-Internet days, but finding the best, curated information that fits a users needs. We will more from general to bespoke. This means that charging for general or 'best practice' information is pointless, the value is in crafting bespoke solutions. 
-- Community will continue to become increasingly valuable. The desire for someone to belong will never alter. An ability to provide an inclusive environment 
+- Community will continue to become increasingly valuable. The desire for someone to belong will never alter. An ability to provide an inclusive environment, in which writers feel heard, will be the key for success in the coming years. 
+- People will continue to pay for products that solve their problems, however, these products will be to be increasing bespoke to ensure they stand out from the crowd. AI will allow customers to gain basic knowledge and assistance. A successful company will do more than this. 
 
 
+## Digital First
+
+
+## Message
+
+- This is the message Rebecca Barr is presenting. I don't fully agree but she knows her market and there is certainly some value here:
+	- Have your vision brought to life, create a legacy, and be supported every step of the way.
+	- Fun, activating and inspiring experience.
+	- Write in a community of like minded people. 
+	- Create an impact and income based on gifts. 
+	- Eliminate procrastination and overwhelm. Follow step-by-step to teach you everything you need to know. 
+	- Ensure your hard work pays off. 
 
 
 

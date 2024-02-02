@@ -9,18 +9,41 @@
 - People will continue to pay for products that solve their problems, however, these products will be to be increasing bespoke to ensure they stand out from the crowd. AI will allow customers to gain basic knowledge and assistance. A successful company will do more than this. 
 
 
-## Digital First
+## Digital First Ideology
+This is the opinionated view behind concept of digital first publishing:
+
+- Write in plain text.
+- Create books for readers not readers for book.
+- Create remarkable books.
+- Don't play by the publishers rules, you will lose.
 
 
 ## Message
 
-- This is the message Rebecca Barr is presenting. I don't fully agree but she knows her market and there is certainly some value here:
+- This is the message Rebecca Barr is presenting. She charges £497 for a one year engagment. I don't fully agree but she knows her market and there is certainly some value here:
 	- Have your vision brought to life, create a legacy, and be supported every step of the way.
 	- Fun, activating and inspiring experience.
 	- Write in a community of like minded people. 
 	- Create an impact and income based on gifts. 
 	- Eliminate procrastination and overwhelm. Follow step-by-step to teach you everything you need to know. 
 	- Ensure your hard work pays off. 
+	- Don't know where to start.
+	- Write with accountability. 
+	- She provies:
+		- Step-by-step guides
+		- Personalized roadmap to success.
+		- Mindset support. 
+		- Community. 
+		- Beta feedback on writing. 
+		- Industry contacts.
+		- Funnel building support.
+		- Templates:
+			- Press pitch
+			- Launch tracker
+			- Goalsetting and accountablilty
+			- KDP upload
+
+
 
 
 
@@ -32,7 +55,6 @@
 	- Create books for readers not readers for book.
 	- Create remarkable books.
 	- Don't play by the publishers rules, you will lose.
-- dgf
 
 - What does writing and publishing look like in five years time?
 	- AI assisted.

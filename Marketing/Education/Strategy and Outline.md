@@ -17,7 +17,16 @@ This is the opinionated view behind concept of digital first publishing:
 - Create remarkable books.
 - Don't play by the publishers rules, you will lose.
 
+**Plain Text**
+It is all too easy to get caught up in using the 'latest' or 'best' software. This is a trap. When you write using software from a third party, you are tried into their format. In order to future-proof your writing is it always best to write in plain text, this is a format that will always be accessible. It is also advised that you use markdown. 
 
+**Text and Publishing Separated**
+
+
+they should be speetare
+writing in plain text
+pulbihsined based on deleivery system
+all systemn allow conversion from master plain text to proporotiry software
 ## Message
 
 - This is the message Rebecca Barr is presenting. She charges £497 for a one year engagment. I don't fully agree but she knows her market and there is certainly some value here:
@@ -76,3 +85,7 @@ Seacrow/bubblecow community
 			- Writing GPT
 			- Character name GPT
 			- Agent GPT
+
+link with experts? 
+
+121 an hour - 100 quid - author roadmap

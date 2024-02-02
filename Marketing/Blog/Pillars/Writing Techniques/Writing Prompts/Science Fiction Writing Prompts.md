@@ -130,7 +130,7 @@
      <img
        alt="spaceship in London"
        itemprop="contentUrl"
-       src="https://bubblecow.com/assets/invasion-compressed."
+       src="https://bubblecow.com/assets/invasion-compressed"
        class="post-media img-fluid rounded mx-auto d-block mt-1 mb-1"
        width="700" height="400"
        />
@@ -141,9 +141,9 @@
 
       <div itemscope itemtype="https://schema.org/ImageObject">
      <img
-       alt="alt text goes here"
+       alt="young girl crossing road with robot"
        itemprop="contentUrl"
-       src="https://bubblecow.com/assets/average-short-story-word-count"
+       src="https://bubblecow.com/assets/helping-hand-compressed"
        class="post-media img-fluid rounded mx-auto d-block mt-1 mb-1"
        width="700" height="400"
        />
@@ -154,9 +154,9 @@
 
       <div itemscope itemtype="https://schema.org/ImageObject">
      <img
-       alt="alt text goes here"
+       alt="a strange robot"
        itemprop="contentUrl"
-       src="https://bubblecow.com/assets/average-short-story-word-count"
+       src="https://bubblecow.com/assets/stranger-compressed"
        class="post-media img-fluid rounded mx-auto d-block mt-1 mb-1"
        width="700" height="400"
        />

@@ -1,0 +1,41 @@
+
+
+
+
+
+
+
+best practice is free, pay for bespoke
+how do i make writers betterr - editing 2.0
+
+
+
+- This is a long term 'movement' funded by a paid course. 
+- It should have its own brand. 
+- It should have a set of principles, it is an opinionated way to publish a book
+	- Write in plain text.
+	- Create books for readers not readers for book.
+	- Create remarkable books.
+	- Don't play by the publishers rules, you will lose.
+- dgf
+
+- What does writing and publishing look like in five years time?
+	- AI assisted.
+	- Contained split between mainstream and niche content. 
+	- Community driven sales are increasingly important. 
+
+Seacrow/bubblecow community
+- discord 
+- what's app group chat
+- - SeaCrow podcast
+
+- Free interactive BubbleCow course with a paid element. This would be more about building a community. I need to make people **feel** like writers.  This would be short and simple with a low and high level paid element. Start with one course and build. The paid interaction would need to be able to scale. This would also be aimed at younger writers. It needs to feel like a community with a real shared mindset, need to make sure this is correct - unheard voice? We could use ethos such as write in plain text and ignore format. Write for 1000 readers. Focus on niche. Can't beat the big boys so do something different,  find your tribe and write the books for them. I am creating a tribe. Stop trying to write bestsellers and break the 'code', write quality books your readers will love. You art is in your ideas, technology only helps. Plain text and tools.
+	- The free element includes the written material and access to a weekly 'call'. 
+	- The paid element would include:
+		- A VIP discord.
+		- Access  to all recorded calls and material. 
+		- Mastermind group
+		- ChatGPTs
+			- Writing GPT
+			- Character name GPT
+			- Agent GPT

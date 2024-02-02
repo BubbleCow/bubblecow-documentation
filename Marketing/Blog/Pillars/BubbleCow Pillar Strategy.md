@@ -109,6 +109,17 @@ The goal of the blog is to help writers to become better writers.
 	    - Do book editors make good money?
 	    - Are book editors in demand?
 	    - Career Development In Book Editing - written
+
+- Pillar: Writing Techniques
+	- Sub-pillar: Writing Prompts
+		- Post: [[Fiction Writing Prompts - A Comprehensive List For Writers]]
+		- Post: Science Fiction Writing Prompts
+		- Post: Fantasy Writing Prompts
+		- Post: Romance Writing Prompts
+		- Post: Thriller Writing Prompts
+		- Post: Horror Writing Prompts
+		- Post: Speculative Fiction Writing Prompts
+
 - Pillar: [[Storytelling Techniques]]
 	- Sub-pillar: [[Novel Structure]]
 		- Post: [[The Importance Of Structure When Writing a novel]]
@@ -362,7 +373,7 @@ Pillar - [[Diverse and Inclusive Writing]]
 		- Why is diversity important in publishing?
 		- What are the barriers in the publishing industry?
 		
-
+tropes
 ## Suggested New Pillars
 These are ideas for new pillars to consider. 
 

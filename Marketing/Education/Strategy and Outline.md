@@ -21,6 +21,9 @@ This is the opinionated view behind concept of digital first publishing:
 It is all too easy to get caught up in using the 'latest' or 'best' software. This is a trap. When you write using software from a third party, you are tried into their format. In order to future-proof your writing is it always best to write in plain text, this is a format that will always be accessible. It is also advised that you use markdown. 
 
 **Text and Publishing Separated**
+It is important to think about text and the way it is delivered to the reader as separate. The text of the book should be written in plain text and act as a 'master'. This master text can then be converted into multiple formats depending on the way it will be consumed. For example, the text might be converted to PDF for printing but ePub for digital. The styling of this text with contextual to the delivery system and often different for different formats. 
+
+**Reader Driven Writing**
 
 
 they should be speetare

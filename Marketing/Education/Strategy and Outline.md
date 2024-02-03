@@ -56,7 +56,55 @@ all systemn allow conversion from master plain text to proporotiry software
 			- KDP upload
 
 
+## Course
 
+FREE
+
+Planning 
+
+Writing 
+
+Editing 
+
+Publishing 
+
+Marketing
+
+
+PAID
+
+-  Initial one hour 121 discory (strategy/roadmap) session - £100
+### Discovery Session
+£100
+This is a one-to-one assessment session where a writer's current position is assessed and step-by-step roadmap created from get from current position to publication. 
+
+The following is assessed:
+- **Writing** - A developmental edit of the first 2000 words of the manuscript. This comes with a detailed editor's report and a list of resources and exercises that need to be carried out to improve. A future goal is set. 
+- 
+
+
+**Standard** 
+- access to weekly video lesson (recorded and added to vault) this is based on the free content
+- access to weekly editor's session, this is something special might be a live edit or talk or guest speaker (recorded and added to vault)
+- free access to community forum.
+- daily writing prompt with community feedback.
+
+**Gold**
+- 
+- monthly writing challenges with group feedback
+
+**vip**
+-  once a month editorial feedback (2000 words)
+- daily motivational/accountability check in.
+- monthly 1/2 hour check up and reassessment of road map. 
+
+
+
+
+
+
+- 
+- 
 
 
 

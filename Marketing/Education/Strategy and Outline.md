@@ -80,6 +80,8 @@ This is a one-to-one assessment session where a writer's current position is ass
 
 The following is assessed:
 - **Writing** - A developmental edit of the first 2000 words of the manuscript. This comes with a detailed editor's report and a list of resources and exercises that need to be carried out to improve. A future goal is set. 
+- **Target Market** - A detailed assessment of the book's genre and target market. This also includes an examination of successful titles and current trends. A goal is set to ensure the writer is capitalizing on current trends and is creating a book the target market will enjoy. 
+- **Platform and Marketing** - 
 - 
 
 

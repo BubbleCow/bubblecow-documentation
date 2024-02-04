@@ -160,3 +160,9 @@ gtp tools
 invest in yourself and book
 
 what's app
+
+genre breakouts - no diing it. 
+
+rethinking how books are written and edited. 
+
+redefine success to not be a bestseller

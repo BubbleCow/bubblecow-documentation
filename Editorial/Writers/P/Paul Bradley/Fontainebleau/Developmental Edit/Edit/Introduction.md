@@ -29,13 +29,15 @@ How could I question his plan or disagree with his opinions on how the world wor
 
 The ominous shadow of a Labour Government and their promise to fleece Britain’s wealthy loomed ominously ahead of us. So, when he suggested we sell up and move to Spain, it seemed logical. The year-round warm climate promised to be infinitely more fulfilling than a crowded, cold, grey island. 
 
+After selling his chain of betting shops and our main home, we loaded up the Rolls and headed south. With my father’s successful track record in business, how could we fail?
+
 Yet, this transition to the sun-drenched Costa del Sol was not without its perils. The language and culture, so different from our own, they presented not just challenges but potentially dangers misunderstandings.
 
 My parents’ principal objective was to retire and enjoy the sunshine. However, to provide an income stream and a future for my brother and myself, Dad invested in a hotel business with the goal of showing us the ropes before heading off with mum to sharpen his gardening skills. 
 
 This venture into the unknown turned out to be  fraught with more difficulties than we could have ever guessed, from navigating a foreign administrative system that seemed designed to fail to understanding a mindset vastly different from our own. 
 
-After selling his chain of betting shops and our main home, we loaded up the Rolls and headed south. With my father’s successful track record in business, how could we fail? I harbored no doubts that I would be equally successful, marry a lovely girl, buy my own luxury car, and enjoy an amazing life by the blue Mediterranean. Yet, our attempts to assimilate were met with challenges at every turn, from clashes with armed police to the perils of deadly fires and the frustration of lost luggage.
+ I harbored no doubts that I would be equally successful, marry a lovely girl, buy my own luxury car, and enjoy an amazing life by the blue Mediterranean. Yet, our attempts to assimilate were met with challenges at every turn, from clashes with armed police to the perils of deadly fires and the frustration of lost luggage.
 
 However, I didn’t have much to bring to the table. My knowledge of Spanish culture, language, people, or running a business in a country controlled by a ruthless dictator was practically zilch. I was naïve enough to think this wouldn’t matter. All I could offer, apart from being an avid fan of Formula One with an exhaustive knowledge of sixties and seventies sounds, was a sharp mind, a quick tongue, some bar experience, and a willing attitude to turn my hand to whatever dad thought might be necessary.
 

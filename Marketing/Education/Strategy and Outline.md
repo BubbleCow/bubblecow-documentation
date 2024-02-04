@@ -7,8 +7,6 @@
 - AI will make access to knowledge unlimited, therefore the problem is not accessing information as it was in the pre-Internet days, but finding the best, curated information that fits a users needs. We will more from general to bespoke. This means that charging for general or 'best practice' information is pointless, the value is in crafting bespoke solutions. 
 - Community will continue to become increasingly valuable. The desire for someone to belong will never alter. An ability to provide an inclusive environment, in which writers feel heard, will be the key for success in the coming years. 
 - People will continue to pay for products that solve their problems, however, these products will be to be increasing bespoke to ensure they stand out from the crowd. AI will allow customers to gain basic knowledge and assistance. A successful company will do more than this. 
-
-
 ## Digital First Ideology
 This is the opinionated view behind concept of digital first publishing:
 
@@ -79,15 +77,15 @@ PAID
 This is a one-to-one assessment session where a writer's current position is assessed and step-by-step roadmap created from get from current position to publication. 
 
 The following is assessed:
-- **Writing** - A developmental edit of the first 2000 words of the manuscript. This comes with a detailed editor's report and a list of resources and exercises that need to be carried out to improve. A future goal is set. 
+- **Writing** - A developmental edit of the first 1000 words of the manuscript. This comes with a detailed editor's report and a list of resources and exercises that need to be carried out to improve. A future goal is set. 
 - **Target Market** - A detailed assessment of the book's genre and target market. This also includes an examination of successful titles and current trends. A goal is set to ensure the writer is capitalizing on current trends and is creating a book the target market will enjoy. 
 - **Platform and Marketing** - 
 - 
 
 
 **Standard** 
-- access to weekly video lesson (recorded and added to vault) this is based on the free content
-- access to weekly editor's session, this is something special might be a live edit or talk or guest speaker (recorded and added to vault)
+- access to weekly video lesson (recorded and added to vault) this is based on the free content.
+- access to weekly editor's session, this is something special might be a live edit or talk or guest speaker (recorded and added to vault).
 - free access to community forum.
 - daily writing prompt with community feedback.
 
@@ -142,3 +140,23 @@ Seacrow/bubblecow community
 link with experts? 
 
 121 an hour - 100 quid - author roadmap
+
+riches in niches - leave to big publisher to everytone (bestseller), make moiny int eh crakes, where publisher will not go.
+
+upsell editing - discount at bubblecow 1/3rd off. range of discpunt pon level - refund cost on editing 
+
+if in - dsicount on course on editing.
+
+
+breakdown real elelmets worht 
+
+mindset of writong - getttoiong started and getting finish
+
+
+mentoring - 121 - with free findal edit. 1 hour per month (100) and a free edit. look at cost
+
+gtp tools
+
+invest in yourself and book
+
+what's app

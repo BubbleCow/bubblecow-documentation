@@ -166,3 +166,8 @@ genre breakouts - no diing it.
 rethinking how books are written and edited. 
 
 redefine success to not be a bestseller
+
+
+seacrow is this in action
+
+https://mapandfire.com/field-guide/hero-brand-archetype/#:~:text=The%20Hero%20Archetype%20Attributes&text=The%20Hero%20acts%20to%20redeem,triumph%20over%20adversity%20and%20evil.

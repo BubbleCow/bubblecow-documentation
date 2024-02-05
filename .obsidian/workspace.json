@@ -4,27 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "9297bf3311fc59bc",
+        "id": "63bd3b89fd715f4b",
         "type": "tabs",
         "children": [
           {
-            "id": "b75f333d2b49f1aa",
+            "id": "12630442ee9b7b11",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Editorial/Writers/P/Paul Bradley/Fontainebleau/Developmental Edit/Edit/Introduction.md",
+                "file": "Marketing/Education/Strategy and Outline.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "5a3928eff4c86e74",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
             }
           }
         ]
@@ -93,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Editorial/Writers/P/Paul Bradley/Fontainebleau/Developmental Edit/Edit/Introduction.md",
+                "file": "Marketing/Education/Strategy and Outline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Editorial/Writers/P/Paul Bradley/Fontainebleau/Developmental Edit/Edit/Introduction.md",
+                "file": "Marketing/Education/Strategy and Outline.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Editorial/Writers/P/Paul Bradley/Fontainebleau/Developmental Edit/Edit/Introduction.md"
+                "file": "Marketing/Education/Strategy and Outline.md"
               }
             }
           }
@@ -154,10 +146,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b75f333d2b49f1aa",
+  "active": "12630442ee9b7b11",
   "lastOpenFiles": [
-    "Editorial/Writers/C/Cristina Fiore/Midnight's Slumber/Book Proposal/Query Letter.md",
     "Editorial/Writers/P/Paul Bradley/Fontainebleau/Developmental Edit/Edit/Introduction.md",
+    "Editorial/Writers/C/Cristina Fiore/Midnight's Slumber/Book Proposal/Query Letter.md",
     "Marketing/Education/Branding - Colour Palette.md",
     "Editorial/Writers/C/Cristina Fiore/Midnight's Slumber/Book Proposal",
     "Editorial/Writers/C/Cristina Fiore/Midnight's Slumber",

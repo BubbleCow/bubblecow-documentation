@@ -1,6 +1,7 @@
 > [!info] 
 > This is thoughts and feelings on how to build an education element to BubbleCow and prepare it for an AI driven world
 
+The goal is to create an education community in which writers at all stages of the process can 
 ## Driving Principles
 
 - AI will transform the way people use the Google. Simple questions will be answered at the point of asking. This means that the traffic to sites will change and be replaced with those looking for products, services or complex answers. 

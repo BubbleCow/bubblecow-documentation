@@ -31,9 +31,19 @@ I am an editor with over twenty years experience in the publishing industry rang
 I have a deep knowledge of the publishing industry, beginning my career working for the world-famous Horrible Histories series, first as a researcher but later as an editor and writer. I have worked as an editorial consultant with a wide range of publishers across the industry. 
  
 ## Editorial Feedback
-I liked your edit, and I found the story engaging. 
+I wanted to start by outlining some of the things I enjoyed about your extract. 
 
-- opening chapter needs claroioty
+Your writing show a voice that is not only distinct but also compellingly well-crafted. It's clear that you've honed your voice to align with the narrative. Pacing is the heartbeat of a narrative. You've managed the flow of events and information, ensuring that each chapter propels the story forward. This careful balance of action, dialogue, and exposition maintains momentum, making each page a pleasure to turn and keeping readers invested in the unfolding story.
+
+### Strong Characterization
+
+The characters in your story are not merely names on a page; they are vivid, complex beings with desires, fears, and motivations that readers can relate to or be intrigued by. Good characterization is the soul of any narrative, and you've breathed life into yours, crafting individuals who feel real and whose journeys matter to the reader. This depth of characterization fosters a connection between your audience and your characters, enhancing the overall impact of your story.
+
+### Genre and Reader Expectations
+
+It's evident that you possess a keen understanding of your genre and the expectations of your target readership. Your manuscript not only fits within its genre but does so in a way that feels both familiar and innovative. By respecting genre conventions while also infusing your unique twist, you've created a narrative that satisfies genre aficionados while also appealing to those looking for something new.
+
+- opening chapter needs clarity
 - show don't tell
 - descritpin
 - avoid adverds

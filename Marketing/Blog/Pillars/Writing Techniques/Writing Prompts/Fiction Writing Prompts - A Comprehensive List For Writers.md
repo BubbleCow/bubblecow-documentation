@@ -166,6 +166,19 @@
 
 <h2 id="item-7">Science Fiction Writing Prompts</h2>
 
+      <div itemscope itemtype="https://schema.org/ImageObject">
+     <img
+       alt="a science fiction world for writing prompts"
+       itemprop="contentUrl"
+       src="https://bubblecow.com/assets/science-fiction-writing-prompts-compressed"
+       class="post-media img-fluid rounded mx-auto d-block mt-1 mb-1"
+       width="700" height="400"
+       />
+     <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+       <meta itemprop="name" content="Gary Smailes" />
+     </span>
+   </div>
+
 <ul>
   <li>
     <p id="sci-fi-prompt1"><strong>A World Without Electricity</strong></p>
@@ -209,7 +222,24 @@
   </li>
 </ul>
 
+<div class="alert alert-primary" role="alert">
+ Discover a shed load more <a href="https://bubblecow.com/blog/science-fiction-writing-prompts" class="alert-link">science fiction writing prompts</a> in this comprehensive article.
+</div>
+
 <h2 id="item-8">Fantasy Writing Prompts</h2>
+
+      <div itemscope itemtype="https://schema.org/ImageObject">
+     <img
+       alt="a fantasy world for writing prompts"
+       itemprop="contentUrl"
+       src="https://bubblecow.com/assets/dragon-compressed"
+       class="post-media img-fluid rounded mx-auto d-block mt-1 mb-1"
+       width="700" height="400"
+       />
+     <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+       <meta itemprop="name" content="Gary Smailes" />
+     </span>
+   </div>
 
 <ul>
   <li>
@@ -253,6 +283,10 @@
     <p>Write a story about a character who discovers the ability to time travel. What periods of time do they visit, and what do they learn from these experiences? How does their time travel affect their present-day life, and what happens when they try to change the course of history?</p>
   </li>
 </ul>
+
+<div class="alert alert-primary" role="alert">
+ Need more prompts? <a href="https://bubblecow.com/blog/fantasy-writing-prompts" class="alert-link">Check out this massive list of fantasy writing prompts</a>.
+</div>
 
 <h2 id="item-9">Romance Writing Prompts</h2>
 <ul>

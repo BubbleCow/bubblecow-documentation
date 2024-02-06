@@ -8,14 +8,33 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2095de49b5ca7930",
+            "id": "fc10219250fc7277",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Editorial/Reports/Developmental Editing/Non-fiction/NON-FICTION - Editors Report - Developmental Editing - BubbleCow.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2095de49b5ca7930",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Editorial/Reports/Developmental Editing/Fiction/FICTION - Editors Report - Sample - Developmental Editing - Upworks.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Marketing/Blog/Pillars/BubbleCow Pillar Strategy.md",
+                "file": "Editorial/Reports/Developmental Editing/Fiction/FICTION - Editors Report - Sample - Developmental Editing - Upworks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Marketing/Blog/Pillars/BubbleCow Pillar Strategy.md",
+                "file": "Editorial/Reports/Developmental Editing/Fiction/FICTION - Editors Report - Sample - Developmental Editing - Upworks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Marketing/Blog/Pillars/BubbleCow Pillar Strategy.md"
+                "file": "Editorial/Reports/Developmental Editing/Fiction/FICTION - Editors Report - Sample - Developmental Editing - Upworks.md"
               }
             }
           }
@@ -142,9 +161,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "341fb5c098c93da7",
+  "active": "2095de49b5ca7930",
   "lastOpenFiles": [
+    "Editorial/Reports/Developmental Editing/Non-fiction/NON-FICTION - Editors Report - Developmental Editing - BubbleCow.md",
+    "Editorial/Reports/Developmental Editing/Fiction/FICTION - Editors Report - Sample - Developmental Editing - Upworks.md",
+    "Editorial/Reports/Developmental Editing/Fiction/FICTION - Editors Report - Sample - Developmental Editing - BubbleCow.md",
     "Marketing/Blog/Pillars/BubbleCow Pillar Strategy.md",
+    "Editorial/Reports/Developmental Editing/Fiction",
     "Marketing/Blog/Pillars/Writing Techniques/Writing Prompts/Fantasy Writing Prompts.md",
     "Marketing/Education/Strategy and Outline.md",
     "Editorial/Writers/P/Paul Bradley/Fontainebleau/Developmental Edit/Edit/Introduction.md",
@@ -168,7 +191,6 @@
     "Marketing/Blog/Pillars/Writing dialogue in Fiction/Writing dialogue in Fiction.md",
     "Marketing/Blog/Pillars/Writing dialogue in Fiction/How do you write a good dialogue.md",
     "Marketing/Blog/Pillars/Writing dialogue in Fiction/How to Write Dialogue in a Novel.md",
-    "Marketing/Blog/Pillars/Writing dialogue in Fiction",
     "Editorial/Writers/T/Tony Farias/No I am Not a Rat/Unaltered Manuscript/00.md",
     "Editorial/Writers/T/Tony Farias/No I am Not a Rat/Unaltered Manuscript/18.md",
     "Editorial/Writers/T/Tony Farias/No I am Not a Rat/No I am not a rat - manuscript.md",
@@ -178,9 +200,6 @@
     "Editorial/Writers/T/Tony Farias/No I am Not a Rat/Unaltered Manuscript/14.md",
     "Editorial/Writers/T/Tony Farias/No I am Not a Rat/Unaltered Manuscript/13.md",
     "Editorial/Writers/T/Tony Farias/No I am Not a Rat/Unaltered Manuscript/12.md",
-    "Editorial/Writers/T/Tony Farias/No I am Not a Rat/Unaltered Manuscript/11.md",
-    "Editorial/Writers/T/Tony Farias/No I am Not a Rat/Unaltered Manuscript/10.md",
-    "Editorial/Writers/T/Tony Farias/No I am Not a Rat/Unaltered Manuscript/09.md",
     "Editorial/Writers/R/Robyn Atkinson/Canche Gringa/Developmental Editing/Untitled.canvas"
   ]
 }

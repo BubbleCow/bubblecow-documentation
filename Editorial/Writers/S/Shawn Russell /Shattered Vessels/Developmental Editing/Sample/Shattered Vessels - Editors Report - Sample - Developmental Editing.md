@@ -1,8 +1,3 @@
-> [!info] 
-> This is the developmental editor's report for ficiton.
-> Last updated: 6 Feb, 2024
- 
- 
 Editor: Gary Smailes
 Completed: Add the date completion
 ## Understanding Your Feedback
@@ -141,14 +136,11 @@ Throughout the manuscript, I noticed the frequent use of exclamation marks. Whil
 To improve your manuscript's overall tone and readability, I recommend limiting the use of exclamation marks. Reserve them for moments of high emotional intensity or when it is crucial to emphasize a particular point. By being more selective with your use of exclamation marks, you can strengthen your narrative and create a more balanced and engaging reading experience.
 
 To address this issue, review your manuscript and identify instances where exclamation marks can be replaced with periods or other punctuation marks. Rephrasing sentences to convey the intended emotion or emphasis through the choice of words and sentence structure rather than relying on exclamation marks. This will result in a more polished and professional manuscript.
-
-
-
 ## Chapter Summary
 In the full edit; I provide chapter-by-chapter feedback. This allows you to have a visual representation of your story, making any rewriting simpler. It also allows you to identify potential plot issues. 
-
-Chapter 1
-TEXT HERE
+### Chapter 1
+This chapter sees a split timeline with the main character on the beach in a battle and in France prior to the conflict. 
+- My main issue is the split between the two timelines. I feel this needs additional consideration and discussion. 
 
 
 

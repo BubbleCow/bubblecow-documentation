@@ -32,9 +32,21 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "76abe09266fa58ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Editorial/Writers/S/Shawn Russell /Shattered Vessels/Developmental Editing/Sample/Shattered Vessels - Editors Report - Sample - Developmental Editing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -100,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Editorial/Reports/Developmental Editing/Fiction/FICTION - Editors Report - Sample - Developmental Editing - Upworks.md",
+                "file": "Editorial/Writers/S/Shawn Russell /Shattered Vessels/Developmental Editing/Sample/Shattered Vessels - Editors Report - Sample - Developmental Editing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Editorial/Reports/Developmental Editing/Fiction/FICTION - Editors Report - Sample - Developmental Editing - Upworks.md",
+                "file": "Editorial/Writers/S/Shawn Russell /Shattered Vessels/Developmental Editing/Sample/Shattered Vessels - Editors Report - Sample - Developmental Editing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Editorial/Reports/Developmental Editing/Fiction/FICTION - Editors Report - Sample - Developmental Editing - Upworks.md"
+                "file": "Editorial/Writers/S/Shawn Russell /Shattered Vessels/Developmental Editing/Sample/Shattered Vessels - Editors Report - Sample - Developmental Editing.md"
               }
             }
           }
@@ -161,10 +173,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2095de49b5ca7930",
+  "active": "76abe09266fa58ab",
   "lastOpenFiles": [
-    "Editorial/Reports/Developmental Editing/Non-fiction/NON-FICTION - Editors Report - Developmental Editing - BubbleCow.md",
+    "Editorial/Writers/S/Shawn Russell /Shattered Vessels/Developmental Editing/Sample/Cristina Fiore - Short Stories - recommended edits - by Cristina Fiore.docx",
+    "Editorial/Writers/S/Shawn Russell /Shattered Vessels/Developmental Editing/Sample/Unconfirmed 230882.crdownload",
+    "Editorial/Writers/S/Shawn Russell /Shattered Vessels/Developmental Editing/Sample/Shattered vessels (Chapter 1) - sample - developmental editing.docx",
+    "Editorial/Writers/S/Shawn Russell /Shattered Vessels/Developmental Editing/Sample/Shattered vessels (Chapter 1) - sample - developmental editing(1).docx",
+    "Editorial/Writers/S/Shawn Russell /Shattered Vessels/Developmental Editing/Sample/Shattered Vessels - Editors Report - Sample - Developmental Editing.pdf",
     "Editorial/Reports/Developmental Editing/Fiction/FICTION - Editors Report - Sample - Developmental Editing - Upworks.md",
+    "Editorial/Writers/S/Shawn Russell /Shattered Vessels/Developmental Editing/Sample/Shattered Vessels - Editors Report - Sample - Developmental Editing.md",
+    "Editorial/Reports/Developmental Editing/Non-fiction/NON-FICTION - Editors Report - Developmental Editing - BubbleCow.md",
     "Editorial/Reports/Developmental Editing/Fiction/FICTION - Editors Report - Sample - Developmental Editing - BubbleCow.md",
     "Marketing/Blog/Pillars/BubbleCow Pillar Strategy.md",
     "Editorial/Reports/Developmental Editing/Fiction",
@@ -180,13 +198,9 @@
     "Admin/Images",
     "Admin/Images/Pasted image 20240204133232.png",
     "Marketing/Blog/Pillars/Writing Techniques/Writing Prompts/Science Fiction Writing Prompts.md",
-    "Marketing/Education",
     "Marketing/Blog/Pillars/Writing Techniques and Styles.md",
     "Marketing/Blog/Pillars/Writing Techniques/Writing Prompts/Fiction Writing Prompts - A Comprehensive List For Writers.md",
-    "Marketing/Blog/Pillars/Writing Techniques/Writing Prompts",
-    "Marketing/Blog/Pillars/Writing Techniques",
     "Marketing/Blog/Pillars/Writing Prompts/Fiction Writing Prompts - A Comprehensive List For Writers.md",
-    "Marketing/Blog/Pillars/Writing Prompts",
     "Marketing/Blog/Pillars/Book Editing/Self Editing for Writers/How can I edit my own book.md",
     "Marketing/Blog/Pillars/Writing dialogue in Fiction/Writing dialogue in Fiction.md",
     "Marketing/Blog/Pillars/Writing dialogue in Fiction/How do you write a good dialogue.md",
@@ -198,8 +212,6 @@
     "Editorial/Writers/T/Tony Farias/No I am Not a Rat/Unaltered Manuscript/16.md",
     "Editorial/Writers/T/Tony Farias/No I am Not a Rat/Unaltered Manuscript/15.md",
     "Editorial/Writers/T/Tony Farias/No I am Not a Rat/Unaltered Manuscript/14.md",
-    "Editorial/Writers/T/Tony Farias/No I am Not a Rat/Unaltered Manuscript/13.md",
-    "Editorial/Writers/T/Tony Farias/No I am Not a Rat/Unaltered Manuscript/12.md",
     "Editorial/Writers/R/Robyn Atkinson/Canche Gringa/Developmental Editing/Untitled.canvas"
   ]
 }

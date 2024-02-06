@@ -114,7 +114,7 @@ The goal of the blog is to help writers to become better writers.
 	- Sub-pillar: Writing Prompts
 		- Post: [[Fiction Writing Prompts - A Comprehensive List For Writers]]
 		- Post: [[Science Fiction Writing Prompts]]
-		- Post: Fantasy Writing Prompts
+		- Post: [[Fantasy Writing Prompts]]
 		- Post: Romance Writing Prompts
 		- Post: Thriller Writing Prompts
 		- Post: Horror Writing Prompts

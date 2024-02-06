@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "63bd3b89fd715f4b",
+        "id": "1478ef1c482d423a",
         "type": "tabs",
         "children": [
           {
-            "id": "12630442ee9b7b11",
+            "id": "6e198c82056cf829",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Marketing/Education/Strategy and Outline.md",
+                "file": "Marketing/Blog/Pillars/BubbleCow Pillar Strategy.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d21a1f700f24f55b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Marketing/Blog/Pillars/Writing Techniques/Writing Prompts/Fantasy Writing Prompts.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Marketing/Education/Strategy and Outline.md",
+                "file": "Marketing/Blog/Pillars/Writing Techniques/Writing Prompts/Fantasy Writing Prompts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Marketing/Education/Strategy and Outline.md",
+                "file": "Marketing/Blog/Pillars/Writing Techniques/Writing Prompts/Fantasy Writing Prompts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Marketing/Education/Strategy and Outline.md"
+                "file": "Marketing/Blog/Pillars/Writing Techniques/Writing Prompts/Fantasy Writing Prompts.md"
               }
             }
           }
@@ -146,8 +159,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "12630442ee9b7b11",
+  "active": "341fb5c098c93da7",
   "lastOpenFiles": [
+    "Marketing/Blog/Pillars/BubbleCow Pillar Strategy.md",
+    "Marketing/Blog/Pillars/Writing Techniques/Writing Prompts/Fantasy Writing Prompts.md",
+    "Marketing/Education/Strategy and Outline.md",
     "Editorial/Writers/P/Paul Bradley/Fontainebleau/Developmental Edit/Edit/Introduction.md",
     "Editorial/Writers/C/Cristina Fiore/Midnight's Slumber/Book Proposal/Query Letter.md",
     "Marketing/Education/Branding - Colour Palette.md",
@@ -155,10 +171,8 @@
     "Editorial/Writers/C/Cristina Fiore/Midnight's Slumber",
     "Editorial/Writers/C/Cristina Fiore",
     "Editorial/Writers/C",
-    "Marketing/Education/Strategy and Outline.md",
     "Admin/Images",
     "Admin/Images/Pasted image 20240204133232.png",
-    "Marketing/Blog/Pillars/BubbleCow Pillar Strategy.md",
     "Marketing/Blog/Pillars/Writing Techniques/Writing Prompts/Science Fiction Writing Prompts.md",
     "Marketing/Education",
     "Marketing/Blog/Pillars/Writing Techniques and Styles.md",
@@ -184,7 +198,6 @@
     "Editorial/Writers/T/Tony Farias/No I am Not a Rat/Unaltered Manuscript/11.md",
     "Editorial/Writers/T/Tony Farias/No I am Not a Rat/Unaltered Manuscript/10.md",
     "Editorial/Writers/T/Tony Farias/No I am Not a Rat/Unaltered Manuscript/09.md",
-    "Editorial/Writers/T/Tony Farias/No I am Not a Rat/Unaltered Manuscript/08.md",
     "Editorial/Writers/R/Robyn Atkinson/Canche Gringa/Developmental Editing/Untitled.canvas"
   ]
 }

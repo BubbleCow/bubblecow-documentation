@@ -125,6 +125,71 @@
 
 <p>They say a picture is worth a thousand words, and within the enchanting sphere of fantasy, this adage takes on a magical dimension. Below, you'll discover a handpicked collection of images, each selected for its ability to stir the imagination and serve as a muse for the weaving of fantastical tales. From enchanted forests shrouded in mist and ancient ruins holding forgotten secrets to majestic creatures of lore and mystics wielding ancient powers, these images stand as portals to realms unexplored. Let them be your guide on a journey to the heart of your creativity, where stories are waiting to breathe life into the visions captured in each frame.</p>
 
+   <div itemscope itemtype="https://schema.org/ImageObject">
+     <img
+       alt="phoenix fantasy writing prompt image"
+       itemprop="contentUrl"
+       src="https://bubblecow.com/assets/phoenix-compressed"
+       class="post-media img-fluid rounded mx-auto d-block mt-1 mb-1"
+       width="700" height="400"
+       />
+     <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+       <meta itemprop="name" content="Gary Smailes" />
+     </span>
+   </div>
+
+      <div itemscope itemtype="https://schema.org/ImageObject">
+     <img
+       alt="castle fantasy writing prompt image"
+       itemprop="contentUrl"
+       src="https://bubblecow.com/assets/castle-compressed"
+       class="post-media img-fluid rounded mx-auto d-block mt-1 mb-1"
+       width="700" height="400"
+       />
+     <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+       <meta itemprop="name" content="Gary Smailes" />
+     </span>
+   </div>
+
+      <div itemscope itemtype="https://schema.org/ImageObject">
+     <img
+       alt="library fantasy writing prompt image"
+       itemprop="contentUrl"
+       src="https://bubblecow.com/assets/library-compressed"
+       class="post-media img-fluid rounded mx-auto d-block mt-1 mb-1"
+       width="700" height="400"
+       />
+     <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+       <meta itemprop="name" content="Gary Smailes" />
+     </span>
+   </div>
+
+      <div itemscope itemtype="https://schema.org/ImageObject">
+     <img
+       alt="tournament fantasy writing prompt image"
+       itemprop="contentUrl"
+       src="https://bubblecow.com/assets/tournament-compressed"
+       class="post-media img-fluid rounded mx-auto d-block mt-1 mb-1"
+       width="700" height="400"
+       />
+     <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+       <meta itemprop="name" content="Gary Smailes" />
+     </span>
+   </div>
+   
+   <div itemscope itemtype="https://schema.org/ImageObject">
+     <img
+       alt="portal fantasy writing prompt image"
+       itemprop="contentUrl"
+       src="https://bubblecow.com/assets/portal-compressed"
+       class="post-media img-fluid rounded mx-auto d-block mt-1 mb-1"
+       width="700" height="400"
+       />
+     <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+       <meta itemprop="name" content="Gary Smailes" />
+     </span>
+   </div>
+
 <h2 id="frequently-asked-questions">Frequently Asked Questions</h2>
 <p>Below are some frequently asked questions that will provide you with more information.</p>
 
@@ -171,9 +236,10 @@
 </div>
 
 
-
-
 <h2 id="conclusion">Conclusion</h2>
 
+<p>Embarking on a journey through the landscapes of fantasy writing is akin to opening a door to infinite possibilities, where the only limit is the breadth of one's imagination. Through story starters, character and dialogue prompts, settings, themes, plots, and image inspirations, we've traversed the expanse of creativity, uncovering the potential for storytelling that engages, entertains, and enlightens. Fantasy writing is not just an escape from reality but a deep dive into the wonders of what could be, pushing boundaries and exploring the unknown.</p>
+<p>As you stand at the precipice of your next creative endeavor, remember that the prompts provided here are but stepping stones into vast, uncharted territories of your own making. Each idea, each prompt, and each image is a spark waiting to ignite the flames of a narrative only you can tell. So, take these tools, blend them with your unique voice, and carve out worlds that reflect the depth of your imagination. The realm of fantasy writing awaits, a canvas vast and wide, ready for the stories only you can bring to life. Embrace the adventure, for in the craft of storytelling, you wield the power to create universes, to give life to the inanimate, and to bestow a voice upon the silent whispers of your mind.</p>
+<p>Let this article be your guide, but let your imagination be the map that charts the course of your tales. The journey is yours to undertake, and the worlds you create will be your legacy in the boundless realm of fantasy literature.</p>
 
 </div>

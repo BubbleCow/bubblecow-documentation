@@ -48,9 +48,12 @@ If additional tags are required, these can be ‘allowed’ via the sanitize tag
 ```
 <video>
 
-<div class="post-media ratio ratio-16x9">  
-<iframe src="https://www.youtube.com/embed/zpOULjyy-n8?rel=0" title="YouTube video" allowfullscreen></iframe>  
-</div>
+	<div class="post-media ratio ratio-16x9">  
+		<iframe 
+			src="https://www.youtube.com/embed/zpOULjyy-n8?rel=0" 
+			title="YouTube video" allowfullscreen>
+		</iframe>  
+	</div>
 
 </video>
 ```
@@ -101,53 +104,27 @@ FAQ sections are formatted via Bootstrap and the theme CSS. They are also presen
 More information here: [https://developers.google.com/search/docs/advanced/structured-data/faqpage](https://developers.google.com/search/docs/advanced/structured-data/faqpage)
 
 ```
+<h2 id="">Frequently Asked Questions</h2>  
 
+<p>Below are some frequently asked questions that will provide you with more information.</p>
+
+<div itemscope itemtype="[https://schema.org/FAQPage](https://schema.org/FAQPage)" class="faq">
+
+<div itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
+
+<h3 itemprop="name">Question here</h3>
+
+<div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+
+   <div itemprop="text">
+
+     <p>Answer here</p>
+
+   </div>
+
+</div>
+
+  </div>
+
+ </div>
 ```
-
-|   |
-|---|
-|<h2>Frequently Asked Questions</h2>  <br><p>Below are some frequently asked questions that will provide you with more information.</p><br><br>  <br><div itemscope itemtype="[https://schema.org/FAQPage](https://schema.org/FAQPage)" class="faq"><br><br><div itemscope itemprop="mainEntity" itemtype="https://schema.org/Question"><br><br><h3 itemprop="name">Question here</h3><br><br><div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer"><br><br>   <div itemprop="text"><br><br>     <p>Answer here</p><br><br>   </div><br><br></div><br><br>  </div><br><br> </div>|
-
-  
-  
-
-## Interlinking
-
-These are links to include to link to sales pages.
-
-### Developmental Editing
-
-  
-
-<div class="alert alert-info" role="alert">
-
-<p>You can discover more about <a href="https://bubblecow.com/book-editing">developmental editing</a>, and how this can make you a better writer.</p>
-
-</div>
-
-### Copy Editing
-
-  
-
-<div class="alert alert-info" role="alert">
-
-<p>You can discover more about <a href="https://bubblecow.com/copy-editing">copy editing</a>, and how this can help you prepare your book for publication.</p>
-
-</div>
-
-  
-
-### Manuscript Assessment
-
-  
-
-<div class="alert alert-info" role="alert">
-
-<p>You can discover more about our <a href="https://bubblecow.com/manuscript-assessment">manuscript assessment service</a>, and how this can help you prepare your book for the next step.</p>
-
-</div>
-
-  
-  
-  
-**

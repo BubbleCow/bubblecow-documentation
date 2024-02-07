@@ -104,8 +104,8 @@ The following is assessed:
 
 
 
-- 
-- 
+- best practice is free, pay for bespoke
+- how do i make writers betterr - editing 2.0
 
 
 

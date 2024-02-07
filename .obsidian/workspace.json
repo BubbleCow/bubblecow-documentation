@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Marketing/Blog/Blog Post Formatting.md",
+                "file": "Marketing/Education/Strategy and Outline.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Marketing/Blog/Blog Post Formatting.md",
+                "file": "Marketing/Education/Strategy and Outline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Marketing/Blog/Blog Post Formatting.md",
+                "file": "Marketing/Education/Strategy and Outline.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Marketing/Blog/Blog Post Formatting.md"
+                "file": "Marketing/Education/Strategy and Outline.md"
               }
             }
           }
@@ -146,7 +146,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "341fb5c098c93da7",
+  "active": "5c97fa91833a668d",
   "lastOpenFiles": [
     "Marketing/Blog/Blog Post Formatting.md",
     "Marketing/Blog/Pillars/BubbleCow Pillar Strategy.md",

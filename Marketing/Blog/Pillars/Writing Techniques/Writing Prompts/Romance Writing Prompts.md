@@ -124,6 +124,57 @@
 
 <p>They say a picture is worth a thousand words, and in the realm of romance, this saying unfolds with a tender truth. Below, you'll discover a curated selection of images, each chosen for its potential to spark the emotions and kindle the flame of romantic storytelling. From serene sunsets painting the sky with hues of love to cozy corners where whispers of affection are exchanged, these images serve as gateways to tales of the heart. Let them inspire you on a voyage into the depths of passion and intimacy, where stories of love, longing, and connection await to be woven from the scenes captured in each snapshot.</p>
 
+   <div itemscope itemtype="https://schema.org/ImageObject">
+     <img
+       alt="a couple holding hands romance writing prompt image"
+       itemprop="contentUrl"
+       src="https://bubblecow.com/assets/couple-compressed"
+       class="post-media img-fluid rounded mx-auto d-block mt-1 mb-1"
+       width="700" height="400"
+       />
+     <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+       <meta itemprop="name" content="Gary Smailes" />
+     </span>
+   </div>
+
+      <div itemscope itemtype="https://schema.org/ImageObject">
+     <img
+       alt="holding hands over cityscape romance prompt image"
+       itemprop="contentUrl"
+       src="https://bubblecow.com/assets/holding-hands-compressed"
+       class="post-media img-fluid rounded mx-auto d-block mt-1 mb-1"
+       width="700" height="400"
+       />
+     <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+       <meta itemprop="name" content="Gary Smailes" />
+     </span>
+   </div>
+
+      <div itemscope itemtype="https://schema.org/ImageObject">
+     <img
+       alt="winter scene in park romance writing prompt image"
+       itemprop="contentUrl"
+       src="https://bubblecow.com/assets/winter-compressed"
+       class="post-media img-fluid rounded mx-auto d-block mt-1 mb-1"
+       width="700" height="400"
+       />
+     <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+       <meta itemprop="name" content="Gary Smailes" />
+     </span>
+   </div>
+
+      <div itemscope itemtype="https://schema.org/ImageObject">
+     <img
+       alt="car on cliff top romance prompt image"
+       itemprop="contentUrl"
+       src="https://bubblecow.com/assets/cliff-top-compressed"
+       class="post-media img-fluid rounded mx-auto d-block mt-1 mb-1"
+       width="700" height="400"
+       />
+     <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+       <meta itemprop="name" content="Gary Smailes" />
+     </span>
+   </div>
 
 
 <h2 id="frequently-asked-questions">Frequently Asked Questions</h2>

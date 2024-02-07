@@ -102,6 +102,7 @@ how is it done aborad?
 ## Chapter Feedback
 This section contains specific feedback about your chapters. This feedback is in addition to the Specific Feedback.  
 ### Chapter 1
+I found the argument that young players should not be moved into the academy system very convincing. The detail you present provides a logical and well devised argument. 
 
 - At the start of this chapter you talk about 'professional' football. I think you need to define this term. Does getting paid £20 to play on a Saturday for a country team count as professional? What about national league teams that don't carry 'professional' status but still pay players? If you are only talking about the top level, perhaps 100 teams in total, than there only probably a couple of thousand professional players in the country. Also, do you only mean pro-footballers in England? What about those moving outside the English FA, are they counted in the figures? 
 - You talk about funding by the FA, how does this compare to other countries? For example, Holland, Germany and Spain. 

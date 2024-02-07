@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c03e78c934f05136",
+        "id": "879a9d3a2126171d",
         "type": "tabs",
         "children": [
           {
-            "id": "068cdf25ae2ac73c",
+            "id": "5c97fa91833a668d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Marketing/Blog/Pillars/BubbleCow Pillar Strategy.md",
+                "file": "Marketing/Blog/Blog Post Formatting.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Marketing/Blog/Pillars/BubbleCow Pillar Strategy.md",
+                "file": "Marketing/Blog/Blog Post Formatting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Marketing/Blog/Pillars/BubbleCow Pillar Strategy.md",
+                "file": "Marketing/Blog/Blog Post Formatting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Marketing/Blog/Pillars/BubbleCow Pillar Strategy.md"
+                "file": "Marketing/Blog/Blog Post Formatting.md"
               }
             }
           }
@@ -146,11 +146,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "068cdf25ae2ac73c",
+  "active": "341fb5c098c93da7",
   "lastOpenFiles": [
+    "Marketing/Blog/Blog Post Formatting.md",
+    "Marketing/Blog/Pillars/BubbleCow Pillar Strategy.md",
     "Romance Writing Prompts.md",
     "Marketing/Blog/Pillars/Writing Techniques/Writing Prompts/Romance Writing Prompts.md",
-    "Marketing/Blog/Pillars/BubbleCow Pillar Strategy.md",
     "Marketing/Blog/Pillars/Writing Techniques and Styles.md",
     "Editorial/Reports/Developmental Editing/Non-fiction/NON-FICTION - Editors Report - Developmental Editing - BubbleCow.md",
     "Editorial/Reports/Developmental Editing/Fiction/FICTION - Editors Report - Sample - Developmental Editing - Upworks.md",
@@ -184,7 +185,6 @@
     "Editorial/Writers/T/Tony Farias/No I am Not a Rat/Unaltered Manuscript/18.md",
     "Editorial/Writers/T/Tony Farias/No I am Not a Rat/No I am not a rat - manuscript.md",
     "Editorial/Writers/T/Tony Farias/No I am Not a Rat/Unaltered Manuscript/17.md",
-    "Editorial/Writers/T/Tony Farias/No I am Not a Rat/Unaltered Manuscript/16.md",
     "Editorial/Writers/R/Robyn Atkinson/Canche Gringa/Developmental Editing/Untitled.canvas"
   ]
 }

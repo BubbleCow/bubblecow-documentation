@@ -55,9 +55,6 @@
   <p>If you're new to fiction writing prompts, you may be wondering where they come from and why writers use them. While there's no one answer to this question, it's believed that fiction writing prompts have been around for centuries, with writers using them in various forms to generate ideas and inspire their writing. Some writers use prompts as a daily writing exercise, while others turn to them when they're feeling stuck or need to break out of a creative rut.</p>
   <p>To learn more about the history and origin of fiction writing prompts, check out <a href="https://en.wikipedia.org/wiki/Prompt_(writing)" target="_blank">this article on writing prompts</a> from Wikipedia. It provides an overview of the different types of prompts and how they've been used throughout history.</p>
 
-
-
-
   <h2 id="item-3">Benefits of Using Fiction Writing Prompts</h2>
   <p>There are many benefits to using fiction writing prompts in your writing practice. Whether you're a seasoned writer or just starting out, prompts can be a valuable tool for unlocking your creativity and generating new ideas. Here are some of the key benefits:</p>
   <ul>
@@ -289,6 +286,20 @@
 </div>
 
 <h2 id="item-9">Romance Writing Prompts</h2>
+
+      <div itemscope itemtype="https://schema.org/ImageObject">
+     <img
+       alt="a couple in the rain -romance writing prompts"
+       itemprop="contentUrl"
+       src="https://bubblecow.com/assets/happy-in-rain-compressed"
+       class="post-media img-fluid rounded mx-auto d-block mt-1 mb-1"
+       width="700" height="400"
+       />
+     <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+       <meta itemprop="name" content="Gary Smailes" />
+     </span>
+   </div>
+
 <ul>
  <li>
     <p id="romance-prompt1"><strong>The Second Chance</strong></p>
@@ -331,6 +342,10 @@
     <p>Write a story about two people who fall in love despite the fact that their love is forbidden. What makes their love forbidden, and what risks do they take to be together? How do they navigate their relationship in secret, and what happens if their love is discovered?</p>
   </li>
 </ul>
+
+<div class="alert alert-primary" role="alert">
+ Looking for more prompts? <a href="https://bubblecow.com/blog/romance-writing-prompts" class="alert-link">Check out this huge list of romance writing prompts</a>.
+</div>
 
 <h2 id="item-10">Thriller Writing Prompts</h2>
 <ul>

@@ -98,10 +98,11 @@ If you're juggling a bunch of numbers within the same paragraph or series of par
 ## Strengths and Weaknesses
 
 
-
+how is it done aborad?
 ## Chapter Feedback
 This section contains specific feedback about your chapters. This feedback is in addition to the Specific Feedback.  
 ### Chapter 1
 
 - At the start of this chapter you talk about 'professional' football. I think you need to define this term. Does getting paid £20 to play on a Saturday for a country team count as professional? What about national league teams that don't carry 'professional' status but still pay players? If you are only talking about the top level, perhaps 100 teams in total, than there only probably a couple of thousand professional players in the country. Also, do you only mean pro-footballers in England? What about those moving outside the English FA, are they counted in the figures? 
 - You talk about funding by the FA, how does this compare to other countries? For example, Holland, Germany and Spain. 
+- You mention specialization. I would have liked to understand how this compares to other countries. My understanding is that places like the Netherlands, allow younger players to play in a number of positions.  

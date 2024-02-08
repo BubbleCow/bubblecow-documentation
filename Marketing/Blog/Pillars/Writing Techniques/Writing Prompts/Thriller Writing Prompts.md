@@ -2,24 +2,24 @@
 
 <p>Thriller novels have the unique ability to grab readers by the collar and pull them into a world of suspense, mystery, and excitement. Crafting such a compelling narrative, however, is no small feat. It requires not just a vivid imagination but also a deep understanding of what makes a thriller truly thrilling. Whether you're an experienced author or someone just starting to explore this exhilarating genre, finding the right inspiration can sometimes be the biggest challenge.</p>
 
-    <p>This article, <strong>"Thriller Writing Prompts For Authors,"</strong> aims to ignite your creative spark with an array of prompts designed to inspire your next masterpiece. From chilling story starters to mysterious character prompts, each section is crafted to help you weave intricate plots, develop intriguing characters, and set the perfect stage for your thriller. So, whether you're facing writer's block or just looking for your next great idea, let's dive into the depths of your imagination and discover the stories waiting to be told.</p>
+<p>This article, <strong>"Thriller Writing Prompts For Authors,"</strong> aims to ignite your creative spark with an array of prompts designed to inspire your next masterpiece. From chilling story starters to mysterious character prompts, each section is crafted to help you weave intricate plots, develop intriguing characters, and set the perfect stage for your thriller. So, whether you're facing writer's block or just looking for your next great idea, let's dive into the depths of your imagination and discover the stories waiting to be told.</p>
 
 
 <div class="toc card bg-light" id="toc">
-  <p class="card-header"><strong>Table of Contents</strong></p>
-  <div class="card-body">
-    <ul>
-      <li><a href="#story-starters">Story Starters</a></li>
-      <li><a href="#character-prompts">Character Prompts</a></li>
-      <li><a href="#dialogue-prompts">Dialogue Prompts</a></li>
-      <li><a href="#setting-prompts">Setting Prompts</a></li>
-      <li><a href="#theme-prompts">Theme Prompts</a></li>
-      <li><a href="#plot-prompts">Plot Prompts</a></li>
-      <li><a href="#image-prompts">Image Prompts</a></li>
-      <li><a href="#frequently-asked-questions">Frequently Asked Questions</a></li>
-      <li><a href="#conclusion">Conclusion</a></li>
-    </ul>
-  </div>
+ <p class="card-header"><strong>Table of Contents</strong></p>
+  <div class="card-body">
+    <ul>
+      <li><a href="#story-starters">Story Starters</a></li>
+      <li><a href="#character-prompts">Character Prompts</a></li>
+      <li><a href="#dialogue-prompts">Dialogue Prompts</a></li>
+      <li><a href="#setting-prompts">Setting Prompts</a></li>
+      <li><a href="#theme-prompts">Theme Prompts</a></li>
+      <li><a href="#plot-prompts">Plot Prompts</a></li>
+      <li><a href="#image-prompts">Image Prompts</a></li>
+      <li><a href="#frequently-asked-questions">Frequently Asked Questions</a></li>
+      <li><a href="#conclusion">Conclusion</a></li>
+    </ul>
+  </div>
 </div>
 
 <h2 id="story-starters">Story Starters</h2>
@@ -131,9 +131,9 @@ In the world of thriller narratives, the adage that a picture is worth a thousan
 
     <div itemscope itemtype="https://schema.org/ImageObject">
      <img
-       alt="spaceman looking out at a new worls"
+       alt="figure in alley thriller writing prompt image"
        itemprop="contentUrl"
-       src="https://bubblecow.com/assets/new_worlds_compressed"
+       src="https://bubblecow.com/assets/alley-compressed"
        class="post-media img-fluid rounded mx-auto d-block mt-1 mb-1"
        width="700" height="400"
        />
@@ -144,9 +144,9 @@ In the world of thriller narratives, the adage that a picture is worth a thousan
 
       <div itemscope itemtype="https://schema.org/ImageObject">
      <img
-       alt="spaceship in London"
+       alt="car on road thriller prompt image"
        itemprop="contentUrl"
-       src="https://bubblecow.com/assets/invasion-compressed"
+       src="https://bubblecow.com/assets/no-one-in-car-compressed"
        class="post-media img-fluid rounded mx-auto d-block mt-1 mb-1"
        width="700" height="400"
        />
@@ -157,9 +157,9 @@ In the world of thriller narratives, the adage that a picture is worth a thousan
 
       <div itemscope itemtype="https://schema.org/ImageObject">
      <img
-       alt="young girl crossing road with robot"
+       alt="car with headlights on thriller writing prompt image"
        itemprop="contentUrl"
-       src="https://bubblecow.com/assets/helping-hand-compressed"
+       src="https://bubblecow.com/assets/headlights-compressed"
        class="post-media img-fluid rounded mx-auto d-block mt-1 mb-1"
        width="700" height="400"
        />
@@ -170,9 +170,22 @@ In the world of thriller narratives, the adage that a picture is worth a thousan
 
       <div itemscope itemtype="https://schema.org/ImageObject">
      <img
-       alt="a strange robot"
+       alt="computer hacker thriller writing prompt image"
        itemprop="contentUrl"
-       src="https://bubblecow.com/assets/stranger-compressed"
+       src="https://bubblecow.com/assets/hacker-compressed"
+       class="post-media img-fluid rounded mx-auto d-block mt-1 mb-1"
+       width="700" height="400"
+       />
+     <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+       <meta itemprop="name" content="Gary Smailes" />
+     </span>
+   </div>
+
+         <div itemscope itemtype="https://schema.org/ImageObject">
+     <img
+       alt="man running in alley thriller writing prompt image"
+       itemprop="contentUrl"
+       src="https://bubblecow.com/assets/running-compressed"
        class="post-media img-fluid rounded mx-auto d-block mt-1 mb-1"
        width="700" height="400"
        />

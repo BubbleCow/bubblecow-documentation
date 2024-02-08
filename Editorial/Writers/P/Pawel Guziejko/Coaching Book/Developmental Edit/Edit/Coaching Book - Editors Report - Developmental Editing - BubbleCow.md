@@ -114,3 +114,6 @@ This section contains specific feedback about your chapters. This feedback is in
 ### Chapter 2
 - 2.1 - I wanted to know more about how the game and training model was developed. Are they the same for each academy? Are the based on some kind of group thinking? Is there a central view on the best way to do things?
 - 2.2 - I wondered if the game's obsession with bringing ex-pros in to manage and coach means that the focus naturally falls to the game nit the education. After all, if you have an ex-pro in a senior training role, the is going to focus on what he knows best, football. It always struck me as strange that an ex-pro would be preferred to someone that had not played professionally but had spent years learning how to coach. 
+
+### Chapter 3
+- 3.1 - I w

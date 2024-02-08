@@ -348,6 +348,20 @@
 </div>
 
 <h2 id="item-10">Thriller Writing Prompts</h2>
+
+      <div itemscope itemtype="https://schema.org/ImageObject">
+     <img
+       alt="binoculars looking out of a window thriller writing prompts"
+       itemprop="contentUrl"
+       src="https://bubblecow.com/assets/watching-compressed"
+       class="post-media img-fluid rounded mx-auto d-block mt-1 mb-1"
+       width="700" height="400"
+       />
+     <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+       <meta itemprop="name" content="Gary Smailes" />
+     </span>
+   </div>
+
 <ul>
  <li>
     <p id="thriller-prompt1"><strong>The Disappearance of a Celebrity</strong></p>
@@ -390,6 +404,10 @@
     <p>You've committed the perfect crime, and you've gotten away with it. Or so you thought. As the authorities close in and the evidence starts to mount against you, you realize that you may not be as clever as you thought. Write a thriller about the thrill of the crime and the terror of getting caught.</p>
   </li>
 </ul>
+
+<div class="alert alert-primary" role="alert">
+ Need more prompts? <a href="https://bubblecow.com/blog/thriller-writing-prompts" class="alert-link">Here's a massive list of thriller writing prompts</a>.
+</div>
 
 <h2 id="item-11">Horror Writing Prompts</h2>
 <ul>

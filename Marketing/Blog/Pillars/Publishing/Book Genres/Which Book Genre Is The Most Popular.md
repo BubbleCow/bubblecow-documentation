@@ -1,5 +1,11 @@
 <div data-spy="scroll" data-target="#toc" data-offset="0">
 
+<div class="alert alert-success" role="alert">
+  <p><strong>TL;DR</strong></p>
+  <p>Romance, thriller and fantasy for ficiton.</p>
+  <p>Biography, Self-help and history for non-ficiton.</p>
+</div>
+
 <p>When thinking about the most popular book genre, we must consider book sales. However, it is not just book sales for paper books but also book sales for audio and digital.</p>
 <p>When all things are considered, the most popular book genre depends on the format and situation. The bestselling book genre is romance and the most profitable fiction book genre. Religious & inspirational books are the most popular non-fiction genre, whilst thrillers are the most popular audiobooks.</p> 
 <p>As a writer heading into a world where over 1 million books have already been self-published, it is important to get any edge you can.</p> 

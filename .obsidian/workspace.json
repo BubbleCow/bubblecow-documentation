@@ -22,12 +22,12 @@
             }
           },
           {
-            "id": "8663b49dece1985f",
+            "id": "0747a658944575d4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Marketing/Blog/Blog Post Formatting.md",
+                "file": "Marketing/Blog/Pillars/BubbleCow Pillar Strategy.md",
                 "mode": "source",
                 "source": false
               }
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Marketing/Blog/Blog Post Formatting.md",
+                "file": "Marketing/Blog/Pillars/BubbleCow Pillar Strategy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Marketing/Blog/Blog Post Formatting.md",
+                "file": "Marketing/Blog/Pillars/BubbleCow Pillar Strategy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Marketing/Blog/Blog Post Formatting.md"
+                "file": "Marketing/Blog/Pillars/BubbleCow Pillar Strategy.md"
               }
             }
           }
@@ -161,11 +161,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8663b49dece1985f",
+  "active": "341fb5c098c93da7",
   "lastOpenFiles": [
+    "Editorial/Writers/P/Pawel Guziejko/Coaching Book/Developmental Edit/Edit/Coaching Book - Editors Report - Developmental Editing - BubbleCow.md",
+    "Marketing/Blog/Blog Post Formatting.md",
     "Marketing/Blog/Pillars/Writing Techniques/Writing Prompts/Thriller Writing Prompts.md",
     "Marketing/Blog/Pillars/BubbleCow Pillar Strategy.md",
-    "Editorial/Writers/P/Pawel Guziejko/Coaching Book/Developmental Edit/Edit/Coaching Book - Editors Report - Developmental Editing - BubbleCow.md",
     "Editorial/Reports/Developmental Editing/Non-fiction/NON-FICTION - Editors Report - Developmental Editing - BubbleCow.md",
     "README.md",
     "Editorial/Writers/P/Pawel Guziejko/Coaching Book/Developmental Edit/Edit/coaching - developmental edit - bubblecow.docx",
@@ -175,7 +176,6 @@
     "Editorial/Writers/P/Pawel Guziejko/Coaching Book",
     "Marketing/Education/Strategy and Outline.md",
     "Editorial/Writers/P/Pawel Guziejko",
-    "Marketing/Blog/Blog Post Formatting.md",
     "Romance Writing Prompts.md",
     "Marketing/Blog/Pillars/Writing Techniques/Writing Prompts/Romance Writing Prompts.md",
     "Marketing/Blog/Pillars/Writing Techniques and Styles.md",

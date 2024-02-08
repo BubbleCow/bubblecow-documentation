@@ -100,6 +100,8 @@ If you're juggling a bunch of numbers within the same paragraph or series of par
 
 how is it done aborad?
 gladwell hoicket
+is one problem that acedmeies are led by footballmen not educators, they are seen to find the next tralnet not educate, if there a belife in 'natura talent' and not nuture. If they beleive footballers are found no made, this changes the approach. 
+
 ## Chapter Feedback
 This section contains specific feedback about your chapters. This feedback is in addition to the Specific Feedback.  
 ### Chapter 1
@@ -111,3 +113,4 @@ This section contains specific feedback about your chapters. This feedback is in
 - In 1.4, you talk about profiling. I think I wanted to see a bit more about the fact that the real problem was that no one knows the profile of a young player. In fact, it is probably impossible to tell at a young age. This means the system is all about casting a wide net and this means lots of rejections. 
 ### Chapter 2
 - 2.1 - I wanted to know more about how the game and training model was developed. Are they the same for each academy? Are the based on some kind of group thinking? Is there a central view on the best way to do things?
+- 2.2 - I wondered if the game's obsession with bringing ex-pros in to manage and coach means that the focus naturally falls to the game nit the education. After all, if you have an ex-pro in a senior training role, the is going to focus on what he knows best, football. It always struck me as strange that an ex-pro would be preferred to someone that had not played professionally but had spent years learning how to coach. 

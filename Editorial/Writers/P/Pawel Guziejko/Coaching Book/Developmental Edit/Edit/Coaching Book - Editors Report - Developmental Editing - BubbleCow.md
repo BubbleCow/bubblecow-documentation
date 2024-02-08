@@ -99,14 +99,15 @@ If you're juggling a bunch of numbers within the same paragraph or series of par
 
 
 how is it done aborad?
+gladwell hoicket
 ## Chapter Feedback
 This section contains specific feedback about your chapters. This feedback is in addition to the Specific Feedback.  
 ### Chapter 1
-I found the argument that young players should not be moved into the academy system very convincing. The detail you present provides a logical and well devised argument. 
-
 - At the start of this chapter you talk about 'professional' football. I think you need to define this term. Does getting paid £20 to play on a Saturday for a country team count as professional? What about national league teams that don't carry 'professional' status but still pay players? If you are only talking about the top level, perhaps 100 teams in total, than there only probably a couple of thousand professional players in the country. Also, do you only mean pro-footballers in England? What about those moving outside the English FA, are they counted in the figures? 
 - You talk about funding by the FA, how does this compare to other countries? For example, Holland, Germany and Spain. 
 - You mention specialization. I would have liked to understand how this compares to other countries. My understanding is that places like the Netherlands, allow younger players to play in a number of positions.  
 - One thing that did occur to me with the current system is that by using cheap labour to recruit large numbers of children, it does then allow more qualified people to assess this group. This is relatively cost effective for the club.
 - I feel that I can add a little flesh to the idea of local children's football. I have run several kids teams and there were always a couple of factors that stopped professional clubs interacting more fully with the teams. The first was the lack of coaching skills. Most of these teams are run by dads with zero coaching skills. Local professional teams are reluctant to let talented kids into this environment. The second is lack of facilities. Most local clubs break even at best. They spend so much money on winter training that often even buys kits is hard. It means that resources are limited, another factor making any kind of meaningful training hard. I full within Everton's community environment and even with their amazing work there is a huge gap between local and aceadmy football. 
 - In 1.4, you talk about profiling. I think I wanted to see a bit more about the fact that the real problem was that no one knows the profile of a young player. In fact, it is probably impossible to tell at a young age. This means the system is all about casting a wide net and this means lots of rejections. 
+### Chapter 2
+- At 

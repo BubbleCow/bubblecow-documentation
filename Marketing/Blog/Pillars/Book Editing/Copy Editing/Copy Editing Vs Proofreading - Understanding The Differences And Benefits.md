@@ -33,6 +33,11 @@
 
 <h2 id="item-2">What is Copy Editing?</h2>
 
+<div class="alert alert-success" role="alert">
+  <p><strong><a href="https://dictionary.cambridge.org/dictionary/english/tldr" target="_blank">TL;DR</strong></p>
+  <p>Developmental editing focuses on a manuscript's structure, content, and style. It involves reorganizing or rewriting parts to improve flow, depth, and clarity, ensuring the story or argument is well-developed and coherent.</p>
+</div>
+
 <p>Copy editing is an integral part of the writing process that involves reviewing and correcting the text for grammar, spelling, punctuation, consistency, and style. The goal of copy editing is to improve the overall quality of the text and make it clear, concise, and easy to understand.</p>
 
 <p>The copy editing process involves several tasks, including:</p>

@@ -1,7 +1,7 @@
 <div data-spy="scroll" data-target="#toc" data-offset="0">
 
 <div class="alert alert-success" role="alert">
-  <p><strong>TL;DR</strong></p>
+  <p><strong><a href="https://dictionary.cambridge.org/dictionary/english/tldr" target="_blank">TL;DR</strong></p>
   <p>Romance, thriller and fantasy for ficiton.</p>
   <p>Biography, Self-help and history for non-ficiton.</p>
 </div>

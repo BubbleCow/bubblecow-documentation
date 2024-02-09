@@ -120,4 +120,4 @@ This section contains specific feedback about your chapters. This feedback is in
 ### Chapter 3
 - 3.1 - You are talking about motor skills. It is worth talking about the attempts to introduce Futsol to the UK as a sport that could be played on the streets and informally? I know there have been an increase in futfol leagues in recent years. 
 - I really love the idea that emotional aspects have been ignored. This is such a vital part of the game. I remember there was some research done on taking penalties and how under pressure it stopped being muscle memory and become emotional. 
-- 3.2 - 
+- 3.2 - One thing I did wonder was about training when passing. In many of the new pressing systems, the aim is to put the player under pressure in that period where they receive the ball and are bringing in under control. I wonder if part of the success of the high press is that players are simple not used to receiving the ball under pressure since this was not a training technique a few years ago when the current crop of pros were in the academies.  

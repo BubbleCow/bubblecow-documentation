@@ -117,7 +117,7 @@ The goal of the blog is to help writers to become better writers.
 		- Post: [[Fantasy Writing Prompts]]
 		- Post: [[Romance Writing Prompts]]
 		- Post: [[Thriller Writing Prompts]]
-		- Post: Horror Writing Prompts
+		- Post: [[Horror Writing Prompts]]
 		- Post: Speculative Fiction Writing Prompts
 
 - Pillar: [[Storytelling Techniques]]

@@ -132,6 +132,58 @@
 <h2 id="image-prompts">Image Prompts</h2>
 <p>In the realm of horror, the power of an image to evoke fear, curiosity, and the uncanny is unparalleled. Below, a selection of carefully chosen images beckons, each a window into narratives woven from the fabric of nightmares. From the skeletal remains of once-habited houses to the oppressive embrace of a fog that swallows landscapes whole, these images serve as the silent heralds of stories yet to be told. Let them draw you into the heart of darkness, into places where the thin veneer of reality peels away to reveal the horror lurking beneath, waiting for the spark of imagination to bring it into the light. Through abandoned asylums with halls echoing the screams of the past, to the depths of forests where shadows move with a life of their own, each scene is a challenge to be met, a mystery to be unraveled, a tale of terror to be told.</p>
 
+      <div itemscope itemtype="https://schema.org/ImageObject">
+     <img
+       alt="spooky corridor horror writing prompt image"
+       itemprop="contentUrl"
+       src="https://bubblecow.com/assets/corridor-compressed"
+       class="post-media img-fluid rounded mx-auto d-block mt-1 mb-1"
+       width="700" height="400"
+       />
+     <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+       <meta itemprop="name" content="Gary Smailes" />
+     </span>
+   </div>
+
+         <div itemscope itemtype="https://schema.org/ImageObject">
+     <img
+       alt="spooky window horror writing prompt image"
+       itemprop="contentUrl"
+       src="https://bubblecow.com/assets/window-compressed"
+       class="post-media img-fluid rounded mx-auto d-block mt-1 mb-1"
+       width="700" height="400"
+       />
+     <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+       <meta itemprop="name" content="Gary Smailes" />
+     </span>
+   </div>
+
+         <div itemscope itemtype="https://schema.org/ImageObject">
+     <img
+       alt="spooky cabin horror writing prompt image"
+       itemprop="contentUrl"
+       src="https://bubblecow.com/assets/cabin-compressed"
+       class="post-media img-fluid rounded mx-auto d-block mt-1 mb-1"
+       width="700" height="400"
+       />
+     <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+       <meta itemprop="name" content="Gary Smailes" />
+     </span>
+   </div>
+
+         <div itemscope itemtype="https://schema.org/ImageObject">
+     <img
+       alt="spooky operation horror writing prompt image"
+       itemprop="contentUrl"
+       src="https://bubblecow.com/assets/operation-compressed"
+       class="post-media img-fluid rounded mx-auto d-block mt-1 mb-1"
+       width="700" height="400"
+       />
+     <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+       <meta itemprop="name" content="Gary Smailes" />
+     </span>
+   </div>
+
 <h2 id="frequently-asked-questions">Frequently Asked Questions</h2>
 <p>Below are some frequently asked questions that will provide you with more information.</p>
 

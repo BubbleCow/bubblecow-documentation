@@ -410,6 +410,20 @@
 </div>
 
 <h2 id="item-11">Horror Writing Prompts</h2>
+
+      <div itemscope itemtype="https://schema.org/ImageObject">
+     <img
+       alt="creepy doll - horror writing prompts"
+       itemprop="contentUrl"
+       src="https://bubblecow.com/assets/doll-compressed"
+       class="post-media img-fluid rounded mx-auto d-block mt-1 mb-1"
+       width="700" height="400"
+       />
+     <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+       <meta itemprop="name" content="Gary Smailes" />
+     </span>
+   </div>
+
 <ul>
   <li>
     <p id="horror-prompt1"><strong>The Abandoned House</strong></p>
@@ -452,8 +466,11 @@
     <p>You and your friends decide to explore a remote island that is rumored to be haunted by dolls. As you wander the island, you start to realize that the dolls are more than just inanimate objects. Write a story about your chilling experience on the island of the dolls.</p>
   </li>
 
-
 </ul>
+
+<div class="alert alert-primary" role="alert">
+ Need a scary amount of horror prompts? <a href="https://bubblecow.com/blog/horror-writing-prompts" class="alert-link">Here's a list of horror writing prompts</a>.
+</div>
 
 <h2 id="item-11">Speculative Fiction Writing Prompts</h2>
 <ul>

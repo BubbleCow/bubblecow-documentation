@@ -116,4 +116,4 @@ This section contains specific feedback about your chapters. This feedback is in
 - 2.2 - I wondered if the game's obsession with bringing ex-pros in to manage and coach means that the focus naturally falls to the game nit the education. After all, if you have an ex-pro in a senior training role, the is going to focus on what he knows best, football. It always struck me as strange that an ex-pro would be preferred to someone that had not played professionally but had spent years learning how to coach. 
 
 ### Chapter 3
-- 3.1 - I w
+- 3.1 - You are talking about motor skills. It is worth talking about the attempts to introduce Futsol to the UK as a sport that could be played on the streets and informally? I know there have been an increase in futfol leagues in recent years. 

@@ -33,7 +33,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -99,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Editorial/Writers/P/Pawel Guziejko/Coaching Book/Developmental Edit/Edit/Coaching Book - Editors Report - Developmental Editing - BubbleCow.md",
+                "file": "Marketing/Blog/Pillars/BubbleCow Pillar Strategy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Editorial/Writers/P/Pawel Guziejko/Coaching Book/Developmental Edit/Edit/Coaching Book - Editors Report - Developmental Editing - BubbleCow.md",
+                "file": "Marketing/Blog/Pillars/BubbleCow Pillar Strategy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Editorial/Writers/P/Pawel Guziejko/Coaching Book/Developmental Edit/Edit/Coaching Book - Editors Report - Developmental Editing - BubbleCow.md"
+                "file": "Marketing/Blog/Pillars/BubbleCow Pillar Strategy.md"
               }
             }
           }
@@ -160,11 +161,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5c97fa91833a668d",
+  "active": "622f21c30dff4370",
   "lastOpenFiles": [
+    "Marketing/Blog/Pillars/Book Editing/Cost of book editing/How much does it cost to edit a 50000 word book.md",
     "Marketing/Blog/Pillars/BubbleCow Pillar Strategy.md",
-    "Marketing/Blog/Pillars/Writing Techniques/Writing Prompts/Horror Writing Prompts.md",
+    "Marketing/Blog/Pillars/Book Editing/Cost of book editing/Costs of Book Editing.md",
     "Editorial/Writers/P/Pawel Guziejko/Coaching Book/Developmental Edit/Edit/Coaching Book - Editors Report - Developmental Editing - BubbleCow.md",
+    "Marketing/Blog/Pillars/Writing Techniques/Writing Prompts/Horror Writing Prompts.md",
     "Freelance/Upworks Pitch.md",
     "Marketing/Blog/Pillars/Book Editing/Copy Editing/Copy Editing Vs Proofreading - Understanding The Differences And Benefits.md",
     "Marketing/Blog/Blog Post Formatting.md",
@@ -198,8 +201,6 @@
     "Marketing/Blog/Pillars/Writing Techniques/Writing Prompts/Fiction Writing Prompts - A Comprehensive List For Writers.md",
     "Marketing/Blog/Pillars/Writing Prompts/Fiction Writing Prompts - A Comprehensive List For Writers.md",
     "Marketing/Blog/Pillars/Book Editing/Self Editing for Writers/How can I edit my own book.md",
-    "Marketing/Blog/Pillars/Writing dialogue in Fiction/Writing dialogue in Fiction.md",
-    "Marketing/Blog/Pillars/Writing dialogue in Fiction/How do you write a good dialogue.md",
     "Editorial/Writers/R/Robyn Atkinson/Canche Gringa/Developmental Editing/Untitled.canvas"
   ]
 }

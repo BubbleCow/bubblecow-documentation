@@ -33,8 +33,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Marketing/Blog/Pillars/BubbleCow Pillar Strategy.md",
+                "file": "Editorial/Writers/P/Pawel Guziejko/Coaching Book/Developmental Edit/Edit/Coaching Book - Editors Report - Developmental Editing - BubbleCow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Marketing/Blog/Pillars/BubbleCow Pillar Strategy.md",
+                "file": "Editorial/Writers/P/Pawel Guziejko/Coaching Book/Developmental Edit/Edit/Coaching Book - Editors Report - Developmental Editing - BubbleCow.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Marketing/Blog/Pillars/BubbleCow Pillar Strategy.md"
+                "file": "Editorial/Writers/P/Pawel Guziejko/Coaching Book/Developmental Edit/Edit/Coaching Book - Editors Report - Developmental Editing - BubbleCow.md"
               }
             }
           }
@@ -161,10 +160,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "622f21c30dff4370",
+  "active": "5c97fa91833a668d",
   "lastOpenFiles": [
-    "Marketing/Blog/Pillars/Book Editing/Cost of book editing/How much does it cost to edit a 50000 word book.md",
     "Marketing/Blog/Pillars/BubbleCow Pillar Strategy.md",
+    "Marketing/Blog/Pillars/Book Editing/Cost of book editing/How much does it cost to edit a 50000 word book.md",
     "Marketing/Blog/Pillars/Book Editing/Cost of book editing/Costs of Book Editing.md",
     "Editorial/Writers/P/Pawel Guziejko/Coaching Book/Developmental Edit/Edit/Coaching Book - Editors Report - Developmental Editing - BubbleCow.md",
     "Marketing/Blog/Pillars/Writing Techniques/Writing Prompts/Horror Writing Prompts.md",

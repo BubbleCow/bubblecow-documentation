@@ -102,6 +102,7 @@ how is it done aborad?
 gladwell hoicket
 is one problem that acedmeies are led by footballmen not educators, they are seen to find the next tralnet not educate, if there a belife in 'natura talent' and not nuture. If they beleive footballers are found no made, this changes the approach. 
 better paragraphs
+i wnated more info on how traning models were creatred and if they differe between acedemies
 
 ## Chapter Feedback
 This section contains specific feedback about your chapters. This feedback is in addition to the Specific Feedback.  

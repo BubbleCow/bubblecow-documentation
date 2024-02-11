@@ -1,9 +1,7 @@
 > [!info]
 >  These are notes based on Google's Search Quality Evaluator Guidelines. 
 >  [This is the full pdf](https://static.googleusercontent.com/media/guidelines.raterhub.com/en//searchqualityevaluatorguidelines.pdf)
-
-
-
+>  
 ## Pages
 Pages are split into Main Content (MC), Supplementary Content (SC) and adverts. 
 ### Main Content (MC)
@@ -33,4 +31,4 @@ Google views the website as a whole.
 Google is expecting to see the following:
 
 - Clear navigation to the home page form other areas in the website.
-- A clear indication as to how is responsible for the page or an about page. 
+- A clear indication as to how is responsible for the page or an about page. Include links to independent validation where possible. 

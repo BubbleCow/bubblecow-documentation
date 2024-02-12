@@ -137,6 +137,84 @@
 
   <p>Each image is a challenge to the creative mind, a mystery to be deciphered, and a narrative of speculative wonder to be woven. Let them inspire you to craft stories that transcend the known, that dive into the heart of the cosmic unknown, and bring to light the myriad possibilities that lie just beyond the reach of our current understanding. Through abandoned alien megastructures, to the depths of space where the light of distant stars tells tales of ancient civilizations, each scene beckons the bold, the curious, and the imaginative to tell the stories that await in the silence of the universe.</p>
 
+    <div itemscope itemtype="https://schema.org/ImageObject">
+     <img
+       alt="a strange object in space - speculative fiction writing prompt"
+       itemprop="contentUrl"
+       src="https://bubblecow.com/assets/space-mystry-compressed"
+       class="post-media img-fluid rounded mx-auto d-block mt-1 mb-1"
+       width="700" height="400"
+       />
+     <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+       <meta itemprop="name" content="Gary Smailes" />
+     </span>
+   </div>
+
+    <div itemscope itemtype="https://schema.org/ImageObject">
+     <img
+       alt="a strange library in space - speculative fiction writing prompt"
+       itemprop="contentUrl"
+       src="https://bubblecow.com/assets/library-in-space-compressed"
+       class="post-media img-fluid rounded mx-auto d-block mt-1 mb-1"
+       width="700" height="400"
+       />
+     <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+       <meta itemprop="name" content="Gary Smailes" />
+     </span>
+   </div>
+
+    <div itemscope itemtype="https://schema.org/ImageObject">
+     <img
+       alt="a space dragon - speculative fiction writing prompt"
+       itemprop="contentUrl"
+       src="https://bubblecow.com/assets/space-dragon-compressed"
+       class="post-media img-fluid rounded mx-auto d-block mt-1 mb-1"
+       width="700" height="400"
+       />
+     <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+       <meta itemprop="name" content="Gary Smailes" />
+     </span>
+   </div>
+
+    <div itemscope itemtype="https://schema.org/ImageObject">
+     <img
+       alt="a strange forest portal - speculative fiction writing prompt"
+       itemprop="contentUrl"
+       src="https://bubblecow.com/assets/forest-portal-compressed"
+       class="post-media img-fluid rounded mx-auto d-block mt-1 mb-1"
+       width="700" height="400"
+       />
+     <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+       <meta itemprop="name" content="Gary Smailes" />
+     </span>
+   </div>
+
+    <div itemscope itemtype="https://schema.org/ImageObject">
+     <img
+       alt="a strange underwater city - speculative fiction writing prompt"
+       itemprop="contentUrl"
+       src="https://bubblecow.com/assets/underwater-city-compressed"
+       class="post-media img-fluid rounded mx-auto d-block mt-1 mb-1"
+       width="700" height="400"
+       />
+     <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+       <meta itemprop="name" content="Gary Smailes" />
+     </span>
+   </div>
+
+    <div itemscope itemtype="https://schema.org/ImageObject">
+     <img
+       alt="a graveyard for spaceships - speculative fiction writing prompt"
+       itemprop="contentUrl"
+       src="https://bubblecow.com/assets/space-graveyard-compressed"
+       class="post-media img-fluid rounded mx-auto d-block mt-1 mb-1"
+       width="700" height="400"
+       />
+     <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+       <meta itemprop="name" content="Gary Smailes" />
+     </span>
+   </div>
+
 <h2 id="frequently-asked-questions">Frequently Asked Questions</h2>
 <p>Below are some frequently asked questions that will provide you with more information.</p>
 

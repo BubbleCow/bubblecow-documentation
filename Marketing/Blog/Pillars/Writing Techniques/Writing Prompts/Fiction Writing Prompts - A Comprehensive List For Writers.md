@@ -360,7 +360,7 @@
      <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
        <meta itemprop="name" content="Gary Smailes" />
      </span>
-   </div>
+   </div>item-12
 
 <ul>
  <li>
@@ -472,7 +472,21 @@
  Need a scary amount of horror prompts? <a href="https://bubblecow.com/blog/horror-writing-prompts" class="alert-link">Here's a list of horror writing prompts</a>.
 </div>
 
-<h2 id="item-11">Speculative Fiction Writing Prompts</h2>
+<h2 id="item-12">Speculative Fiction Writing Prompts</h2>
+
+      <div itemscope itemtype="https://schema.org/ImageObject">
+     <img
+       alt="a dragon attacking a village - speculative writing prompts"
+       itemprop="contentUrl"
+       src="https://bubblecow.com/assets/dragon-attack-compressed"
+       class="post-media img-fluid rounded mx-auto d-block mt-1 mb-1"
+       width="700" height="400"
+       />
+     <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+       <meta itemprop="name" content="Gary Smailes" />
+     </span>
+   </div>
+
 <ul>
  <li>
     <p id="spec-fic-prompt1"><strong>An Alternate Reality</strong></p>
@@ -516,6 +530,10 @@
   </li>
 </ul>
 
+
+<div class="alert alert-primary" role="alert">
+ Want more speculative prompts? <a href="https://bubblecow.com/blog/speculative-fiction-writing-prompts" class="alert-link">Here's a list of speculative fiction writing prompts</a>.
+</div>
 
 <h2 id="item-faq">Frequently Asked Questions</h2>
 

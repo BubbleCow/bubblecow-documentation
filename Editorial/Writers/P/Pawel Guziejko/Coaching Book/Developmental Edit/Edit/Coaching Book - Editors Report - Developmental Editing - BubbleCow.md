@@ -49,7 +49,6 @@ The editor’s report should be read first, and is designed to ease you into the
 I’ve split the report into several sections...
 #### Typographical and Stylistic Details
 You’ll find a summary of your book’s typographical and stylistic details, which lists things such as what form of English your book is written in, how you’re writing out times, whether you’re using the Oxford comma or not, etc. This section is useful as it collates information and serves as a future reference. It will also help you enforce a level of consistency on your book.
-
 #### Strengths and Weaknesses
 You’ll also find pointers that will give you an overview of what I think are the manuscript’s key strengths and weaknesses. If they’re turning up here, they are some of the manuscript’s biggest and most persistent problems, and will need addressing before any others. I’ll explain what the problem is, how it is manifested in your book, and why it is a problem. I’ll also suggest at least one possible solution.
 
@@ -75,10 +74,7 @@ Please note, many of these changes have been made to help in the eBook conversio
 
 Below is a list of changes that have been made to help with readability and add consistency. 
 ### Language
-
-> [!warning]
-> American English
-> British English
+British English
 ### Numeric Notation 
 Spell out whole numbers up to (and including) one hundred (e.g., zero, one, ten, ninety-six, 104). Spell out numbers that begin a sentence unless it begins with a year (e.g., "Twelve drummers," "The ten lords a-leaping," "2011's quota for off-season holiday references has been filled."). 
 
@@ -87,22 +83,67 @@ Spell out ordinal numbers up to (and including) "hundredth" (e.g., second, sixty
 If you're juggling a bunch of numbers within the same paragraph or series of paragraphs, be flexible with the number style if doing so will improve clarity and comprehension. For example, use one number style for items in one category and another style for another category: "I read four books with more than 400 pages, sixty books with more than 100 pages, and a hundred articles with less than 4 pages."
 
 ### Speech Marks
-> [!warning]
-> Double for direct, single for reported. 
-> Single for direct, double for reported
+Single for direct, double for reported
 ### Oxford Comma
-> [!warning]
-> Yes.
-> No.
+No.
   
 ## Strengths and Weaknesses
+In exploring the topic of football coaching for kids, this book stands out as a deeply insightful and valuable guide for coaches, parents, and educators. The writing is clear and the arguments are presented logically, making it easy for readers to follow along. One of the main strengths of the book is how it points out the flaws in the current football academy system, especially how too many young players are turned away too soon. You discusses this issue in a way that grabs the reader's attention and makes them want to keep reading.
+
+The book's argument is convincing, encouraging readers to think differently about how young footballers are trained. It sheds light on the potential of kids who might be overlooked by traditional academies, suggesting coaches should embrace more inclusive and supportive coaching methods that see the value in every child.
+
+By including real stories and examples, the book not only becomes more interesting but also shows that the alternative approaches it recommends can really work. This makes the book not just a good read but a practical guide offering real solutions for improving youth football coaching.
+
+In summary, the book is a powerful call for change in youth football. It challenges old ways of thinking and encourages a more supportive approach to coaching that allows all kids to succeed. This book is an essential read for anyone involved in coaching young footballers, leaving readers motivated to make a positive difference.
+
+This said, there were some issues that need addressing...
+
+The book would benefit from a deeper exploration into how different countries approach the recruitment and training of young footballers. A comparative analysis could provide valuable insights into alternative methods and philosophies that could enhance the effectiveness of coaching strategies. Readers are likely looking for a broader perspective that includes successful models from abroad, which could offer fresh ideas on nurturing talent and developing skills in young athletes.
+
+Another critical area for expansion is the discussion on the composition of staff within football academies. The book touches on the issue of academies being staffed predominantly by former football players and coaches rather than educators. Expanding on this point could shed light on the potential benefits of incorporating more educational professionals into the academy structure. This could include exploring how educators, with their understanding of child development and learning processes, could contribute to creating a more holistic and supportive environment for young athletes.
+
+Development of Training Models:
+Lastly, there's a need for a more in-depth discussion on how training models for young footballers are designed and implemented. The book would do well to delve into the process behind creating these models, including the research, philosophies, and methodologies that inform them. Understanding the foundation of these training programs could help coaches and academies refine their approaches to be more effective and aligned with the needs of young athletes. This section could also examine how training models adapt to changes in the sport, advances in sports science, and the evolving needs of children in different age groups.
+
+Addressing these areas with more detail and depth would not only enrich the book's content but also provide readers with a comprehensive understanding of the complexities involved in coaching young footballers. Expanding on these topics would make the book an even more invaluable resource for those seeking to improve and innovate in the field of youth football coaching.
+### International Approaches to Recruitment and Training
+Expanding this section involves delving into the global landscape of youth football, highlighting the diversity of approaches across different countries and cultures. By examining the recruitment and training methodologies in countries renowned for their successful youth development programs, the book could offer a richer, more nuanced understanding of what makes these systems effective.
+
+Countries like the Netherlands, Germany, and Spain, for instance, have been lauded for their comprehensive youth development schemes that not only focus on technical skills but also on the holistic development of young athletes. These countries integrate education, psychological development, and social skills into their training programs, reflecting a broader understanding of what it takes to nurture not just a footballer but a well-rounded individual.
+
+In contrast, nations like Brazil and Argentina have produced some of the world's most technically gifted players through street football and informal training environments. This contrast raises intriguing questions about the balance between formal training and creative freedom in developing young talent.
+
+A comparative analysis could explore:
+- The structure of youth academies and how they integrate with professional clubs.
+- The role of government and football associations in supporting youth development.
+- The emphasis on education and life skills alongside football training.
+- The cultural attitudes towards youth football and how these influence training methods.
+
+Moreover, examining the age at which players turn professional in different countries could reveal interesting trends about the pathways to a professional career. For instance, comparing the average age of players entering the professional arena in countries with structured youth academies versus those with less formal pathways could offer insights into the effectiveness of different development models. It could also shed light on the pressures young athletes face and the potential for burnout or injury.
+
+Additionally, incorporating statistical data and success stories can substantiate the discussion, making a compelling case for adopting certain practices over others. For example, looking at the figures of youth players who transition to professional levels in countries with high rates of professionalization could help identify key factors contributing to their success.
+
+By expanding on these aspects, the book would not only provide a comprehensive overview of global youth football development but also inspire coaches, parents, and administrators to adopt innovative approaches tailored to their unique contexts. This could ultimately lead to a more vibrant, inclusive, and effective youth football ecosystem worldwide.
+
+### Role of Educators in Academies
+To further develop the discussion on the staffing composition within football academies, it's essential to delve into the multi-dimensional role that educators can play in this setting. The current trend of staffing academies with former players and coaches focuses heavily on the technical and tactical aspects of football, often overlooking the broader developmental needs of young athletes. By integrating educators—who bring expertise in child development, psychology, and pedagogy—into the academy system, a more holistic approach to player development can be achieved.
+
+Educators, with their specialized knowledge in learning styles and developmental stages, can offer invaluable insights into the cognitive and emotional growth of young athletes. This expertise can enhance the academy's ability to tailor training programs to the individual needs of players, recognizing that each child's developmental path is unique. For example, educators can help design curricula that not only advance football skills but also foster critical thinking, teamwork, resilience, and leadership.
+
+Moreover, educators can implement evidence-based practices in teaching and learning to enhance the educational component of academies. This could involve the use of innovative teaching methods that make learning more engaging and effective, both on and off the pitch. By doing so, academies can ensure that young athletes receive a well-rounded education that prepares them for a variety of futures, recognizing that not all will pursue professional football careers.
+
+The benefits of incorporating educators into football academies extend beyond individual player development. Educators can also contribute to creating a positive, supportive environment that prioritizes the well-being of young athletes. This involves recognizing and addressing the psychological pressures associated with elite sports training, providing guidance on managing stress, and fostering a culture of mental health awareness.
+
+Furthermore, educators can play a crucial role in bridging the gap between the academy and the educational system, ensuring that young athletes do not have to choose between pursuing their football aspirations and their academic studies. By facilitating flexible scheduling, offering tutoring services, and coordinating with schools, educators can help young athletes maintain a balance between their sporting and academic commitments.
 
 
-how is it done aborad?
-gladwell hoicket
-is one problem that acedmeies are led by footballmen not educators, they are seen to find the next tralnet not educate, if there a belife in 'natura talent' and not nuture. If they beleive footballers are found no made, this changes the approach. 
-better paragraphs
-i wnated more info on how traning models were creatred and if they differe between acedemies
+
+- wanted to know more about how recruitment and training was approached abroad. 
+- wanted more on the fact that academies are filled with football people and coaches, not educators
+- wanted to understand more about how training models were created
+- Gladwell
+- expand the conclusion to add suggestions for ares that needed more thoguht and developm,ent
+
 
 
 conclus

@@ -102,8 +102,7 @@ The book would benefit from a deeper exploration into how different countries ap
 
 Another critical area for expansion is the discussion on the composition of staff within football academies. The book touches on the issue of academies being staffed predominantly by former football players and coaches rather than educators. Expanding on this point could shed light on the potential benefits of incorporating more educational professionals into the academy structure. This could include exploring how educators, with their understanding of child development and learning processes, could contribute to creating a more holistic and supportive environment for young athletes.
 
-Development of Training Models:
-Lastly, there's a need for a more in-depth discussion on how training models for young footballers are designed and implemented. The book would do well to delve into the process behind creating these models, including the research, philosophies, and methodologies that inform them. Understanding the foundation of these training programs could help coaches and academies refine their approaches to be more effective and aligned with the needs of young athletes. This section could also examine how training models adapt to changes in the sport, advances in sports science, and the evolving needs of children in different age groups.
+There's a need for a more in-depth discussion on how training models for young footballers are designed and implemented. The book would do well to delve into the process behind creating these models, including the research, philosophies, and methodologies that inform them. Understanding the foundation of these training programs could help coaches and academies refine their approaches to be more effective and aligned with the needs of young athletes. This section could also examine how training models adapt to changes in the sport, advances in sports science, and the evolving needs of children in different age groups.
 
 Addressing these areas with more detail and depth would not only enrich the book's content but also provide readers with a comprehensive understanding of the complexities involved in coaching young footballers. Expanding on these topics would make the book an even more invaluable resource for those seeking to improve and innovate in the field of youth football coaching.
 ### International Approaches to Recruitment and Training
@@ -135,21 +134,30 @@ Moreover, educators can implement evidence-based practices in teaching and learn
 The benefits of incorporating educators into football academies extend beyond individual player development. Educators can also contribute to creating a positive, supportive environment that prioritizes the well-being of young athletes. This involves recognizing and addressing the psychological pressures associated with elite sports training, providing guidance on managing stress, and fostering a culture of mental health awareness.
 
 Furthermore, educators can play a crucial role in bridging the gap between the academy and the educational system, ensuring that young athletes do not have to choose between pursuing their football aspirations and their academic studies. By facilitating flexible scheduling, offering tutoring services, and coordinating with schools, educators can help young athletes maintain a balance between their sporting and academic commitments.
+### Development of Training Models
+To expand on the discussion of training models for young footballers, it is crucial to unpack the multifaceted process behind their development and execution. This exploration should start with the foundational research that informs training philosophies, emphasizing evidence-based practices that ensure the safety, well-being, and optimal development of young athletes. By scrutinizing the scientific literature on sports science, child psychology, and education theory, academies can create training models that are not only technically proficient but also supportive of the holistic development of young players.
 
+Methodologies in training models should reflect the latest in sports science, incorporating practices that promote physical health, technical skill, tactical understanding, and psychological resilience. This includes varied training routines that stimulate different aspects of a player's game, rest and recovery periods to prevent burnout and injury, and mental health resources to support players' well-being. Moreover, understanding the specific needs of different age groups is critical; what works for teenagers nearing professional readiness might not be suitable for younger children who are just starting. Training models should therefore be adaptable, evolving in complexity and intensity as players grow and develop.
 
+The design and implementation of these training models must consider the evolving needs of children. This includes not only their physical and technical development but also their educational needs, social skills, and emotional intelligence. Training models should be flexible enough to accommodate the complex lives of young athletes, recognizing that they are not just footballers but also students, friends, and family members.
+### Outliers
+In Malcom Gladwell's boolk"Outliers: The Story of Success"​​, he talks about the way in which ice hockey recruitment is carried out. 
 
-- wanted to know more about how recruitment and training was approached abroad. 
-- wanted more on the fact that academies are filled with football people and coaches, not educators
-- wanted to understand more about how training models were created
-- Gladwell
-- expand the conclusion to add suggestions for ares that needed more thoguht and developm,ent
+He discusses the recruitment of ice hockey players in Canada to illustrate how success can be significantly influenced by seemingly arbitrary factors, such as a player's birth month. 
 
+Birth Month Advantage: Gladwell points out that a disproportionate number of professional ice hockey players in Canada are born in the first few months of the year. This is due to the cutoff dates for age-class hockey, which favor older children within the same age group.
 
+Cumulative Advantage: The slightly older children, who are bigger, stronger, and more mature, often receive more attention, better coaching, and more opportunities to practice. This advantage starts small but grows over time, a phenomenon Gladwell describes as the "Matthew Effect."
 
-conclus
-- simmary of the key things learned
-- something cleaver about the currect state of acedemnies
-- suggestings for thoguhts and topcis that shoudl eb furhter explored
+Systemic Bias: The recruitment and development system, unintentionally, favors those born earlier in the year, perpetuating a cycle where these individuals are more likely to succeed.
+
+Implications Beyond Sports: Gladwell uses this example to argue that talent and hard work alone do not guarantee success. Instead, external factors, such as cultural, environmental, and systemic biases, play a significant role in determining who succeeds.
+### Conclusion
+The conclusive chapter of your book brings together the core themes discussed throughout, offering a compelling synthesis of your insights into the challenges and opportunities within youth football coaching. 
+
+However, the chapter could gain additional depth and value by incorporating a section that candidly addresses the potential limitations of the arguments made in the book. Acknowledging areas that might benefit from further debate, thought, and research could enhance the book’s impact. Such a reflective stance would not only underscore your commitment to an honest and nuanced discussion but also encourage a broader dialogue within the coaching community. Highlighting these aspects could invite readers—whether they are coaches, parents, or educators—to contribute their perspectives, experiences, and findings to the ongoing conversation about youth football coaching.
+
+Moreover, pinpointing specific aspects of the youth coaching paradigm that warrant deeper examination or areas where prevailing assumptions may be challenged would demonstrate an openness to evolving ideas. This approach could pave the way for future innovations in coaching practices and philosophies. For instance, further exploration into the psychological impact of competitive pressure on young athletes or the long-term effects of early specialization could provide fertile ground for research and discussion.
 ## Chapter Feedback
 This section contains specific feedback about your chapters. This feedback is in addition to the Specific Feedback.  
 ### Chapter 1

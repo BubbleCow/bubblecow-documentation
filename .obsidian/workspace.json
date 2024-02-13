@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Marketing/Blog/Pillars/BubbleCow Pillar Strategy.md",
+                "file": "Marketing/Blog/Pillars/Writing Techniques/An Essential Guide to Writing Techniques.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Marketing/Blog/Pillars/BubbleCow Pillar Strategy.md",
+                "file": "Marketing/Blog/Pillars/Writing Techniques/An Essential Guide to Writing Techniques.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Marketing/Blog/Pillars/BubbleCow Pillar Strategy.md"
+                "file": "Marketing/Blog/Pillars/Writing Techniques/An Essential Guide to Writing Techniques.md"
               }
             }
           }
@@ -146,11 +146,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b8694c9cc69841fd",
+  "active": "341fb5c098c93da7",
   "lastOpenFiles": [
+    "Marketing/Blog/Pillars/BubbleCow Pillar Strategy.md",
+    "Marketing/Blog/Pillars/Writing Techniques/An Essential Guide to Writing Techniques.md",
     "Marketing/Blog/Pillars/Writing Techniques/Writing Prompts/A Guide to Writing Prompts.md",
     "A Guide to Writing Prompts.md",
-    "Marketing/Blog/Pillars/BubbleCow Pillar Strategy.md",
     "Editorial/Writers/P/Pawel Guziejko/Coaching Book/Developmental Edit/Edit/Coaching Book - Editors Report - Developmental Editing - BubbleCow.md",
     "Editorial/Writers/P/Pawel Guziejko/Coaching Book/Developmental Edit/Edit/Coaching Book - Editors Report - Developmental Editing - BubbleCow.pdf",
     "Marketing/Blog/Pillars/Writing Techniques/Writing Prompts/Science Fiction Writing Prompts.md",
@@ -184,7 +185,6 @@
     "Editorial/Reports/Developmental Editing/Fiction/FICTION - Editors Report - Sample - Developmental Editing - BubbleCow.md",
     "Marketing/Blog/Pillars/Writing Techniques/Writing Prompts/Fantasy Writing Prompts.md",
     "Editorial/Writers/P/Paul Bradley/Fontainebleau/Developmental Edit/Edit/Introduction.md",
-    "Editorial/Writers/C/Cristina Fiore/Midnight's Slumber/Book Proposal/Query Letter.md",
     "Admin/Images/Pasted image 20240204133232.png",
     "Editorial/Writers/R/Robyn Atkinson/Canche Gringa/Developmental Editing/Untitled.canvas"
   ]

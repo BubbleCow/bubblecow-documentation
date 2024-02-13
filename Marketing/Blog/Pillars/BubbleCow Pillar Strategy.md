@@ -110,7 +110,7 @@ The goal of the blog is to help writers to become better writers.
 	    - Are book editors in demand?
 	    - Career Development In Book Editing - written
 
-- Pillar: Writing Techniques
+- Pillar: [[An Essential Guide to Writing Techniques]]
 	- Sub-pillar: [[A Guide to Writing Prompts]]
 		- Post: [[Fiction Writing Prompts - A Comprehensive List For Writers]]
 		- Post: [[Science Fiction Writing Prompts]]

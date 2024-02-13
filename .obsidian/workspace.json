@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Editorial/Writers/T/Tony Farias/No I am Not a Rat/Unaltered Manuscript/14.md",
+                "file": "Editorial/Writers/T/Tony Farias/No I am Not a Rat/Pandoc command.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Editorial/Writers/T/Tony Farias/No I am Not a Rat/Unaltered Manuscript/14.md",
+                "file": "Editorial/Writers/T/Tony Farias/No I am Not a Rat/Pandoc command.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Editorial/Writers/T/Tony Farias/No I am Not a Rat/Unaltered Manuscript/14.md",
+                "file": "Editorial/Writers/T/Tony Farias/No I am Not a Rat/Pandoc command.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Editorial/Writers/T/Tony Farias/No I am Not a Rat/Unaltered Manuscript/14.md"
+                "file": "Editorial/Writers/T/Tony Farias/No I am Not a Rat/Pandoc command.md"
               }
             }
           }
@@ -148,32 +148,32 @@
   },
   "active": "b8694c9cc69841fd",
   "lastOpenFiles": [
+    "Editorial/Writers/T/Tony Farias/No I am Not a Rat/First edit/no-i-am-not-a-rat-v-1.docx",
+    "Editorial/Writers/T/Tony Farias/No I am Not a Rat/First edit/25.md",
+    "Editorial/Writers/T/Tony Farias/No I am Not a Rat/First edit/24.md",
+    "Editorial/Writers/T/Tony Farias/No I am Not a Rat/First edit/23.md",
+    "Editorial/Writers/T/Tony Farias/No I am Not a Rat/First edit/22.md",
+    "Editorial/Writers/T/Tony Farias/No I am Not a Rat/First edit/21.md",
+    "Editorial/Writers/T/Tony Farias/No I am Not a Rat/First edit/20.md",
+    "Editorial/Writers/T/Tony Farias/No I am Not a Rat/First edit/19.md",
+    "Editorial/Writers/T/Tony Farias/No I am Not a Rat/First edit/18.md",
+    "Editorial/Writers/T/Tony Farias/No I am Not a Rat/First edit/17.md",
     "Editorial/Writers/T/Tony Farias/No I am Not a Rat/First edit/16.md",
-    "Editorial/Writers/T/Tony Farias/No I am Not a Rat/Unaltered Manuscript/13.md",
     "Editorial/Writers/T/Tony Farias/No I am Not a Rat/First edit/15.md",
-    "Editorial/Writers/T/Tony Farias/No I am Not a Rat/Unaltered Manuscript/12.md",
     "Editorial/Writers/T/Tony Farias/No I am Not a Rat/First edit/14.md",
     "Editorial/Writers/T/Tony Farias/No I am Not a Rat/First edit/13.md",
-    "Editorial/Writers/T/Tony Farias/No I am Not a Rat/Unaltered Manuscript/11.md",
     "Editorial/Writers/T/Tony Farias/No I am Not a Rat/First edit/12.md",
-    "Editorial/Writers/T/Tony Farias/No I am Not a Rat/Unaltered Manuscript/10.md",
     "Editorial/Writers/T/Tony Farias/No I am Not a Rat/First edit/11.md",
-    "Editorial/Writers/T/Tony Farias/No I am Not a Rat/Unaltered Manuscript/09.md",
     "Editorial/Writers/T/Tony Farias/No I am Not a Rat/First edit/10.md",
-    "Editorial/Writers/T/Tony Farias/No I am Not a Rat/Unaltered Manuscript/08.md",
     "Editorial/Writers/T/Tony Farias/No I am Not a Rat/First edit/09.md",
-    "Editorial/Writers/T/Tony Farias/No I am Not a Rat/Unaltered Manuscript/07.md",
     "Editorial/Writers/T/Tony Farias/No I am Not a Rat/First edit/08.md",
-    "Editorial/Writers/T/Tony Farias/No I am Not a Rat/Unaltered Manuscript/06.md",
     "Editorial/Writers/T/Tony Farias/No I am Not a Rat/First edit/07.md",
-    "Editorial/Writers/T/Tony Farias/No I am Not a Rat/Unaltered Manuscript/05.md",
     "Editorial/Writers/T/Tony Farias/No I am Not a Rat/First edit/06.md",
-    "Editorial/Writers/T/Tony Farias/No I am Not a Rat/Unaltered Manuscript/04.md",
     "Editorial/Writers/T/Tony Farias/No I am Not a Rat/First edit/05.md",
-    "Editorial/Writers/T/Tony Farias/No I am Not a Rat/Unaltered Manuscript/03.md",
-    "Editorial/Writers/T/Tony Farias/No I am Not a Rat/Unaltered Manuscript/02.md",
-    "Editorial/Writers/T/Tony Farias/No I am Not a Rat/Unaltered Manuscript/01.md",
-    "Editorial/Writers/T/Tony Farias/No I am Not a Rat/Unaltered Manuscript/00.md",
+    "Editorial/Writers/T/Tony Farias/No I am Not a Rat/First edit/04.md",
+    "Editorial/Writers/T/Tony Farias/No I am Not a Rat/First edit/03.md",
+    "Editorial/Writers/T/Tony Farias/No I am Not a Rat/First edit/02.md",
+    "Editorial/Writers/T/Tony Farias/No I am Not a Rat/First edit/01.md",
     "Editorial/Writers/T/Tony Farias/No I am Not a Rat/First edit",
     "Editorial/Writers/T/Tony Farias/No I am Not a Rat/Unaltered Manuscript/Untitled",
     "Editorial/Writers/P/Pawel Guziejko/Coaching Book/Developmental Edit/Edit/Coaching Book - Editors Report - Developmental Editing - BubbleCow.pdf",
@@ -184,7 +184,6 @@
     "Editorial/Writers/P/Pawel Guziejko/Coaching Book",
     "Editorial/Writers/P/Pawel Guziejko",
     "Freelance",
-    "Editorial/Writers/S/Shawn Russell /Shattered Vessels/Developmental Editing/Sample/lu29367jiupn.tmp",
     "Admin/Images/Pasted image 20240204133232.png",
     "Editorial/Writers/R/Robyn Atkinson/Canche Gringa/Developmental Editing/Untitled.canvas"
   ]

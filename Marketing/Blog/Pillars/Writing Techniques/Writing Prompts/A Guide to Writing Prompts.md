@@ -1,5 +1,9 @@
 <div data-spy="scroll" data-target="#toc" data-offset="0">
 
+  <p>Welcome to our comprehensive guide on writing prompts, a treasure trove designed to spark your imagination and kickstart your writing journey. Whether you're a seasoned writer facing writer's block or a novice looking to dip your toes into the ocean of creative writing, this guide is your beacon. From the depths of space in science fiction to the magical realms of fantasy, the heart-fluttering moments of romance to the adrenaline-fueled action of thrillers, and the bone-chilling corridors of horror to the boundless possibilities of speculative fiction, we've curated an extensive list of writing prompts to cater to every genre and interest.</p>
+  <p>Writing prompts are not just starters for your stories; they are gateways to new worlds, characters, and plots that you might never have considered. They challenge your creativity, push your writing boundaries, and, most importantly, they are fun! So, whether you're looking to break through a creative block, practice your writing, or find inspiration for your next big project, dive into our guide and let the prompts lead you to stories untold.</p>
+  <p>Scroll down to explore our collection of writing prompts, divided by genre for easy navigation. Each section is designed to offer something unique, ensuring that no matter what your interest or writing style, you'll find something that sparks that creative flame. Happy writing!</p>
+
 
 <div class="toc card bg-light" id="toc">
   <p class="card-header"><strong>Table of Contents</strong></p>
@@ -128,7 +132,7 @@
       <img 
         alt="scary ass doll" 
         itemprop="contentUrl" 
-        src="https://bubblecow.com/assets/https://bubblecow.com/blog/horror-writing-prompts" 
+        src="https://bubblecow.com/assets/doll-compressed" 
         class="post-media img-fluid rounded mx-auto d-block mt-1 mb-1" 
         width="700" height="400"
         />
@@ -149,7 +153,7 @@
       <img 
         alt="dragon attack!" 
         itemprop="contentUrl" 
-        src="https://bubblecow.com/assets/dragon-attack-compressed" 
+        src="https://bubblecow.com/assets/dragon-attack-compressed" wo people talking to each other
         class="post-media img-fluid rounded mx-auto d-block mt-1 mb-1" 
         width="700" height="400"
         />
@@ -162,6 +166,14 @@
 
   <div class="alert alert-primary" role="alert">
  <a href="https://bubblecow.com/blog/speculative-fiction-writing-prompts">This article has speculative fiction writing prompts</a>.
+</div>
+
+<h2>Conclusion</h2>
+
+ <p>Our journey through the world of writing prompts concludes here, but your adventure as a storyteller is just beginning. Whether you're drawn to the distant galaxies of science fiction, the enchanted realms of fantasy, the heartfelt moments of romance, the suspenseful twists of thrillers, the chilling shadows of horror, or the boundless landscapes of speculative fiction, remember that each prompt is a doorway to new possibilities. Use them to challenge your creativity, refine your craft, and, most importantly, enjoy the process of writing. Let these prompts be the sparks that ignite the vast universe of your imagination, leading you to create stories that resonate, entertain, and inspire. Happy writing!</p>
+
+<div class="alert alert-primary" role="alert">
+ <a href="https://bubblecow.com/blog/writing-techniques">Discover more about writing techniques at this central guide</a>.
 </div>
 
 </div>

@@ -1,7 +1,6 @@
 Editor: Gary Smailes
-Completed: Add the date completion
+Completed: 12 Feb 2024
 ## Understanding Your Feedback
-
 Before I launch into more detailed feedback, I thought I’d run through how the edit has been structured.
 
 You will have downloaded two files:
@@ -42,7 +41,6 @@ The manuscript contains both my tracked changes and comments explaining the rati
 The real power of tracked changes is that if you disagree with the comment or change, you can just ‘reject’ what I’ve said and carry on.
 
 Whenever I’ve identified a persistent problem, I’ve stopped explaining any future changes within the comments and have instead just made the change. Where this is the case, I have written out an explanation for my rationale behind the changes in the editor’s report. You’ll need to read the comments I’ve left and review the changes, accepting or rejecting them as you see fit.
-
 ### Editor’s Report
 The editor’s report should be read first, and is designed to ease you into the editing process by providing an overview and explanation. The aim is for you to use the feedback in both the manuscript and in this report as a means of formulating a plan to elevate your manuscript to the next level. 
 
@@ -71,7 +69,6 @@ Please note, many of these changes have been made to help in the eBook conversio
 - I’ve added page breaks at the end of chapters. This will help with digital conversion.
 - Ellipses have been formatted as … (dot dot dot), not . . . (dot space dot space dot space). 
 ## Stylistic and Typographical Summary
-
 Below is a list of changes that have been made to help with readability and add consistency. 
 ### Language
 British English
@@ -81,12 +78,10 @@ Spell out whole numbers up to (and including) one hundred (e.g., zero, one, ten,
 Spell out ordinal numbers up to (and including) "hundredth" (e.g., second, sixty-first, 333rd, 1,024th). 
 
 If you're juggling a bunch of numbers within the same paragraph or series of paragraphs, be flexible with the number style if doing so will improve clarity and comprehension. For example, use one number style for items in one category and another style for another category: "I read four books with more than 400 pages, sixty books with more than 100 pages, and a hundred articles with less than 4 pages."
-
 ### Speech Marks
 Single for direct, double for reported
 ### Oxford Comma
 No.
-  
 ## Strengths and Weaknesses
 In exploring the topic of football coaching for kids, this book stands out as a deeply insightful and valuable guide for coaches, parents, and educators. The writing is clear and the arguments are presented logically, making it easy for readers to follow along. One of the main strengths of the book is how it points out the flaws in the current football academy system, especially how too many young players are turned away too soon. You discusses this issue in a way that grabs the reader's attention and makes them want to keep reading.
 

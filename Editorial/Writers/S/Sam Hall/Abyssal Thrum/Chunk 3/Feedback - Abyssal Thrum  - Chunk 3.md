@@ -31,4 +31,4 @@ Baran in city.
 - You should try to add very brief character descriptions to keep the picture fresh in the reader's mind. Often only a sentence or two. Try to match this with movement in the scene (see my note above).
 - You mention garlic in the meal. That seems to tie to our world, perhaps you should give garlic a different name, one that ties it to this world. 
 ## Scene 15 - Kayah
-Bara
+Kayah in the ruins. 

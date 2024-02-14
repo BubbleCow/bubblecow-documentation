@@ -111,6 +111,13 @@ The goal of the blog is to help writers to become better writers.
 	    - Career Development In Book Editing - written
 
 - Pillar: [[An Essential Guide to Writing Techniques]]
+	- Sub-pillar: [[Writing dialogue in Fiction]]
+		- Post: [[How to Format Dialogue in a Novel]]
+		- Post: [[How do you write good dialogue]]?
+		- Post: [[What are the 7 rules of writing dialogue]]?
+		- Post: What is an example of good dialogue?
+		- Post: What are the 5 rules of writing dialogue?
+		- Post: What are the 10 rules of dialogue?
 	- Sub-pillar: [[A Guide to Writing Prompts]]
 		- Post: [[Fiction Writing Prompts - A Comprehensive List For Writers]]
 		- Post: [[Science Fiction Writing Prompts]]
@@ -155,13 +162,7 @@ The goal of the blog is to help writers to become better writers.
 		- Post: [[What is the point of view]]?
 		- Post: [[What are the 3 points of view]]?
 		- Post: [[What is 1st person 2nd person 3rd person with examples]]?
-	- Sub-pillar: [[Writing dialogue in Fiction]]
-		- Post: [[How to Format Dialogue in a Novel]]
-		- Post: [[How do you write good dialogue]]?
-		- Post: What are the 7 rules of dialogue?
-		- What is an example of good dialogue?
-		- What are the 5 rules of writing dialogue?
-		- What are the 10 rules of dialogue?
+	
 	- Sub-pillar: Writing Description in Fiction
 - Pillar: [[Book Marketing and Promotion]]
 	- Sub-pillar: Effective book marketing strategies
@@ -259,12 +260,6 @@ The goal of the blog is to help writers to become better writers.
 	- Sub-pillar: General Fiction
 		- The Art Of Developmental Editing For Fiction: Techniques And Strategies For Authors (exists)
 	- Sub-pillar: Non-Fiction
-	- Sub-pillar: Writing Prompts
-		- Post: Fiction Writing Prompts : A Comprehensive List For Writers - written
-		- Post: What are some creative writing prompts?
-		- Post: What is a good 5 minute writing prompt?
-		- Post: What are some cool prompts?
-		- Post: What are cool short writing prompts?
 
 
 - Pillar: Publishing

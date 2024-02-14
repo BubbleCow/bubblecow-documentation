@@ -31,4 +31,6 @@ Baran in city.
 - You should try to add very brief character descriptions to keep the picture fresh in the reader's mind. Often only a sentence or two. Try to match this with movement in the scene (see my note above).
 - You mention garlic in the meal. That seems to tie to our world, perhaps you should give garlic a different name, one that ties it to this world. 
 ## Scene 15 - Kayah
-Kayah in the ruins. 
+Kayah in the ruins. Cindered Man. 
+- There are a couple of places in this chapters where I have split the longer paragraphs into shorter paragraphs. This helps to control the pace but also adds more engagement to the reading experience.
+- I feel that 'cindered man', is his name and, therefore, should be a proper noun - 'Cindered Man'. What do you think?

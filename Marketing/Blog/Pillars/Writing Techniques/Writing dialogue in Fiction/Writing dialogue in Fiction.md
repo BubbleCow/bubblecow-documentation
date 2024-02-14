@@ -55,4 +55,8 @@
  <a href="https://bubblecow.com/blog/how-to-write-effective-dialogue-in-your-novels">This article explains how to write good dialogue</a>.
 </div>
 
+<div class="alert alert-primary" role="alert">
+ Learn more with <a href="https://bubblecow.com/blog/writing-techniques">our essential guide to writing techniques</a>.
+</div>
+
 </div>

@@ -155,4 +155,10 @@
 <h2 id="item-8">What to do Now...</h2>
 <p>Practice! Think up a simple section of dialogue, just one beat with two characters and write it out. Focus on action/reaction. Try to express a character's internal thoughts with external dialogue. Keep it simple and remember the goal (direction) of the beat.</p>
 <p>If you wish to learn more about  punctuation of dialogue (think commas and quotation marks), then here's a link to an article called <a href="https://bubblecow.com/blog/how-to-format-dialogue-in-a-story-quick-and-dirty-guide">How To Format Dialogue In A Story [In Depth Guide]</a>.
+
+
+<div class="alert alert-primary" role="alert">
+  Learn more about <a href="https://bubblecow.com/blog/writing-dialogue-in-fiction" class="alert-link">writing dialogue in fiction</a> with our detailed guide.
+</div>
+
 </div>

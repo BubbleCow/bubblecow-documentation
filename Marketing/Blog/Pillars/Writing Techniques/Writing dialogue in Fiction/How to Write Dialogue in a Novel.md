@@ -1,4 +1,4 @@
-<p>How to write dialogue in a novel is a question every writer faces at some point in their writing journey. The truth is that even experienced writers can struggle with understanding the best wat to write speech.</p> 
+<p>How to format dialogue in a novel is a question every writer faces at some point in their writing journey. The truth is that even experienced writers can struggle with understanding the best way to write speech.</p> 
  
 <p>The rules for writing dialogue, and how to punctuate punctuation, can often seem confusing and contradictory, with dialogue tags and punctuation marks only adding to the confusion. </p>
  
@@ -358,6 +358,10 @@
 	</div>
 </div>
 
+</div>
+
+<div class="alert alert-primary" role="alert">
+  Learn more about <a href="https://bubblecow.com/blog/writing-dialogue-in-fiction" class="alert-link">writing dialogue in fiction</a> with our detailed guide.
 </div>
 
 </div>

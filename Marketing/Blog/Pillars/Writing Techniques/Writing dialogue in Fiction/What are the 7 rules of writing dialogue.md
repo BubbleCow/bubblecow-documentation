@@ -176,6 +176,7 @@
             </div>
         </div>
     </div>
+
 </div>
 
     <h2 id="conclusion">Conclusion</h2>
@@ -183,10 +184,10 @@
     <p>Remember, dialogue is a tool not just for conveying information, but for immersing readers in your story's world, deepening their investment in the characters and plot. As with any aspect of writing, practice and experimentation are key. Don't be afraid to try new approaches, listen to feedback, and revise relentlessly. Your dialogue, and your story as a whole, will be all the stronger for it.</p>
 
 
-</div>
+
 
     <div class="alert alert-primary" role="alert">
-        <a href="https://bubblecow.com/blog/how-to-write-effective-dialogue-in-your-novels">This article explains how to write good dialogue</a>.
+       Read our <a href="https://bubblecow.com/blog/writing-dialogue-in-fiction"> guide to writing dialogue in fiction</a>.
     </div>
 
 </div>

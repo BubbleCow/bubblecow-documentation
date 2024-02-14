@@ -9,6 +9,7 @@
     <ul>
         <li><a href="#format-dialogue">How To Format Dialogue In A Novel</a></li>
         <li><a href="#good-dialogue">How Do You Write Good Dialogue?</a></li>
+        <li><a href="#7-rules"> What Are The 7 Rules Of Writing Dialogue?</a></li>
     </ul>
   </div>
 </div>
@@ -55,8 +56,32 @@
  <a href="https://bubblecow.com/blog/how-to-write-effective-dialogue-in-your-novels">This article explains how to write good dialogue</a>.
 </div>
 
+<h2 id="7-rules">What Are The 7 Rules Of Writing Dialogue?</h2>
+
+    <div itemscope itemtype="https://schema.org/ImageObject">
+      <img 
+        alt="two people talking about the 7 rules of writing dialogue" 
+        itemprop="contentUrl" 
+        src="https://bubblecow.com/assets/7-rules-of-dialogue-compressed" 
+        class="post-media img-fluid rounded mx-auto d-block mt-1 mb-1" 
+        width="700" height="400"
+        />
+      <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+        <meta itemprop="name" content="Gary Smailes" />
+      </span>
+    </div>
+
+<p>To craft engaging dialogue, adhere to seven pivotal rules: Be concise, shunning exposition dumps. Embrace contractions and informal speech for authenticity. Vary characters' speech patterns for depth. Attune to real conversations for natural flow. Reading dialogue aloud unveils rhythm and believability. Contextualize each exchange, enhancing relevance and impact. Lastly, FAQs and a conclusion offer further insights, refining your narrative craft.</p>
+
 <div class="alert alert-primary" role="alert">
- Learn more with <a href="https://bubblecow.com/blog/writing-techniques">our essential guide to writing techniques</a>.
+ <a href="https://bubblecow.com/blog/what-are-the-7-rules-of-writing-dialogue">This article delves deeper into the 7 rules of writing</a>.
+</div>
+
+
+
+
+<div class="alert alert-primary" role="alert">
+ <a href="https://bubblecow.com/blog/writing-techniques">Discover more about writing techniques at this central guide</a>.
 </div>
 
 </div>

@@ -10,13 +10,15 @@
           {
             "id": "b8694c9cc69841fd",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Editorial/Writers/S/Sam Hall/Abyssal Thrum/Chunk 3/Feedback - Abyssal Thrum  - Chunk 3.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "pinned": true
             }
           }
         ]

@@ -38,4 +38,7 @@ Kayah in the ruins. Cindered Man.
 - I feel that 'cindered man', is his name and, therefore, should be a proper noun - 'Cindered Man'. What do you think?
 ## Scene 16 - Baran
 Baran in sewers.
-- This chapter works well. I really enjoyed the description of the sewers, it gave teh reader a vivid sense of place. My only slight concern is the focus on story and world-building over 
+- This chapter works well. I really enjoyed the description of the sewers, it gave teh reader a vivid sense of place. My only slight concern is the focus on story and world-building over plot development, but, honestly, this is just a niggle and nothing worth action. 
+## Scene 17 - Kayah
+Kayah outside palace. Cindered Man.
+- You need to add in some location description at the start of this chapter. 

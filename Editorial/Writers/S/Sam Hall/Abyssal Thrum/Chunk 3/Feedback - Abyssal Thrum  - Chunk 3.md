@@ -1,4 +1,6 @@
+Below is my feedback. 
 
+Once very slight concern I have is that these chapters are focus more of world-building and plot, than tension and narrative arc. I really don't feel this is a problem, however, I do think it is something we can keep in mind. The early chapters are creating the tension, and these chapter do have a sense of movement, so I don't feel we need to make any additional changes. 
 ### Title: Enhancing Character Description Through Movement and Scene Dynamics
 
 When writing fiction, the way a character moves within a scene can significantly enrich their portrayal, offering subtle cues about their personality, emotions, and physical characteristics. By integrating everyday motions and their interactions with the environment, writers can provide a deeper, more nuanced understanding of their characters without relying solely on direct descriptions.
@@ -36,3 +38,4 @@ Kayah in the ruins. Cindered Man.
 - I feel that 'cindered man', is his name and, therefore, should be a proper noun - 'Cindered Man'. What do you think?
 ## Scene 16 - Baran
 Baran in sewers.
+- This chapter works well. I really enjoyed the description of the sewers, it gave teh reader a vivid sense of place. My only slight concern is the focus on story and world-building over 

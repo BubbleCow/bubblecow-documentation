@@ -77,8 +77,9 @@
  <a href="https://bubblecow.com/blog/what-are-the-7-rules-of-writing-dialogue">This article delves deeper into the 7 rules of writing</a>.
 </div>
 
+<h2>Conclusion</h2>
 
-
+<p>This guide on writing dialogue in fiction offers a comprehensive exploration of how to breathe life into characters and propel narratives through compelling conversation. It covers the essentials of formatting dialogue, the principles of creating engaging and authentic exchanges, and outlines seven cardinal rules for writers to follow. With practical examples and a structured approach, this guide aims to inspire and transform your dialogue writing, providing both a quick reference and an in-depth roadmap to enhance storytelling in novels.</p>
 
 <div class="alert alert-primary" role="alert">
  <a href="https://bubblecow.com/blog/writing-techniques">Discover more about writing techniques at this central guide</a>.

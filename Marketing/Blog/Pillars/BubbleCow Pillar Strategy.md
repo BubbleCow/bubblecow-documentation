@@ -134,7 +134,11 @@ The goal of the blog is to help writers to become better writers.
 		- Post: [[Mastering the Three Act Structure]]
 		- Post: [[Mastering the Five Act Structure]]
 	- Sub-pillar: [[The Guide to Novel Tropes]]
-	- 
+		- Post: Popular Tropes in Romance Novels
+		- Post: Popular Tropes in Fantasy and Science Fiction Novels
+		- Post: Popular Tropes in Mystery and Thriller Novels
+		- Post: Popular Tropes in Horror Novels
+		- Post: Popular Tropes in General Narrative Elements
 	- Sub-pillar: Hero's Journey
 		- Post: [[Mastering The Hero's Journey]]
 		- Post: Using the hero's journey to write a novel

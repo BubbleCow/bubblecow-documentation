@@ -137,9 +137,7 @@ The goal of the blog is to help writers to become better writers.
 		- Post: [[Mastering The Hero's Journey]]
 		- Post: Using the hero's journey to write a novel
 		- Post: What are the 12 steps of the hero's journey?
-		- Post: What are the 12 stages of the hero's quest?
 		- Post: What are the 5 basic stages of the hero's journey?
-		- Post: Is Percy Jackson a hero's journey?
 	- Sub-pillar: Non-Linear Narratives
 	- Sub-pillar: Episodic Structure
 	- Sub-pillar: Snowflake Method

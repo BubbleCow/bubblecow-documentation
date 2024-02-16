@@ -133,6 +133,8 @@ The goal of the blog is to help writers to become better writers.
 		- Post: [[What is the 5 part structure of a story]]?
 		- Post: [[Mastering the Three Act Structure]]
 		- Post: [[Mastering the Five Act Structure]]
+	- Sub-pillar: [[The Guide to Novel Tropes]]
+	- 
 	- Sub-pillar: Hero's Journey
 		- Post: [[Mastering The Hero's Journey]]
 		- Post: Using the hero's journey to write a novel
@@ -265,7 +267,7 @@ The goal of the blog is to help writers to become better writers.
 		- Post: Novel Word Count: Everything You Need To Know - written
 	- Sub-pillar: Book Genres
 		- Post: [[Which Book Genre Is The Most Popular]]?
-		- Post: [[The Ultimate Guide to Novel Tropes]]
+		
 
 - Pillar: Writing Mindset
 	- Sub-pillar: Overcoming writer's block

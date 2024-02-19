@@ -20,8 +20,33 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "dde9357024c0aa82",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Marketing/Blog/Pillars/BubbleCow Pillar Strategy.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "79ce14f5f7e5633d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Marketing/Blog/Pillars/Storytelling Techniques/Tropes/Popular Tropes in Romance Novels.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -87,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Editorial/Writers/S/Sam Hall/Abyssal Thrum/Chunk 3/Feedback - Abyssal Thrum  - Chunk 3.md",
+                "file": "Marketing/Blog/Pillars/Storytelling Techniques/Tropes/Popular Tropes in Romance Novels.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Editorial/Writers/S/Sam Hall/Abyssal Thrum/Chunk 3/Feedback - Abyssal Thrum  - Chunk 3.md",
+                "file": "Marketing/Blog/Pillars/Storytelling Techniques/Tropes/Popular Tropes in Romance Novels.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Editorial/Writers/S/Sam Hall/Abyssal Thrum/Chunk 3/Feedback - Abyssal Thrum  - Chunk 3.md"
+                "file": "Marketing/Blog/Pillars/Storytelling Techniques/Tropes/Popular Tropes in Romance Novels.md"
               }
             }
           }
@@ -148,15 +173,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b8694c9cc69841fd",
+  "active": "341fb5c098c93da7",
   "lastOpenFiles": [
-    "Freelance/Upworks Pitch.md",
     "Marketing/Blog/Pillars/BubbleCow Pillar Strategy.md",
+    "Marketing/Blog/Pillars/Storytelling Techniques/Tropes/Popular Tropes in Romance Novels.md",
+    "Marketing/Blog/Blog Post Formatting.md",
+    "Editorial/Writers/S/Sam Hall/Abyssal Thrum/Chunk 3/Feedback - Abyssal Thrum  - Chunk 3.md",
+    "Freelance/Upworks Pitch.md",
     "Marketing/Blog/Pillars/Storytelling Techniques/Tropes/The Ultimate Guide to Novel Tropes.md",
     "Marketing/Blog/Pillars/Storytelling Techniques/Tropes",
     "Marketing/Blog/Pillars/Storytelling Techniques/An Essential Guide to Storytelling Techniques.md",
-    "Marketing/Blog/Blog Post Formatting.md",
-    "Editorial/Writers/S/Sam Hall/Abyssal Thrum/Chunk 3/Feedback - Abyssal Thrum  - Chunk 3.md",
     "Admin/Legal/Non-Disclosure Agreement.md",
     "Admin/Emails/Copy Editing with Word Count.md",
     "Admin/Emails",
@@ -182,7 +208,6 @@
     "Editorial/Writers/T/Tony Farias/No I am Not a Rat/First edit/20.md",
     "Editorial/Writers/T/Tony Farias/No I am Not a Rat/First edit/19.md",
     "Editorial/Writers/T/Tony Farias/No I am Not a Rat/First edit/18.md",
-    "Editorial/Writers/T/Tony Farias/No I am Not a Rat/First edit/17.md",
     "Editorial/Writers/T/Tony Farias/No I am Not a Rat/First edit",
     "Editorial/Writers/T/Tony Farias/No I am Not a Rat/Unaltered Manuscript/Untitled",
     "Editorial/Writers/P/Pawel Guziejko/Coaching Book/Developmental Edit/Edit/Coaching Book - Editors Report - Developmental Editing - BubbleCow.pdf",

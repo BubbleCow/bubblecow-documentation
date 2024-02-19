@@ -202,5 +202,8 @@
 <p>In exploring the "Popular Tropes in Romance Novels," we not only celebrate the diversity and creativity within the genre but also recognize the tropes as mirrors to our society, reflecting our collective yearnings, fears, and hopes. As long as there are stories to be told, romance tropes will endure, inviting us to dream, to hope, and to love.</p>
 
 
+<div class="alert alert-primary" role="alert">
+  Discover more about <a href="https://bubblecow.com/blog/novel-tropes" class="alert-link">tropes in novels with this complete guide</a>.
+</div>
 
 </div>

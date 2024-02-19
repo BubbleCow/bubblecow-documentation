@@ -30,12 +30,30 @@
 <p>Tropes are recurring themes, motifs, or clichés found in storytelling. They serve as familiar patterns that writers can use to engage readers, invoke specific feelings, or convey complex ideas in an accessible way. From romance to horror, fantasy to mystery, tropes can be found across all genres, offering a vast canvas for creativity and exploration. Here's a look at some of the most popular tropes used in novels, providing a glimpse into the building blocks of compelling narratives.</p>
 
 <h3>Romance</h3>
+
+    <div itemscope itemtype="https://schema.org/ImageObject">
+      <img 
+        alt="two lovers on bench - romance tropes - friends to lovers" 
+        itemprop="contentUrl" 
+        src="https://bubblecow.com/assets/friends-to-lovers-compressed" 
+        class="post-media img-fluid rounded mx-auto d-block mt-1 mb-1" 
+        width="700" height="400"
+        />
+      <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+        <meta itemprop="name" content="Gary Smailes" />
+      </span>
+    </div>
+
 <ul>
-    <li><strong>Enemies to Lovers</strong>: Two characters start off disliking each other but eventually fall in love.</li>
-    <li><strong>Friends to Lovers</strong>: Friends who develop romantic feelings for each other over time.</li>
-    <li><strong>Fake Dating</strong>: Characters pretend to be in a relationship for some benefit, but then actually fall in love.</li>
-    <li><strong>Second Chance Romance</strong>: Lovers who have separated find their way back to each other.</li>
-    <li><strong>Love Triangle</strong>: A character is torn between two love interests.</li>
+  <li>Enemies to Lovers</li>
+  <li>Friends to Lovers</li>
+  <li>Second Chance Romance</li>
+  <li>Fake Relationships</li>
+  <li>Forced Proximity</li>
+  <li>Soulmates/Fated Lovers</li>
+  <li>Opposites Attract</li>
+  <li>Secret Romance</li>
+  <li>Love Triangle</li>
 </ul>
 
 <h3>Fantasy and Science Fiction</h3>

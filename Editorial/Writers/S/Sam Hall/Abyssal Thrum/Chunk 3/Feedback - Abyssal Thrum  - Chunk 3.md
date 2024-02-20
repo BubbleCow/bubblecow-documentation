@@ -1,8 +1,11 @@
-Below is my feedback. 
+Below is my feedback for chunk 3.
 
-Once very slight concern I have is that these chapters are focus more of world-building and plot, than tension and narrative arc. I really don't feel this is a problem, however, I do think it is something we can keep in mind. The early chapters are creating the tension, and these chapter do have a sense of movement, so I don't feel we need to make any additional changes. 
+As we have already discussed, I the progression and development of your novel is working well. However, one very slight concern I have is that these chapters are focus more of world-building and plot, than tension and narrative arc. I really don't feel this is a problem, however, I do think it is something we can keep in mind. The early chapters are creating the tension, and these chapter do have a sense of movement, so I don't feel we need to make any additional changes. 
+
+I am not suggesting that you make any changes but I do want you to keep this in mind. There is a point in every novel where 'story' takes the front seat and I think that this is that moment in your book. I am aware that the story is now being split into two books and I don't feel that this should be an excuse to include material that is non-essential to the plot (though I don't feel this is the case.)
+
+I have also added a note below about the use of movement through a scene to support description. We have talked about his before but I think it is something we should revisit. 
 ### Title: Enhancing Character Description Through Movement and Scene Dynamics
-
 When writing fiction, the way a character moves within a scene can significantly enrich their portrayal, offering subtle cues about their personality, emotions, and physical characteristics. By integrating everyday motions and their interactions with the environment, writers can provide a deeper, more nuanced understanding of their characters without relying solely on direct descriptions.
 #### **Step-by-Step Guide:**
 

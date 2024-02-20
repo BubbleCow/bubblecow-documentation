@@ -33,8 +33,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,6 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Editorial/Writers/S/Sam Hall/Abyssal Thrum/Chunk 3/Feedback - Abyssal Thrum  - Chunk 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,6 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Editorial/Writers/S/Sam Hall/Abyssal Thrum/Chunk 3/Feedback - Abyssal Thrum  - Chunk 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Popular Tropes in Fantasy Novels.md"
+                "file": "Editorial/Writers/S/Sam Hall/Abyssal Thrum/Chunk 3/Feedback - Abyssal Thrum  - Chunk 3.md"
               }
             }
           }
@@ -159,11 +160,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "341fb5c098c93da7",
+  "active": "b8694c9cc69841fd",
   "lastOpenFiles": [
+    "Editorial/Writers/S/Sam Hall/Abyssal Thrum/Chunk 3/Hall_AbyssalThrum_mentoring_chuck_3_highlighted_edited.docx",
+    "Editorial/Writers/S/Sam Hall/Abyssal Thrum/Chunk 3/Feedback - Abyssal Thrum  - Chunk 3.pdf",
+    "Popular Tropes in Fantasy Novels.md",
     "Marketing/Blog/Pillars/Storytelling Techniques/Tropes/Popular Tropes in Fantasy Novels.md",
     "Marketing/Blog/Pillars/BubbleCow Pillar Strategy.md",
-    "Popular Tropes in Fantasy Novels.md",
     "Editorial/Writers/S/Sam Hall/Abyssal Thrum/Chunk 3/Feedback - Abyssal Thrum  - Chunk 3.md",
     "Marketing/Blog/Pillars/Storytelling Techniques/Tropes/Popular Tropes in Romance Novels.md",
     "Marketing/Blog/Blog Post Formatting.md",
@@ -193,10 +196,8 @@
     "Editorial/Writers/T/Tony Farias/No I am Not a Rat/First edit/23.md",
     "Editorial/Writers/T/Tony Farias/No I am Not a Rat/First edit/22.md",
     "Editorial/Writers/T/Tony Farias/No I am Not a Rat/First edit/21.md",
-    "Editorial/Writers/T/Tony Farias/No I am Not a Rat/First edit/20.md",
     "Editorial/Writers/T/Tony Farias/No I am Not a Rat/First edit",
     "Editorial/Writers/T/Tony Farias/No I am Not a Rat/Unaltered Manuscript/Untitled",
-    "Editorial/Writers/P/Pawel Guziejko/Coaching Book/Developmental Edit/Edit/Coaching Book - Editors Report - Developmental Editing - BubbleCow.pdf",
     "Editorial/Writers/P/Pawel Guziejko/Coaching Book/De.canvas",
     "Admin/Images/Pasted image 20240204133232.png",
     "Editorial/Writers/R/Robyn Atkinson/Canche Gringa/Developmental Editing/Untitled.canvas"

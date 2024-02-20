@@ -56,14 +56,37 @@
   <li>Love Triangle</li>
 </ul>
 
-<h3>Fantasy and Science Fiction</h3>
+<p><a href="https://bubblecow.com/blog/popular-tropes-in-romance-novels">Check out more detailed information with this article about tropes in romance novels.</a></p>
+
+<h3>Fantasy</h3>
+
+    <div itemscope itemtype="https://schema.org/ImageObject">
+      <img 
+        alt="cool little wiazrd - fantasy tropes" 
+        itemprop="contentUrl" 
+        src="https://bubblecow.com/assets/fantasy-trope-compressed" 
+        class="post-media img-fluid rounded mx-auto d-block mt-1 mb-1" 
+        width="700" height="400"
+        />
+      <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+        <meta itemprop="name" content="Gary Smailes" />
+      </span>
+    </div>
+
 <ul>
-    <li><strong>The Chosen One</strong>: A character destined to save the world or fulfill a prophecy.</li>
-    <li><strong>Hidden Magic World</strong>: A secret magical world existing parallel to the known world.</li>
-    <li><strong>Time Travel</strong>: Characters travel through time, affecting or witnessing events in the past or future.</li>
-    <li><strong>Space Opera</strong>: Epic stories set in outer space with complex plots and characters.</li>
-    <li><strong>Post-Apocalyptic Society</strong>: Stories set after a catastrophic event, focusing on survival and rebuilding.</li>
+  <li>The Chosen One</li>
+  <li>A World of Magic</li>
+  <li>Mythical Creatures and Legendary Beasts</li>
+  <li>The Epic Quest</li>
+  <li>Good vs. Evil</li>
+  <li>The Mentor Figure</li>
+  <li>Hidden Worlds and Lost Civilizations</li>
+  <li>Prophecies and Foretellings</li>
+  <li>The Power of Friendship and Love</li>
+  <li>Rags to Riches</li>
 </ul>
+
+<p><a href="https://bubblecow.com/blog/popular-tropes-in-fantasy-novels">Read more information about tropes in fantasy novels.</a></p>
 
 <h3>Mystery and Thriller</h3>
 <ul>

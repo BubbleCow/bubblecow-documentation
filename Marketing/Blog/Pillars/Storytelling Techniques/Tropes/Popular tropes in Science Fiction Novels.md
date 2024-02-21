@@ -342,9 +342,48 @@
 
 <div itemscope itemtype="https://schema.org/FAQPage" class="faq">
 
+<div itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
+	<h3 itemprop="name">What are tropes in science fiction?</h3>
+	<div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+  	<div itemprop="text">
+    	<p>Tropes in science fiction are recurring themes, motifs, or clichés that are commonly used within the genre to explore futuristic, speculative, or imaginary concepts. These can include advanced technology, space exploration, time travel, alien life forms, dystopian societies, and artificial intelligence, among others. Tropes help to establish a familiar framework for storytelling, allowing authors to delve into complex ideas about humanity, society, and the universe in accessible and engaging ways.</p>
+  	</div>
+	</div>
+</div>
+
+<div itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
+	<h3 itemprop="name">What is the most used trope?</h3>
+	<div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+  	<div itemprop="text">
+    	<p>One of the most used tropes in science fiction is "Space Exploration and Interstellar Travel." This trope captures the human desire to explore the unknown, presenting stories of adventure, discovery, and often conflict among the stars. It encompasses the journey to and exploration of other planets, galaxies, and the vastness of space itself, serving as a backdrop for examining themes of isolation, colonialism, and the cosmic scale of human existence.</p>
+  	</div>
+	</div>
+</div>
+
+<div itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
+	<h3 itemprop="name">What is the most common theme found in science fiction literature?</h3>
+	<div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+  	<div itemprop="text">
+    	<p>The most common theme found in science fiction literature is the exploration of the impact of future technologies on human society and individuals. This encompasses a broad range of speculative ideas, from the ethical dilemmas posed by artificial intelligence and genetic engineering to the societal changes brought about by space colonization and virtual realities. Through these themes, science fiction interrogates the potential consequences, both positive and negative, of human innovation and technological advancement.</p>
+  	</div>
+	</div>
+</div>
+
+<div itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
+	<h3 itemprop="name">What are the outdated tropes in sci-fi?</h3>
+	<div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+  	<div itemprop="text">
+    	<p>Outdated tropes in sci-fi include simplistic depictions of alien invasions or monsters as purely evil entities, overly optimistic or pessimistic views of future societies without nuance, and the trope of the "mad scientist" working in isolation to create dangerous technologies. These tropes have evolved or fallen out of favor as audiences seek more complex and realistic portrayals of scientific and technological themes, character development, and moral ambiguities.</p>
+  	</div>
+	</div>
+</div>
 
 </div>
 
 <h2 id="conclusion">Conclusion</h2>
+
+    <p>Science fiction serves as a mirror to humanity's hopes, fears, and boundless imagination, with its tropes and themes offering a rich tapestry through which to explore the complexities of our existence and future. From the vast expanse of space exploration to the intimate questions of identity and ethics in technologically advanced societies, sci-fi challenges us to contemplate the ramifications of our scientific and technological pursuits.</p>
+    <p>While certain tropes may become outdated as our understanding and values evolve, the genre continues to adapt, reflecting current issues and speculating on the future with ever-increasing sophistication and depth. The enduring popularity of science fiction lies in its ability to not only entertain but also provoke thought, inspire change, and offer visions of what might be, for better or worse.</p>
+    <p>As we look forward, science fiction remains a vital tool for engaging with the philosophical, ethical, and societal questions that will shape our collective future. It encourages us to dream, question, and, most importantly, consider our role in crafting the future we aspire to, reminding us that the stories we tell today can inform the realities of tomorrow.</p>
 
 </div>

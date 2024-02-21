@@ -386,4 +386,9 @@
     <p>While certain tropes may become outdated as our understanding and values evolve, the genre continues to adapt, reflecting current issues and speculating on the future with ever-increasing sophistication and depth. The enduring popularity of science fiction lies in its ability to not only entertain but also provoke thought, inspire change, and offer visions of what might be, for better or worse.</p>
     <p>As we look forward, science fiction remains a vital tool for engaging with the philosophical, ethical, and societal questions that will shape our collective future. It encourages us to dream, question, and, most importantly, consider our role in crafting the future we aspire to, reminding us that the stories we tell today can inform the realities of tomorrow.</p>
 
+
+
+<div class="alert alert-primary" role="alert">
+  Discover more about <a href="https://bubblecow.com/blog/novel-tropes" class="alert-link">tropes in novels with this complete guide</a>.
+</div>
 </div>

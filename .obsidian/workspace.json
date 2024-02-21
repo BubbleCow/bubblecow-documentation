@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "217377133bb6ab0a",
+        "id": "0f796a213b6f7a76",
         "type": "tabs",
         "children": [
           {
-            "id": "d2926f9bc16360c3",
+            "id": "48012c0ac4f217fa",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Editorial/Writers/R/Robyn Atkinson/Canche Gringa/Developmental Editing/Edit/Canche Gringa 1-6 - Editors Report - Developmental Editing - BubbleCow.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Editorial/Writers/R/Robyn Atkinson/Canche Gringa/Developmental Editing/Edit/Canche Gringa 1-6 - Editors Report - Developmental Editing - BubbleCow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Editorial/Writers/R/Robyn Atkinson/Canche Gringa/Developmental Editing/Edit/Canche Gringa 1-6 - Editors Report - Developmental Editing - BubbleCow.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Editorial/Writers/R/Robyn Atkinson/Canche Gringa/Developmental Editing/Edit/Canche Gringa 1-6 - Editors Report - Developmental Editing - BubbleCow.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,8 +138,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d2926f9bc16360c3",
+  "active": "48012c0ac4f217fa",
   "lastOpenFiles": [
+    "Editorial/Writers/R/Robyn Atkinson/Canche Gringa/Developmental Editing/Edit/Canche Gringa 1-6 - Editors Report - Developmental Editing - BubbleCow.md",
     "Editorial/Writers/C/Cristina Fiore/Midnight's Slumber/Book Proposal/Query Letter.md",
     "Editorial/Writers/C/Cristina Fiore/Midnight's Slumber/Book Proposal/Query Letter.docx",
     "Marketing/Blog/Pillars/BubbleCow Pillar Strategy.md",
@@ -183,7 +176,6 @@
     "Editorial/Writers/T/Tony Farias/No I am Not a Rat/First edit/24.md",
     "Editorial/Writers/T/Tony Farias/No I am Not a Rat/First edit/23.md",
     "Editorial/Writers/T/Tony Farias/No I am Not a Rat/First edit/22.md",
-    "Editorial/Writers/T/Tony Farias/No I am Not a Rat/First edit/21.md",
     "Editorial/Writers/P/Pawel Guziejko/Coaching Book/De.canvas",
     "Admin/Images/Pasted image 20240204133232.png",
     "Editorial/Writers/R/Robyn Atkinson/Canche Gringa/Developmental Editing/Untitled.canvas"

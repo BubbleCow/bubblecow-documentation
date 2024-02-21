@@ -136,7 +136,7 @@ The goal of the blog is to help writers to become better writers.
 	- Sub-pillar: [[The Guide to Novel Tropes]]
 		- Post: [[Popular Tropes in Romance Novels]]
 		- Post: [[Popular Tropes in Fantasy Novels]]
-		- Post: Popular tropes in Science Fiction Novels
+		- Post: [[Popular tropes in Science Fiction Novels]]
 		- Post: Popular Tropes in Mystery and Thriller Novels
 		- Post: Popular Tropes in Horror Novels
 		- Post: Popular Tropes in General Narrative Elements

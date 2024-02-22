@@ -29,7 +29,7 @@
 <h2 id="popular-tropes">Popular Tropes in Novels</h2>
 <p>Tropes are recurring themes, motifs, or clichés found in storytelling. They serve as familiar patterns that writers can use to engage readers, invoke specific feelings, or convey complex ideas in an accessible way. From romance to horror, fantasy to mystery, tropes can be found across all genres, offering a vast canvas for creativity and exploration. Here's a look at some of the most popular tropes used in novels, providing a glimpse into the building blocks of compelling narratives.</p>
 
-<h3>Romance</h3>
+<h3>Romance Tropes</h3>
 
     <div itemscope itemtype="https://schema.org/ImageObject">
       <img 
@@ -58,7 +58,7 @@
 
 <p><a href="https://bubblecow.com/blog/popular-tropes-in-romance-novels">Check out more detailed information with this article about tropes in romance novels.</a></p>
 
-<h3>Fantasy</h3>
+<h3>Fantasy Tropes</h3>
 
     <div itemscope itemtype="https://schema.org/ImageObject">
       <img 
@@ -87,6 +87,57 @@
 </ul>
 
 <p><a href="https://bubblecow.com/blog/popular-tropes-in-fantasy-novels">Read more information about tropes in fantasy novels.</a></p>
+
+<h3>Science Fiction Tropes</h3>
+
+    <div itemscope itemtype="https://schema.org/ImageObject">
+      <img 
+        alt="cool space city - science fiction tropes" 
+        itemprop="contentUrl" 
+        src="https://bubblecow.com/assets/sci-fi-tropes-compressed" 
+        class="post-media img-fluid rounded mx-auto d-block mt-1 mb-1" 
+        width="700" height="400"
+        />
+      <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+        <meta itemprop="name" content="Gary Smailes" />
+      </span>
+    </div>
+
+<ul>
+  <li>Space Exploration and Interstellar Travel</li>
+  <li>Time Travel and Paradoxes</li>
+  <li>Artificial Intelligence and Robotics</li>
+  <li>Alien Life Forms and First Contact</li>
+  <li>Dystopian and Post-Apocalyptic Worlds</li>
+  <li>Cyberpunk and Technological Dystopias</li>
+  <li>Mutations and Genetic Engineering</li>
+  <li>Parallel Universes and Multiverses</li>
+  <li>Eco-Science Fiction</li>
+  <li>The Singularity and Beyond</li>
+  <li>Space Travel Issues</li>
+  <li>Time Travel Issues</li>
+  <li>Alternate Universes</li>
+  <li>Everything is a Simulation</li>
+  <li>Bad Robots</li>
+  <li>Bad Aliens</li>
+  <li>Aliens are Humans</li>
+  <li>Pure Energy Life Forms</li>
+  <li>Secretive Laboratory or Base</li>
+  <li>Mad Scientist</li>
+  <li>Bad Artificial Intelligence</li>
+  <li>Cloning</li>
+  <li>Creating Monsters</li>
+  <li>Nanotechnology</li>
+  <li>Techno-babble</li>
+  <li>Dystopian Futures</li>
+  <li>Utopian Futures</li>
+  <li>Technologically Advanced</li>
+  <li>Technologically Stunted</li>
+  <li>Philosophical Discussions</li>
+  <li>Morals and Ethics</li>
+</ul>
+
+<p><a href="https://bubblecow.com/blog/popular-tropes-in-science-fiction-novels">Read more information about tropes in science fiction novels.</a></p>
 
 <h3>Mystery and Thriller</h3>
 <ul>

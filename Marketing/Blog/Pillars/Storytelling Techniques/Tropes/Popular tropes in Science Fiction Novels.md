@@ -36,9 +36,6 @@
   <li>Philosophical Discussions</li>
   <li>Morals and Ethics</li>
 </ul>
-
-
-
 </div>
 
     <p>Science fiction, a genre that propels readers into the realms of the future, the unknown, and the unimaginable, is rich with <a href="https://en.wikipedia.org/wiki/Trope_(literature)" target="_blank">tropes</a> that serve as the backbone of its storytelling. Tropes, in literature, are commonly recurring themes, motifs, or clichés that give shape to the narrative and character arcs within a story. In the vast expanse of science fiction, these tropes allow us to explore new worlds, confront ethical dilemmas, and question the very essence of reality and humanity.</p>

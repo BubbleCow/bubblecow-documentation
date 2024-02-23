@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1052f3685cd8402c",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.8"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -146,7 +157,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "48012c0ac4f217fa",
+  "active": "1052f3685cd8402c",
   "lastOpenFiles": [
     "Editorial/Writers/S/Sam Hall/Abyssal Thrum/Chunk 3/Feedback - Abyssal Thrum  - Chunk 3.pdf",
     "Editorial/Writers/S/Sam Hall/Abyssal Thrum/Chunk 3/Feedback - Abyssal Thrum  - Chunk 3.md",

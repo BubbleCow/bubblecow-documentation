@@ -139,14 +139,53 @@
 
 <p><a href="https://bubblecow.com/blog/popular-tropes-in-science-fiction-novels">Read more information about tropes in science fiction novels.</a></p>
 
-<h3>Mystery and Thriller</h3>
-<ul>
-    <li><strong>The Locked Room Mystery</strong>: A crime, usually murder, committed under seemingly impossible circumstances.</li>
-    <li><strong>The Unreliable Narrator</strong>: A narrator whose credibility is compromised.</li>
-    <li><strong>The Whodunit</strong>: A mystery where the identity of the perpetrator is the main puzzle.</li>
-    <li><strong>The Hardboiled Detective</strong>: A detective known for their toughness and gritty approach to solving crimes.</li>
-    <li><strong>The Femme Fatale</strong>: A mysterious and seductive woman whose charms ensnare her lovers, often leading them into compromising, dangerous situations.</li>
-</ul>
+<h3>Thriller Tropes</h3>
+
+    <div itemscope itemtype="https://schema.org/ImageObject">
+      <img 
+        alt="mysterious figure on pier - triller tropes" 
+        itemprop="contentUrl" 
+        src="https://bubblecow.com/assets/thriller-tropes-compressed" 
+        class="post-media img-fluid rounded mx-auto d-block mt-1 mb-1" 
+        width="700" height="400"
+        />
+      <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+        <meta itemprop="name" content="Gary Smailes" />
+      </span>
+    </div>
+
+    <ul>
+        <li>Broken Down Vehicle</li>
+        <li>Isolated Locale</li>
+        <li>Mysterious Stranger</li>
+        <li>Missing Person</li>
+        <li>Stalker or Unhinged Ex</li>
+        <li>Toxic Friendships and Cults</li>
+        <li>Powerful Protagonist</li>
+        <li>Fearful Protagonist</li>
+        <li>Victim Gets Revenge</li>
+        <li>So Many Weapons</li>
+        <li>So Many Bodies</li>
+        <li>So Many Lies</li>
+        <li>Intelligent Psychopath</li>
+        <li>Tight Circle of Suspects</li>
+        <li>Deadlines and Countdowns</li>
+        <li>Robberies and Heists</li>
+        <li>Unreliable Narrators</li>
+        <li>Blackmail</li>
+        <li>Kidnapping</li>
+        <li>Framed</li>
+        <li>Unassuming Villain</li>
+        <li>Double Agents and Betrayal</li>edit
+        <li>Memory Loss</li>
+        <li>Parallel Timelines</li>
+        <li>Technological Threats</li>
+        <li>Psychological Manipulation</li>
+    </ul>
+
+  
+<p><a href="https://bubblecow.com/blog/popular-tropes-in-thriller-novels">Read more information about tropes in thiller novels.</a></p>
+
 
 <h3>Horror</h3>
 <ul>

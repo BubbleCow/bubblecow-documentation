@@ -138,7 +138,7 @@ The goal of the blog is to help writers to become better writers.
 		- Post: [[Popular Tropes in Fantasy Novels]]
 		- Post: [[Popular tropes in Science Fiction Novels]]
 		- Post: [[Popular Tropes in Thriller Novels]]
-		- Post: Popular Tropes in Horror Novels
+		- Post: [[Popular Tropes in Horror Novels]]
 		- Post: Popular Tropes in General Narrative Elements
 	- Sub-pillar: Hero's Journey
 		- Post: [[Mastering The Hero's Journey]]

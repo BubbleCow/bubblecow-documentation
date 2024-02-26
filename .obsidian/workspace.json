@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "34b8e5d54265f81a",
+        "id": "76da6f1e2cfad2bc",
         "type": "tabs",
         "children": [
           {
-            "id": "1dfc58f1e4335e65",
+            "id": "197d17b461c88dfb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Editorial/Writers/T/Tony Farias/No I am Not a Rat/Third Edit/Character Sheet - Tony Sicily.md",
+                "file": "Marketing/Blog/Pillars/BubbleCow Pillar Strategy.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Editorial/Writers/T/Tony Farias/No I am Not a Rat/Third Edit/Character Sheet - Tony Sicily.md",
+                "file": "Marketing/Blog/Pillars/BubbleCow Pillar Strategy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Editorial/Writers/T/Tony Farias/No I am Not a Rat/Third Edit/Character Sheet - Tony Sicily.md",
+                "file": "Marketing/Blog/Pillars/BubbleCow Pillar Strategy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Editorial/Writers/T/Tony Farias/No I am Not a Rat/Third Edit/Character Sheet - Tony Sicily.md"
+                "file": "Marketing/Blog/Pillars/BubbleCow Pillar Strategy.md"
               }
             }
           }
@@ -146,10 +146,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1dfc58f1e4335e65",
+  "active": "197d17b461c88dfb",
   "lastOpenFiles": [
-    "Editorial/Writers/T/Tony Farias/No I am Not a Rat/Third Edit/New Plot Ideas.md",
+    "Popular Tropes in Horror Novels.md",
+    "Marketing/Blog/Pillars/Storytelling Techniques/Tropes/Popular Tropes in Horror Novels.md",
+    "Marketing/Blog/Pillars/BubbleCow Pillar Strategy.md",
+    "Marketing/Blog/Blog Post Formatting.md",
     "Editorial/Writers/T/Tony Farias/No I am Not a Rat/Third Edit/Character Sheet - Tony Sicily.md",
+    "Editorial/Writers/T/Tony Farias/No I am Not a Rat/Third Edit/New Plot Ideas.md",
     "README.md",
     "Editorial/Writers/T/Tony Farias/No I am Not a Rat/Third Edit",
     "Editorial/Writers/T/Tony Farias/No I am Not a Rat/Second edit/no-i-am-not-a-rat-v-2.docx",
@@ -172,11 +176,7 @@
     "Editorial/Writers/T/Tony Farias/No I am Not a Rat/Second edit/15.md",
     "Editorial/Writers/T/Tony Farias/No I am Not a Rat/Second edit/14.md",
     "Editorial/Writers/T/Tony Farias/No I am Not a Rat/Second edit/13.md",
-    "Editorial/Writers/T/Tony Farias/No I am Not a Rat/Second edit/12.md",
-    "Editorial/Writers/T/Tony Farias/No I am Not a Rat/Second edit/11.md",
-    "Editorial/Writers/S/Sam Hall/Abyssal Thrum/Chunk 3/Feedback - Abyssal Thrum  - Chunk 3.md",
     "Editorial/Writers/S/Sam Hall/Abyssal Thrum/Chunk 3/Feedback - Abyssal Thrum  - Chunk 3.pdf",
-    "Marketing/Blog/Pillars/BubbleCow Pillar Strategy.md",
     "Editorial/Writers/C/Cristina Fiore/Midnight's Slumber/Book Proposal/Query Letter.docx",
     "Editorial/Writers/S/Sam Hall/Abyssal Thrum/Chunk 3/Hall_AbyssalThrum_mentoring_chuck_3_highlighted_edited.docx",
     "Marketing/Blog/Pillars/Storytelling Techniques/Tropes",

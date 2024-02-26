@@ -93,7 +93,8 @@ This section contains specific feedback about elements of your book that are imm
 - importance of location descrtipion in world building - start small and buuld out. 
 - Chapter 2 - this is made up of a number of sections, each with him looking for a new player. I wanted you to do something a little different. I wanted each of these sections to be a new chapter. However, you need to...
 	- Improve the world building in each chapter so the reader is getting more of a feel for the world as they read. 
-	- Make sure that there is a clear but different reason for each person to join the team. 
+	- Make sure that there is a clear but different reason for each person to join the team. In each case the main character must have the find the reason and motivation to make the player say yes. 
+- In the Luci chapter, I want you to do it differently. Rather than passing the backstory of the wedding and affair via narration, pass it via speech. I would have her attack the main character and then start to reveal that they are married via the interaction between the two people. If you are struggling to fill in the blanks, you can have a third character witness the events and ask questions that allow you to further fill in the information. This way the scene becomes much more engaging. The reader is discovering the backstory as it is slowly revealed. 
 ## Chapter Feedback
 This section contains specific feedback about your chapters. This feedback is in addition to the Specific Feedback.  
 ### Chapter 1
@@ -104,3 +105,5 @@ Woken from hibernation. Speaks to Paul Chippers and asked to form a team.
 Meet Crazy Eddie. Meet Luci. 
 - In this chapter, I wanted you to start with an interaction with Chippers. I wanted him to turn up at the prison and them refuse to let him see the prisoner. The main character then contacts Chippers and he works his magic. Suddenly they are very accommodating and more than happy to let him talk to Eddie. 
 - I have made more of a note about this above, but I wanted each of these sections to be a new chapter with more detailed world building. 
+- I would remove the backstory about the marriage and, instead, keep it hidden from the reader until you can introduce it via conversation. This will be more engaging for the reader. 
+- Luci needs more of a reason to agree. the money is good but there needs to be an emotional element. Perhaps she wants him to agree to divorce that is not in his favour, and, maybe, agree never to see her again or some such thing. You need there to be a much stronger motivation. If it is just the money, then she needs a reason in addition. Perhaps she is in debt and this will solve her problem. 

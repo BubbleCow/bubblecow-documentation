@@ -2,7 +2,7 @@
 
 <div class="alert alert-success" role="alert">
   <p><strong><a href="https://dictionary.cambridge.org/dictionary/english/tldr" target="_blank">TL;DR</a></strong></p>
-  <p>The most common science fiction tropes in novels are:</p>
+  <p>The most common thriller tropes in novels are:</p>
     <ul>
         <li>Broken Down Vehicle</li>
         <li>Isolated Locale</li>

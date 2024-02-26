@@ -184,17 +184,59 @@
     </ul>
 
   
-<p><a href="https://bubblecow.com/blog/popular-tropes-in-thriller-novels">Read more information about tropes in thiller novels.</a></p>
+<p><a href="https://bubblecow.com/blog/novel-tropes">Read more information about tropes in thiller novels.</a></p>
 
 
 <h3>Horror</h3>
-<ul>
-    <li><strong>Haunted House</strong>: A house or location that is inhabited by or is the site of supernatural occurrences.</li>
-    <li><strong>Vampires, Werewolves, and Zombies</strong>: The use of classic monsters as main antagonists or characters.</li>
-    <li><strong>The Final Girl</strong>: The last woman alive to confront the killer, ostensibly the one left to tell the story.</li>
-    <li><strong>Body Horror</strong>: Horror deriving from unnatural transformations or disfigurements of the body.</li>
-    <li><strong>Psychological Horror</strong>: Focus on the mental, emotional, and psychological states to frighten, disturb, or unsettle.</li>
-</ul>
+
+    <div itemscope itemtype="https://schema.org/ImageObject">
+      <img 
+        alt="summoning evil - horror tropes" 
+        itemprop="contentUrl" 
+        src="https://bubblecow.com/assets/horror-tropes-compressed" 
+        class="post-media img-fluid rounded mx-auto d-block mt-1 mb-1" 
+        width="700" height="400"
+        />
+      <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+        <meta itemprop="name" content="Gary Smailes" />
+      </span>
+    </div>
+
+    <ul>
+        <li>Summoning Evil</li>
+        <li>The Abandoned Place</li>
+        <li>Open Windows and Doors</li>
+        <li>Nightmare That May Have Been Real</li>
+        <li>Death to the Fornicators</li>
+        <li>Cursed Artifact</li>
+        <li>Finding Old Footage</li>
+        <li>Splitting Up</li>
+        <li>Secretive Laboratory or Base</li>
+        <li>Inclement Nighttime Weather</li>
+        <li>Alone in a Dark House or Building</li>
+        <li>Mysterious Neighbor</li>
+        <li>No Trespassing</li>
+        <li>Seeing Things in Mirrors</li>
+        <li>Bad Guy That Won't Die</li>
+        <li>Feeling of Being Watched</li>
+        <li>Everywhere Monsters</li>
+        <li>No Communication</li>
+        <li>I'll Be Right Back</li>
+        <li>Women and Children Last</li>
+        <li>One Last Scare</li>
+        <li>The Unreliable Narrator</li>
+        <li>Forbidden Knowledge</li>
+        <li>Psychological Horror</li>
+        <li>Isolation</li>
+        <li>The Inescapable Curse</li>
+        <li>The Doppelgänger or Evil Twin</li>
+        <li>Body Horror</li>
+        <li>The Ancient Evil Awakens</li>
+        <li>The Haunted Object</li>
+        <li>The Urban Legend Come to Life</li>
+    </ul>
+
+    <p><a href="https://bubblecow.com/blog/popular-horror-tropes-in-novels">Read more information about tropes in horror novels.</a></p>
 
 <h3>General Narrative Elements</h3>
 <ul>

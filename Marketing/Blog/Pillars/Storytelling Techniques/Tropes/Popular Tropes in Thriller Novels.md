@@ -378,7 +378,6 @@ nto the innate human fear of being alone and vulnerable in the face of unknown d
 
 <p>In the end, the power of thriller novels lies in their ability to mirror our deepest anxieties, illuminate the shadows of the human psyche, and ultimately, celebrate the resilience of the human spirit. Whether adhering to classic conventions or venturing into uncharted territories of narrative structure, thriller novels continue to offer a compelling examination of the darker aspects of life and the indomitable will to overcome them.</p>
 
-
 <div class="alert alert-primary" role="alert">
   Discover more about <a href="https://bubblecow.com/blog/novel-tropes" class="alert-link">tropes in novels with this complete guide</a>.
 </div>

@@ -288,4 +288,8 @@
 <h2 id="conclusion-the-enduring-appeal-of-horror-tropes">Conclusion</h2>
 
 
+<div class="alert alert-primary" role="alert">
+  Discover more about <a href="https://bubblecow.com/blog/novel-tropes" class="alert-link">tropes in novels with this complete guide</a>.
+</div>
+
 </div>

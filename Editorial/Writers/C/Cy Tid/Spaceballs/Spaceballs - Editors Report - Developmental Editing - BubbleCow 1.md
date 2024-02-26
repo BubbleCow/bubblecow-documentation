@@ -95,4 +95,5 @@ This section contains specific feedback about elements of your book that are imm
 ## Chapter Feedback
 This section contains specific feedback about your chapters. This feedback is in addition to the Specific Feedback.  
 ### Chapter 1
-Woken from hibernation. Speaks to Paul Chippers. 
+Woken from hibernation. Speaks to Paul Chippers and asked to form a team. 
+- There are a couple of things that you need to add to this section. The first is leaving the main character with no choice but to except the job. The reader must be clear what this is. It might be something like he is being shipped off to war or a prison colony and this offer provides a way out. It might also be that it gives him a chance to fulfill a dream and return to the sport. In addition to this, it must be clear what bad thing he faces if he fails. So, for example, let's say that he is being shipped to a prison planet and is offered the job. He takes it since it is a no-brainer. However, it might be the case that if he fails to win the cup, he will be sent back. If he wins, he gets his freedom. The reader must be aware of the goal, the price of success but also the consequence of failure. 

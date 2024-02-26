@@ -91,6 +91,9 @@ First-person.
 This section contains specific feedback about elements of your book that are immediately actionable. I have strived not only to explain any problems I have encountered but also to provide at least one solution you can apply to your book. 
 
 - importance of location descrtipion in world building - start small and buuld out. 
+- Chapter 2 - this is made up of a number of sections, each with him looking for a new player. I wanted you to do something a little different. I wanted each of these sections to be a new chapter. However, you need to...
+	- Improve the world building in each chapter so the reader is getting more of a feel for the world as they read. 
+	- Make sure that there is a clear but different reason for each person to join the team. 
 ## Chapter Feedback
 This section contains specific feedback about your chapters. This feedback is in addition to the Specific Feedback.  
 ### Chapter 1
@@ -98,5 +101,6 @@ Woken from hibernation. Speaks to Paul Chippers and asked to form a team.
 - There are a couple of things that you need to add to this section. The first is leaving the main character with no choice but to except the job. The reader must be clear what this is. It might be something like he is being shipped off to war or a prison colony and this offer provides a way out. It might also be that it gives him a chance to fulfill a dream and return to the sport. In addition to this, it must be clear what bad thing he faces if he fails. So, for example, let's say that he is being shipped to a prison planet and is offered the job. He takes it since it is a no-brainer. However, it might be the case that if he fails to win the cup, he will be sent back. If he wins, he gets his freedom. The reader must be aware of the goal, the price of success but also the consequence of failure. 
 - I move the start of Chapter 2 to the end of Chapter 1.
 ### Chapter 2
-Meet Crazy Eddie. 
+Meet Crazy Eddie. Meet Luci. 
 - In this chapter, I wanted you to start with an interaction with Chippers. I wanted him to turn up at the prison and them refuse to let him see the prisoner. The main character then contacts Chippers and he works his magic. Suddenly they are very accommodating and more than happy to let him talk to Eddie. 
+- I have made more of a note about this above, but I wanted each of these sections to be a new chapter with more detailed world building. 

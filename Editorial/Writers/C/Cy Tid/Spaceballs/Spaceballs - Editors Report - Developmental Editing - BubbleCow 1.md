@@ -1,9 +1,4 @@
-> [!info] 
-> This is the developmental editor's report for ficiton.
-> Last updated: 26 Feb, 2024
-
 Editor: Gary Smailes
-
 Completed: DATE COMPLETED
 ## Understanding Your Feedback
 Before I launch into more detailed feedback, I thought I’d review how the edit has been structured.
@@ -91,11 +86,7 @@ If you're juggling a bunch of numbers within the same paragraph or series of par
 > No
 
 ### Narrative Perspective
-> [!info] 
-> Third-person Limited.
-> Third-person Omniscient.
-> First-person.
-
+First-person.
 ## Strengths and Weaknesses
 This section contains specific feedback about elements of your book that are immediately actionable. I have strived not only to explain any problems I have encountered but also to provide at least one solution you can apply to your book. 
 
@@ -104,5 +95,4 @@ This section contains specific feedback about elements of your book that are imm
 ## Chapter Feedback
 This section contains specific feedback about your chapters. This feedback is in addition to the Specific Feedback.  
 ### Chapter 1
-> [!info] 
-> TEXT HERE
+Woken from hibernation. Speaks to Paul Chippers. 

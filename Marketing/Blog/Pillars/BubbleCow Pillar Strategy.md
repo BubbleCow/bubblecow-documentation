@@ -55,7 +55,7 @@ The goal of the blog is to help writers to become better writers.
 		- How Does Book Editing Work? - needs updating
 		- Post: What are the 5 steps of the editing process?
 	-  Sub-pillar: Book Editors
-		- Post: Hiring A Freelance Book Editor - written
+		- Post: [[Hiring A Freelance Book Editor]]
 		- Post: What Does A Book Editor Really Do? - written
 		- Post: Editing Services: A Comprehensive Guide To Finding The Right Editor For Your Book - written
 	- Sub-pillar: mentoring
@@ -139,7 +139,6 @@ The goal of the blog is to help writers to become better writers.
 		- Post: [[Popular tropes in Science Fiction Novels]]
 		- Post: [[Popular Tropes in Thriller Novels]]
 		- Post: [[Popular Tropes in Horror Novels]]
-		- Post: Popular Tropes in General Narrative Elements
 	- Sub-pillar: Hero's Journey
 		- Post: [[Mastering The Hero's Journey]]
 		- Post: Using the hero's journey to write a novel
@@ -272,6 +271,7 @@ The goal of the blog is to help writers to become better writers.
 		- Post: Novel Word Count: Everything You Need To Know - written
 	- Sub-pillar: Book Genres
 		- Post: [[Which Book Genre Is The Most Popular]]?
+		- ADD POSTS ON ALL THE GENERS, THIS IS A FULL THING
 		
 
 - Pillar: Writing Mindset

@@ -238,16 +238,6 @@
 
     <p><a href="https://bubblecow.com/blog/popular-horror-tropes-in-novels">Read more information about tropes in horror novels.</a></p>
 
-<h3>General Narrative Elements</h3>
-<ul>
-    <li><strong>The Mentor</strong>: An experienced advisor and teacher to the protagonist.</li>
-    <li><strong>The Quest</strong>: A journey toward a specific mission or goal, often involving a group of characters.</li>
-    <li><strong>Fish Out of Water</strong>: A character is taken out of their normal environment and must adapt to a new one.</li>
-    <li><strong>Coming of Age</strong>: A young protagonist grows up and loses their innocence.</li>
-    <li><strong>Rags to Riches</strong>: The classic tale of a protagonist rising from poverty to wealth and status.</li>
-</ul>
-
-
 <h2 id="character-tropes">Character Tropes: Creating Unforgettable Personalities</h2>
 <p>Characters are the heart and soul of any story, and their development is crucial to creating an engaging and memorable narrative. Character tropes are patterns, traits, or archetypes that define a character's personality, role, or journey within a story. In this section, we will explore some popular character tropes and provide examples from well-known novels. We'll also discuss how to use these tropes effectively and avoid turning your characters into clichés.</p>
 <h3 id="protagonist-archetypes">Protagonist Archetypes</h3>

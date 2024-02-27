@@ -11,6 +11,7 @@
       <li><a href="#novel-structure">Novel Structure</a></li>
       <li><a href="#point-of-view">Point of View</a></li>
       <li><a href="#writing-dialogue">Writing Dialogue In Fiction</a></li>
+      <li><a href="#tropes">Tropes in Novels</a></li>
     </ul>
   </div>
 </div>
@@ -95,6 +96,44 @@ In conclusion, the structure of a novel is a flexible tool, not a rigid framewor
 
 <div class="alert alert-primary" role="alert">
     Discover more about <a href="https://bubblecow.com/blog/guide-to-point-of-view">narrative point of view in this detailed article</a>.
+</div>
+
+<h2 id="tropes">Tropes in Novels</h2>
+
+    <div itemscope itemtype="https://schema.org/ImageObject">
+      <img 
+        alt="lots of book tropes coming out of a novel" 
+        itemprop="contentUrl" 
+        src="https://bubblecow.com/assets/book-tropes-compressed" 
+        class="post-media img-fluid rounded mx-auto d-block mt-1 mb-1" 
+        width="700" height="400"
+        />
+      <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+        <meta itemprop="name" content="Gary Smailes" />
+      </span>
+    </div>
+
+<p>Tropes, the recurring themes or elements that define genres, serve as the backbone of storytelling, guiding readers through familiar pathways with refreshing twists. They offer a glimpse into the heart of each genre, showcasing the unique flavor and expectations that come with it. Here's a dive into the world of tropes across various novel genres, highlighting how they shape narratives and captivate readers.</p>
+
+<h3>Romance Novels: The Dance of Desire</h3>
+<p>In the realm of romance, tropes such as `<i>"enemies to lovers"</i>` and `<i>"fake relationships"</i>` are staples. These patterns promise a journey of emotional transformation, where characters navigate the complexities of love, often moving from conflict to a heartfelt connection. The allure lies in the tension and eventual resolution, offering readers a satisfying blend of drama and romance.</p>
+
+<h3>Fantasy Novels: Beyond the Mortal Realm</h3>
+<p>Fantasy novels thrive on tropes like `<i>"the chosen one"</i>` and `<i>"a world in peril."</i>` These elements create a canvas for epic quests and moral battles, immersing readers in worlds where magic and myth breathe life into the narrative. The appeal of fantasy tropes lies in their ability to transport readers to realms of boundless imagination, where the impossible becomes possible.</p>
+
+<h3>Science Fiction Novels: Visions of Tomorrow</h3>  
+<p>Science fiction introduces tropes such as `<i>"time travel"</i>` and `<i>"alien invasions,"</i>` which explore the consequences of human innovation and the unknown cosmos. These themes serve as a mirror to our world, offering insights into our future and our place in the universe. Sci-fi tropes captivate with their blend of scientific curiosity and speculative storytelling.</p>
+
+<h3>Thriller Novels: The Edge of Suspense</h3>
+<p>Thriller novels utilize tropes like `<i>"the unreliable narrator"</i>` and `<i>"a race against time,"</i>` keeping readers on the edge of their seats. These elements weave complex plots of mystery and danger, where every twist brings readers closer to the heart-pounding conclusion. The draw of thriller tropes lies in their ability to engross with intrigue and adrenaline-fueled plots.</p>
+
+<h3>Horror Novels: A Dance with Fear</h3>
+<p>Horror novels are known for tropes such as `<i>"haunted houses"</i>` and `<i>"the final girl,"</i>` which tap into primal fears and the thrill of survival. These themes explore the darker side of humanity and the supernatural, creating an atmosphere of suspense and terror. The charm of horror tropes is in their power to evoke fear, keeping readers hooked with the promise of a chilling tale.</p>
+
+<p>Tropes in novels not only define the genre but also connect readers to the narrative, providing familiar paths with unexpected detours. Whether it's the warmth of a romance, the majesty of a fantasy realm, the intrigue of a sci-fi mystery, the thrill of a suspenseful chase, or the chill of a horror story, tropes guide the journey, making each genre a unique exploration of storytelling.</p>
+
+<div class="alert alert-primary" role="alert">
+    Discover more about <a href="https://bubblecow.com/blog/novel-tropes">tropes in novels in this detailed article</a>.
 </div>
 
 </div>

@@ -4,21 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "0d84eb7e30da8e80",
+        "id": "7ccb8953c0bdd168",
         "type": "tabs",
         "children": [
           {
-            "id": "69fbbc877438cde5",
+            "id": "4d64aae2f4466d20",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Editorial/Writers/C/Cy Tid/Spaceballs/Spaceballs - Editors Report - Developmental Editing - BubbleCow 1.md",
+                "file": "Marketing/Blog/Pillars/BubbleCow Pillar Strategy.md",
                 "mode": "source",
                 "source": false
-              },
-              "pinned": true
+              }
             }
           }
         ]
@@ -87,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Editorial/Writers/C/Cy Tid/Spaceballs/Spaceballs - Editors Report - Developmental Editing - BubbleCow 1.md",
+                "file": "Marketing/Blog/Pillars/BubbleCow Pillar Strategy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Editorial/Writers/C/Cy Tid/Spaceballs/Spaceballs - Editors Report - Developmental Editing - BubbleCow 1.md",
+                "file": "Marketing/Blog/Pillars/BubbleCow Pillar Strategy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Editorial/Writers/C/Cy Tid/Spaceballs/Spaceballs - Editors Report - Developmental Editing - BubbleCow 1.md"
+                "file": "Marketing/Blog/Pillars/BubbleCow Pillar Strategy.md"
               }
             }
           }
@@ -148,13 +146,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "69fbbc877438cde5",
+  "active": "4d64aae2f4466d20",
   "lastOpenFiles": [
+    "What Does A Book Editor Really Do.md",
+    "Marketing/Blog/Pillars/Book Editing/Book Editors/What Does A Book Editor Really Do.md",
     "Marketing/Blog/Pillars/BubbleCow Pillar Strategy.md",
+    "Marketing/Blog/Blog Post Formatting.md",
+    "Editorial/Writers/C/Cy Tid/Spaceballs/Spaceballs - Editors Report - Developmental Editing - BubbleCow 1.md",
     "A Guide To Book Editors.md",
     "Marketing/Blog/Pillars/Book Editing/Book Editors",
     "Marketing/Blog/Pillars/Book Editing/Book Editors/Hiring A Freelance Book Editor.md",
-    "Editorial/Writers/C/Cy Tid/Spaceballs/Spaceballs - Editors Report - Developmental Editing - BubbleCow 1.md",
     "Editorial/Reports/Developmental Editing/Fiction/Edit/FICTION - Editors Report - Developmental Editing - BubbleCow.md",
     "Editorial/Reports/Developmental Editing/Non-fiction/NON-FICTION - Editors Report - Developmental Editing - BubbleCow.md",
     "Editorial/Reports/Developmental Editing/Fiction/Sample/FICTION - Editors Report - Sample - Developmental Editing - Upworks.md",
@@ -169,7 +170,6 @@
     "Editorial/Writers/C/Cy Tid",
     "Popular Tropes in Horror Novels.md",
     "Marketing/Blog/Pillars/Storytelling Techniques/Tropes/Popular Tropes in Horror Novels.md",
-    "Marketing/Blog/Blog Post Formatting.md",
     "Editorial/Writers/T/Tony Farias/No I am Not a Rat/Third Edit/Character Sheet - Tony Sicily.md",
     "Editorial/Writers/T/Tony Farias/No I am Not a Rat/Third Edit/New Plot Ideas.md",
     "README.md",
@@ -183,8 +183,6 @@
     "Editorial/Writers/T/Tony Farias/No I am Not a Rat/Second edit/26.md",
     "Editorial/Writers/T/Tony Farias/No I am Not a Rat/Second edit/25.md",
     "Editorial/Writers/T/Tony Farias/No I am Not a Rat/Second edit/24.md",
-    "Editorial/Writers/T/Tony Farias/No I am Not a Rat/Second edit/23.md",
-    "Editorial/Writers/T/Tony Farias/No I am Not a Rat/Second edit/22.md",
     "Editorial/Writers/S/Sam Hall/Abyssal Thrum/Chunk 3/Feedback - Abyssal Thrum  - Chunk 3.pdf",
     "Editorial/Writers/P/Pawel Guziejko/Coaching Book/De.canvas",
     "Admin/Images/Pasted image 20240204133232.png",

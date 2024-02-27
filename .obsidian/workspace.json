@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "c5ba2c307c0a1df8",
+        "id": "0d84eb7e30da8e80",
         "type": "tabs",
         "children": [
           {
-            "id": "fb1eede0966d45b9",
+            "id": "69fbbc877438cde5",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Marketing/Blog/Pillars/BubbleCow Pillar Strategy.md",
+                "file": "Editorial/Writers/C/Cy Tid/Spaceballs/Spaceballs - Editors Report - Developmental Editing - BubbleCow 1.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "pinned": true
             }
           }
         ]
@@ -85,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Marketing/Blog/Pillars/BubbleCow Pillar Strategy.md",
+                "file": "Editorial/Writers/C/Cy Tid/Spaceballs/Spaceballs - Editors Report - Developmental Editing - BubbleCow 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Marketing/Blog/Pillars/BubbleCow Pillar Strategy.md",
+                "file": "Editorial/Writers/C/Cy Tid/Spaceballs/Spaceballs - Editors Report - Developmental Editing - BubbleCow 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Marketing/Blog/Pillars/BubbleCow Pillar Strategy.md"
+                "file": "Editorial/Writers/C/Cy Tid/Spaceballs/Spaceballs - Editors Report - Developmental Editing - BubbleCow 1.md"
               }
             }
           }
@@ -146,11 +148,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "341fb5c098c93da7",
+  "active": "69fbbc877438cde5",
   "lastOpenFiles": [
+    "Marketing/Blog/Pillars/BubbleCow Pillar Strategy.md",
+    "A Guide To Book Editors.md",
     "Marketing/Blog/Pillars/Book Editing/Book Editors",
     "Marketing/Blog/Pillars/Book Editing/Book Editors/Hiring A Freelance Book Editor.md",
-    "Marketing/Blog/Pillars/BubbleCow Pillar Strategy.md",
     "Editorial/Writers/C/Cy Tid/Spaceballs/Spaceballs - Editors Report - Developmental Editing - BubbleCow 1.md",
     "Editorial/Reports/Developmental Editing/Fiction/Edit/FICTION - Editors Report - Developmental Editing - BubbleCow.md",
     "Editorial/Reports/Developmental Editing/Non-fiction/NON-FICTION - Editors Report - Developmental Editing - BubbleCow.md",
@@ -183,7 +186,6 @@
     "Editorial/Writers/T/Tony Farias/No I am Not a Rat/Second edit/23.md",
     "Editorial/Writers/T/Tony Farias/No I am Not a Rat/Second edit/22.md",
     "Editorial/Writers/S/Sam Hall/Abyssal Thrum/Chunk 3/Feedback - Abyssal Thrum  - Chunk 3.pdf",
-    "Editorial/Writers/C/Cristina Fiore/Midnight's Slumber/Book Proposal/Query Letter.docx",
     "Editorial/Writers/P/Pawel Guziejko/Coaching Book/De.canvas",
     "Admin/Images/Pasted image 20240204133232.png",
     "Editorial/Writers/R/Robyn Atkinson/Canche Gringa/Developmental Editing/Untitled.canvas"

@@ -54,7 +54,7 @@ The goal of the blog is to help writers to become better writers.
 		- Novel Editing Tips - needs updating
 		- How Does Book Editing Work? - needs updating
 		- Post: What are the 5 steps of the editing process?
-	-  Sub-pillar: Book Editors
+	-  Sub-pillar: [[A Guide To Book Editors]]
 		- Post: [[Hiring A Freelance Book Editor]]
 		- Post: What Does A Book Editor Really Do? - written
 		- Post: Editing Services: A Comprehensive Guide To Finding The Right Editor For Your Book - written

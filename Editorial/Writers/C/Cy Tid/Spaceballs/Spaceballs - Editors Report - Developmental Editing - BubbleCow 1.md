@@ -114,5 +114,5 @@ Finds Kissy Kissy.
 - I moved the end of this chapter to the start of the next.
 
 ### Chapter 4
-Gets shot. 
-- In t
+Gets shot. Hospital. Bucky getting married. Mall. 
+- In this chapter, I would try to avoid the jump forward in time. Instead, I would have him pass out after being shot and then wake up after treatment. You can add world building for the hospital and then have him meet Bucky. 

@@ -108,5 +108,5 @@ Meet Crazy Eddie. Meet Luci.
 - I would remove the backstory about the marriage and, instead, keep it hidden from the reader until you can introduce it via conversation. This will be more engaging for the reader. 
 - Luci needs more of a reason to agree. the money is good but there needs to be an emotional element. Perhaps she wants him to agree to divorce that is not in his favour, and, maybe, agree never to see her again or some such thing. You need there to be a much stronger motivation. If it is just the money, then she needs a reason in addition. Perhaps she is in debt and this will solve her problem. 
 ### Chapter 3
-Meet 
+Finds Kissy Kissy.
 - In this ch

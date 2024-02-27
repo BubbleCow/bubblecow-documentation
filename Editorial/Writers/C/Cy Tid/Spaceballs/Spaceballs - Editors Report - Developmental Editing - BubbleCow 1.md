@@ -112,3 +112,7 @@ Finds Kissy Kissy.
 - In this chapter you start at the gate and then add in details on how the main character got there. I think it would be better to just start with him talking to Chippers, securing the pass and then arranging the travel. I think this approach would have been far more effective. It would have allowed world building and let you control the pace more effectively. 
 - I was not sure why Kissy agreed to join the team. I wanted the scene to work a little differently. I wanted the main character to work out what was motivating Kissy and then offer that in return for her to join. It might have simply been money. This might have been Kissy's motivation; perhaps it is just another business transaction for her. 
 - I moved the end of this chapter to the start of the next.
+
+### Chapter 4
+Gets shot. 
+- In t

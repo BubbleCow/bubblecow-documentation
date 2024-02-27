@@ -109,4 +109,6 @@ Meet Crazy Eddie. Meet Luci.
 - Luci needs more of a reason to agree. the money is good but there needs to be an emotional element. Perhaps she wants him to agree to divorce that is not in his favour, and, maybe, agree never to see her again or some such thing. You need there to be a much stronger motivation. If it is just the money, then she needs a reason in addition. Perhaps she is in debt and this will solve her problem. 
 ### Chapter 3
 Finds Kissy Kissy.
-- In this ch
+- In this chapter you start at the gate and then add in details on how the main character got there. I think it would be better to just start with him talking to Chippers, securing the pass and then arranging the travel. I think this approach would have been far more effective. It would have allowed world building and let you control the pace more effectively. 
+- I was not sure why Kissy agreed to join the team. I wanted the scene to work a little differently. I wanted the main character to work out what was motivating Kissy and then offer that in return for her to join. It might have simply been money. This might have been Kissy's motivation; perhaps it is just another business transaction for her. 
+- I moved the end of this chapter to the start of the next.

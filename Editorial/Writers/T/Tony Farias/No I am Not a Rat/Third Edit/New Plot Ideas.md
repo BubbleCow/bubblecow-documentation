@@ -9,3 +9,7 @@
 - Incorporate significant tragedy, such as the murder of Tony's mother in Sicily and his father's subsequent imprisonment and death in a Cuban jail, to evoke empathy and add dramatic tension.
 - Replace any mention of "CIA" with a more descriptive term like "confidential informant" for clarity and to enhance the story's realism.
 - Emphasize Tony's flirtatious nature and prowess as a lover, adhering to the adage "sex sells," to attract a broader audience and add a layer of intrigue to his character.
+- Need a character that Tony Sicily can confided in and pass the backstory.
+- TS wants to get back to Sicily to revenge the death of his mother. 
+- How can incorporate the article?
+- Add all fiction at the start.

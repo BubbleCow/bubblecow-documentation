@@ -15,6 +15,15 @@ I am, therefore, predicting several outcomes.
 - **Less services** - Increase in the quality of AI editorial services, together with a reduction in traffic to the website, will mean a huge drop in business for developmental editing and copy editing. 
 - **Significant changes to industry** - We will see a huge change in the landscape for editorial services. It is hard to see how Reedsy will survive; though their marketplace model remains valid a drop in writers will kill them. We will also see a reduction in editorial business that relay on editorial services. I also feel that freelancers will drop away. It is difficult to predict but I think it will leave a small number of freelances and one or two big businesses. 
 
+ai cumminty
+
+
+dont be scares of ai, find out why?
+- not taking away your dream
+- bo point in tryibng
+- art being taken away from you
+- making you redudnant
+
 better books, more sales, more wroetres
 
 ## Product and Services

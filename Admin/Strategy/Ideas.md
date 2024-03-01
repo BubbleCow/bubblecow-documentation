@@ -15,6 +15,11 @@ I am, therefore, predicting several outcomes.
 - **Less services** - Increase in the quality of AI editorial services, together with a reduction in traffic to the website, will mean a huge drop in business for developmental editing and copy editing. 
 - **Significant changes to industry** - We will see a huge change in the landscape for editorial services. It is hard to see how Reedsy will survive; though their marketplace model remains valid a drop in writers will kill them. We will also see a reduction in editorial business that relay on editorial services. I also feel that freelancers will drop away. It is difficult to predict but I think it will leave a small number of freelances and one or two big businesses. 
 
+This means that though the need for editorial services will reduce the writing community will flourish. I feel that BubbleCow needs to pivot away from editorial services and towards elements that AI can't provide. 
+
+- **Selling maps** - The only people getting rich in the Gold Rush were people selling shovels. We have been selling one type of shovel but technology have made this redundant, its time to switch and sell maps. Going forward, BubbleCow will show people how to be a successful writers.  
+- **Lean into what AI can't do** - It seems that AI will replace a lot of traditional services and products. However, i
+
 ai cumminty
 
 

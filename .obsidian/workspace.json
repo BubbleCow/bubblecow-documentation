@@ -46,7 +46,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Marketing/Blog/Blog Post Formatting.md",
+                "file": "Admin/Strategy/Blog Post Pillar System.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Marketing/Blog/Blog Post Formatting.md",
+                "file": "Admin/Strategy/Blog Post Pillar System.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Marketing/Blog/Blog Post Formatting.md"
+                "file": "Admin/Strategy/Blog Post Pillar System.md"
               }
             }
           }
@@ -173,13 +173,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "43e0177143156351",
+  "active": "ee61eab2d3b136d0",
   "lastOpenFiles": [
+    "Admin/Strategy/AI Search Optimization.md",
+    "Admin/Strategy/Blog Post Pillar System.md",
+    "Marketing/Blog/Blog Post Formatting.md",
     "Marketing/Blog/Pillars/BubbleCow Pillar Strategy.md",
     "Marketing/Blog/Search Quality Evaluator Guidelines.md",
-    "Marketing/Blog/Blog Post Formatting.md",
-    "Admin/Strategy/Blog Post Pillar System.md",
-    "Admin/Strategy/AI Search Optimization.md",
     "Admin/Strategy/Ideas.md",
     "Pasted image 20240301090501.png",
     "Editorial/Writers/T/Tony Farias/No I am Not a Rat/Second edit/000.md",

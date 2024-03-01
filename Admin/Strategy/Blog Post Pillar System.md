@@ -1,4 +1,5 @@
-
+> [!info] 
+>  This is outline for blog pillar system.
 
 Exact Match Blog
 

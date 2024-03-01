@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Admin/Strategy/Blog Post Pillar System.md",
+                "file": "Marketing/Blog/Blog Post Formatting.md",
                 "mode": "source",
                 "source": false
               }
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Admin/Strategy/Blog Post Pillar System.md",
+                "file": "Marketing/Blog/Blog Post Formatting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Admin/Strategy/Blog Post Pillar System.md",
+                "file": "Marketing/Blog/Blog Post Formatting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Admin/Strategy/Blog Post Pillar System.md"
+                "file": "Marketing/Blog/Blog Post Formatting.md"
               }
             }
           }
@@ -175,8 +175,11 @@
   },
   "active": "43e0177143156351",
   "lastOpenFiles": [
-    "Admin/Strategy/AI Search Optimization.md",
+    "Marketing/Blog/Pillars/BubbleCow Pillar Strategy.md",
+    "Marketing/Blog/Search Quality Evaluator Guidelines.md",
+    "Marketing/Blog/Blog Post Formatting.md",
     "Admin/Strategy/Blog Post Pillar System.md",
+    "Admin/Strategy/AI Search Optimization.md",
     "Admin/Strategy/Ideas.md",
     "Pasted image 20240301090501.png",
     "Editorial/Writers/T/Tony Farias/No I am Not a Rat/Second edit/000.md",
@@ -188,11 +191,9 @@
     "Editorial/Writers/T/Tony Farias/No I am Not a Rat/Second edit/01.md",
     "Editorial/Writers/T/Tony Farias/No I am Not a Rat/Second edit/06.md",
     "Marketing/Blog/Pillars/Book Editing/Book Editors/A Guide To Book Editors.md",
-    "Marketing/Blog/Pillars/BubbleCow Pillar Strategy.md",
     "Marketing/Blog/Pillars/Book Editing/Cost of book editing/How much do book editors usually cost.md",
     "What Does A Book Editor Really Do.md",
     "Marketing/Blog/Pillars/Book Editing/Book Editors/What Does A Book Editor Really Do.md",
-    "Marketing/Blog/Blog Post Formatting.md",
     "Editorial/Writers/C/Cy Tid/Spaceballs/Spaceballs - Editors Report - Developmental Editing - BubbleCow 1.md",
     "Marketing/Blog/Pillars/Book Editing/Book Editors",
     "Marketing/Blog/Pillars/Book Editing/Book Editors/Hiring A Freelance Book Editor.md",
@@ -209,7 +210,6 @@
     "Editorial/Writers/C/Cy Tid/Spaceballs",
     "Editorial/Writers/C/Cy Tid",
     "Popular Tropes in Horror Novels.md",
-    "Marketing/Blog/Pillars/Storytelling Techniques/Tropes/Popular Tropes in Horror Novels.md",
     "Editorial/Writers/T/Tony Farias/No I am Not a Rat/Third Edit",
     "Editorial/Writers/T/Tony Farias/No I am Not a Rat/Second edit/no-i-am-not-a-rat-v-2.docx",
     "Editorial/Writers/P/Pawel Guziejko/Coaching Book/De.canvas",

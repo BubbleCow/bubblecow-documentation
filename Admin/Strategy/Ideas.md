@@ -18,7 +18,7 @@ I am, therefore, predicting several outcomes.
 This means that though the need for editorial services will reduce the writing community will flourish. I feel that BubbleCow needs to pivot away from editorial services and towards elements that AI can't provide. 
 
 - **Selling maps** - The only people getting rich in the Gold Rush were people selling shovels. We have been selling one type of shovel but technology have made this redundant, its time to switch and sell maps. Going forward, BubbleCow will show people how to be a successful writers.  
-- **Lean into what AI can't do** - It seems that AI will replace a lot of traditional services and products. However, i
+- **Lean into what AI can't do** - It seems that AI will replace a lot of traditional services and products. However, it will not be able to provide a **community** or **complicated and curated guidence**. It is these two things that we need to pivot to provide. 
 
 ai cumminty
 

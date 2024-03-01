@@ -32,9 +32,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "43e0177143156351",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Admin/Strategy/Blog Post Pillar System.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -161,7 +173,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ee61eab2d3b136d0",
+  "active": "43e0177143156351",
   "lastOpenFiles": [
     "Admin/Strategy/AI Search Optimization.md",
     "Admin/Strategy/Blog Post Pillar System.md",

@@ -7,24 +7,34 @@ The pillar system approach looks to create content that is optimized for next ge
 
 The aim is to create a 'web' of content on any given topic that can catch a user with a very specific query and position them in a place where they can quickly access a mass of relevant information. 
 
-The traditional way of thinking about SEO is to create single pages that rank well for the most popular key phrase. This used to work but as Google has become more sophisticated it understands that a users journey is complex and branching, not linear. This means that the aim is to offer Google with the web of content it knows a user si likely to want to access in their journey. When they see this behavior, they rank all of the posts higher.
+The traditional way of thinking about SEO is to create single pages that rank well for the most popular key phrase. This used to work but as Google has become more sophisticated it understands that a users journey is complex and branching, not linear. Google's focus has switched to 'promoting' sites that offer a more comprehensive user experience. Google is no longer looking for single pages SEO optimized pages, but a network of content that provides a better experience for the user.
 
-This means that you have to shake the idea that you are creating content to sell and, instead, provide the indepth and broad content that Google expects to see. This might mean talking about a competitor.
+This means that you have to shake the idea that you are creating content aimed at intercepting a user journey and 'converting' them on a single interaction. Instead, the mindset needs to switch to giving in-depth, topic relevant and broad content. This means that not only will Google expect a site to cover all key phrases, whether they individually rank or not, but also use focuses consent, resulting in situation where you might even talk about a competitor to offer the best user solution.
 
-The approach has the added advantage that ranking for the number one, most competitive key phrases is not longer important and can be ignored. Instead, effort is spent in creating content that is niche and specific. This not only helps users to have a better experience but also gives Google the type of user behavior it is seeking.  
+This requires a new way of thinking.
+
+The approach has the added advantage that ranking for the number one, most competitive key phrases is no longer important and can, in fact, be ignored. 
+
+Instead, effort is spent in creating content that though niche and specific is directly relevant to the user's needs. This not only helps users to have a better experience but also gives Google the type of user behavior it is seeking.  
+
+What this looks like in practice is a web of related content cluster around a central pillar or hub. 
 
 ![[Pasted image 20231127104435.png]]
 
+These pillars or hubs are further connected to higher level pillar posts. 
+
+This creates a pillar > sub-pillar > post set up. 
+
 The approach is to create top level general pillar posts, this is followed by more specific sub-pillar and finally niche blog posts. 
 
-Since this map is giving Google what it needs, the need for back links can be ignored. It may be advantageous to have a small amount of paid search but this is simply to 'flag', the system to Google and should only be used once a network is set up. 
+Since this pillar system is giving Google what it needs, the need for back links to in posts can be ignored. It may be advantageous to have a small amount of paid search but this is simply to 'flag', the system to Google and should only be used once a network is set up. 
 
 ### Setting up the Network
 The following steps can be used to set up a network.
 
 1. Identify the mission critical keyword or phrase that matches the business. e.g. Book Editing or Content Marketing. 
 2. Identify the key phrases that represent the important topics. 
-3. Create a 16 piece pillar startegy
+3. Create a 16 piece pillar strategy
 
 ### 16 Piece Pillar Strategy
 

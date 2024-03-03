@@ -3,7 +3,7 @@
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/K5uCH8Sr3L0?si=GlP4ycfXWhLr7OuV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-The approach looks to create content that is optimized for next generation search engines (including the impact of AI). It looks to create content that no only optimizes the user experience but also produces material  that is evergreen and ranks well by design. This means that content is created from a 'search engine first' viewpoint. 
+The pillar system approach looks to create content that is optimized for next generation search engines (including the potential impact of AI). It looks to create content that no only optimizes the user experience but also produces material that is evergreen and ranks well by design. This means that content is created from a 'search engine first' viewpoint. It is designed and presented in a way that outlined and 'rewarded' by Google.
 
 The aim is to create a 'web' of content on any given topic that can catch a user with a very specific query and position them in a place where they can quickly access a mass of relevant information. 
 

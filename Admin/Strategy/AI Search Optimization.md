@@ -2,7 +2,7 @@
 >  This is research for how to implement Google's use of AI into search results.
 >  This is best read in conjunction with [[Blog Post Pillar System]].
 
-This is early data (March 2024) prior to roll out but Seems like it will be focused on searches for questions such 'how to' etc,. Also for some product related searches, such as 'best watch for runners'. It also appears to factor in the local element to this search, so 'best bars in Liverpool'. 
+This is early data (March 2024) prior to roll out but seems like it will be focused on searches for questions such 'how to' etc,. Also for some product related searches, such as 'best watch for runners'. It also appears to factor in the local element to this search, so 'best bars in Liverpool'. 
 
 The generated result has a big block of AI generated text on the left (Gemini) with the option to chat. 
 

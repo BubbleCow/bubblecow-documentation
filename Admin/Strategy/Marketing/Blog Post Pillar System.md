@@ -90,10 +90,29 @@ Content should always be added in waves.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/trISrXJZn6I?si=4dKlNmG0XGNkdJ9F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 > [!warning]
-> There is no question that this system works, but 
+> There is no question that this system works, but we have experimented and have developed a number of improvements and objections:
+> - The blog post should focus on **one exact match phrase**. This will mean you are producing more that sixteen pieces of content. 
+> - The wave approach to publishing is less critical than DemandJump suggest. Our experience that the order of publication is not having enough impact on ranking speed to be a significant factor. 
 
+### The Exact Match Pillar Strategy
+We have developed a more sophisticated approach to the pillar system using our own research and experimentation. 
 
+The fundamentals of the approach remain the same:
 
+1. Identify the mission critical keywords or phrases that matches the business. e.g. Book Editing or Content Marketing. These are **pillars**.
+2. Identify a range of key phrases within the pillars, these are **sub-pillars**.
+3. Create **blog** content for key phrases with the sub-pillars.
+
+However, the execution at each level differs. It is important to pay close attention to each type of content and the elements that are required.
+#### Overall Blog Structure
+One of the fundamental elements of this system working is the application of **update date SEO strategy**. The blog and content must, at all times, meet Google expectations of high ranking content. The best place to start is with Google's [Search Engine Optimization (SEO) Starter Guide](https://developers.google.com/search/docs/fundamentals/seo-starter-guide). 
+
+However, assuming these guidelines are being followed the following factors are essentail:
+
+> [!info]
+> - Ensure that the blog has a **clear, two level hierarchical category system**, which matches the pillar and sub-pillar system. e.g. Book Editing > Developmental Editing. 
+> - Ensure that blog and all posts have a clear breadcrumb system with the correct [Structured data for breadcrumbs](https://developers.google.com/search/docs/appearance/structured-data/breadcrumb)
+> - Clear URL structure is essential, if possible enhancing the category and breadcrumb. e.g. site.com/blog/category/post 
 
 
 

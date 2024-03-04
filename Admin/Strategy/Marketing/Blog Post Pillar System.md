@@ -114,11 +114,19 @@ However, assuming these guidelines are being followed the following factors are 
 > - Ensure that blog and all posts have a clear breadcrumb system with the correct [Structured data for breadcrumbs](https://developers.google.com/search/docs/appearance/structured-data/breadcrumb)
 > - Clear URL structure is essential, if possible enhancing the category and breadcrumb. e.g. site.com/blog/category/post 
 
+#### Pillars
+It is important to understand that the number and content of the pillars is not set in stone. It is easy to fall into the trap of thinking that you need the exact number of pillars with the correct phrase. That is not the case. You will find that you have more flexibility than you realize. 
 
+##### Deciding on Pillar Phrase
+When picking pillars here are some rules:
 
+- Google assigns a category to your website, this might be broad, such as educational or travel, but might also me more specific such as gardening. The pillars you pick should make sense in relation to your site's identity. There will be some tangential pillars but these need to be used carefully. The goal is always to provide content your users will need. 
+- It is essential that you have pillars for all key aspects of a site's identity. So with BubbleCow, it makes sense to have a pillar for each of our services - developmental editing, copy editing and manuscript assessment. 
+- Your pillars should make logical sense and be a broad as possible. 
+- Your pillars are not set in stone, they will change as the market alters over time. 
 
-
-
+##### Pillars Format
+The pillar post should be presented as the 'essential' or 'ultimate' guide to the topic chosen. For example 'the ess'
 
 
 

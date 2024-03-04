@@ -13,9 +13,22 @@ This approach will be focused on creating **SEO optimized, search specific conte
 
 The traditional way of thinking about SEO is to create single pages that rank well for the most popular key phrases. This is a hangover from Google early technology that was based on individual page experience for users, and Google's reliance on blunt metrics such as back links and bounce rate. This used to work but as Google has become more sophisticated it understands that a users journey is complex and branching, not linear. 
 
-Google's focus has switched to 'promoting' **pages** that tick enough SEO boxes to **sites** that offer a more comprehensive user experience. Google is no longer looking for single pages SEO optimized pages, but a network of content that provides a better experience for the user.
+Google has long emphasized the importance of user experience (UX) in its ranking algorithms, and this focus has become even more pronounced from 2020 onwards. 
 
-This means that you have to shake the idea that you are creating content aimed at intercepting a user journey and 'converting' them on a single interaction. Instead, the mindset needs to switch to giving in-depth, topic relevant and broad content. This means that not only will Google expect a site to cover all key phrases, whether they individually rank or not, but also use focuses consent, resulting in situation where you might even talk about a competitor to offer the best user solution.
+1. **Introduction of Core Web Vitals**: In May 2020, Google introduced Core Web Vitals, a set of specific factors that Google considers important in a webpage's overall user experience. Core Web Vitals focus on three main aspects:
+   - **Largest Contentful Paint (LCP)**: Measures loading performance. To provide a good user experience, LCP should occur within 2.5 seconds of when a page first starts loading.
+   - **First Input Delay (FID)**: Measures interactivity. Pages should have an FID of 100 milliseconds or less.
+   - **Cumulative Layout Shift (CLS)**: Measures visual stability. Pages should maintain a CLS of 0.1. or less.
+2. **Page Experience Signal**: In 2021, Google started incorporating Core Web Vitals into its ranking criteria as part of the Page Experience Signal. This signal combines Core Web Vitals with other user experience factors such as mobile-friendliness, safe-browsing, HTTPS-security, and intrusive interstitial guidelines. Websites offering a better page experience are given preference in search results.
+3. **Mobile-First Indexing**: Google has been prioritizing mobile-first indexing, meaning it predominantly uses the mobile version of the content for indexing and ranking. Since the majority of users now access the internet via mobile devices, this approach emphasizes the importance of mobile user experience in SEO strategies.
+4. **Emphasis on Content Usability and Accessibility**: Google's algorithm updates have increasingly rewarded content that is not only high-quality and relevant but also accessible and usable across all devices and platforms. This includes readable font sizes, easy navigation, and compatibility with assistive technologies.
+5. **User Engagement Metrics**: While Google does not explicitly confirm the use of specific user engagement metrics in ranking, it's widely understood that factors such as click-through rate (CTR), bounce rate, and dwell time can impact SEO. These metrics reflect user satisfaction with the search results and the quality of the user experience on a webpage.
+6. **Updates to Combat Intrusive Interstitials**: Google has penalized websites that use intrusive interstitials—pop-ups that block the main content of a page—since these negatively impact the user experience, especially on mobile devices.
+7. **Guidance and Resources for Webmasters and SEO Professionals**: Google provides extensive documentation, tools (like Google Search Console and PageSpeed Insights), and guidelines to help webmasters and SEO professionals improve their sites' user experience.
+
+Google's focus has switched to 'promoting' **pages** that tick enough SEO boxes to **sites** that offer a more comprehensive user experience. This means that Google is no longer looking for single pages SEO optimized pages, but a network of content that provides a better experience for the user.
+
+We must shake the idea that you are creating content aimed at hijacking a user journey and 'converting' them on a single interaction. Instead, the mindset needs to switch to giving in-depth, topic relevant and broad content. This means that not only will Google expect a site to cover all key phrases, whether they individually rank or not, but also use focuses content, resulting in situation where you might even talk about a competitor to offer the best user solution.
 
 This requires a new way of thinking.
 
@@ -34,27 +47,27 @@ This creates a pillar > sub-pillar > post set up.
 The approach is to create top level general pillar posts, this is followed by more specific sub-pillar and finally niche blog posts. 
 
 Since this pillar system is giving Google what it needs, the need for back links to in posts can be ignored. It may be advantageous to have a small amount of paid search but this is simply to 'flag', the system to Google and should only be used once a network is set up. 
+## Setting up the Network
+The approach to creating a network consists of three key steps:
 
-### Setting up the Network
-The following steps can be used to set up a network.
-
-1. Identify the mission critical keyword or phrase that matches the business. e.g. Book Editing or Content Marketing. 
-2. Identify the key phrases that represent the important topics. 
-3. Create a 16 piece pillar strategy
-
-### 16 Piece Pillar Strategy
+1. Identify the mission critical keywords or phrases that matches the business. e.g. Book Editing or Content Marketing. These are **pillars**.
+2. Identify a range of key phrases within the pillars, these are **sub-pillars**.
+3. Create **blog** content for key phrases with the sub-pillars.
+### The 16 Piece Pillar Strategy
 
 ![[Pasted image 20231127104925.png]]
 
+This is the strategy developed by [DemandJump](https://www.demandjump.com/) and represents what they feel is an optimal set up. 
+
 For each pillar you need the following:
 
-- 1  x Pillar post with 3000+ words containing 20 keywords.
+- 1 x Pillar post with 3000+ words containing 20 keywords.
 - 3 x Sub-pillar with 2000+ words containing 15 keywords.
 - 3 x Blog with 1000+ words for each sub-pillar containing 8 keywords.
 
-**It is important that the key phrase from the level above is mentioned in the content body.**
+The pillar and sub-pillars topics are created from careful research and industry knowledge. 
 
-Blog post titles are created from the questions triggered by the sub-pillar post. When writing blog posts, this are based around the questions that people ask in relation to the titles. Theses should be h2.
+Blog post titles are created from the questions triggered by the sub-pillar post when added to Google. When writing blog posts, this are based around the questions that people ask in relation to the titles. Theses should be h2.
 
 So...
 
@@ -66,7 +79,6 @@ text - the answer to this question.
 h2 - answer 2 to this question.
 text - the answer to this question. 
 
-### Waves
 The initial implementation is important. 
 
 1. Publish the pillar post and tell Google and wait for it to be seen.
@@ -75,16 +87,22 @@ The initial implementation is important.
 
 Content should always be added in waves. 
 
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/trISrXJZn6I?si=4dKlNmG0XGNkdJ9F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-Main advantages:
+> [!warning]
+> There is no question that this system works, but 
 
-- More rapid results, often weeks not months. 
 
-This is a cluster model with key pillars e.g. developmental editing with a cluster of posts. The pillars are interlinked.
 
-Pillars should be things you can write multiple topics about, so not just 'developmental editing' but say 'self ediing'. If a subject has multiple possible topics it becomes a pillar.
+
+
+
+
+
+
+
+
+
 
 Each post should start with a summary, which is in essence chasing a featured snippet, the a toc, also faq.
 
@@ -107,3 +125,7 @@ bite sized snippets - chatGPT
 
 
 
+
+
+clear categories
+breadcrumbs

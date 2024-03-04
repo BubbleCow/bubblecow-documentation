@@ -5,11 +5,15 @@
 
 The **Pillar System Approach** looks to create content that is optimized for next generation search engines (including the potential impact of AI). It looks to create content that no only optimizes the user experience but also produces material that is evergreen and ranks well by design. This means that content is created from a 'search engine first' viewpoint. It is designed and presented in a way that is 'rewarded' by Google.
 
-It is anticipated that changes to search technology through AI will reduce the overall traffic to any given site (since Google will be looking to keep traffic at the point of search with AI chat). However, Google have made it clear that SEO will remain important and it fundamental principles of providing the best user experience remain the unaltered.
+It is anticipated that changes to search technology through AI will reduce the overall traffic to any given site (since Google will be looking to keep traffic at the point of search with AI chat). However, Google have made it clear that SEO will remain important and its fundamental principles of providing the best user experience remain the unaltered.
 
-The aim is to create a 'web' of content on any given topic that can catch a user with a very specific query and position them in a place where they can quickly access a mass of relevant information. 
+Since the full impact of AI is likely to take many months, if not years (based on [Google's nervousness with hallucination](https://www.reuters.com/technology/google-cautions-against-hallucinating-chatbots-report-2023-02-11/)) it is optimal is build a robust SEO strategy capable of being able to survive the transition. 
 
-The traditional way of thinking about SEO is to create single pages that rank well for the most popular key phrase. This used to work but as Google has become more sophisticated it understands that a users journey is complex and branching, not linear. Google's focus has switched to 'promoting' sites that offer a more comprehensive user experience. Google is no longer looking for single pages SEO optimized pages, but a network of content that provides a better experience for the user.
+This approach will be focused on creating **SEO optimized, search specific content, grouped in a way that provides the optimal user experience**. 
+
+The traditional way of thinking about SEO is to create single pages that rank well for the most popular key phrases. This is a hangover from Google early technology that was based on individual page experience for users, and Google's reliance on blunt metrics such as back links and bounce rate. This used to work but as Google has become more sophisticated it understands that a users journey is complex and branching, not linear. 
+
+Google's focus has switched to 'promoting' **pages** that tick enough SEO boxes to **sites** that offer a more comprehensive user experience. Google is no longer looking for single pages SEO optimized pages, but a network of content that provides a better experience for the user.
 
 This means that you have to shake the idea that you are creating content aimed at intercepting a user journey and 'converting' them on a single interaction. Instead, the mindset needs to switch to giving in-depth, topic relevant and broad content. This means that not only will Google expect a site to cover all key phrases, whether they individually rank or not, but also use focuses consent, resulting in situation where you might even talk about a competitor to offer the best user solution.
 

@@ -126,7 +126,18 @@ When picking pillars here are some rules:
 - Your pillars are not set in stone, they will change as the market alters over time. 
 
 ##### Pillars Format
-The pillar post should be presented as the 'essential' or 'ultimate' guide to the topic chosen. For example 'the ess'
+The pillar post should be presented as the 'essential' or 'ultimate' guide to the topic chosen. For example 'the essential guide to book editing'.
+
+The best way think about the post is as a hub for all other sub pillars within that pillar.  So, for example, the pillar post for 'book editing' would cover topics such as 'developmental editing', 'copy editing' and 'manuscript assessment'.
+
+You **must not** fall into the trap of thinking that this post is being created for SEO purposes. IT IS NOT. This post is simply a hub that connects your ranking content and its purpose is to single to Google that the content is linked. 
+
+Here are some metadata considerations:
+
+- **Title**: This should be simple and contain the pillar phrase. The best practice would be 'ultimate guide to...'
+- **Category**: The pillar phrase should have it's own, parent level, category. For example 'book editing'
+- **URL**: This should be simple and match the pillar phrase. For example site.com/book-editing/ultimate-guide-book-editing 
+- **Key Image**: This will set the tone for other images in the category. The Alt text should contain the pillar phrase. 
 
 
 

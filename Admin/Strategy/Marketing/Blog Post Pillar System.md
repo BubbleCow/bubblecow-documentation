@@ -139,7 +139,10 @@ Here are some metadata considerations:
 - **URL**: This should be simple and match the pillar phrase. For example site.com/book-editing/ultimate-guide-book-editing 
 - **Key Image**: This will set the tone for other images in the category. The Alt text should contain the pillar phrase. 
 
+This is the best format for the post:
 
+1. Image - this should be related to the topic and, ideally, used as an inspiration for the images for sub-pillar posts. 
+2. Introduction - this should be an introduction to the topic and, ideally, contain one link to an high ranking external source (for example wikipedia).
 
 
 Each post should start with a summary, which is in essence chasing a featured snippet, the a toc, also faq.

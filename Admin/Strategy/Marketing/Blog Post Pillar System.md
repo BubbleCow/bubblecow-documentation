@@ -185,7 +185,7 @@ This is the best format for the post:
 4. **Post section** -  This contains the following:
 	- Image from the post with the correct structured data for the image. The alt text is descriptive but also contains the post phrase.
 	- Unique text that is related to the post exact phrase. This is 40 to 50 words in length. It is not SEO optimized but IT IS designed to try and grab the SEO snippet. The post is focused on AI carousel, this is non-AI SEO snippet. 
-	- A link to the sub-pillar post. This ahref text for this post will include the post exact phrase. 
+	- A link to the sub-pillar post. This ahref text for this post will include the post exact phrase. all out with 
 
 The end of the post needs a **Bootstrap call out** with a link to the pillar. This is another indicator to Google about the structure of the pillar system.
 

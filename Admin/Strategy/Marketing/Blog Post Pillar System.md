@@ -169,27 +169,27 @@ The sub-pillar post should be presented as the 'guide' to the topic chosen. For 
 
 The sub-pillar is a hub for all the blog posts and directly linked to the pillar post. This post's role is to provide structure for Google and to show how the posts of linked and related. 
 
-The best way think about the post is as a hub for all other sub pillars within that pillar.  So, for example, the pillar post for 'book editing' would cover topics such as 'developmental editing', 'copy editing' and 'manuscript assessment'.
-
-You **must not** fall into the trap of thinking that this post is being created for SEO purposes. IT IS NOT. This post is simply a hub that connects your ranking content and its purpose is to single to Google that the content is linked. 
+You **must not** fall into the trap of thinking that this post is being created for SEO purposes. IT IS NOT. However, one key role of this post is to try to capture [SEO snippets](https://backlinko.com/hub/seo/featured-snippets). 
 
 Here are some metadata considerations:
-
-- **Title**: This should be simple and contain the pillar phrase. The best practice would be 'ultimate guide to...'
-- **Category**: The pillar phrase should have it's own, parent level, category. For example 'book editing'
-- **URL**: This should be simple and match the pillar phrase. For example site.com/book-editing/ultimate-guide-book-editing 
-- **Key Image**: This will set the tone for other images in the category. The Alt text should contain the pillar phrase. 
+- **Title**: This should be simple and contain the sub-pillar phrase. The best practice would be 'guide to...'
+- **Category**: The sub-pillar phrase should have it's own, child level, category. For example 'book editing > **developmental editing**'
+- **URL**: This should be simple and match the pillar phrase. For example site.com/book-editing/developmental-editing/ 
+- **Key Image**: The tone of the image should match that of the parent pillar. The Alt text should contain the sub-pillar phrase. 
 
 This is the best format for the post:
 
-1. **Image** - this should be related to the topic and, ideally, used as an inspiration for the images for sub-pillar posts. 
+1. **Image** - this should be related to the topic and, ideally, use the pillar post image as an inspiration. 
 2. **Introduction** - this should be an introduction to the topic and, ideally, contain one link to an high ranking external source (for example Wikipedia).
-3. **Sub-pillar post section** -  This contains the following:
-	- Image from the pillar post with the correct structured data for the image. The alt text is descriptive but also contains the sub-pillar phrase.
-	- Unique text that is related to the sub-pillar phrase. This is 300 to 500 words in length. It is not SEO optimized. 
-	- A call out with a link to the sub-pillar post. This ahref text for this post will include the sub-pillar phrase. 
+3. Table of Contents - this is a active table of contents using structured data. 
+4. **Post section** -  This contains the following:
+	- Image from the post with the correct structured data for the image. The alt text is descriptive but also contains the post phrase.
+	- Unique text that is related to the post exact phrase. This is 40 to 50 words in length. It is not SEO optimized but IT IS designed to try and grab the SEO snippet. The post is focused on AI carousel, this is non-AI SEO snippet. 
+	- A link to the sub-pillar post. This ahref text for this post will include the post exact phrase. 
 
+The end of the post needs a **Bootstrap call out** with a link to the pillar. This is another indicator to Google about the structure of the pillar system.
 
+Not that a 'further reading' section is automatically created on the BubbleCow blog that links to all other posts in the category. 
 
 
 

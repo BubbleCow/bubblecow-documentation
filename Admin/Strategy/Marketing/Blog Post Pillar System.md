@@ -116,7 +116,6 @@ However, assuming these guidelines are being followed the following factors are 
 
 #### Pillars
 It is important to understand that the number and content of the pillars is not set in stone. It is easy to fall into the trap of thinking that you need the exact number of pillars with the correct phrase. That is not the case. You will find that you have more flexibility than you realize. 
-
 ##### Deciding on Pillar Phrase
 When picking pillars here are some rules:
 
@@ -124,7 +123,6 @@ When picking pillars here are some rules:
 - It is essential that you have pillars for all key aspects of a site's identity. So with BubbleCow, it makes sense to have a pillar for each of our services - developmental editing, copy editing and manuscript assessment. 
 - Your pillars should make logical sense and be a broad as possible. 
 - Your pillars are not set in stone, they will change as the market alters over time. 
-
 ##### Pillars Format
 The pillar post should be presented as the 'essential' or 'ultimate' guide to the topic chosen. For example 'the essential guide to book editing'.
 
@@ -141,8 +139,34 @@ Here are some metadata considerations:
 
 This is the best format for the post:
 
-1. Image - this should be related to the topic and, ideally, used as an inspiration for the images for sub-pillar posts. 
-2. Introduction - this should be an introduction to the topic and, ideally, contain one link to an high ranking external source (for example wikipedia).
+1. **Image** - this should be related to the topic and, ideally, used as an inspiration for the images for sub-pillar posts. 
+2. **Introduction** - this should be an introduction to the topic and, ideally, contain one link to an high ranking external source (for example Wikipedia).
+3. **Sub-pillar post section** -  This contains the following:
+	- Image from the pillar post with the correct structured data for the image. The alt text is descriptive but also contains the sub-pillar phrase.
+	- Unique text that is related to the sub-pillar phrase. This is 300 to 500 words in length. It is not SEO optimized. 
+	- A call out with a link to the sub-pillar post. This ahref text for this post will include the sub-pillar phrase. 
+
+#### Sub-pillars
+Having determined the pillars the sub pillars are then determined. There is no set way to decide on sub-pillars and they may not be immediately obvious. Experience suggests that this is a fluid and on-going process. 
+
+Often, the best place to start is by looking for the types of search terms that are being found under the sub-pillar. These will ultimately be posts, but they are often a book indicator of a potential sub-pillar. 
+
+For example, if you search on 'book editing', a pillar term, you get the following:
+
+- What is the average cost to edit a book?
+- How to do book editing?
+- What do you need to become a book editor?
+- What is the meaning of book editing?
+
+This suggests that 'cost of developmental editing' might be a good sub-pillar. 
+
+As a general rule we would want a minimum of at least three posts under sub-pillar. So if you feel there is at least this many exact phrases you might have a sub-pillar. 
+
+It is worth remembering that your initial set up of sub-pillars might alter as you find new ones or decide that a single sub-pillar is worthy of the mulitple sub-pillars. 
+##### Deciding on Sub-pillar Phrase
+When picking pillars here are some rules:
+
+
 
 
 Each post should start with a summary, which is in essence chasing a featured snippet, the a toc, also faq.

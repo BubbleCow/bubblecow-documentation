@@ -10,13 +10,15 @@
           {
             "id": "cca5eb2faad49115",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Admin/Strategy/Marketing/Blog Post Pillar System.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "pinned": true
             }
           }
         ]
@@ -148,6 +150,8 @@
   },
   "active": "cca5eb2faad49115",
   "lastOpenFiles": [
+    "Admin/Strategy/Marketing/AI Search Optimization.md",
+    "Admin/Strategy/Marketing/Blog Post Pillar System.md",
     "Admin/Mindset/Permission Marketing.md",
     "Admin/Mindset/Modular Production of Books.md",
     "Admin/Mindset/Do Thing That Don't Scale.md",
@@ -155,9 +159,7 @@
     "Admin/Mindset/1000 True Fans.md",
     "Admin/Mindset/!Business Mindset Outline.md",
     "Admin/Mindset",
-    "Admin/Strategy/Marketing/AI Search Optimization.md",
     "Admin/Emails/Manuscript Assessment Without Word Count.md",
-    "Admin/Strategy/Marketing/Blog Post Pillar System.md",
     "Admin/Strategy/Overview of BubbleCow Strategy.md",
     "Admin/Strategy/Marketing",
     "Editorial/Reports/Manuscript Assessment/Sample - Editors Report - Manuscript Assessment -BubbleCow.md",

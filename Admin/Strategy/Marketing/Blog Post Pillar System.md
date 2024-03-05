@@ -118,39 +118,36 @@ However, assuming these guidelines are being followed the following factors are 
 It is important to understand that the number and content of the pillars is not set in stone. It is easy to fall into the trap of thinking that you need the exact number of pillars with the correct phrase. That is not the case. You will find that you have more flexibility than you realize. 
 ##### Deciding on Pillar Phrase
 When picking pillars here are some rules:
-
 - Google assigns a category to your website, this might be broad, such as educational or travel, but might also me more specific such as gardening. The pillars you pick should make sense in relation to your site's identity. There will be some tangential pillars but these need to be used carefully. The goal is always to provide content your users will need. 
 - It is essential that you have pillars for all key aspects of a site's identity. So with BubbleCow, it makes sense to have a pillar for each of our services - developmental editing, copy editing and manuscript assessment. 
 - Your pillars should make logical sense and be a broad as possible. 
 - Your pillars are not set in stone, they will change as the market alters over time. 
 ##### Pillar Format
-The pillar post should be presented as the 'essential' or 'ultimate' guide to the topic chosen. For example 'the essential guide to book editing'.
+The pillar article should be presented as the 'essential' or 'ultimate' guide to the topic chosen. For example, 'the essential guide to book editing'.
 
-The best way think about the post is as a hub for all other sub pillars within that pillar.  So, for example, the pillar post for 'book editing' would cover topics such as 'developmental editing', 'copy editing' and 'manuscript assessment'.
+The best way think about the pillar article is as a hub for all other sub-pillar articles within that pillar. So, for example, the pillar article for 'book editing' would cover topics such as 'developmental editing', 'copy editing' and 'manuscript assessment'.
 
-You **must not** fall into the trap of thinking that this post is being created for SEO purposes. IT IS NOT. This post is simply a hub that connects your ranking content and its purpose is to single to Google that the content is linked. 
+You **must not** fall into the trap of thinking that this article is being created for SEO purposes. IT IS NOT. This article is simply a hub that connects your ranking content and its purpose is to signal to Google that the content is linked. 
 
 Here are some metadata considerations:
-
 - **Title**: This should be simple and contain the pillar phrase. The best practice would be 'ultimate guide to...'
 - **Category**: The pillar phrase should have it's own, parent level, category. For example 'book editing'
 - **URL**: This should be simple and match the pillar phrase. For example site.com/book-editing/ultimate-guide-book-editing 
 - **Key Image**: This will set the tone for other images in the category. The Alt text should contain the pillar phrase. 
 
 This is the best format for the post:
-
 1. **Image** - this should be related to the topic and, ideally, used as an inspiration for the images for sub-pillar posts. 
 2. **Introduction** - this should be an introduction to the topic and, ideally, contain one link to an high ranking external source (for example Wikipedia).
 3. **Sub-pillar post section** -  This contains the following:
-	- Image from the pillar post with the correct structured data for the image. The alt text is descriptive but also contains the sub-pillar phrase.
+	- Image from the pillar article with the correct structured data for the image. The alt text is descriptive but also contains the sub-pillar phrase.
 	- Unique text that is related to the sub-pillar phrase. This is 300 to 500 words in length. It is not SEO optimized. 
-	- A call out with a link to the sub-pillar post. This ahref text for this post will include the sub-pillar phrase. 
+	- A call out with a link to the sub-pillar article. This ahref text for this post will include the sub-pillar phrase. 
 #### Sub-pillars
-Like pillars, sub-pillars are not SEO driven. You are not trying to drive traffic to these pillars. Instead, you are creating hubs that Google will use to bind your content together. That said, sub-pillars will be written in a way that makes it possible to rank for non-google snippets.
-##### Deciding on Sub-pillar Phrase
-Having determined the pillars the sub pillars are then determined. There is no set way to decide on sub-pillars and they may not be immediately obvious. Experience suggests that this is a fluid and on-going process. 
+Like pillars, sub-pillar articles are not SEO driven. You are not trying to drive traffic to the pillars. Instead, you are creating hubs that Google will use to bind your content together. That said, sub-pillar articles will be written in a way that makes it possible to rank for non-google snippets.
+##### Deciding on Sub-pillar Article Phrase
+Having determined the pillars, the sub-pillar articles can then determined. There is no set way to decide on sub-pillars and they may not be immediately obvious. Experience suggests that this is a fluid and on-going process. 
 
-Often, the best place to start is by looking for the types of search terms that are being found under the sub-pillar. These will ultimately be posts, but they are often a book indicator of a potential sub-pillar. 
+Often, the best place to start is by looking for the types of search terms that are being found under the sub-pillar. These will ultimately be posts, but they are often a good indicator of a potential sub-pillars. 
 
 For example, if you search on 'book editing', a pillar term, you get the following:
 
@@ -159,17 +156,17 @@ For example, if you search on 'book editing', a pillar term, you get the followi
 - What do you need to become a book editor?
 - What is the meaning of book editing?
 
-This suggests that 'cost of developmental editing' might be a good sub-pillar. 
+It is likely that each of these will be post, but they do suggests that 'cost of developmental editing' might be a good sub-pillar. 
 
-As a general rule we would want a minimum of at least three posts under sub-pillar. So if you feel there is at least this many exact phrases you might have a sub-pillar. 
+As a general rule we would want a minimum of at least three posts under each sub-pillar. So if you feel there is at least this many exact phrases you might have a sub-pillar. 
 
 It is worth remembering that your initial set up of sub-pillars might alter as you find new ones or decide that a single sub-pillar is worthy of the multiple sub-pillars. 
 ##### Sub-pillar Format
-The sub-pillar post should be presented as the 'guide' to the topic chosen. For example 'the guide to developmental editing'. You should avoid using phrases such as 'ultimate', since this is related to the pillar posts.
+The sub-pillar article should be presented as the 'guide' to the topic chosen. For example 'the guide to developmental editing'. You should avoid using phrases such as 'ultimate', since this is related to the pillar articles.
 
-The sub-pillar is a hub for all the blog posts and directly linked to the pillar post. This post's role is to provide structure for Google and to show how the posts of linked and related. 
+The sub-pillar is a hub for all the posts and directly linked to the pillar article. This sub-pillar's role is to provide structure for Google and to show how the posts of linked and related. 
 
-You **must not** fall into the trap of thinking that this post is being created for SEO purposes. IT IS NOT. However, one key role of this post is to try to capture [SEO snippets](https://backlinko.com/hub/seo/featured-snippets). 
+You **must not** fall into the trap of thinking that this sub-pillar article is being created for SEO purposes. IT IS NOT. However, one key role of this post is to try to capture [SEO snippets](https://backlinko.com/hub/seo/featured-snippets). 
 
 Here are some metadata considerations:
 - **Title**: This should be simple and contain the sub-pillar phrase. The best practice would be 'guide to...'
@@ -178,7 +175,6 @@ Here are some metadata considerations:
 - **Key Image**: The tone of the image should match that of the parent pillar. The Alt text should contain the sub-pillar phrase. 
 
 This is the best format for the post:
-
 1. **Image** - this should be related to the topic and, ideally, use the pillar post image as an inspiration. 
 2. **Introduction** - this should be an introduction to the topic and, ideally, contain one link to an high ranking external source (for example Wikipedia).
 3. Table of Contents - this is a active table of contents using structured data. 
@@ -187,12 +183,19 @@ This is the best format for the post:
 	- Unique text that is related to the post exact phrase. This is 40 to 50 words in length. It is not SEO optimized but IT IS designed to try and grab the SEO snippet. The post is focused on AI carousel, this is non-AI SEO snippet. 
 	- A link to the sub-pillar post. This ahref text for this post will include the post exact phrase. all out with 
 
-The end of the post needs a **Bootstrap call out** with a link to the pillar. This is another indicator to Google about the structure of the pillar system.
+The end of the post needs a **Bootstrap call out** with a link to the pillar article. This is another indicator to Google about the structure of the pillar system.
 
 Not that a 'further reading' section is automatically created on the BubbleCow blog that links to all other posts in the category. 
 
 #### Posts
-Like pillars, s
+Unlike pillar and sub-pillar articles, the post's main purpose is SEO. It the posts that are going to rank most frequently and drive the most traffic to the site. 
+
+This means that these posts most follow sound SEO guidelines as default. However, in addition they will follow two important principles:
+- Exact match.
+- AI optimization.
+##### Exact Match Principles
+The foundation of the ranking for posts is that they are build around 
+
 
 Each post should start with a summary, which is in essence chasing a featured snippet, the a toc, also faq.
 

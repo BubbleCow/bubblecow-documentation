@@ -3,8 +3,10 @@
 
 In the past, BubbleCow has been a single product service (developmental editing) relying on SEO to appear in the writers eye-line at point of service research. To date this has worked, but it is now under threat for several reasons, with the impact of AI being the most important.
 
-1. **AI will reduce the number of people using developmental editors**. It will not kill the service completely and we will still see a group of writers willing to pay £1500+ for a professional human edit. However, in the coming years we are going to see AI solutions where a writer can get AI generated feedback for a fraction of the cost. This will not be as comprehensive and intuitive feedback but it will be good enough for a writer unwilling to pay for a full service. 
-2. **AI generated search results will reduce traffic**. The site will lose a proportion of the traffic that is simply looking to answer a simple question. As it stands these will remain on the Google search page.
+## AI Improvements in Service
+**AI will reduce the number of people using developmental editors**. The use of AI will mean that editors will be able to produce feedback quickly and cheaply. This will mean that though the feedback might not be a good, it will still be cheap enough to outweigh this problem. We will see writers paying a very small amount for feedback that will significantly improve their writing. It will not kill the traditional form of the service completely, and we will still see a group of writers willing to pay £1500+ for a professional human edit. However, this number will drastically reduce. The result will be a further fragmentation of the market. I predict we will see Reedy go bust or pivot, at least one or two editorial suppliers disappear a large number of freelancers drop from the marketplace.  
+## AI Reduced Traffic
+**AI generated search results will reduce traffic**. As Google move to AI solutions, where they seek to answer direct questions at the point of search, the number of visitors to sites will reduce. This will have a major impact on the traffic to a site and increase the importance of conversion. 
 
 I am, therefore, predicting several outcomes.
 

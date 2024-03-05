@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Admin/Strategy/Marketing/Branding.md",
+                "file": "Admin/Emails/Copy Editing Without Word Count.md",
                 "mode": "source",
                 "source": false
               }
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Admin/Strategy/Marketing/Branding.md",
+                "file": "Admin/Emails/Copy Editing Without Word Count.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Admin/Strategy/Marketing/Branding.md",
+                "file": "Admin/Emails/Copy Editing Without Word Count.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Admin/Strategy/Marketing/Branding.md"
+                "file": "Admin/Emails/Copy Editing Without Word Count.md"
               }
             }
           }
@@ -163,10 +163,13 @@
   },
   "active": "bdc0c1479f347de6",
   "lastOpenFiles": [
+    "Admin/Emails/Manuscript Assessment Without Word Count.md",
+    "Admin/Emails/Initial Customer Service Emails.md",
+    "Admin/Emails/Copy Editing Without Word Count.md",
+    "Admin/Strategy/Marketing/Branding.md",
     "Pasted image 20240305153127.png",
     "Pasted image 20240305153114.png",
     "Admin/Strategy/Future Predictions.md",
-    "Admin/Strategy/Marketing/Branding.md",
     "Admin/Strategy/Overview of BubbleCow Strategy.md",
     "Admin/Strategy/Marketing/Blog Post Pillar System.md",
     "Admin/Strategy/Marketing/AI Search Optimization.md",
@@ -177,10 +180,8 @@
     "Admin/Mindset/1000 True Fans.md",
     "Admin/Mindset/!Business Mindset Outline.md",
     "Admin/Mindset",
-    "Admin/Emails/Manuscript Assessment Without Word Count.md",
     "Admin/Strategy/Marketing",
     "Editorial/Reports/Manuscript Assessment/Sample - Editors Report - Manuscript Assessment -BubbleCow.md",
-    "Admin/Emails/Initial Customer Service Emails.md",
     "Marketing/Blog/Blog Post Formatting.md",
     "Editorial/Reports/Manuscript Assessment",
     "Admin/Emails/Copy Editing with Word Count.md",

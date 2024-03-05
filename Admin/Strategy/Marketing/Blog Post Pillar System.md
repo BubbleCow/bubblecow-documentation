@@ -186,7 +186,6 @@ This is the best format for the post:
 The end of the post needs a **Bootstrap call out** with a link to the pillar article. This is another indicator to Google about the structure of the pillar system.
 
 Not that a 'further reading' section is automatically created on the BubbleCow blog that links to all other posts in the category. 
-
 #### Posts
 Unlike pillar and sub-pillar articles, the post's main purpose is SEO. It the posts that are going to rank most frequently and drive the most traffic to the site. 
 
@@ -194,18 +193,60 @@ This means that these posts most follow sound SEO guidelines as default. However
 - Exact match.
 - AI optimization.
 ##### Exact Match Principles
-The foundation of the ranking for posts is that they are build around 
+The foundation of the ranking for posts is that they are build around an **exact match phrase**. This is a phrase that exactly matches a search term. 
 
+For example, let's say you have a sub-pillar article for the phrase 'developmental editing.' If you search on this term and expand the 'People also ask' section you get the following:
 
-Each post should start with a summary, which is in essence chasing a featured snippet, the a toc, also faq.
+- What is the meaning of developmental editing?
+- How to do developmental editing?
+- What is the difference between copy editing and developmental editing?
+- How much does a developmental edit cost?
+- What is an example of developmental editing?
+- What is an example of a developmental edit?
 
-https://developers.google.com/search/docs/appearance/featured-snippets
+Each of these is an **exact match phrase** and it worthy of its own post. 
+##### AI optimization
+This is early data (March 2024) prior to roll out but seems like it will be focused on searches for questions such 'how to' etc. Also for some product related searches, such as 'best watch for runners'. It also appears to factor in the local element to this search, so 'best bars in Liverpool'. 
 
-The snippet should be 45 words..
+The generated result has a big block of AI generated text on the left (Gemini) with the option to chat. 
 
-https://backlinko.com/hub/seo/featured-snippets
+![[Pasted image 20240301090501.png]]
 
-![[Pasted image 20231127073437.png]]
+There seem to be four ways to benefit and still rank:
+
+1. **Link carousel** on the right hand side. This is three links by default, but more if you scroll.
+2. **Drop down links** appear after each AI generated statement. These seem to be the same format as the carousel links. 
+3. **Indirect Product or service recommendation** is important since the AI will suggest products and services via links.
+4. **Direct Product or service recommendation** sees AI reference your product, service or business as an answer.
+
+There is no predictable way to rank in AI results yet, but an number of factors seem important. 
+
+- **Rank well in traditional search** - Not essential but it seems that ranking well is an advantage, especially if your are showing in things like snippets. Solid traditional SEO factors are important for AI search. 
+- **Create precisely focused content** - It seems that content that directly answers a user question is much more likely to rank. So, for example, if the search term was 'best watch for runners', a post answering this question directly is more likely to rank than one that is more general ('best sports watch') even if it is generating higher traffic. The are being called Exact Match Blogs (EMB).
+- **Create bite sized snippets** - These are 250-300 character summaries of exact search term, written in a way that is simple and easy to read. Ideally these will be added to the top of a blog post. It seems that if the information is more higher up the page their is more chance of ranking number one on the carousel. Evidence suggests that this is also helping rank in Bing's AI system. 
+
+##### Post Format
+The post will be fully based on the exact match search term. The post's sole role is to rank for this search term.
+
+Here are some metadata considerations:
+- **Title**: This should be the exact match search term. For example, 'What is the meaning of developmental editing?'
+- **Category**: The post should be in the sub-pillar category. For example 'book editing > **developmental editing**'
+- **URL**: This should be simple and exact match phrase. For example site.com/book-editing/developmental-editing/what-is-the-meaning-of-developmental-editing
+- **Key Image**: The tone of the image should match that of the parent pillar. The Alt text should contain the sub-pillar phrase. 
+
+This is the best format for the post:
+1. **Image** - this should be related to the topic and, ideally, use the pillar post image as an inspiration. 
+2. **Introduction** - this should be an introduction to the topic and, ideally, contain one link to an high ranking external source (for example Wikipedia).
+3. Table of Contents - this is a active table of contents using structured data. 
+4. **Post section** -  This contains the following:
+	- Image from the post with the correct structured data for the image. The alt text is descriptive but also contains the post phrase.
+	- Unique text that is related to the post exact phrase. This is 40 to 50 words in length. It is not SEO optimized but IT IS designed to try and grab the SEO snippet. The post is focused on AI carousel, this is non-AI SEO snippet. 
+	- A link to the sub-pillar post. This ahref text for this post will include the post exact phrase. all out with 
+
+The end of the post needs a **Bootstrap call out** with a link to the pillar article. This is another indicator to Google about the structure of the pillar system.
+
+Not that a 'further reading' section is automatically created on the BubbleCow blog that links to all other posts in the category. 
+
 
 
 Exact Match Blog

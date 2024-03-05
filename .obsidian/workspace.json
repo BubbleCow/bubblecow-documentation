@@ -20,8 +20,21 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "1b21ce3dd424aa63",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Admin/Strategy/Marketing/Blog Post Pillar System.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -148,7 +161,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cca5eb2faad49115",
+  "active": "1b21ce3dd424aa63",
   "lastOpenFiles": [
     "Admin/Strategy/Marketing/AI Search Optimization.md",
     "Admin/Strategy/Marketing/Blog Post Pillar System.md",

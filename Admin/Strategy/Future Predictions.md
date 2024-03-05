@@ -1,10 +1,7 @@
-
 > [!info] 
->  This is the detailed outline for the re-imaging of BubbleCow
+>  This section is the detailed outline for the re-imaging of BubbleCow and how I feel things will change in the future.
 
-
-## Predictions
-In the past we have been a single product service (developmental editing) relying on great SEO to appear in the writers eye-line at point of service research. This will no longer be a viable option going forward for two key reasons:
+In the past, BubbleCow has been a single product service (developmental editing) relying on SEO to appear in the writers eye-line at point of service research. To date this has worked, but it is now under threat for several reasons, with the impact of AI being the most important.
 
 1. **AI will reduce the number of people using developmental editors**. It will not kill the service completely and we will still see a group of writers willing to pay £1500+ for a professional human edit. However, in the coming years we are going to see AI solutions where a writer can get AI generated feedback for a fraction of the cost. This will not be as comprehensive and intuitive feedback but it will be good enough for a writer unwilling to pay for a full service. 
 2. **AI generated search results will reduce traffic**. The site will lose a proportion of the traffic that is simply looking to answer a simple question. As it stands these will remain on the Google search page.

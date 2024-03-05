@@ -22,12 +22,12 @@
             }
           },
           {
-            "id": "1b21ce3dd424aa63",
+            "id": "bdc0c1479f347de6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Admin/Strategy/Marketing/Blog Post Pillar System.md",
+                "file": "Admin/Strategy/Future Predictions.md",
                 "mode": "source",
                 "source": false
               }
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "faq",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Admin/Strategy/Marketing/Blog Post Pillar System.md",
+                "file": "Admin/Strategy/Future Predictions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Admin/Strategy/Marketing/Blog Post Pillar System.md",
+                "file": "Admin/Strategy/Future Predictions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Admin/Strategy/Marketing/Blog Post Pillar System.md"
+                "file": "Admin/Strategy/Future Predictions.md"
               }
             }
           }
@@ -161,10 +161,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1b21ce3dd424aa63",
+  "active": "bdc0c1479f347de6",
   "lastOpenFiles": [
-    "Admin/Strategy/Marketing/AI Search Optimization.md",
+    "Admin/Strategy/Overview of BubbleCow Strategy.md",
+    "Admin/Strategy/Future Predictions.md",
     "Admin/Strategy/Marketing/Blog Post Pillar System.md",
+    "Admin/Strategy/Marketing/AI Search Optimization.md",
     "Admin/Mindset/Permission Marketing.md",
     "Admin/Mindset/Modular Production of Books.md",
     "Admin/Mindset/Do Thing That Don't Scale.md",
@@ -173,7 +175,6 @@
     "Admin/Mindset/!Business Mindset Outline.md",
     "Admin/Mindset",
     "Admin/Emails/Manuscript Assessment Without Word Count.md",
-    "Admin/Strategy/Overview of BubbleCow Strategy.md",
     "Admin/Strategy/Marketing",
     "Editorial/Reports/Manuscript Assessment/Sample - Editors Report - Manuscript Assessment -BubbleCow.md",
     "Admin/Emails/Initial Customer Service Emails.md",
@@ -185,7 +186,6 @@
     "Pasted image 20231127104435.png",
     "Marketing/Blog/Pillars/BubbleCow Pillar Strategy.md",
     "Marketing/Blog/Search Quality Evaluator Guidelines.md",
-    "Admin/Strategy/Ideas.md",
     "Pasted image 20240301090501.png",
     "Editorial/Writers/T/Tony Farias/No I am Not a Rat/Second edit/000.md",
     "Admin/Strategy",

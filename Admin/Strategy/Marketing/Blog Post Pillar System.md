@@ -244,27 +244,6 @@ This is the best format for the post:
 	- Where possible, external links to high ranking sites.
 	- Where possible, internal links to relevant sites. 
 	- Where possible, links to scholar or 'expert' material.
-7. fdgfd
-	
-   6.
-
-The end of the post needs a **Bootstrap call out** with a link to the pillar article. This is another indicator to Google about the structure of the pillar system.
-
-Not that a 'further reading' section is automatically created on the BubbleCow blog that links to all other posts in the category. 
-
-
-
-Exact Match Blog
-
-- tldr - this is the bite sized snippet
-- the post answers JUST the exact serach term
-- has solid traditional SEO answers
-- 
-bite sized snippets - chatGPT
-
-
-
-
-
-clear categories
-breadcrumbs
+6. **FAQ** - this is a frequently asked question section based on the exact match search term for the exact match search terms. 
+7. **Link to Sub-Pillar** - a **Bootstrap callout** to the sub-pillar should be added to the bottom on the post.
+8. **Related Posts** - The BubbleCow system automatically adds linked list in all the posts in the category. 

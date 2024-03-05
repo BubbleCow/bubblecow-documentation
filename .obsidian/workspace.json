@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Admin/Strategy/Future Predictions.md",
+                "file": "Admin/Strategy/Marketing/Branding.md",
                 "mode": "source",
                 "source": false
               }
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Admin/Strategy/Future Predictions.md",
+                "file": "Admin/Strategy/Marketing/Branding.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Admin/Strategy/Future Predictions.md",
+                "file": "Admin/Strategy/Marketing/Branding.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Admin/Strategy/Future Predictions.md"
+                "file": "Admin/Strategy/Marketing/Branding.md"
               }
             }
           }
@@ -163,8 +163,11 @@
   },
   "active": "bdc0c1479f347de6",
   "lastOpenFiles": [
-    "Admin/Strategy/Overview of BubbleCow Strategy.md",
+    "Pasted image 20240305153127.png",
+    "Pasted image 20240305153114.png",
     "Admin/Strategy/Future Predictions.md",
+    "Admin/Strategy/Marketing/Branding.md",
+    "Admin/Strategy/Overview of BubbleCow Strategy.md",
     "Admin/Strategy/Marketing/Blog Post Pillar System.md",
     "Admin/Strategy/Marketing/AI Search Optimization.md",
     "Admin/Mindset/Permission Marketing.md",
@@ -195,8 +198,6 @@
     "Editorial/Writers/T/Tony Farias/No I am Not a Rat/No I am Not a Rat - Rewrite Options.md",
     "Editorial/Writers/T/Tony Farias/No I am Not a Rat/Second edit/01.md",
     "Editorial/Writers/T/Tony Farias/No I am Not a Rat/Second edit/06.md",
-    "Marketing/Blog/Pillars/Book Editing/Book Editors/A Guide To Book Editors.md",
-    "Marketing/Blog/Pillars/Book Editing/Cost of book editing/How much do book editors usually cost.md",
     "Marketing/Blog/Pillars/Book Editing/Book Editors",
     "Editorial/Reports/Developmental Editing/Fiction/Edit",
     "Editorial/Reports/Developmental Editing/Fiction/Sample",

@@ -191,7 +191,8 @@ The end of the post needs a **Bootstrap call out** with a link to the pillar. Th
 
 Not that a 'further reading' section is automatically created on the BubbleCow blog that links to all other posts in the category. 
 
-
+#### Posts
+Like pillars, s
 
 Each post should start with a summary, which is in essence chasing a featured snippet, the a toc, also faq.
 

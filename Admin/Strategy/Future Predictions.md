@@ -52,19 +52,31 @@ This leaves two areas in the book publishing process.
 
 The first is the **creative process**. It is clear that though AI will help with the craft, the process of creating and telling stories remains a human driven part of the writing process. 
 
-The second is developing **communities**. In a world where all information will be available at all times knowing what you don't know and understanding the correct questions to asked becomes essential. This is where **guided and curated communities** come into play. These are selected groups of motivated people that are place in a situation where they can:
+The second is developing **communities**. In a world where all information will be available at all times knowing what you don't know and understanding the correct questions to asked becomes essential. This is where **guided and curated communities** come into play. These are selected groups of motivated people that are placed in a situation where they can:
 
 - Develop deep human connections with link minded people. 
 - Access curated information at the correct moments in their creative journey. 
 - Operate in an environment where they have the freedom to ask the questions that need to maximize their creativity. 
 
+This means that though the need for editorial services will reduce the writing community will flourish. I feel that BubbleCow needs to pivot away from editorial services and towards creating a **guided and curated community**. 
 
-This means that though the need for editorial services will reduce the writing community will flourish. I feel that BubbleCow needs to pivot away from editorial services and towards elements that AI can't provide. 
+In the past, BubbleCow has worked on the idea that the [the only people getting rich in the Gold Rush were the merchants](https://history.howstuffworks.com/american-history/gold-rush.htm) Today, the landscape has changed but this still hold true. Though the editorial services will become less profitable, independent writers will continue to make money, perhaps more so as people thrust for creative projects. 
 
+So... this is what BubbleCow will offer going forward:
 
-stand out - ai will commaditze
 - **Selling maps** - The only people getting rich in the Gold Rush were people selling shovels. We have been selling one type of shovel but technology have made this redundant, its time to switch and sell maps. Going forward, BubbleCow will show people how to be a successful writers.  
-- **Lean into what AI can't do** - It seems that AI will replace a lot of traditional services and products. However, it will not be able to provide a **community** or **complicated and curated guidence**. It is these two things that we need to pivot to provide. 
+- **Lean into what AI can't do** - It seems that AI will replace a lot of traditional services and products. However, it will not be able to provide a **community** or **complicated and curated guidance**. It is these two things that we need to pivot to provide. 
+
+## BubbleCow Strategy
+
+stratgey
+
+- Provide a cimmunty
+	- stand out
+	- custoemr led
+	- bring perople togeather, 
+	- Offer services they needs (customer discovery)
+	- Experimetnation is built it. 
 
 ai cumminty
 

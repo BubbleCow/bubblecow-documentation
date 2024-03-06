@@ -8,13 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "cca5eb2faad49115",
+            "id": "aedb529c37fd0a5d",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Admin/Strategy/Marketing/Blog Post Pillar System.md",
+                "file": "Admin/Strategy/Future Predictions.md",
                 "mode": "source",
                 "source": false
               },
@@ -22,12 +22,12 @@
             }
           },
           {
-            "id": "bdc0c1479f347de6",
+            "id": "306112e79d88818b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Admin/Emails/Copy Editing Without Word Count.md",
+                "file": "Admin/Strategy/Marketing/Branding.md",
                 "mode": "source",
                 "source": false
               }
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Admin/Emails/Copy Editing Without Word Count.md",
+                "file": "Admin/Strategy/Marketing/Branding.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Admin/Emails/Copy Editing Without Word Count.md",
+                "file": "Admin/Strategy/Marketing/Branding.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Admin/Emails/Copy Editing Without Word Count.md"
+                "file": "Admin/Strategy/Marketing/Branding.md"
               }
             }
           }
@@ -161,17 +161,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bdc0c1479f347de6",
+  "active": "306112e79d88818b",
   "lastOpenFiles": [
+    "Admin/Strategy/Future Predictions.md",
+    "Admin/Strategy/Marketing/Blog Post Pillar System.md",
+    "Admin/Strategy/Marketing/Branding.md",
+    "Admin/Emails/Copy Editing Without Word Count.md",
     "Admin/Emails/Manuscript Assessment Without Word Count.md",
     "Admin/Emails/Initial Customer Service Emails.md",
-    "Admin/Emails/Copy Editing Without Word Count.md",
-    "Admin/Strategy/Marketing/Branding.md",
     "Pasted image 20240305153127.png",
     "Pasted image 20240305153114.png",
-    "Admin/Strategy/Future Predictions.md",
     "Admin/Strategy/Overview of BubbleCow Strategy.md",
-    "Admin/Strategy/Marketing/Blog Post Pillar System.md",
     "Admin/Strategy/Marketing/AI Search Optimization.md",
     "Admin/Mindset/Permission Marketing.md",
     "Admin/Mindset/Modular Production of Books.md",

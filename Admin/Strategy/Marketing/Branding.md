@@ -1,4 +1,4 @@
-
+away from craft and towards storytelling
 
 
 ## Branding Style

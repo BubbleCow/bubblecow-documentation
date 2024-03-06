@@ -1,4 +1,27 @@
+> [!info]
+> This section outlines the branding and ethos for the new look BubbleCow
+
+## Best-seller Model
+**Traditional publishing follows the bestseller model, which BubbleCow believes fundamentally damages a writers change of being a success.** 
+
+The main problem a publisher faces is that it is impossible to predict which book they publish will be a success. The only thing they know is that only 20% of the books published will be sell enough copies to cover production costs and only 20% of these books will create so many sales that they so widely profitable that they will cover the cost of all other books published AND still make a profit. 
+
+These highly profitable books are considered bestseller. The most successful bestsellers will break out of their genre and appeal across the board to readers of many, often unrelated genres. 
+
+The problem is that though it is possible to recognize the elements of a bestseller, the exact recipe remains a mystery. This means that the job of a publisher is to take takes to reject all books that are clear never going to be a bestseller and accept only books that have the elements of a bestseller. 
+
+The publishing process then becomes a system of publishing potential bestseller and paying close attention to early sales. Books that show the initial sales profile of a bestseller are then seized upon, whilst the rest are dropped and rejected. A publisher will then spend the majority of its energy creating as many sales as possible from these bestsellers. 
+
+Whilst it is in the publishers best interest to find as many new and exciting titles, this is not in the best interest of the writer. Only a fraction of books will be a success and if a writers is not part of this story, their book will be quickly rejected and left to rot. 
+
+Over the years, publishers have p
+
+
+
+
 away from craft and towards storytelling - ai can't do craetivity
+
+ future proof - text first
 
  Low cost access  Low cost access to AI editorial tools will mean that the general quality of books will improve. Writers will be able to receive better and cheaper editorial support, plus help with the way in which they write. It will shift the focus away from craft and towards story telling.  This will, in turn, result in better reviews and more readers. This boost in sales will be matched with a reduction in pre-production costs making self-publishing an increasingly viable option for writers. to AI editorial tools will mean that the general quality of books will improve. Writers will be able to receive better and cheaper editorial support, plus help with the way in which they write. It will shift the focus away from craft and towards story telling.  This will, in turn, result in better reviews and more readers. This boost in sales will be matched with a reduction in pre-production costs making self-publishing an increasingly viable option for writers. 
 

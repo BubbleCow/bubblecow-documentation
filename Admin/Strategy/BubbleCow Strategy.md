@@ -1,24 +1,14 @@
 
-do an income prediction based on sign ups
 
-### BC Tasks
 
-- Realign the Pillar System
-	- Create the cheat sheet
-	- Update the list of pillars, sub-pillars and posts
-	- Ensure that all pillar articles are correctly formatted to the new system
-	- Ensure that all sub-pillar articles are correctly formatted to the new system
-	- Ensure that all posts are correctly formatted to the new system
-- Change branding
-	- Update the about page
-	- Update the template
+
 
 
 - other marketing channels - this will be based on the educational training being the marekting. people will come for the free communuity, this will seel services. This is the intial income stream and business model, paying for additional community is level two
 	- Education is a marekting channel
 	- BubbleCow Books is a marketing channel
 - branding and ethos
-	- future proof - text first
+	
 -
 
 - BC books - type of marelkting, very cheap, one kindle

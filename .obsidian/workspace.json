@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Admin/Strategy/Marketing/Branding.md",
+                "file": "Admin/Strategy/Marketing/Branding & Ethos.md",
                 "mode": "source",
                 "source": false
               },
@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Admin/Strategy/Products and Services.md",
+                "file": "Admin/Strategy/BubbleCow Strategy.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Admin/Strategy/Products and Services.md",
+                "file": "Admin/Strategy/BubbleCow Strategy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Admin/Strategy/Products and Services.md",
+                "file": "Admin/Strategy/BubbleCow Strategy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Admin/Strategy/Products and Services.md"
+                "file": "Admin/Strategy/BubbleCow Strategy.md"
               }
             }
           }
@@ -177,17 +177,18 @@
   },
   "active": "a20b58122ae51fd2",
   "lastOpenFiles": [
-    "Admin/Strategy/Future Predictions.md",
+    "Admin/Strategy/Marketing/Branding & Ethos.md",
+    "Admin/Strategy/BubbleCow Strategy.md",
     "Admin/Strategy/Products and Services.md",
+    "Admin/Strategy/Website Changes.md",
+    "Admin/Strategy/Future Predictions.md",
     "Admin/Strategy/Untitled",
-    "Admin/Strategy/Marketing/Branding.md",
     "Admin/Strategy/Marketing/Blog Post Pillar System.md",
     "Admin/Emails/Copy Editing Without Word Count.md",
     "Admin/Emails/Manuscript Assessment Without Word Count.md",
     "Admin/Emails/Initial Customer Service Emails.md",
     "Pasted image 20240305153127.png",
     "Pasted image 20240305153114.png",
-    "Admin/Strategy/Overview of BubbleCow Strategy.md",
     "Admin/Strategy/Marketing/AI Search Optimization.md",
     "Admin/Mindset/Permission Marketing.md",
     "Admin/Mindset/Modular Production of Books.md",
@@ -213,7 +214,6 @@
     "Editorial/Writers/T/Tony Farias/No I am Not a Rat/Third Edit/New Plot Ideas.md",
     "Editorial/Writers/T/Tony Farias/No I am Not a Rat/Second edit/12.md",
     "Editorial/Writers/T/Tony Farias/No I am Not a Rat/No I am Not a Rat - Rewrite Options.md",
-    "Editorial/Writers/T/Tony Farias/No I am Not a Rat/Second edit/01.md",
     "Marketing/Blog/Pillars/Book Editing/Book Editors",
     "Editorial/Reports/Developmental Editing/Fiction/Edit",
     "Editorial/Reports/Developmental Editing/Fiction/Sample",

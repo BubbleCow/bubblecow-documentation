@@ -71,56 +71,20 @@ The biggest problem we face going forward is uncertainty. Developing AI technolo
 
 - **Experimentation by design** - The coming years will be complex and constantly changing. It is essential that any business has experimentation built into its design. Only be operating a policy of an experimentation first approach can we ensure that we will not be left behind in the changing landscape.
 - **Customer led business** - Though it is essential we set out a clear direction, we must be led by customer requirements at all times. It is only by understanding how customers are using new technology and the requirement this creates that we can product suitable products and services. 
-- **Stand out** - In a world were AI will commoditize processes and systems. It means that businesses will 
-- **Opinionated and curated community** - It is essential to 
+- **Stand out** - In a world were AI will commoditize processes and systems. It means that businesses will quickly become similar. It is therefore more important than ever to make sure that you stand out from the crowd. 
+- **Opinionated and curated community** - It is essential to provide a community will a clear call to action, defined goals and obvious mindset. In a world of segmentation, only by standing out and having a clear message will you attract a group of passionate customers. 
 
+This approach can be summed up the key key points from Seth Godon's book 'Purple Cow'. 
 
-
-- experimentation by design
-- customer led products and services
-- curated and oppintaed communiyt
-
-
-stratgey
-
-- Provide a cimmunty
-	- stand out
-	- custoemr led
-	- bring perople togeather, 
-	- Offer services they needs (customer discovery)
-	- Experimetnation is built it. 
-
-ai cumminty
-
-
-dont be scares of ai, find out why?
-- not taking away your dream
-- bo point in tryibng
-- art being taken away from you
-- making you redudnant
-
-better books, more sales, more wroetres
-
-## Product and Services
-
-full service with courses and everything else
-
-
-## Marketing
-This is the approach to marketing.
- - [[AI Search Optimization]]
-### Search
-
-
-
-## Vision and Message
-
-
-Ideas (move)
-- How can I use the waiting list idea for BubbleCow products (perhaps this is a course). I think it would would for en exclusive group, say ten people. They join the waiting list and then have to meet a criteria to join the group. Then, they are offered a limited time to sign up. 
-- Consider a writing what's app group for free.
-- Create a readiness assessment for if someone is ready for their book to be edited and what service works for them.
-- Need to change the message for BubbleCow to be more about digital first. I need to give it a very clear identity, some thing I have failed to do. 
-- Move myself to more of a figure head for the business?
+1. **Be Remarkable**: Godin argues that the only way to cut through the noise of the market is to be remarkable, like a purple cow in a field of brown cows. Being remarkable means offering something truly unique and valuable that stands out from the competition.
+2. **Target Early Adopters**: Focus on the innovators and early adopters in your market, as they are more likely to try new things and spread the word to others. These individuals can provide valuable feedback and serve as evangelists for your product or service.
+3. **Create Something Worth Talking About**: The product or service itself should inspire conversation. If people are excited to talk about what you offer, you'll benefit from word-of-mouth marketing, which is more effective and less expensive than traditional advertising.
+4. **The Old Rules Don't Apply**: Godin emphasizes that the traditional marketing approach of creating average products for average people and spending heavily on advertising doesn't work in today's environment. Instead, companies should focus on creating unique products that appeal to specific niches.
+5. **Be Daring and Innovative**: Companies need to take risks and be innovative to create a purple cow. This might involve rethinking product design, distribution, or how the service is provided to make it truly remarkable.
+6. **The Product Is the Marketing**: In the era of the Purple Cow, the product or service itself becomes the main marketing tool. Its design, functionality, and user experience should be so outstanding that it naturally attracts attention and discussion.
+7. **Focus on Design and Customer Experience**: Good design and an exceptional customer experience are critical in making a product or service remarkable. They can differentiate a company in a crowded marketplace and create loyal customers.
+8. **Fail Fast and Learn**: Godin encourages businesses to try new ideas, even if they might fail. The key is to fail fast, learn from the experience, and iterate. This process of experimentation can lead to the discovery of a purple cow.
+9. **Leverage Scarcity and Exclusivity**: Making a product scarce or exclusive can add to its appeal. People are drawn to what they can't have, and this desire can make a product more remarkable.
+10. **Continuous Innovation**: Finally, Godin stresses the importance of continuous innovation. What's remarkable today may not be tomorrow, so businesses must keep evolving and pushing boundaries to stay relevant and remarkable.
 
 

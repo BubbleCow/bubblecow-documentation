@@ -1,5 +1,7 @@
 away from craft and towards storytelling
 
+ Low cost access  Low cost access to AI editorial tools will mean that the general quality of books will improve. Writers will be able to receive better and cheaper editorial support, plus help with the way in which they write. It will shift the focus away from craft and towards story telling.  This will, in turn, result in better reviews and more readers. This boost in sales will be matched with a reduction in pre-production costs making self-publishing an increasingly viable option for writers. to AI editorial tools will mean that the general quality of books will improve. Writers will be able to receive better and cheaper editorial support, plus help with the way in which they write. It will shift the focus away from craft and towards story telling.  This will, in turn, result in better reviews and more readers. This boost in sales will be matched with a reduction in pre-production costs making self-publishing an increasingly viable option for writers. 
+
 
 ## Branding Style
 To create a cohesive visual identity for a rebel archetype company serving writers, using the modified Harley-Davidson palette, here are the colors with their corresponding HEX codes, explanations of their usage, and indications of their relative importance:

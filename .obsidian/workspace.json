@@ -24,17 +24,18 @@
           {
             "id": "306112e79d88818b",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Admin/Strategy/Marketing/Branding.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "pinned": true
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Admin/Strategy/Marketing/Branding.md",
+                "file": "Admin/Strategy/Future Predictions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Admin/Strategy/Marketing/Branding.md",
+                "file": "Admin/Strategy/Future Predictions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Admin/Strategy/Marketing/Branding.md"
+                "file": "Admin/Strategy/Future Predictions.md"
               }
             }
           }
@@ -161,11 +162,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "306112e79d88818b",
+  "active": "aedb529c37fd0a5d",
   "lastOpenFiles": [
+    "Admin/Strategy/Marketing/Branding.md",
     "Admin/Strategy/Future Predictions.md",
     "Admin/Strategy/Marketing/Blog Post Pillar System.md",
-    "Admin/Strategy/Marketing/Branding.md",
     "Admin/Emails/Copy Editing Without Word Count.md",
     "Admin/Emails/Manuscript Assessment Without Word Count.md",
     "Admin/Emails/Initial Customer Service Emails.md",

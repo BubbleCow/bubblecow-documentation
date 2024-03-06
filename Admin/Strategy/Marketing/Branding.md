@@ -1,4 +1,4 @@
-away from craft and towards storytelling
+away from craft and towards storytelling - ai can't do craetivity
 
  Low cost access  Low cost access to AI editorial tools will mean that the general quality of books will improve. Writers will be able to receive better and cheaper editorial support, plus help with the way in which they write. It will shift the focus away from craft and towards story telling.  This will, in turn, result in better reviews and more readers. This boost in sales will be matched with a reduction in pre-production costs making self-publishing an increasingly viable option for writers. to AI editorial tools will mean that the general quality of books will improve. Writers will be able to receive better and cheaper editorial support, plus help with the way in which they write. It will shift the focus away from craft and towards story telling.  This will, in turn, result in better reviews and more readers. This boost in sales will be matched with a reduction in pre-production costs making self-publishing an increasingly viable option for writers. 
 

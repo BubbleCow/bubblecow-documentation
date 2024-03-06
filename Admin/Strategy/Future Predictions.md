@@ -31,12 +31,32 @@ The results of these changes will be catastrophic for BubbleCow's current busine
 
 However, BubbleCow has three important foundations that suggest that though it can't survive in its current form, it can pivot to plat a role in the next iteration of independent writers.
 
-- **Knowledge and Expertise** - BubbleCow's deep understanding of writers, what they need to create great books and how to make these books a success means they have the insight needed to change with the changeing landscape. 
+- **Knowledge and Expertise** - BubbleCow's deep understanding of writers, what they need to create great books and how to make these books a success means they have the insight needed to change with the changing landscape. 
 - **Reputation** - BubbleCow comes with fifteen plus years of solid reputation within the community. This will allow them to reposition and retain good will of writers. 
 - **First Mover Advantage** - The fact BubbleCow see these problems so far in advance is a huge competitive advantage. There is currently no indication that any other competitor is making moves to survive. 
-- **SEO** - Fifteen years of SEO means that BubbleCow have a robust marketing avenue that deispit changes will form the foundation for a new direction. 
+- **SEO** - Fifteen years of SEO means that BubbleCow have a robust marketing avenue that despite changes will form the foundation for a new direction. 
 ## New Direction
+The editorial marketplace will be different from other markets in that the very service they offer will be transformed by AI. However, though AI will create tools it [will not change the 'shape' publishing landscape](https://longform.asmartbear.com/ai-startups/). In fact, AI will assist writers in creating better books. So rather then kill the independent writing space it will reinvigorate it.
 
+This creates opportunity. 
+
+The skill comes in understanding where this opportunity lies. In the past fifteen years the focus has been on craft. It has been operating in the space between a writer's ambitions and their ability. The writing marketplace has been teaching writers to write. This is no longer a futile hunting ground since AI will provide the tools needed for writers to lift their books to a publishable standard at little to no cost.  AI will help revolutionize systems. It will make complex and important tasks easy, cheap, and better. 
+
+The opportunity now lies in the places where [AI can't operate](https://bigthink.com/the-future/what-ai-cannot-do/). 
+
+1. **Creativity.** AI cannot create, conceptualize, or plan strategically. While AI is great at optimizing for a narrow objective, it is unable to choose its own goals or to think creatively. Nor can AI think across domains or apply common sense.
+2. **Empathy.** AI cannot feel or interact with feelings like empathy and compassion. Therefore, AI cannot make another person feel understood and cared for. Even if AI improves in this area, it will be extremely difficult to get the technology to a place where humans feel comfortable interacting with robots in situations that call for care and empathy, or what we might call “human-touch services.”
+3. **Dexterity.** AI and robotics cannot accomplish complex physical work that requires dexterity or precise hand-eye coordination. AI can’t deal with unknown and unstructured spaces, especially ones that it hasn’t observed.
+
+This leaves two areas in the book publishing process.
+
+The first is the **creative process**. It is clear that though AI will help with the craft, the process of creating and telling stories remains a human driven part of the writing process. 
+
+The second is developing **communities**. In a world where all information will be available at all times knowing what you don't know and understanding the correct questions to asked becomes essential. This is where **guided and curated communities** come into play. These are selected groups of motivated people that are place in a situation where they can:
+
+- Develop deep human connections with link minded people. 
+- Access curated information at the correct moments in their creative journey. 
+- Operate in an environment where they have the freedom to ask the questions that need to maximize their creativity. 
 
 
 This means that though the need for editorial services will reduce the writing community will flourish. I feel that BubbleCow needs to pivot away from editorial services and towards elements that AI can't provide. 

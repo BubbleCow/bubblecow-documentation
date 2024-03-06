@@ -1,6 +1,14 @@
 > [!info]
 > This section outlines the branding and ethos for the new look BubbleCow
 
+## Demoncratsation of Pulbishing
+. Bubblecow belives in the democrtasation of publishing. It believes that every book has an audience and every writer shoudl have the chance to share thier work. They don't believe that this work should be gatekeeping by a publisher. BubbleCow bleibe that it shoudl eb readers that choice what they want to reader. We believ that writers have a duty to create the best books possible but beyond that it shoudl eb the reader, not the publisher that decide success. It shoudl eb the best stoires that are read, not the best marketed. Publishers are killing writers not lifting them up
+
+ The biggets problem BubbleCow have faced is convincing writers that publishers don't have a writer's best interst at heart. It is showing writers that publishers are lying to them and the chances of them being a success are tiny. Spreadin gthe message that there is a different way to do thing has been hard since publishers doini't want writers to knwo this. 
+## Future
+
+ Out goal for the future is to help a new generateion of writers to become a succes. we want to see a world when all writers are created equal and each book is taken on its merits. We want to see a world where writers can devleop a readership that wuiull allow them to create a long term sustainable writing career. 
+ 
 ## Best-seller Model
 **Traditional publishing follows the bestseller model, which BubbleCow believes fundamentally damages a writers change of being a success.** 
 
@@ -16,35 +24,37 @@ Whilst it is in the publishers best interest to find as many new and exciting ti
 
 Over the years, publishers have perpetrated the myth of the bestselling author despite the fact that very few writers make enough money from traditional book sales to make writing a full time career.  
 ## Reverse Publishing
-One way to think about the traditional publishing model is that they will publish books and seek out readers. 
+One way to think about the traditional publishing model is that they publish books and then seek out readers. This is a wasteful approach to publishing. It means that publishers require a large number of books that will, ultimately, be unsuccessful.
 
 There is another model. 
 
-This is the reverse process where a writer finds the readers first and then creates the books they want to read. 
+This is the reverse process where a writer finds the readers first and then creates the books they want to read. This process requires writers to be fully connected with their readership, possessing an intimate understanding of what these readers want and enjoy. The writer will then create books for this readership. If done correctly, the readers will be waiting for the book, almost guaranteeing success. 
+
+It is important to note that writers are not writing what they are told, they are, instead, writing the books that readers are keen to read. 
 
 
 
 
-books and readers
+## Craft it dead Storytelling is king
+- craft and storytelling are sepearte
+- In the past a writer had to leanr thier craft. Most writers had to spend equal time of craft and stort. 
+- Ai tools will make craft second nature
+- A writer must focus on story telling. 
+- Only the best stories will life from the crowd. 
 
-away from craft and towards storytelling - ai can't do craetivity
+## Word and Format are Separate
+- Software changes and it is too easy to get sucked into the latest trend. 
+- Plain text will never change. 
+- Also plain text will also be able to be converted. 
+- Delievery systesm requir4e different formattign anf styling
+- These shoudl all be kept speatre. 
+- Write in plain text. 
 
- future proof - text first
+## AI will Bring Better Books
+Low cost access to AI editorial tools will mean that the general quality of books will improve. Writers will be able to receive better and cheaper editorial support, plus help with the way in which they write. It will shift the focus away from craft and towards story telling.  This will, in turn, result in better reviews and more readers. This boost in sales will be matched with a reduction in pre-production costs making self-publishing an increasingly viable option for writers. to AI editorial tools will mean that the general quality of books will improve. Writers will be able to receive better and cheaper editorial support, plus help with the way in which they write. It will shift the focus away from craft and towards story telling.  This will, in turn, result in better reviews and more readers. This boost in sales will be matched with a reduction in pre-production costs making self-publishing an increasingly viable option for writers. 
 
- Low cost access  Low cost access to AI editorial tools will mean that the general quality of books will improve. Writers will be able to receive better and cheaper editorial support, plus help with the way in which they write. It will shift the focus away from craft and towards story telling.  This will, in turn, result in better reviews and more readers. This boost in sales will be matched with a reduction in pre-production costs making self-publishing an increasingly viable option for writers. to AI editorial tools will mean that the general quality of books will improve. Writers will be able to receive better and cheaper editorial support, plus help with the way in which they write. It will shift the focus away from craft and towards story telling.  This will, in turn, result in better reviews and more readers. This boost in sales will be matched with a reduction in pre-production costs making self-publishing an increasingly viable option for writers. 
-
-
-
-
-1. BubbleCow sets itself aside from the mainstream by suggesting that wriers shoudl rejected the bestseller model of traditional publisghers, where 80% of writers are dsigarded, in favour of creating books for readers. We feel writers shoudl define thier own success and ignore what they are told by society. Ona day-to-day basis we provide writers with the tools, serverices, products and education that they need to make thier books a success without the help of publishers. 
-   2. The target market is split into people thinking about writing a book, though that are writing and need help, those preapre thier books fro publication for the first time and those that have establised a writing carerr but are looking for more. 
-   3. We provide a complete solution, we are a community and way ot thinking more than a service. We focus on mindset and approach, as well as proviidng the tools and education needed fro success. 
-   4. na
-   5. Bubblecow belives in the democrtasation of publishing. It believes that every book has an audience and every writer shoudl have the chance to share thier work. They don't believe that this work should be gatekeeping by a publisher. BubbleCow bleibe that it shoudl eb readers that choice what they want to reader. We believ that writers have a duty to create the best books possible but beyond that it shoudl eb the reader, not the publisher that decide success. It shoudl eb the best stoires that are read, not the best marketed. 
-   6. Out goal for the future is to help a new generateion of writers to become a succes. we want to see a world when all writers are created equal and each book is taken on its merits. We want to see a world where writers can devleop a readership that wuiull allow them to create a long term sustainable writing career. 
-   7. The biggets problem BubbleCow have faced is convincing writers that publishers don't have a writer's best interst at heart. It is showing writers that publishers are lying to them and the chances of them being a success are tiny. Spreadin gthe message that there is a different way to do thing has been hard since publishers doini't want writers to knwo this. 
-   8. BubbleCow aims to build comminties of likeminded writers. We beliebe in openess, transparaty and coolbaration. Only being group totgwtaher cna we learn how to gorw and being better wrieres and an every changing pulbishign landscape.
-   9. BubbleCow is oobbessed by using technologoy yo help make a book a success. they will never shy away from a humna led creative process, but they beivblie tchnologies such as AI make writers better and more successfull
+## Better as a community 
+We are better as a group of likeminded people. Only by taking on and defining solid indepenbdant publishging proicates can we fight about a publishing system that it designed to see us fail. We must define and play by new rules. We can never win playing the publoishings rules. 
 
 ## Branding Style
 To create a cohesive visual identity for a rebel archetype company serving writers, using the modified Harley-Davidson palette, here are the colors with their corresponding HEX codes, explanations of their usage, and indications of their relative importance:

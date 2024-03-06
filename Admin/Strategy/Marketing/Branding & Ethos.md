@@ -14,10 +14,18 @@ The publishing process then becomes a system of publishing potential bestseller 
 
 Whilst it is in the publishers best interest to find as many new and exciting titles, this is not in the best interest of the writer. Only a fraction of books will be a success and if a writers is not part of this story, their book will be quickly rejected and left to rot. 
 
-Over the years, publishers have p
+Over the years, publishers have perpetrated the myth of the bestselling author despite the fact that very few writers make enough money from traditional book sales to make writing a full time career.  
+## Reverse Publishing
+One way to think about the traditional publishing model is that they will publish books and seek out readers. 
+
+There is another model. 
+
+This is the reverse process where a writer finds the readers first and then creates the books they want to read. 
 
 
 
+
+books and readers
 
 away from craft and towards storytelling - ai can't do craetivity
 

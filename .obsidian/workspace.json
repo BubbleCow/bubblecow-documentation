@@ -36,24 +36,12 @@
             }
           },
           {
-            "id": "0a46013bf62f3960",
+            "id": "5e89e783d591db37",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "234a9fd80ba29795",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Admin/Strategy/Community.md",
+                "file": "Publishing/Writing Manual/00.md",
                 "mode": "source",
                 "source": false
               }
@@ -126,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Publishing/Writing Manual/00.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "Publishing/Writing Manual/00.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "Publishing/Writing Manual/00.md"
               }
             }
           }
@@ -187,10 +175,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0a46013bf62f3960",
+  "active": "5e89e783d591db37",
   "lastOpenFiles": [
+    "Publishing/Writing Manual/02.md",
+    "Publishing/Writing Manual/03.md",
+    "Publishing/Writing Manual/01.md",
     "Admin/Strategy/Marketing/Branding & Ethos.md",
+    "Publishing/Writing Manual/00.md",
+    "Images/Pasted image 20231127073437.png",
+    "Publishing/Writing Manual",
+    "Publishing",
     "Untitled.md",
+    "Images",
     "Admin/Strategy/Community.md",
     "Marketing/Blog/Pillars/BubbleCow Pillar Strategy.md",
     "Admin/Strategy/Income Predictions.md",
@@ -203,8 +199,8 @@
     "Admin/Strategy/Marketing/Blog Post Pillar System.md",
     "Admin/Emails/Manuscript Assessment Without Word Count.md",
     "Admin/Emails/Initial Customer Service Emails.md",
-    "Pasted image 20240305153127.png",
-    "Pasted image 20240305153114.png",
+    "Images/Pasted image 20240305153127.png",
+    "Images/Pasted image 20240305153114.png",
     "Admin/Strategy/Marketing/AI Search Optimization.md",
     "Admin/Mindset/Permission Marketing.md",
     "Admin/Mindset/Modular Production of Books.md",
@@ -217,20 +213,12 @@
     "Editorial/Reports/Manuscript Assessment/Sample - Editors Report - Manuscript Assessment -BubbleCow.md",
     "Marketing/Blog/Blog Post Formatting.md",
     "Editorial/Reports/Manuscript Assessment",
-    "Admin/Emails/Copy Editing with Word Count.md",
-    "Pasted image 20231127073437.png",
-    "Pasted image 20231127104925.png",
-    "Pasted image 20231127104435.png",
-    "Marketing/Blog/Search Quality Evaluator Guidelines.md",
-    "Pasted image 20240301090501.png",
-    "Editorial/Writers/T/Tony Farias/No I am Not a Rat/Second edit/000.md",
+    "Images/Pasted image 20231127104925.png",
+    "Images/Pasted image 20231127104435.png",
+    "Images/Pasted image 20240301090501.png",
     "Admin/Strategy",
-    "Editorial/Writers/T/Tony Farias/No I am Not a Rat/Second edit/00.md",
     "Marketing/Blog/Pillars/Book Editing/Book Editors",
     "Editorial/Reports/Developmental Editing/Fiction/Edit",
-    "Editorial/Reports/Developmental Editing/Fiction/Sample",
-    "Editorial/Writers/C/Cy Tid/Spaceballs/Developmental Editing/spaceball_bubblecow_developmental_edit.docx",
-    "Editorial/Writers/C/Cy Tid/Spaceballs/Developmental Editing",
     "Editorial/Writers/P/Pawel Guziejko/Coaching Book/De.canvas",
     "Admin/Images/Pasted image 20240204133232.png",
     "Editorial/Writers/R/Robyn Atkinson/Canche Gringa/Developmental Editing/Untitled.canvas"

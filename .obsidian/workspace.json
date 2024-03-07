@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Admin/Strategy/Marketing/Branding & Ethos.md",
+                "file": "Admin/Emails/Copy Editing Without Word Count.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Admin/Strategy/Marketing/Branding & Ethos.md",
+                "file": "Admin/Emails/Copy Editing Without Word Count.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Admin/Strategy/Marketing/Branding & Ethos.md",
+                "file": "Admin/Emails/Copy Editing Without Word Count.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Admin/Strategy/Marketing/Branding & Ethos.md"
+                "file": "Admin/Emails/Copy Editing Without Word Count.md"
               }
             }
           }
@@ -177,9 +177,9 @@
   },
   "active": "a20b58122ae51fd2",
   "lastOpenFiles": [
+    "Admin/Strategy/Marketing/Branding & Ethos.md",
     "Admin/Strategy/BubbleCow Strategy.md",
     "Admin/Strategy/Income Predictions.md",
-    "Admin/Strategy/Marketing/Branding & Ethos.md",
     "Admin/Strategy/Products and Services.md",
     "Admin/Strategy/Website Changes.md",
     "Admin/Strategy/Future Predictions.md",

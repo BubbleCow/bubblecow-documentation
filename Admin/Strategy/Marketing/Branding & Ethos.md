@@ -1,6 +1,49 @@
 > [!info]
 > This section outlines the branding and ethos for the new look BubbleCow
 
+
+Many independent authors fail before they even start. You just have to look at forums, social and other small communities to find writers asking questions that show they are set up to fail. You will also seeing questions like 'how do I market my book?', 'what is the best genre to write?' or 'how do I get my books into books shops?'
+
+Here's the problem. 
+
+These authors are playing the wrong game. 
+
+In fact, these authors are playing a game they can never win. They are doomed to fail from the start. 
+
+The thing is, I don't blame them. Hell, when I first start my career in publishing I used to think the same. 
+
+If you look at the book marketplace and base your approach to success on bestsellers, these questions all make sense. In fact, these questions, and other similar questions, are essential to ask. 
+
+Its easy to think that if you get the right marketing platform, or build the correct social media campaign, or pick the best genre, you are firing your book to success. 
+
+After all, that's how its done, right?
+
+That's how J.K. Rowling started or Sarah Mass or which ever traditionally punished writer is currently a break out success. 
+
+Surely if you look at what made them a success and simply reverse engineer the process your book will also be a success. 
+
+You don't even need to be a hug bestseller, just 10% of the success will change your life, make you a 'real' writer, put cash in the bank.
+
+But here's the secret that the publishers don't want you to know. 
+
+It doesn't work. 
+
+There has never been a independent author that has become an international bestseller. Not on their own. Yes, there's been books that started out idie and when on to become a bestseller, but only with the help of an publishers. Just take a look at MARTIAN. 
+
+So, is that it?
+
+Are you screwed? 
+
+Do you stand no change? 
+
+Well... NO! It is possible to be a successful independent author. There's thousands of independent writers whose books are have a success by anyone's standards. 
+
+But to make this happen you must start my taking one simple step. 
+
+You must reject the rules of the traditional publishing world and start to follow your own path. 
+
+Only by doing this will you give you book a chance of success. 
+
 ## Demoncratsation of Pulbishing
 . Bubblecow belives in the democrtasation of publishing. It believes that every book has an audience and every writer shoudl have the chance to share thier work. They don't believe that this work should be gatekeeping by a publisher. BubbleCow bleibe that it shoudl eb readers that choice what they want to reader. We believ that writers have a duty to create the best books possible but beyond that it shoudl eb the reader, not the publisher that decide success. It shoudl eb the best stoires that are read, not the best marketed. Publishers are killing writers not lifting them up
 
@@ -23,6 +66,8 @@ The publishing process then becomes a system of publishing potential bestseller 
 Whilst it is in the publishers best interest to find as many new and exciting titles, this is not in the best interest of the writer. Only a fraction of books will be a success and if a writers is not part of this story, their book will be quickly rejected and left to rot. 
 
 Over the years, publishers have perpetrated the myth of the bestselling author despite the fact that very few writers make enough money from traditional book sales to make writing a full time career.  
+
+findiances - rights etc.
 ## Reverse Publishing
 One way to think about the traditional publishing model is that they publish books and then seek out readers. This is a wasteful approach to publishing. It means that publishers require a large number of books that will, ultimately, be unsuccessful.
 
@@ -61,6 +106,11 @@ Low cost access to AI editorial tools will mean that the general quality of book
 ## Better as a community 
 We are better as a group of likeminded people. Only by taking on and defining solid indepenbdant publishging proicates can we fight about a publishing system that it designed to see us fail. We must define and play by new rules. We can never win playing the publishing rules. 
 
+
+multiople books
+
+
+series
 ## Branding Style
 To create a cohesive visual identity for a rebel archetype company serving writers, using the modified Harley-Davidson palette, here are the colors with their corresponding HEX codes, explanations of their usage, and indications of their relative importance:
 

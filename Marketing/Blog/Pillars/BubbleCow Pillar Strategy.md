@@ -375,7 +375,7 @@ These are ideas for new pillars to consider.
 
 World building
 
-
+legal aspects - copy right  ++ images
 
 
 

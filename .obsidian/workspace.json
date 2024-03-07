@@ -36,7 +36,19 @@
             }
           },
           {
-            "id": "0daa2a77082ab042",
+            "id": "0a46013bf62f3960",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "234a9fd80ba29795",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -46,21 +58,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "90c1c6155579d52f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Admin/Strategy/Income Predictions.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Admin/Strategy/Income Predictions.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Admin/Strategy/Income Predictions.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Admin/Strategy/Income Predictions.md"
+                "file": "Untitled.md"
               }
             }
           }
@@ -187,13 +187,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "90c1c6155579d52f",
+  "active": "0a46013bf62f3960",
   "lastOpenFiles": [
     "Admin/Strategy/Marketing/Branding & Ethos.md",
+    "Untitled.md",
     "Admin/Strategy/Community.md",
+    "Marketing/Blog/Pillars/BubbleCow Pillar Strategy.md",
+    "Admin/Strategy/Income Predictions.md",
     "Admin/Strategy/Products and Services.md",
     "Admin/Strategy/Website Changes.md",
-    "Admin/Strategy/Income Predictions.md",
     "Admin/Emails/Copy Editing Without Word Count.md",
     "Admin/Strategy/BubbleCow Strategy.md",
     "Admin/Strategy/Future Predictions.md",
@@ -219,13 +221,11 @@
     "Pasted image 20231127073437.png",
     "Pasted image 20231127104925.png",
     "Pasted image 20231127104435.png",
-    "Marketing/Blog/Pillars/BubbleCow Pillar Strategy.md",
     "Marketing/Blog/Search Quality Evaluator Guidelines.md",
     "Pasted image 20240301090501.png",
     "Editorial/Writers/T/Tony Farias/No I am Not a Rat/Second edit/000.md",
     "Admin/Strategy",
     "Editorial/Writers/T/Tony Farias/No I am Not a Rat/Second edit/00.md",
-    "Editorial/Writers/T/Tony Farias/No I am Not a Rat/Third Edit/New Plot Ideas.md",
     "Marketing/Blog/Pillars/Book Editing/Book Editors",
     "Editorial/Reports/Developmental Editing/Fiction/Edit",
     "Editorial/Reports/Developmental Editing/Fiction/Sample",

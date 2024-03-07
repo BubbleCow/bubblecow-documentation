@@ -33,6 +33,11 @@ This is the reverse process where a writer finds the readers first and then crea
 It is important to note that writers are not writing what they are told, they are, instead, writing the books that readers are keen to read. 
 
 
+## Amazon First
+This is an opinionated approach but it argues you are better to have one platform you can control and focus. [This suggests that you are getting 80% of the market](https://booksliced.com/books/the-exact-ebook-market-shares-of-the-major-players-in-the-industry-are-rather-difficult-to-come-by-but-here-are-some-esitmates/#:~:text=According%20to%20writer%20Max%20Lakin,eBooks%20is%20Barnes%20and%20Noble.). 
+
+Staying on Amazon also means you get access to Kindle Unlimited/ 
+
 
 
 ## Craft it dead Storytelling is king

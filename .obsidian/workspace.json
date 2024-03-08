@@ -34,21 +34,9 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "5e89e783d591db37",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Publishing/Writing Manual/00.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -114,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Publishing/Writing Manual/00.md",
+                "file": "Admin/Strategy/Marketing/Branding & Ethos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Publishing/Writing Manual/00.md",
+                "file": "Admin/Strategy/Marketing/Branding & Ethos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Publishing/Writing Manual/00.md"
+                "file": "Admin/Strategy/Marketing/Branding & Ethos.md"
               }
             }
           }
@@ -175,13 +163,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5e89e783d591db37",
+  "active": "306112e79d88818b",
   "lastOpenFiles": [
-    "Publishing/Writing Manual/02.md",
+    "Publishing/Writing Manual/00.md",
     "Publishing/Writing Manual/03.md",
+    "Publishing/Writing Manual/02.md",
     "Publishing/Writing Manual/01.md",
     "Admin/Strategy/Marketing/Branding & Ethos.md",
-    "Publishing/Writing Manual/00.md",
     "Images/Pasted image 20231127073437.png",
     "Publishing/Writing Manual",
     "Publishing",

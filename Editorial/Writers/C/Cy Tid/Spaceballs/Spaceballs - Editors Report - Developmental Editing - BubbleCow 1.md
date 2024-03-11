@@ -120,4 +120,4 @@ Visits Kornerstone looking for players. Fight.
 - Good chapter but there are a few places where you need to add in a little more description to help control the pace.  
 ### Chapter 6
 Gets death threat. Makes a deal. Spaceship appears. 
-- Go
+- As with the previous chapter your writing would benefit from more location description to help with world building. You don't need a lot but enough to add flavour would really help. 

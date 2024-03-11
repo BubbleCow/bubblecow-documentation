@@ -4,51 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "030b956eda24c87b",
+        "id": "d5c2990168f62b20",
         "type": "tabs",
         "children": [
           {
-            "id": "aedb529c37fd0a5d",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Admin/Strategy/Future Predictions.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "306112e79d88818b",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Admin/Strategy/Marketing/Branding & Ethos.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "8975c2dbf867937e",
+            "id": "ed57f60b5b79e0a3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Publishing/Writing Manual/03.md",
+                "file": "Editorial/Writers/C/Cy Tid/Spaceballs/Spaceballs - Editors Report - Developmental Editing - BubbleCow 1.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -114,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Publishing/Writing Manual/03.md",
+                "file": "Editorial/Writers/C/Cy Tid/Spaceballs/Spaceballs - Editors Report - Developmental Editing - BubbleCow 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Publishing/Writing Manual/03.md",
+                "file": "Editorial/Writers/C/Cy Tid/Spaceballs/Spaceballs - Editors Report - Developmental Editing - BubbleCow 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Publishing/Writing Manual/03.md"
+                "file": "Editorial/Writers/C/Cy Tid/Spaceballs/Spaceballs - Editors Report - Developmental Editing - BubbleCow 1.md"
               }
             }
           }
@@ -175,11 +146,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8975c2dbf867937e",
+  "active": "ed57f60b5b79e0a3",
   "lastOpenFiles": [
     "Admin/Strategy/Marketing/Branding & Ethos.md",
-    "Publishing/Writing Manual/00.md",
     "Publishing/Writing Manual/03.md",
+    "Publishing/Writing Manual/00.md",
     "Publishing/Writing Manual/02.md",
     "Publishing/Writing Manual/01.md",
     "Images/Pasted image 20231127073437.png",

@@ -121,3 +121,6 @@ Visits Kornerstone looking for players. Fight.
 ### Chapter 6
 Gets death threat. Makes a deal. Spaceship appears. 
 - As with the previous chapter your writing would benefit from more location description to help with world building. You don't need a lot but enough to add flavour would really help. 
+### Chapter 7
+Try outs. 
+- The arena is OK but it needs more description. You are building a brand new world for the reader and that means more focus on the elements that are now and different. If you are able to provide more description, they will be able to picture the scene in their mind's eye. 

@@ -95,6 +95,8 @@ This section contains specific feedback about elements of your book that are imm
 	- Improve the world building in each chapter so the reader is getting more of a feel for the world as they read. 
 	- Make sure that there is a clear but different reason for each person to join the team. In each case the main character must have the find the reason and motivation to make the player say yes. 
 - In the Luci chapter, I want you to do it differently. Rather than passing the backstory of the wedding and affair via narration, pass it via speech. I would have her attack the main character and then start to reveal that they are married via the interaction between the two people. If you are struggling to fill in the blanks, you can have a third character witness the events and ask questions that allow you to further fill in the information. This way the scene becomes much more engaging. The reader is discovering the backstory as it is slowly revealed. 
+
+try to avoid the use of physicla breaks in chapter if possible
 ## Chapter Feedback
 This section contains specific feedback about your chapters. This feedback is in addition to the Specific Feedback.  
 ### Chapter 1
@@ -122,5 +124,6 @@ Visits Kornerstone looking for players. Fight.
 Gets death threat. Makes a deal. Spaceship appears. 
 - As with the previous chapter your writing would benefit from more location description to help with world building. You don't need a lot but enough to add flavour would really help. 
 ### Chapter 7
-Try outs. 
+Try outs. Captain Bartholomew. using mines.  Laura. 
 - The arena is OK but it needs more description. You are building a brand new world for the reader and that means more focus on the elements that are now and different. If you are able to provide more description, they will be able to picture the scene in their mind's eye. 
+- This chapter has several breaks. This is not 'wrong' but it would be better to reduce the number if possible. The best way to do this is to make each section longer and try to combome t

@@ -116,5 +116,5 @@ Finds Kissy Kissy.
 Gets shot. Hospital. Bucky getting married. Mall. 
 - In this chapter, I would try to avoid the jump forward in time. Instead, I would have him pass out after being shot and then wake up after treatment. You can add world building for the hospital and then have him meet Bucky. 
 ### Chapter 5
-Visits Kornerstone. 
+Visits Kornerstone looking for players. 
 - In this

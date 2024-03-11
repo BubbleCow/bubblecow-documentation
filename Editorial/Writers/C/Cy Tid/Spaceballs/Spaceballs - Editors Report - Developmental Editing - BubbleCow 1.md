@@ -124,6 +124,9 @@ Visits Kornerstone looking for players. Fight.
 Gets death threat. Makes a deal. Spaceship appears. 
 - As with the previous chapter your writing would benefit from more location description to help with world building. You don't need a lot but enough to add flavour would really help. 
 ### Chapter 7
-Try outs. Captain Bartholomew. using mines.  Laura. 
+Try outs. Captain Bartholomew. using mines.  Laura. Deadly sex robot. Try to kill the coach. 
 - The arena is OK but it needs more description. You are building a brand new world for the reader and that means more focus on the elements that are now and different. If you are able to provide more description, they will be able to picture the scene in their mind's eye. 
-- This chapter has several breaks. This is not 'wrong' but it would be better to reduce the number if possible. The best way to do this is to make each section longer and try to combome t
+- This chapter has several breaks. This is not 'wrong' but it would be better to reduce the number if possible. The best way to do this is to make each section longer and try to combine the sections. An alternative would be to split the sections into their own chapters. The risk you run by doing this is that you produce a lot of small chapters, which leaves the book feeling disjointed. 
+### Chapter 8
+Try 
+- Th

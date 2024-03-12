@@ -133,5 +133,5 @@ Worries about the crates. Dexter. Kicking the ball.
 - There is a moment in this chapter where it is possible to describe the spaceball court without seemingly being forced. I have indicated the section and suggest you expand the description. 
 - I wondered if you could add is a small sub-plot where they try to keep the horny teenager away from the sex robot. Perhaps he obsessed with her breasts. You would have to not make it overtly sexual but you could make it more playful. 
 ### Chapter 9
-Room. Jint. 
-- I am tryi
+Room. Jint, then Laura shows up. 
+- This is a good chapter, the dialogue is excellent and it really pulls the reader through the story. 

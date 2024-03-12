@@ -130,3 +130,4 @@ Try outs. Captain Bartholomew. using mines.  Laura. Deadly sex robot. Try to kil
 ### Chapter 8
 Worries about the crates. Dexter.
 - I am trying to reduce the number of breaks. I feel they are excessive and not really needed. I think it is better to have once consistent chapter where possible. 
+- There is a moment in this chapter where it is possible to describe the spaceball court without seemingly being forced. I have indicated the section and suggest you expand the description. 

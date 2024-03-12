@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "d5c2990168f62b20",
+        "id": "94c9f67595a955ea",
         "type": "tabs",
         "children": [
           {
-            "id": "ed57f60b5b79e0a3",
+            "id": "4cf771dbb08e71dd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Admin/Emails/Copy Editing Without Word Count.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Admin/Emails/Copy Editing Without Word Count.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Admin/Emails/Copy Editing Without Word Count.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Admin/Emails/Copy Editing Without Word Count.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,8 +138,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ed57f60b5b79e0a3",
+  "active": "4cf771dbb08e71dd",
   "lastOpenFiles": [
+    "Admin/Emails/Copy Editing Without Word Count.md",
     "Editorial/Writers/C/Cy Tid/Spaceballs/Spaceballs - Editors Report - Developmental Editing - BubbleCow 1.md",
     "Admin/Strategy/Marketing/Branding & Ethos.md",
     "Publishing/Writing Manual/03.md",
@@ -164,7 +157,6 @@
     "Admin/Strategy/Income Predictions.md",
     "Admin/Strategy/Products and Services.md",
     "Admin/Strategy/Website Changes.md",
-    "Admin/Emails/Copy Editing Without Word Count.md",
     "Admin/Strategy/BubbleCow Strategy.md",
     "Admin/Strategy/Future Predictions.md",
     "Admin/Strategy/Untitled",

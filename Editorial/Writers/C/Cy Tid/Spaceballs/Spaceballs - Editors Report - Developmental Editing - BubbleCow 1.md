@@ -128,5 +128,5 @@ Try outs. Captain Bartholomew. using mines.  Laura. Deadly sex robot. Try to kil
 - The arena is OK but it needs more description. You are building a brand new world for the reader and that means more focus on the elements that are now and different. If you are able to provide more description, they will be able to picture the scene in their mind's eye. 
 - This chapter has several breaks. This is not 'wrong' but it would be better to reduce the number if possible. The best way to do this is to make each section longer and try to combine the sections. An alternative would be to split the sections into their own chapters. The risk you run by doing this is that you produce a lot of small chapters, which leaves the book feeling disjointed. 
 ### Chapter 8
-Try 
-- Th
+Worries about the crates. Dexter.
+- I am trying to reduce the number of breaks. I feel they are excessive and not really needed. I think it is better to have once consistent chapter where possible. 

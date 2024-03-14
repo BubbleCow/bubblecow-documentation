@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Editorial/Writers/C/Cy Tid/Spaceballs/Spaceballs - Editors Report - Developmental Editing - BubbleCow 1.md",
+                "file": "Publishing/Writing Manual/12.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Editorial/Writers/C/Cy Tid/Spaceballs/Spaceballs - Editors Report - Developmental Editing - BubbleCow 1.md",
+                "file": "Publishing/Writing Manual/12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Editorial/Writers/C/Cy Tid/Spaceballs/Spaceballs - Editors Report - Developmental Editing - BubbleCow 1.md",
+                "file": "Publishing/Writing Manual/12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Editorial/Writers/C/Cy Tid/Spaceballs/Spaceballs - Editors Report - Developmental Editing - BubbleCow 1.md"
+                "file": "Publishing/Writing Manual/12.md"
               }
             }
           }
@@ -148,8 +148,8 @@
   },
   "active": "4cf771dbb08e71dd",
   "lastOpenFiles": [
-    "Admin/Emails/Copy Editing Without Word Count.md",
     "Editorial/Writers/C/Cy Tid/Spaceballs/Spaceballs - Editors Report - Developmental Editing - BubbleCow 1.md",
+    "Admin/Emails/Copy Editing Without Word Count.md",
     "Admin/Strategy/Marketing/Branding & Ethos.md",
     "Publishing/Writing Manual/03.md",
     "Publishing/Writing Manual/00.md",

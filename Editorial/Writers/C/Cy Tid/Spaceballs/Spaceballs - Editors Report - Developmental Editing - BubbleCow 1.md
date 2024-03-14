@@ -146,5 +146,9 @@ Maurice. Contract.
 Team talk. New suit. Dexter. Memory.
 - Good chapter. There are a few places where adding in extra location description will help to control the pace, allow the reader to connect and also help with world-building. 
 ### Chapter 12
-Spaceball field. Puts on suit. 
+Spaceball field. Puts on suit. Game.
 - Describing sports events is notoriously difficult. Therefore, you need to start describing the field and contestants as soon and in as much detail as possible. From the first moment you need to be establishing the location and then adjusting on a regular basis. This way, the reader can keep up with the changing scene. 
+- This chapter has a lot of breaks, I have tried to reduce these as much as possible. It would be better if you were able to reduce as many of the breaks as you can, since this helps the chapter to flow. 
+### Chapter 13
+Spame.
+- Descr

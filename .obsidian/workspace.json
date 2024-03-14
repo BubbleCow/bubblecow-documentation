@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "94c9f67595a955ea",
+        "id": "8b8e88d81f196ff4",
         "type": "tabs",
         "children": [
           {
-            "id": "4cf771dbb08e71dd",
+            "id": "20374fad4cecd7d3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Admin/Strategy/Marketing/Blog Post Pillar System.md",
+                "file": "Editorial/Writers/C/Cy Tid/Spaceballs/Spaceballs - Editors Report - Developmental Editing - BubbleCow 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Admin/Strategy/Marketing/Blog Post Pillar System.md",
+                "file": "Editorial/Writers/C/Cy Tid/Spaceballs/Spaceballs - Editors Report - Developmental Editing - BubbleCow 1.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Admin/Strategy/Marketing/Blog Post Pillar System.md",
+                "file": "Editorial/Writers/C/Cy Tid/Spaceballs/Spaceballs - Editors Report - Developmental Editing - BubbleCow 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Admin/Strategy/Marketing/Blog Post Pillar System.md"
+                "file": "Editorial/Writers/C/Cy Tid/Spaceballs/Spaceballs - Editors Report - Developmental Editing - BubbleCow 1.md"
               }
             }
           }
@@ -146,8 +146,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4cf771dbb08e71dd",
+  "active": "341fb5c098c93da7",
   "lastOpenFiles": [
+    "Admin/Strategy/Marketing/Blog Post Pillar System.md",
     "Publishing/Writing Manual/12.md",
     "Editorial/Writers/C/Cy Tid/Spaceballs/Spaceballs - Editors Report - Developmental Editing - BubbleCow 1.md",
     "Admin/Emails/Copy Editing Without Word Count.md",
@@ -169,7 +170,6 @@
     "Admin/Strategy/BubbleCow Strategy.md",
     "Admin/Strategy/Future Predictions.md",
     "Admin/Strategy/Untitled",
-    "Admin/Strategy/Marketing/Blog Post Pillar System.md",
     "Admin/Emails/Manuscript Assessment Without Word Count.md",
     "Admin/Emails/Initial Customer Service Emails.md",
     "Images/Pasted image 20240305153127.png",

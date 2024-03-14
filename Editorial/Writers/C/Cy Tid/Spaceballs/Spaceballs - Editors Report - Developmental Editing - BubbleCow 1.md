@@ -90,6 +90,10 @@ First-person.
 ## Strengths and Weaknesses
 This section contains specific feedback about elements of your book that are immediately actionable. I have strived not only to explain any problems I have encountered but also to provide at least one solution you can apply to your book. 
 
+
+- Build more tension, I wanted there to be a very solid reason why he had to become a coach. I wanted you to outline the cost of success and failure. The reader must understand from the start what the main characetr wants, what he thingks he must overcome to achieve it and the cost of filaure. 
+- In Chapter 10 he signs a contract, there should be an element in the contract that intensifes the comnflict and tension, a cluase that ups the stakes and adds more tension overall.
+
 - importance of location descrtipion in world building - start small and buuld out. 
 - Chapter 2 - this is made up of a number of sections, each with him looking for a new player. I wanted you to do something a little different. I wanted each of these sections to be a new chapter. However, you need to...
 	- Improve the world building in each chapter so the reader is getting more of a feel for the world as they read. 
@@ -135,3 +139,9 @@ Worries about the crates. Dexter. Kicking the ball.
 ### Chapter 9
 Room. Jint, then Laura shows up. 
 - This is a good chapter, the dialogue is excellent and it really pulls the reader through the story. 
+### Chapter 10
+Maurice. Contract. 
+- I wanted there to be something in the contract that would create more tension, see my notes above. I would have him sign the contract to ramp up the tension. 
+### Chapter 11
+Mauri
+- I want

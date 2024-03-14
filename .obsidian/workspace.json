@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Publishing/Writing Manual/12.md",
+                "file": "Admin/Strategy/Marketing/Blog Post Pillar System.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,8 +85,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Publishing/Writing Manual/12.md",
-                "collapseAll": false,
+                "file": "Admin/Strategy/Marketing/Blog Post Pillar System.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Publishing/Writing Manual/12.md",
+                "file": "Admin/Strategy/Marketing/Blog Post Pillar System.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Publishing/Writing Manual/12.md"
+                "file": "Admin/Strategy/Marketing/Blog Post Pillar System.md"
               }
             }
           }
@@ -148,6 +148,7 @@
   },
   "active": "4cf771dbb08e71dd",
   "lastOpenFiles": [
+    "Publishing/Writing Manual/12.md",
     "Editorial/Writers/C/Cy Tid/Spaceballs/Spaceballs - Editors Report - Developmental Editing - BubbleCow 1.md",
     "Admin/Emails/Copy Editing Without Word Count.md",
     "Admin/Strategy/Marketing/Branding & Ethos.md",
@@ -182,7 +183,6 @@
     "Admin/Mindset/!Business Mindset Outline.md",
     "Admin/Mindset",
     "Admin/Strategy/Marketing",
-    "Editorial/Reports/Manuscript Assessment/Sample - Editors Report - Manuscript Assessment -BubbleCow.md",
     "Editorial/Reports/Manuscript Assessment",
     "Images/Pasted image 20231127104925.png",
     "Images/Pasted image 20231127104435.png",

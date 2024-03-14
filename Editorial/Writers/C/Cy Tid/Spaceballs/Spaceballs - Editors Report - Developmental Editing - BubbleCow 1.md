@@ -143,5 +143,5 @@ Room. Jint, then Laura shows up.
 Maurice. Contract. 
 - I wanted there to be something in the contract that would create more tension, see my notes above. I would have him sign the contract to ramp up the tension. 
 ### Chapter 11
-Mauri
+Team talk. New suit. Dexter. 
 - I want

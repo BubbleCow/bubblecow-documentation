@@ -146,5 +146,5 @@ Maurice. Contract.
 Team talk. New suit. Dexter. Memory.
 - Good chapter. There are a few places where adding in extra location description will help to control the pace, allow the reader to connect and also help with world-building. 
 ### Chapter 12
-Spaceball field. 
+Spaceball field. Puts on suit. 
 - Good 

@@ -143,5 +143,8 @@ Room. Jint, then Laura shows up.
 Maurice. Contract. 
 - I wanted there to be something in the contract that would create more tension, see my notes above. I would have him sign the contract to ramp up the tension. 
 ### Chapter 11
-Team talk. New suit. Dexter. 
-- I want
+Team talk. New suit. Dexter. Memory.
+- Good chapter. There are a few places where adding in extra location description will help to control the pace, allow the reader to connect and also help with world-building. 
+### Chapter 12
+Team 
+- Good 

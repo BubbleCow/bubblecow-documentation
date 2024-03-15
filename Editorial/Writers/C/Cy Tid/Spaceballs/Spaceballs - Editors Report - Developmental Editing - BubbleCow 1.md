@@ -161,5 +161,5 @@ Game with Bulldogs. Talk to Kissy.
 Peter Henshaw. Stolen suits. Sends agent on ship. Kiss. 
 - This chapter works well, the dialogue is driving it forward. I have made a few alterations and there are a couple of places that would benefit from more description. 
 ### Chapter 16
-Pete
-- This
+Post-sex. 
+- I removed the start of this chapter and moved it to the end of the previous chapter. I think this reads better. It moves the big jump in time to start of the chapter. 

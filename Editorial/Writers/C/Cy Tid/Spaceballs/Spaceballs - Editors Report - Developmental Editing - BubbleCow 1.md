@@ -157,3 +157,9 @@ Kissy upset after nearly being killed. Bucky's aprtment trashed. Knocked out. Bl
 Game with Bulldogs. Talk to Kissy. 
 - The opening pace is too fast. I don't think you should be describing the game, but I do think that you need to slow the pace and allow the reader to adjust. My advice is that you expand the description of the two teams on the field when the scene is first introduced. This will allow the reader to pain a picture and you to control the pace. 
 - As with the other chapters, I have tried to reduce the number of breaks where possible. It is better to have fewer breaks since it improves readability. 
+### Chapter 15
+Peter Henshaw. Stolen suits. Sends agent on ship. Kiss. 
+- This chapter works well, the dialogue is driving it forward. I have made a few alterations and there are a couple of places that would benefit from more description. 
+### Chapter 16
+Pete
+- This

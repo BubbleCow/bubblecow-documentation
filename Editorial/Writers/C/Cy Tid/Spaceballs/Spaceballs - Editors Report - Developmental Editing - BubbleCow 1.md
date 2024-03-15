@@ -150,6 +150,10 @@ Spaceball field. Puts on suit. Game.
 - Describing sports events is notoriously difficult. Therefore, you need to start describing the field and contestants as soon and in as much detail as possible. From the first moment you need to be establishing the location and then adjusting on a regular basis. This way, the reader can keep up with the changing scene. 
 - This chapter has a lot of breaks, I have tried to reduce these as much as possible. It would be better if you were able to reduce as many of the breaks as you can, since this helps the chapter to flow. 
 ### Chapter 13
-Kissy upset after nearly being killed. Bucky's aprtment trashed. Knocked out.   
+Kissy upset after nearly being killed. Bucky's aprtment trashed. Knocked out. Blown up. 
 - The opening section to this chapter is telling, not showing. The problem is that the narrator is passing the story, it would be better to have this in conversation. I had the idea that they were being interviewed and this would then allow you to pass all this information in dialogue. 
 - I wondered if you could make more of the robot serial killer. Perhaps have him asking around and being mentioned in some way. It seems a shame that the attempted murder happens 'off page', but I don't see how you can get around this in first person. This said, it might have been more impactful if the reader 'meets' the potential killer in the chapters prior.  
+### Chapter 14
+Game with Bulldogs. Talk to Kissy. 
+- The opening pace is too fast. I don't think you should be describing the game, but I do think that you need to slow the pace and allow the reader to adjust. My advice is that you expand the description of the two teams on the field when the scene is first introduced. This will allow the reader to pain a picture and you to control the pace. 
+- As with the other chapters, I have tried to reduce the number of breaks where possible. It is better to have fewer breaks since it improves readability. 

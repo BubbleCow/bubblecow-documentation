@@ -151,4 +151,4 @@ Spaceball field. Puts on suit. Game.
 - This chapter has a lot of breaks, I have tried to reduce these as much as possible. It would be better if you were able to reduce as many of the breaks as you can, since this helps the chapter to flow. 
 ### Chapter 13
 Spame.
-- Descr
+- The opening section to this chapter is telling, not showing. The problem is that the narrator is passing the story, it would be better to have this in conversation. I had the idea that they were being interviewed and this would then allow you to pass all this information in dialogue. 

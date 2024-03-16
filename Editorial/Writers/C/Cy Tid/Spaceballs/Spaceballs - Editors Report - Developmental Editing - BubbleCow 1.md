@@ -176,5 +176,5 @@ The Bookie. Talk to Laura.
 Man with backpack.
 - Good chapter, stranger but good :)
 ### Chapter 20
-Looking for Dexter Cribbens.
+Looking for Dexter Cribbens. The Scorpion Lady. 
 - Go

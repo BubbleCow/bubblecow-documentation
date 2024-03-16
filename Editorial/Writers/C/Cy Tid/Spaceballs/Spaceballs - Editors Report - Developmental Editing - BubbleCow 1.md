@@ -100,6 +100,8 @@ This section contains specific feedback about elements of your book that are imm
 	- Make sure that there is a clear but different reason for each person to join the team. In each case the main character must have the find the reason and motivation to make the player say yes. 
 - In the Luci chapter, I want you to do it differently. Rather than passing the backstory of the wedding and affair via narration, pass it via speech. I would have her attack the main character and then start to reveal that they are married via the interaction between the two people. If you are struggling to fill in the blanks, you can have a third character witness the events and ask questions that allow you to further fill in the information. This way the scene becomes much more engaging. The reader is discovering the backstory as it is slowly revealed. 
 
+- At the start of chapters you often have him summarizing what has happened, it would be better if you were able to do this via conversation instead - reports, or right hand man. 
+
 try to avoid the use of physicla breaks in chapter if possible
 ## Chapter Feedback
 This section contains specific feedback about your chapters. This feedback is in addition to the Specific Feedback.  
@@ -168,5 +170,5 @@ Game with Milkmaids. Jint worries about son. Talk to Crazy Eddie. Janine.
 - There is a note at the start of the chapter that you need to add more information.  
 - There is a lot of information passed in the opening part of this chapter. The main character is telling the reader about what has happened and the team they are about to play. It would have been better if this could have been passed in conversation. perhaps he's briefing his second in command about the team or some similar conversation. This way, the reader is passed the information via conversation not narrative summary. 
 ### Chapter 18
-Gam
+The Bookie. 
 - There

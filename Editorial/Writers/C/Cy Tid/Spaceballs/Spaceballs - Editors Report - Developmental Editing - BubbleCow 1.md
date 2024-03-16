@@ -173,5 +173,8 @@ Game with Milkmaids. Jint worries about son. Talk to Crazy Eddie. Janine.
 The Bookie. Talk to Laura. 
 - Good chapter. I have indicated a few places you need more description, but nothing significant. 
 ### Chapter 19
-The
-- Good ch
+Man with backpack.
+- Good chapter, stranger but good :)
+### Chapter 20
+Looking for Dexter Cribbens.
+- Go

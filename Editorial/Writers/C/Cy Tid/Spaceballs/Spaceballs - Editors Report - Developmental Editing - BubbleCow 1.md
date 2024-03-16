@@ -185,5 +185,8 @@ Check messages. Kiera.
 Stronghold attack. 
 - There are a few places in this chapter where you are moving conversation into the narrative summary. This breaks immersion. I have indicated where these sections should be written out in full. 
 ### Chapter 23
-Meeting and fight. 
+Meeting and fight. Dexter and Mabel captured. Flash bang, try to rescue Mabel.
 - The opening to this chapter is too much telling. You just tell the reader what is happening. You need to rewrite the opening section so you are describing the event in more detail; showing rather than telling. 
+### Chapter 24
+Meeti
+- The i

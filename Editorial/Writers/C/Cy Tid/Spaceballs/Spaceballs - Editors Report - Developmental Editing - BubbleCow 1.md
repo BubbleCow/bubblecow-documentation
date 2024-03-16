@@ -182,5 +182,5 @@ Looking for Dexter Cribbens. The Scorpion Lady.
 Check messages. Kiera. 
 - Good chapter. However, I do feel that chapters 20 and 21 could be combined. This is not essential but it feels these are both the same storyline. 
 ### Chapter 22
-Che
-- Good
+Stronghold attack. 
+- There are a few places in this chapter where you are moving conversation into the narrative summary. This breaks immersion. I have indicated where these sections should be written out in full. 

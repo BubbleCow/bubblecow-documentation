@@ -180,4 +180,7 @@ Looking for Dexter Cribbens. The Scorpion Lady.
 - Good chapter. 
 ### Chapter 21
 Check messages. Kiera. 
-- Good chapter. 
+- Good chapter. However, I do feel that chapters 20 and 21 could be combined. This is not essential but it feels these are both the same storyline. 
+### Chapter 22
+Che
+- Good

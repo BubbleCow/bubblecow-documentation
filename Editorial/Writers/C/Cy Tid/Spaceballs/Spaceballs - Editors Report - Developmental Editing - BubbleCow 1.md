@@ -177,4 +177,7 @@ Man with backpack.
 - Good chapter, stranger but good :)
 ### Chapter 20
 Looking for Dexter Cribbens. The Scorpion Lady. 
-- Go
+- Good chapter. 
+### Chapter 21
+Check messages. Kiera. 
+- Good chapter. 

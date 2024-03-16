@@ -167,3 +167,6 @@ Post-sex. Backstory of Universe.
 Game with Milkmaids. Jint worries about son. Talk to Crazy Eddie. Janine. 
 - There is a note at the start of the chapter that you need to add more information.  
 - There is a lot of information passed in the opening part of this chapter. The main character is telling the reader about what has happened and the team they are about to play. It would have been better if this could have been passed in conversation. perhaps he's briefing his second in command about the team or some similar conversation. This way, the reader is passed the information via conversation not narrative summary. 
+### Chapter 18
+Gam
+- There

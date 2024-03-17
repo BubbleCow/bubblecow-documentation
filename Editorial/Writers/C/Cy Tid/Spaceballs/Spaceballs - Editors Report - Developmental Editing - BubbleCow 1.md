@@ -188,5 +188,8 @@ Stronghold attack.
 Meeting and fight. Dexter and Mabel captured. Flash bang, try to rescue Mabel.
 - The opening to this chapter is too much telling. You just tell the reader what is happening. You need to rewrite the opening section so you are describing the event in more detail; showing rather than telling. 
 ### Chapter 24
-Meeti
-- The i
+Back to ship.
+- There are sections of this chapter that need work. 
+### Chapter 25
+Back to ship.
+- There are sections of this chapter that need work. 

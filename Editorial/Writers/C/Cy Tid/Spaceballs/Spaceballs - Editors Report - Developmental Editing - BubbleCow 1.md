@@ -90,9 +90,26 @@ First-person.
 ## Strengths and Weaknesses
 This section contains specific feedback about elements of your book that are immediately actionable. I have strived not only to explain any problems I have encountered but also to provide at least one solution you can apply to your book. 
 
+### Needs More Tension
+Your story has a natural narrative arc, that being the progression to the play offs. In addition to this, you have several sub-plots that also add tension. This is good and does a lot of the heavy lifting in regard to the narrative structure. However, I feel that you are missing one key element. 
 
-- Build more tension, I wanted there to be a very solid reason why he had to become a coach. I wanted you to outline the cost of success and failure. The reader must understand from the start what the main characetr wants, what he thingks he must overcome to achieve it and the cost of filaure. 
-- In Chapter 10 he signs a contract, there should be an element in the contract that intensifes the comnflict and tension, a cluase that ups the stakes and adds more tension overall.
+I want you to establish at the start of the story that it was ESSENTIAL for the main character to win the play offs. I wanted you to create a situation at the start of the story where the main character was in dire straits. The offer to manage the team is a way out of this problem. I wasn't that bothered what the problem was, but it needs to be clearly established. You need to ensure that the reader is fully aware of:
+
+- The problem.
+- The steps required to overcome the problem. 
+- The consequences of failing to overcome the problem. 
+
+In an ideal world the consequences of failure would be death. This means that every game becomes of matter of life or death for the main character. The reader will be constantly aware that if the main character fails he dies. 
+
+If you are able to do this, then you can create an additional layer of tension, which will hook and engage the reader. 
+
+This brings us to Chapter 10. In this chapter the main character is presented with a contract. I wanted two things to happen:
+
+1. The contract to contain a clause that messes with the main character and ups the stakes for failure. The clause should remove any hope of succeeding unless they win the playoffs. 
+2. The main character is forced to sign the contract. This will add yet another layer of tension to the story. 
+
+Having established this personal tension for the main character, you then need to take steps to remind the reader of the situation as the story progresses. Two or three times you need to create scenes or conversations where the reader is shown, yet again, the problem and the consequences of failure. 
+
 
 - importance of location descrtipion in world building - start small and buuld out. 
 - Chapter 2 - this is made up of a number of sections, each with him looking for a new player. I wanted you to do something a little different. I wanted each of these sections to be a new chapter. However, you need to...
@@ -194,5 +211,6 @@ Back to ship.
 Dexter back on team. Might be barred. 
 - I like the this chapter and the added tension of being barred. However, this gains more impact if the main character has a pressing need to win the play offs. See my note above. 
 ### Chapter 26
-Play offs. Listen to Bee chatter. 
-- The pace to this chapter is too fast. You are jumping right into the action. My advice is that you build the tension with more description of the location and action. Describe the teams and the pomp of the build up. Really lean into the spectacle of the event. 
+Play offs. Listen to Bee chatter. Kissy onto ship. Hive cluster arrives. 
+- The pace to this chapter is too fast. You are jumping right into the action. My advice is that you build the tension with more description of the location and action. Describe the teams and the pomp of the build up. Really lean into the spectacle of the event.
+- There are a number of placeholder sections in this chapter that need fixing. 

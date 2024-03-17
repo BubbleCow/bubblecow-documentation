@@ -194,5 +194,5 @@ Back to ship.
 Dexter back on team. Might be barred. 
 - I like the this chapter and the added tension of being barred. However, this gains more impact if the main character has a pressing need to win the play offs. See my note above. 
 ### Chapter 26
-Dext. 
-- I l
+Play offs. Listen to Bee chatter. 
+- The pace to this chapter is too fast. You are jumping right into the action. My advice is that you build the tension with more description of the location and action. Describe the teams and the pomp of the build up. Really lean into the spectacle of the event. 

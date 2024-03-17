@@ -191,5 +191,8 @@ Meeting and fight. Dexter and Mabel captured. Flash bang, try to rescue Mabel.
 Back to ship.
 - There are sections of this chapter that need work. 
 ### Chapter 25
-Back to ship.
-- There are sections of this chapter that need work. 
+Dexter back on team. Might be barred. 
+- I like the this chapter and the added tension of being barred. However, this gains more impact if the main character has a pressing need to win the play offs. See my note above. 
+### Chapter 26
+Dext. 
+- I l

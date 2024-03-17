@@ -79,7 +79,7 @@ First-person.
 ## Strengths and Weaknesses
 This section contains specific feedback about elements of your book that are immediately actionable. I have strived not only to explain any problems I have encountered but also to provide at least one solution you can apply to your book. 
 
-In summary, the main issue is a lack of more intense tension with the main character. I feel that by layering in this tension, you will create a much more compelling narrative. I also feel that you need to pay a little more attention to how you use description to control pace and build your world. I would have liked you to vary the way you are starting several ch Finally, I would like you to consider the way in which you are using physical breaks and try to find ways that these can be reduced. 
+In summary, the main issue is a lack of more intense tension with the main character. I feel that by layering in this tension, you will create a much more compelling narrative. I also feel that you need to pay a little more attention to how you use description to control pace and build your world. I would have liked you to vary the way you are starting several chapters, and I have made some detailed suggestions below. Finally, I would like you to consider the way in which you are using physical breaks and try to find ways that these can be reduced. 
 ### Needs More Tension
 Your story has a natural narrative arc, that being the progression to the play offs. In addition to this, you have several sub-plots that also add tension. This is good and does a lot of the heavy lifting in regard to the narrative structure. However, I feel that you are missing one key element. 
 
@@ -115,7 +115,7 @@ Chapter 2 is made up of a number of sections, each with the main character looki
 
 However, you need to...
 
- - Improve the world building in each chapter so the reader is getting more of a feel for the world as they read. Include more description of the character, the location and the details of the locations. Take a moment on drill down on the small details that tell a story about the world. For example, imagine you are looking at a train and each seat contains a port to allow a traveler to recharge their gadgets. This small detail tells a story about the wider world. 
+- Improve the world building in each chapter so the reader is getting more of a feel for the world as they read. Include more description of the character, the location and the details of the locations. Take a moment on drill down on the small details that tell a story about the world. For example, imagine you are looking at a train and each seat contains a port to allow a traveler to recharge their gadgets. This small detail tells a story about the wider world. 
 - In the Luci chapter, I want you to do it differently. Rather than passing the backstory of the wedding and affair via narration, pass it via speech. I would have her attack the main character and then start to reveal that they are married via the interaction between the two people. If you are struggling to fill in the blanks, you can have a third character witness the events and ask questions that allow you to further fill in the information. This way the scene becomes much more engaging. The reader is discovering the backstory as it is slowly revealed. 
 ### Chapter Starts
 At the start of chapters you often have the main character summarizing what has happened. Sometimes this works well, especially if you are just moving the plot forward a small amount, but this is not always the case. 

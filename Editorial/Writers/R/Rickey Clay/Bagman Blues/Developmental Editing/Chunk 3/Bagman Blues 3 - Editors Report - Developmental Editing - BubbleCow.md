@@ -135,5 +135,5 @@ Lapdog in hotel. Receptionist. Godfrey. Seated at table. Gangsters turn up. Lack
 - I noticed that you have a tendency to revert to adverbs when describing characters. While this is not 'wrong' it should be avoided where possible. I have added an extended explanation above.  
 - I love the slow and deliberate pace of this chapter, it is led by the dialogue and allows the reader to fully engage as it unfolds. 
 ### Chapter 8
-Lapd 
-- This
+Billy-Billy and Tony in apartment.  
+- This is a good chapter, there are a few sentence level issues, but nothing significant. I have corrected these. There's also a section at the end where you have moved the conversation into the narrative summary, you need to write this out in full. 

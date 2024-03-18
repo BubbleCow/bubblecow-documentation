@@ -1,10 +1,6 @@
-> [!info] 
-> This is the developmental editor's report for ficiton.
-> Last updated: 26 Feb, 2024
-
 Editor: Gary Smailes
 
-Completed: DATE COMPLETED
+Completed: 18 March 2024
 ## Understanding Your Feedback
 Before I launch into more detailed feedback, I thought I’d review how the edit has been structured.
 
@@ -49,14 +45,12 @@ You’ll find pointers that will give you an overview of what I think are the ma
 This section contains feedback specific to each chapter. The depth and detail of this feedback will vary depending on the issues encountered. This feedback is designed to be actionable but should also be read in conjugated with more general feedback and embedded notes in your manuscript. 
 
 Please note: I’ve approached your book from the point of view of a new reader. This means that I may comment early on but then change my mind. This should give you a good indication of how a reader will be responding to the story and any confusion they may have. It should also help you to see my thinking process. Feedback has indicated that this can be very helpful for some authors.
-
 #### Summary
 Please remember that all the comments and changes come from a place of support, not criticism. I want to make the book the best it can be, as you do. I’m not here to cast judgment or project my own preferences. My role is to help nudge your writing style toward a place that will create the best possible reading experience. 
 
 Our goal is to produce better books and better writers.
 
 Finally, once you delve into the feedback, I’d suggest you read the notes and then take a day or two to absorb what I’ve suggested. If you disagree with any changes, that’s fine, but please do take a little time to think them over before getting back to me. If, after this ‘cooling-off period’ you have any questions or comments, please don’t hesitate to email me at gary@bubblecow.com.
-
 ## Notes on the Edited Manuscript
 Below is a list of general comments about your manuscript. 
 
@@ -70,9 +64,7 @@ Please note that many of these changes have been made to help in the eBook conve
 ## Stylistic and Typographical Summary
 Below is a list of changes that have been made to help with readability and add consistency. 
 ### Language
-> [!info] 
-> American English
-> British English
+American English
 ### Numeric Notation 
 Spell out whole numbers up to (and including) one hundred (e.g., zero, one, ten, ninety-six, 104). Spell out numbers that begin a sentence unless it begins with a year (e.g., "Twelve drummers," "The ten lords a-leaping," "2011's quota for off-season holiday references has been filled."). 
 
@@ -82,22 +74,14 @@ If you're juggling a bunch of numbers within the same paragraph or series of par
 
 ### Speech Marks
 Double for direct, single for reported. 
-
-
 ### Oxford Comma
-> [!info] 
-> Yes.
-> No
-
+No
 ### Narrative Perspective
-> [!info] 
-> Third-person Limited.
-> Third-person Omniscient.
-> First-person.
-
+Third-person Omniscient.
 ## Strengths and Weaknesses
 This section contains specific feedback about elements of your book that are immediately actionable. I have strived not only to explain any problems I have encountered but also to provide at least one solution you can apply to your book. 
 
+There were several elements I wanted you to consider further. One of these is to avoid the use of 'then' in your writing. You are have an over-reliance on adverbs and if you are able to remove and replace these you will create a more engaging writing style. I also wanted you to think more carefully about moving dialogue out of the narrative summary and writing it out in full. 
 ### Avoid Then
 Crafting compelling prose often requires a careful balance between clarity and elegance. Overreliance on certain words, especially temporal connectors like "then," can subtly undermine both. Let's explore why moderating the use of "then" in your writing can significantly enhance your narrative's quality.
 #### 1. **Encourages Show, Don't Tell**
@@ -165,6 +149,7 @@ Lapdog in hotel. Receptionist. Godfrey. Seated at table. Gangsters turn up. Lack
 Billy-Billy and Tony in apartment.  
 - This is a good chapter, there are a few sentence level issues, but nothing significant. I have corrected these. There's also a section at the end where you have moved the conversation into the narrative summary, you need to write this out in full. 
 ### Chapter 9
-Freddy in car. VIP room. Stranger turns up. Donnie. 
+Freddy in car. VIP room. Stranger turns up. Donnie. Fight. Man at door. 
 - There are occasions when you have the dialogue in the narrative summary. Where possible, you need to write this out in full. This way the reader will be more engaged. 
 - You need to make sure that you have layered in a more detailed description of the store. This will allow the reader to picture the scene more clearly in their mind's eye.  
+- I am not sure the last half of this chapter works. You have the fight and then switch to Freddy in the store. Its ok but a little confusing. I have added a break to help indicate to the reader that they are moving scene. Another alternative would be to have the whole scene written from the same viewpoint. This would be more consistent. I don't think there's a 'correct' way from these two choices, but I think you need to pick one of them.  

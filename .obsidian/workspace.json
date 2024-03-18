@@ -4,21 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "ff128833a309a1be",
+        "id": "153c0a8371215784",
         "type": "tabs",
         "children": [
           {
-            "id": "1ec262f4b0cedb4b",
+            "id": "4aff8e9b23491d01",
             "type": "leaf",
-            "pinned": true,
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Editorial/Writers/R/Rickey Clay/Bagman Blues/Developmental Editing/Chunk 3/Bagman Blues 3 - Editors Report - Developmental Editing - BubbleCow.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -87,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Editorial/Writers/R/Rickey Clay/Bagman Blues/Developmental Editing/Chunk 3/Bagman Blues 3 - Editors Report - Developmental Editing - BubbleCow.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Editorial/Writers/R/Rickey Clay/Bagman Blues/Developmental Editing/Chunk 3/Bagman Blues 3 - Editors Report - Developmental Editing - BubbleCow.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Editorial/Writers/R/Rickey Clay/Bagman Blues/Developmental Editing/Chunk 3/Bagman Blues 3 - Editors Report - Developmental Editing - BubbleCow.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -148,10 +138,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "341fb5c098c93da7",
+  "active": "4aff8e9b23491d01",
   "lastOpenFiles": [
-    "Editorial/Reports/Developmental Editing/Fiction/Edit/FICTION - Editors Report - Developmental Editing - BubbleCow.md",
+    "Editorial/Writers/R/Rickey Clay/Bagman Blues/Developmental Editing/Chunk 3/THIRD 15k_Bagman Blues_(Pre Edit) - developmental editing - bubblecow - edited.docx",
     "Editorial/Writers/R/Rickey Clay/Bagman Blues/Developmental Editing/Chunk 3/Bagman Blues 3 - Editors Report - Developmental Editing - BubbleCow.md",
+    "Editorial/Writers/R/Rickey Clay/Bagman Blues/Developmental Editing/Chunk 3/Bagman Blues 3 - Editors Report - Developmental Editing - BubbleCow.pdf",
+    "Editorial/Reports/Developmental Editing/Fiction/Edit/FICTION - Editors Report - Developmental Editing - BubbleCow.md",
     "Editorial/Writers/R/Rickey Clay/Bagman Blues/Developmental Editing/Chunk 3/THIRD 15k_Bagman Blues_(Pre Edit) - developmental editing - bubblecow.docx",
     "Editorial/Writers/R/Rickey Clay/Bagman Blues/Developmental Editing/Chunk 3",
     "Editorial/Writers/R/Rickey Clay/Bagman Blues/Developmental Editing",
@@ -172,7 +164,6 @@
     "Publishing/Writing Manual",
     "Publishing",
     "Untitled.md",
-    "Images",
     "Admin/Strategy/Community.md",
     "Marketing/Blog/Pillars/BubbleCow Pillar Strategy.md",
     "Admin/Strategy/Income Predictions.md",
@@ -188,7 +179,6 @@
     "Admin/Mindset/Permission Marketing.md",
     "Admin/Mindset/Modular Production of Books.md",
     "Admin/Mindset/Do Thing That Don't Scale.md",
-    "Admin/Mindset/DRY.md",
     "Images/Pasted image 20231127104925.png",
     "Images/Pasted image 20231127104435.png",
     "Images/Pasted image 20240301090501.png",

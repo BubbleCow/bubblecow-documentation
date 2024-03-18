@@ -10,9 +10,15 @@
           {
             "id": "1ec262f4b0cedb4b",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Editorial/Writers/R/Rickey Clay/Bagman Blues/Developmental Editing/Chunk 3/Bagman Blues 3 - Editors Report - Developmental Editing - BubbleCow.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
             }
           }
         ]
@@ -81,6 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Editorial/Writers/R/Rickey Clay/Bagman Blues/Developmental Editing/Chunk 3/Bagman Blues 3 - Editors Report - Developmental Editing - BubbleCow.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Editorial/Writers/R/Rickey Clay/Bagman Blues/Developmental Editing/Chunk 3/Bagman Blues 3 - Editors Report - Developmental Editing - BubbleCow.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +126,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Editorial/Writers/R/Rickey Clay/Bagman Blues/Developmental Editing/Chunk 3/Bagman Blues 3 - Editors Report - Developmental Editing - BubbleCow.md"
+              }
             }
           }
         ]
@@ -138,8 +148,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1ec262f4b0cedb4b",
+  "active": "341fb5c098c93da7",
   "lastOpenFiles": [
+    "Editorial/Reports/Developmental Editing/Fiction/Edit/FICTION - Editors Report - Developmental Editing - BubbleCow.md",
+    "Editorial/Writers/R/Rickey Clay/Bagman Blues/Developmental Editing/Chunk 3/Bagman Blues 3 - Editors Report - Developmental Editing - BubbleCow.md",
+    "Editorial/Writers/R/Rickey Clay/Bagman Blues/Developmental Editing/Chunk 3/THIRD 15k_Bagman Blues_(Pre Edit) - developmental editing - bubblecow.docx",
+    "Editorial/Writers/R/Rickey Clay/Bagman Blues/Developmental Editing/Chunk 3",
+    "Editorial/Writers/R/Rickey Clay/Bagman Blues/Developmental Editing",
+    "Editorial/Writers/R/Rickey Clay/Bagman Blues",
+    "Editorial/Writers/R/Rickey Clay",
     "Editorial/Writers/C/Cy Tid/Spaceballs/Spaceballs - Editors Report - Developmental Editing - BubbleCow.md",
     "Editorial/Writers/C/Cy Tid/Spaceballs/Developmental Editing/spaceball_bubblecow_developmental_edit_edited.docx",
     "Editorial/Writers/C/Cy Tid/Spaceballs/Developmental Editing/Spaceballs - Editors Report - Developmental Editing - BubbleCow.pdf",
@@ -163,7 +180,6 @@
     "Admin/Strategy/Website Changes.md",
     "Admin/Strategy/BubbleCow Strategy.md",
     "Admin/Strategy/Future Predictions.md",
-    "Admin/Strategy/Untitled",
     "Admin/Emails/Manuscript Assessment Without Word Count.md",
     "Admin/Emails/Initial Customer Service Emails.md",
     "Images/Pasted image 20240305153127.png",
@@ -173,14 +189,9 @@
     "Admin/Mindset/Modular Production of Books.md",
     "Admin/Mindset/Do Thing That Don't Scale.md",
     "Admin/Mindset/DRY.md",
-    "Admin/Mindset/1000 True Fans.md",
-    "Admin/Mindset",
-    "Admin/Strategy/Marketing",
-    "Editorial/Reports/Manuscript Assessment",
     "Images/Pasted image 20231127104925.png",
     "Images/Pasted image 20231127104435.png",
     "Images/Pasted image 20240301090501.png",
-    "Admin/Strategy",
     "Editorial/Writers/P/Pawel Guziejko/Coaching Book/De.canvas",
     "Admin/Images/Pasted image 20240204133232.png",
     "Editorial/Writers/R/Robyn Atkinson/Canche Gringa/Developmental Editing/Untitled.canvas"

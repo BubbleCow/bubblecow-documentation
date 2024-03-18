@@ -11,8 +11,10 @@
             "id": "4aff8e9b23491d01",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "pdf",
+              "state": {
+                "file": "Editorial/Writers/C/Cy Tid/Spaceballs/Developmental Editing/Spaceballs - Editors Report - Developmental Editing - BubbleCow.pdf"
+              }
             }
           }
         ]
@@ -81,6 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Editorial/Writers/C/Cy Tid/Spaceballs/Developmental Editing/Spaceballs - Editors Report - Developmental Editing - BubbleCow.pdf",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Editorial/Writers/C/Cy Tid/Spaceballs/Developmental Editing/Spaceballs - Editors Report - Developmental Editing - BubbleCow.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +122,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Editorial/Writers/C/Cy Tid/Spaceballs/Developmental Editing/Spaceballs - Editors Report - Developmental Editing - BubbleCow.pdf"
+              }
             }
           }
         ]

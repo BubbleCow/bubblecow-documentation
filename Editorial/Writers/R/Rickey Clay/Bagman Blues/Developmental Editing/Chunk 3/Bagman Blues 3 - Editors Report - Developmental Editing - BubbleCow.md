@@ -117,10 +117,19 @@ By reducing reliance on "then," you force yourself to explore different ways of 
 For instance, instead of saying "He shouted at the dog, then it ran away," you could say "The dog ran away because he shouted at it." This not only eliminates the "then" but also clarifies the relationship between the actions, making the sequence more meaningful.
 #### 4. **Promotes Tighter, More Efficient Writing**
 Every word in your prose should serve a purpose. "Then" is often superfluous, as the order of sentences can already imply sequence. By eliminating unnecessary instances of "then," you can make your writing tighter and more efficient, which is especially important in maintaining pace and tension in your narrative.
-
-
+### Use of Adverbs
+The use of adverbs in writing is a topic of considerable debate among authors and editors. While not inherently problematic, the overuse or misuse of adverbs can inadvertently weaken prose, dilute impact, and impede the reader's engagement with the text. Let's explore why judicious use of adverbs is recommended and how this approach can elevate your writing.
+#### 1. **Adverbs Can Undermine "Show, Don't Tell"**
+Adverbs often serve to modify verbs, adjectives, or other adverbs, typically expressing manner, degree, frequency, or intensity. For instance, an adverb might tell us that a character speaks "loudly" or acts "quickly." However, this directness can be a double-edged sword. Reliance on adverbs can lead writers to tell readers how a character feels or acts, rather than showing it through actions or dialogue. Consider the difference between "She angrily slammed the door" and "She slammed the door with enough force to rattle the frame." The latter paints a more vivid picture, allowing readers to infer the character's anger through her actions.
+#### 2. **Adverbs Can Weaken Verbs**
+Strong writing often relies on precise, vivid verbs to convey action. When adverbs modify verbs, they can dilute the verb's impact, making the action feel less immediate or significant. For example, "ran quickly" could be replaced with "sprinted," a choice that offers more specificity and power. By selecting more precise verbs, writers can reduce their reliance on adverbs, streamlining their prose and enhancing its clarity and effectiveness.
+#### 3. **Adverbs Can Signal Weak Adjectives or Verbs**
+The frequent use of adverbs might indicate that the chosen adjectives or verbs are not strong enough to stand on their own. If you find yourself using adverbs to bolster a verb or adjective, it may be worth considering whether a more precise or impactful word choice could eliminate the need for modification. For instance, instead of saying "very big," one might say "enormous" or "colossal," which conveys the intended scale more directly and powerfully.
+#### 4. **Adverbs and Redundancy**
+Sometimes adverbs are used redundantly, adding nothing to the sentence's meaning. Phrases like "whispered softly" or "screamed loudly" can be trimmed to "whispered" or "screamed" without losing any of their effectiveness. In these cases, the adverb only serves to clutter the text, slowing the narrative pace and distracting the reader.
 ## Chapter Feedback
 This section contains specific feedback about your chapters. This feedback is in addition to the Specific Feedback.  
 ### Chapter 7
-Lapdog in hotel. Receptionist. 
+Lapdog in hotel. Receptionist. Godfrey. Seated at table. 
 - This is a good chapter. I would urge you to try and use the word 'then' less often. I have included an explanation above that explains why this is the best way to move forward. 
+- I noticed that you have a tendency to revert to adverbs when describing characters. While this is not 'wrong' it should be avoided where possible. I have added an extended explanation above.  

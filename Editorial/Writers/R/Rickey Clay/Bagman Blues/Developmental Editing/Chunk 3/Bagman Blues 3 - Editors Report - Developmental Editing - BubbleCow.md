@@ -127,6 +127,33 @@ Strong writing often relies on precise, vivid verbs to convey action. When adver
 The frequent use of adverbs might indicate that the chosen adjectives or verbs are not strong enough to stand on their own. If you find yourself using adverbs to bolster a verb or adjective, it may be worth considering whether a more precise or impactful word choice could eliminate the need for modification. For instance, instead of saying "very big," one might say "enormous" or "colossal," which conveys the intended scale more directly and powerfully.
 #### 4. **Adverbs and Redundancy**
 Sometimes adverbs are used redundantly, adding nothing to the sentence's meaning. Phrases like "whispered softly" or "screamed loudly" can be trimmed to "whispered" or "screamed" without losing any of their effectiveness. In these cases, the adverb only serves to clutter the text, slowing the narrative pace and distracting the reader.
+### Write Dialogue out in full
+In crafting a compelling narrative, the distinction between when to incorporate dialogue in full and when to summarize it within the narrative plays a crucial role in pacing, character development, and reader engagement. Full dialogue and narrative summary each have their places within a story, serving different purposes and contributing to the overall texture of your writing. Let’s delve into where and why you should opt for writing dialogue in full rather than relegating it to narrative summary.
+#### 1. **Key Character Interactions**
+Crucial moments of interaction between characters, where their personalities, relationships, or pivotal plot points are revealed, should almost always be presented in full dialogue. These exchanges offer a direct insight into characters’ thoughts, emotions, and motivations. For instance, a confrontation that leads to a major plot twist or a heartfelt confession that deepens a relationship should be fully depicted to allow the reader to experience the moment's intensity and significance firsthand.
+#### 2. **Revealing Character**
+Dialogue is a powerful tool for character development. The way a character speaks—word choice, tone, dialectIn crafting a compelling narrative, the distinction between when to incorporate dialogue in full and when to summarize it within the narrative plays a crucial role in pacing, character development, and reader engagement. Full dialogue and narrative summary each have their places within a story, serving different purposes and contributing to the overall texture of your writing. Let’s delve into where and why you should opt for writing dialogue in full rather than relegating it to narrative summary.
+
+1. Key Character Interactions
+Crucial moments of interaction between characters, where their personalities, relationships, or pivotal plot points are revealed, should almost always be presented in full dialogue. These exchanges offer a direct insight into characters’ thoughts, emotions, and motivations. For instance, a confrontation that leads to a major plot twist or a heartfelt confession that deepens a relationship should be fully depicted to allow the reader to experience the moment's intensity and significance firsthand.
+
+2. Revealing Character
+Dialogue is a powerful tool for character development. The way a character speaks—word choice, tone, dialect, and even what they choose to omit—can reveal more about them than pages of descriptive narrative. Important moments that showcase a character's growth, internal conflict, or unique personality should be detailed through dialogue, as this direct expression provides a vivid and immediate sense of who they are.
+
+3. Enhancing the Story’s Pace
+Full dialogue can significantly affect a story’s pace, adding dynamism and tension to scenes that might otherwise lag. Fast-paced exchanges, with short, sharp lines of dialogue, can create a sense of urgency and momentum, propelling the story forward. In contrast, narrative summary can slow down the pace, offering readers a breather in between intense scenes. Use full dialogue to inject energy and maintain reader engagement during crucial moments.
+
+4. Building Atmosphere and Setting
+Dialogue can also be instrumental in building atmosphere and conveying the setting. The way characters interact with each other and their environment, the slang they use, and the subjects they discuss can immerse readers in the world you’ve created. Significant scenes where the setting plays a pivotal role in the characters' experiences or the story’s mood should feature dialogue that brings the scene to life, allowing the reader to "hear" and "see" the world through the characters' eyes and ears.
+
+5. Conveying Subtext
+Moments filled with subtext, where what’s unsaid is as important as the spoken words, demand full dialogue. These instances, where characters might be speaking about one thing but meaning another, rely on the nuanced interplay of words, pauses, and implied meanings that summary cannot capture. Full dialogue allows for the subtle cues and silences between lines to speak volumes, enriching the narrative with layers of meaning., and even what they choose to omit—can reveal more about them than pages of descriptive narrative. Important moments that showcase a character's growth, internal conflict, or unique personality should be detailed through dialogue, as this direct expression provides a vivid and immediate sense of who they are.
+#### 3. **Enhancing the Story’s Pace**
+Full dialogue can significantly affect a story’s pace, adding dynamism and tension to scenes that might otherwise lag. Fast-paced exchanges, with short, sharp lines of dialogue, can create a sense of urgency and momentum, propelling the story forward. In contrast, narrative summary can slow down the pace, offering readers a breather in between intense scenes. Use full dialogue to inject energy and maintain reader engagement during crucial moments.
+#### 4. **Building Atmosphere and Setting**
+Dialogue can also be instrumental in building atmosphere and conveying the setting. The way characters interact with each other and their environment, the slang they use, and the subjects they discuss can immerse readers in the world you’ve created. Significant scenes where the setting plays a pivotal role in the characters' experiences or the story’s mood should feature dialogue that brings the scene to life, allowing the reader to "hear" and "see" the world through the characters' eyes and ears.
+#### 5. **Conveying Subtext**
+Moments filled with subtext, where what’s unsaid is as important as the spoken words, demand full dialogue. These instances, where characters might be speaking about one thing but meaning another, rely on the nuanced interplay of words, pauses, and implied meanings that summary cannot capture. Full dialogue allows for the subtle cues and silences between lines to speak volumes, enriching the narrative with layers of meaning.
 ## Chapter Feedback
 This section contains specific feedback about your chapters. This feedback is in addition to the Specific Feedback.  
 ### Chapter 7
@@ -138,5 +165,6 @@ Lapdog in hotel. Receptionist. Godfrey. Seated at table. Gangsters turn up. Lack
 Billy-Billy and Tony in apartment.  
 - This is a good chapter, there are a few sentence level issues, but nothing significant. I have corrected these. There's also a section at the end where you have moved the conversation into the narrative summary, you need to write this out in full. 
 ### Chapter 9
-Freddy in car. VIP room. 
+Freddy in car. VIP room. Stranger turns up. Donnie. 
 - There are occasions when you have the dialogue in the narrative summary. Where possible, you need to write this out in full. This way the reader will be more engaged. 
+- You need to make sure that you have layered in a more detailed description of the store. This will allow the reader to picture the scene more clearly in their mind's eye.  

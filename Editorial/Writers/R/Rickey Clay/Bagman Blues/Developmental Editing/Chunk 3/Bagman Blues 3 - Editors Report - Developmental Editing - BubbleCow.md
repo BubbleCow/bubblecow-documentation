@@ -130,6 +130,7 @@ Sometimes adverbs are used redundantly, adding nothing to the sentence's meaning
 ## Chapter Feedback
 This section contains specific feedback about your chapters. This feedback is in addition to the Specific Feedback.  
 ### Chapter 7
-Lapdog in hotel. Receptionist. Godfrey. Seated at table. 
+Lapdog in hotel. Receptionist. Godfrey. Seated at table. Gangsters turn up. 
 - This is a good chapter. I would urge you to try and use the word 'then' less often. I have included an explanation above that explains why this is the best way to move forward. 
 - I noticed that you have a tendency to revert to adverbs when describing characters. While this is not 'wrong' it should be avoided where possible. I have added an extended explanation above.  
+- I love the slow and deliberate pace of this chapter, it is led by the dialogue and allows the reader to fully engage as it unfolds. 

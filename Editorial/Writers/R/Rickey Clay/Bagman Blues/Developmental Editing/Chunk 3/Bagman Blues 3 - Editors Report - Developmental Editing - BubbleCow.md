@@ -138,5 +138,5 @@ Lapdog in hotel. Receptionist. Godfrey. Seated at table. Gangsters turn up. Lack
 Billy-Billy and Tony in apartment.  
 - This is a good chapter, there are a few sentence level issues, but nothing significant. I have corrected these. There's also a section at the end where you have moved the conversation into the narrative summary, you need to write this out in full. 
 ### Chapter 9
-Freddy in car.
+Freddy in car. VIP room. 
 - There are occasions when you have the dialogue in the narrative summary. Where possible, you need to write this out in full. This way the reader will be more engaged. 

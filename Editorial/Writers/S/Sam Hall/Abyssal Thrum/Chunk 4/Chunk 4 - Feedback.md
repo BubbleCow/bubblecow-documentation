@@ -10,3 +10,11 @@ Romack contemplates life. Polliwog. Schematic. Powlers. Man with sack. In the wa
 - I love the dark and dank feeling you are creating in this chapter, but in the your world as a whole. There is a feeling of a broken world with these characters baring holding on as events unfold. 
 - I also liked that we are having more insight in Romack, his race and what that feels like in the world as a whole. 
 - You need to make sure that you are adding descriptions of the prowlers, are they human? 
+## Chapter 17
+Kayah in and out of consciousness. 
+Voices in the confusion. 
+Executioner's voice and others. 
+Wakes. Cutthroats. 
+Wakes. Talks to executioner. 
+- I like the slow, deliberate, pace of this chapter. You can feel Kayah's helplessness as the story progresses. 
+- When she wakes and talks to the executioner, I wanted you to layer in a description of the character. You don't need much but you need something. It will help the reader to picture the scene and ground themselves after all the sleep sections 

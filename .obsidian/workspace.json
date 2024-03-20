@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "153c0a8371215784",
+        "id": "8d7ea8d8c13a0457",
         "type": "tabs",
         "children": [
           {
-            "id": "4aff8e9b23491d01",
+            "id": "907fc2652eb832a3",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Editorial/Writers/C/Cy Tid/Spaceballs/Developmental Editing/Spaceballs - Editors Report - Developmental Editing - BubbleCow.pdf"
+                "file": "Editorial/Writers/S/Sam Hall/Abyssal Thrum/Chunk 4/Chunk 4 - Feedback.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Editorial/Writers/C/Cy Tid/Spaceballs/Developmental Editing/Spaceballs - Editors Report - Developmental Editing - BubbleCow.pdf",
+                "file": "Editorial/Writers/S/Sam Hall/Abyssal Thrum/Chunk 4/Chunk 4 - Feedback.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Editorial/Writers/C/Cy Tid/Spaceballs/Developmental Editing/Spaceballs - Editors Report - Developmental Editing - BubbleCow.pdf",
+                "file": "Editorial/Writers/S/Sam Hall/Abyssal Thrum/Chunk 4/Chunk 4 - Feedback.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Editorial/Writers/C/Cy Tid/Spaceballs/Developmental Editing/Spaceballs - Editors Report - Developmental Editing - BubbleCow.pdf"
+                "file": "Editorial/Writers/S/Sam Hall/Abyssal Thrum/Chunk 4/Chunk 4 - Feedback.md"
               }
             }
           }
@@ -144,8 +146,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4aff8e9b23491d01",
+  "active": "907fc2652eb832a3",
   "lastOpenFiles": [
+    "Editorial/Reports/Developmental Editing/Non-fiction/NON-FICTION - Editors Report - Developmental Editing - BubbleCow.md",
+    "Editorial/Writers/S/Sam Hall/Abyssal Thrum/Chunk 4/Chunk 4 - Feedback.md",
+    "Editorial/Writers/C/Cy Tid/Spaceballs/Developmental Editing/Spaceballs - Editors Report - Developmental Editing - BubbleCow.pdf",
     "Editorial/Writers/R/Rickey Clay/Bagman Blues/Developmental Editing/Chunk 3/THIRD 15k_Bagman Blues_(Pre Edit) - developmental editing - bubblecow - edited.docx",
     "Editorial/Writers/R/Rickey Clay/Bagman Blues/Developmental Editing/Chunk 3/Bagman Blues 3 - Editors Report - Developmental Editing - BubbleCow.md",
     "Editorial/Writers/R/Rickey Clay/Bagman Blues/Developmental Editing/Chunk 3/Bagman Blues 3 - Editors Report - Developmental Editing - BubbleCow.pdf",
@@ -157,7 +162,6 @@
     "Editorial/Writers/R/Rickey Clay",
     "Editorial/Writers/C/Cy Tid/Spaceballs/Spaceballs - Editors Report - Developmental Editing - BubbleCow.md",
     "Editorial/Writers/C/Cy Tid/Spaceballs/Developmental Editing/spaceball_bubblecow_developmental_edit_edited.docx",
-    "Editorial/Writers/C/Cy Tid/Spaceballs/Developmental Editing/Spaceballs - Editors Report - Developmental Editing - BubbleCow.pdf",
     "Admin/Strategy/Marketing/Blog Post Pillar System.md",
     "Publishing/Writing Manual/12.md",
     "Admin/Emails/Copy Editing Without Word Count.md",
@@ -168,7 +172,6 @@
     "Publishing/Writing Manual/01.md",
     "Images/Pasted image 20231127073437.png",
     "Publishing/Writing Manual",
-    "Publishing",
     "Untitled.md",
     "Admin/Strategy/Community.md",
     "Marketing/Blog/Pillars/BubbleCow Pillar Strategy.md",
@@ -184,7 +187,6 @@
     "Admin/Strategy/Marketing/AI Search Optimization.md",
     "Admin/Mindset/Permission Marketing.md",
     "Admin/Mindset/Modular Production of Books.md",
-    "Admin/Mindset/Do Thing That Don't Scale.md",
     "Images/Pasted image 20231127104925.png",
     "Images/Pasted image 20231127104435.png",
     "Images/Pasted image 20240301090501.png",

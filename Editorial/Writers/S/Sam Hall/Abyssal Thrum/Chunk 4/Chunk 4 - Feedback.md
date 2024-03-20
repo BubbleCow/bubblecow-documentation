@@ -15,6 +15,10 @@ Kayah in and out of consciousness.
 Voices in the confusion. 
 Executioner's voice and others. 
 Wakes. Cutthroats. 
-Wakes. Talks to executioner. 
+Wakes. Talks to executioner. Contemplates escape. 
 - I like the slow, deliberate, pace of this chapter. You can feel Kayah's helplessness as the story progresses. 
 - When she wakes and talks to the executioner, I wanted you to layer in a description of the character. You don't need much but you need something. It will help the reader to picture the scene and ground themselves after all the sleep sections 
+- You seem to be using executioner and Cindered Man interchangeably, this is potentially confusing. You are better to pick one and stick to it, I suggest the Cindered Man. 
+## Chapter 18
+Vagrants arguing. Wearkin. On pipes 
+- You need to start this chapter with better location and character description so the readers can ground themselves in the chapter.  

@@ -1,5 +1,7 @@
 **Please note - this is a read through report with no line editing**
 
+This is much darker and gritty but better
+
 ## Description
 Your description is really good. However, it would benefit from a little more development. I want you to think much more about layering in more detail of the mundane. This will help to ground the reader and build out your world. 
 
@@ -20,5 +22,6 @@ Wakes. Talks to executioner. Contemplates escape.
 - When she wakes and talks to the executioner, I wanted you to layer in a description of the character. You don't need much but you need something. It will help the reader to picture the scene and ground themselves after all the sleep sections 
 - You seem to be using executioner and Cindered Man interchangeably, this is potentially confusing. You are better to pick one and stick to it, I suggest the Cindered Man. 
 ## Chapter 18
-Vagrants arguing. Wearkin. On pipes 
+Vagrants arguing. Wearkin. On pipes and ledges. Stranger. Dravius. 
+Progressing in sewer. 
 - You need to start this chapter with better location and character description so the readers can ground themselves in the chapter.  

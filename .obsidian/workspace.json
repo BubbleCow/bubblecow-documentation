@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Admin/GTPS/Screenplay Writer/Screenplay Formatting.md",
+                "file": "Admin/GTPS/Screenplay Writer/Custom Instructions.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Admin/GTPS/Screenplay Writer/Screenplay Formatting.md",
+                "file": "Admin/GTPS/Screenplay Writer/Custom Instructions.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Admin/GTPS/Screenplay Writer/Screenplay Formatting.md",
+                "file": "Admin/GTPS/Screenplay Writer/Custom Instructions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Admin/GTPS/Screenplay Writer/Screenplay Formatting.md"
+                "file": "Admin/GTPS/Screenplay Writer/Custom Instructions.md"
               }
             }
           }
@@ -149,6 +149,7 @@
   "active": "a0960c90008dba34",
   "lastOpenFiles": [
     "Admin/GTPS/Screenplay Writer/Screenplay Formatting.md",
+    "Admin/GTPS/Screenplay Writer/Custom Instructions.md",
     "Admin/GTPS/Screenplay Writer",
     "Admin/GTPS",
     "Editorial/Writers/S/Sam Hall/Abyssal Thrum/Chunk 4/Chunk 4 - Feedback.md",
@@ -186,7 +187,6 @@
     "Images/Pasted image 20240305153127.png",
     "Images/Pasted image 20240305153114.png",
     "Admin/Strategy/Marketing/AI Search Optimization.md",
-    "Admin/Mindset/Permission Marketing.md",
     "Images/Pasted image 20231127104925.png",
     "Images/Pasted image 20231127104435.png",
     "Images/Pasted image 20240301090501.png",

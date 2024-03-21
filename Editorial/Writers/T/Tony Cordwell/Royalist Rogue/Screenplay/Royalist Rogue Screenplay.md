@@ -369,3 +369,411 @@ If you say so.
 
 The exchange of glares between JAMES and ZACHARY speaks volumes—a tension that simmers beneath the surface, hinting at the challenges and moral quandaries to come.
 
+### Scene 13: James's Family Cottage
+
+**INT. JAMES'S FAMILY COTTAGE - NIGHT**
+
+The cottage, cozy and dimly lit, exudes warmth. Various areas are delineated by curtains, creating a semblance of rooms within the single large space. JAMES sits contemplatively by the fire, the flames casting dancing shadows across his face.
+
+His WIFE, a figure of concern and love, sits opposite him. Her question hangs in the air, filled with worry and a longing for a simpler life.
+
+WIFE  
+(softly, with concern)  
+Why do you do these things, James? Could you not take a lawful profession?
+
+JAMES  
+(looking into the fire, reflective)  
+They know who I am; I oppose them. I cannot stay in one place for long.
+
+WIFE  
+(hopefully)  
+There must be professions allowing you to move around.
+
+JAMES  
+(pondering the notion, then with a hint of mystery)  
+Perhaps, but I walk under the protection of a spell.
+
+The word 'spell' catches his wife's attention, her curiosity piqued amidst her concern.
+
+WIFE  
+(intrigued)  
+A spell?
+
+JAMES  
+(leaning closer, sharing a secret)  
+Three years ago, an old woman granted me protection. A charm to keep me safe.
+
+He proceeds to explain the charm, its origins, and its supposed powers. Though it's clear his wife harbors doubts, her love and belief in him transcend skepticism.
+
+WIFE  
+(gently, her voice laced with worry)  
+Be careful, my love.
+
+JAMES  
+(resolute, yet tender)  
+I will. But I must leave soon; Bradshaw is to travel, and I want a word with him.
+
+The weight of his duty is evident in his voice, a testament to the path he's chosen—or perhaps, the path that has chosen him.
+
+WIFE  
+(sincerely, with a touch of fear)  
+Take care.
+
+JAMES stretches, his movements reflecting a readiness to face whatever lies ahead. He prepares to leave, his determination and the dangers that await him palpable in the air.
+
+As he steps out into the night, the door closing behind him, his wife watches from the window, a silent prayer on her lips for his safe return.
+
+### Scene 14: Narrow Lane between Sherborne and Shaftesbury
+
+**EXT. NARROW LANE BETWEEN SHERBORNE AND SHAFTESBURY - DAY**
+
+A carriage, opulent and unmistakably of the upper class, speeds along a narrow, tree-lined lane. The rumble of its wheels and the steady trot of horses disrupt the natural tranquility. Two GUARDS, vigilant and armed, flank the carriage, their eyes scanning the surroundings for any sign of trouble.
+
+Without warning, the serenity is shattered as JAMES and HIS GANG emerge from the shadows, their presence an immediate and undeniable threat. The ambush is swift, a well-coordinated assault that brings the carriage to a halt with startling efficiency.
+
+JAMES, the figurehead of this daring ensemble, steps forward. His posture is one of authority, his intent clear in his steady gaze. The guards, caught off guard but quickly regaining their composure, reach for their weapons, ready to defend their charge.
+
+The standoff is tense, a moment suspended in time where the outcome hangs in the balance. The guards assess their odds, the weight of their duty heavy upon them. JAMES, however, remains undeterred, his confidence in his cause and his companions unwavering.
+
+JAMES  
+(calmly, with an edge of command)  
+Gentlemen, I suggest you reconsider. This doesn't have to end in bloodshed.
+
+The message is clear: the guards face overwhelming odds, and resistance may only lead to unnecessary violence. The tension crackles in the air, a silent battle of wills playing out beneath the canopy of trees.
+
+After a tense moment, the guards lower their weapons, recognizing the futility of their position. JAMES nods in approval, a signal for his gang to proceed. They quickly and efficiently relieve the carriage and its occupants of valuables, their movements practiced and precise.
+
+As the gang concludes their raid, JAMES offers a final, parting glance to the guards, a silent acknowledgment of the unspoken agreement that has spared bloodshed this day.
+
+JAMES  
+(to his gang, as they prepare to depart)  
+Let's move out. Our business here is done.
+
+With a sense of accomplishment mingled with the adrenaline of the encounter, JAMES and his gang disappear back into the landscape, leaving the carriage and its shaken occupants to continue on their journey, albeit lighter in possessions.
+
+The ambush, though brief, leaves an indelible mark on those involved, a reminder of the tumultuous times they navigate and the shadowy figures who move just beyond the reach of law and order.
+
+### Scene 15: Inside the Carriage
+
+**INT. CARRIAGE - DAY**
+
+The carriage, once a sanctuary of wealth and privilege, now serves as the stage for a tense confrontation. JOHN BRADSHAW, richly attired, faces JAMES, who stands with the confidence of a man on a mission.
+
+JAMES  
+(announcing himself with a mix of irony and gravity)  
+Captain James Hind at your service. You brought money for me.
+
+BRADSHAW, incredulous and indignant, recognizes neither the authority nor the threat posed by James.
+
+BRADSHAW  
+(indignant, with a hint of fear)  
+Do you not know who I am? You shall hang for this sir, I shall have you hunted down and, yes, I shall sit in judgement myself and see to it.
+
+JAMES, unflinching, meets Bradshaw's threats with a cold, unwavering gaze.
+
+JAMES  
+(calmly, with a dangerous edge)  
+I shall not, and you shall not, sir. I do not fear you, or any other king-killing son of a whore still alive. At this moment, I have as much power over you as you recently had over our king, and I would be doing God and my country a service were I to use my power as you did. Nevertheless, I prefer to let you live, villain, to suffer the pangs of your own conscience until justice shall lay her iron hand upon you and demand an answer for your crimes. You are not worthy to die at any other hand but that of the common hangman, or at any place other than Tyburn. But if you do not hand over your money immediately, I shall not hesitate to send you to your maker without benefit of any clergy.
+
+Bradshaw, recognizing the futility of resistance and the genuine threat before him, reluctantly hands over his purse. JAMES, with a flair for the theatrical, extracts a gold coin, holding it up to the light, his contempt for Bradshaw's values clear in his words.
+
+JAMES  
+(holding up the coin, with scorn)  
+Ah, indeed sir. This metal could win my heart forever. Oh, precious Gold! I admire you as much as Bradshaw, and all the other villainous parliamentarians do; the difference is that whilst they would sell the Lord Jesus for your sake, I would not.
+
+JAMES turns back to BRADSHAW, his disdain palpable, delivering a scathing critique of the corrupting power of gold.
+
+JAMES  
+(derisively)  
+Do you know, I am sure that this gold is the substance which you Republicans call a wonder potion. It makes justice blind; it removes the deepest treason far more effectively than soap can remove the stains of a poor man’s labours. In a word, it turns fools into wise men and wise men into fools, and both into knaves. The colour of this precious balm is, as you see, bright and dazzling, and if applied quietly into the right hand in the proper dosage can perform all of these wonders and much, much more.
+
+With that, JAMES returns the coin to the purse and secures it in his pocket. Raising his pistols, he fixes BRADSHAW with a look that conveys both a warning and a promise.
+
+JAMES  
+(firmly, with a finality that brooks no argument)  
+Until now, you and your infernal friends have run around acting as if you were some sort of messiahs. I believe that the time has now come to stop your careers.
+
+The terror in BRADSHAW's eyes is unmistakable, a dark stain spreading across his breeches serving as a testament to his fear. JAMES, with a laugh that echoes the triumph of the underdog over the corrupt elite, spurs his horse to the front of the coach, leaving behind a shaken and humiliated Bradshaw.
+
+### Scene 16: Aftermath
+
+**EXT. NARROW LANE BETWEEN SHERBORNE AND SHAFTESBURY - DAY**
+
+The carriage stands immobilized, its occupants shaken by the recent confrontation. The gang, having completed their raid, gathers for a moment, the spoils of their endeavor secured. The tension from within the carriage spills out into their midst, highlighted by ZACHARY's impetuousness.
+
+ZACHARY  
+(impatient, with a hint of aggression)  
+Why are we pussyfooting around? We should kill these vermin while we have the chance.
+
+JAMES, ever the leader, responds with a calm that belies the gravity of their actions.
+
+JAMES  
+(firmly, with authority)  
+We have no argument with these men, only with he who they guard.
+
+ZACHARY, not easily deterred, pushes back, his desire for retribution clear.
+
+ZACHARY  
+(urgently)  
+So, let’s kill him, then!
+
+THOMAS, the voice of reason and experience, intervenes, his words carrying the weight of their shared history and the code they live by.
+
+THOMAS  
+(resolute, with finality)  
+No. If James says no, we don’t do it; it’s how we’ve survived so long, and you are not going to spoil it.
+
+The decision made, the gang prepares to leave. JAMES, in a final act that ensures their escape and leaves a message behind, takes aim and shoots the horses tethered to the carriage. The act is quick, merciful, and strategic, severing the last tie that could have led their pursuers directly to them.
+
+With the money taken and their message delivered, the gang mounts their horses. The ride away is swift, a collective movement of shadows retreating back into the landscape from which they emerged. They leave behind a scene of calculated chaos, a testament to their principles, their survival, and the lengths they will go to protect their own.
+
+The air of victory is tempered by the underlying tensions within the gang, a reminder of the delicate balance between their ideals and the realities of their crusade.
+
+### Scene 17: James's Parents' Courtyard
+
+**EXT. JAMES'S PARENTS' COURTYARD - DAY**
+
+The sun bathes the courtyard in a gentle, warm light, casting long shadows that dance across the cobblestones. The serene, pastoral setting is a stark contrast to the tumultuous events that unfolded just scenes before.
+
+JAMES emerges from the stable, the bond between him and his horse evident in the affectionate pat he gives the animal before parting. His actions are unhurried, a man momentarily at peace in familiar surroundings.
+
+As he turns to leave the stable, JAMES's gaze is drawn to the window of the small, simple cottage that stands as a testament to his roots. There, framed by the window, is his MOTHER, her eyes filled with a mixture of concern, love, and quiet pride.
+
+Their eyes meet, and a warm, unspoken understanding passes between them. JAMES's smile broadens, a silent acknowledgment of the worries she carries for him, tempered by the joy of seeing her son return home, even if only for a moment.
+
+With a lightness in his step, JAMES strolls across the yard, each step taking him closer to the familial embrace that awaits. The simple act of walking from the stable to the cottage is imbued with a sense of returning, of grounding, after the high stakes and adrenaline of his recent exploits.
+
+He reaches the cottage door, pausing for a moment to take in the scene, the normalcy of home a sharp contrast to his life on the road. Then, with a final glance back at the stable and the world beyond, JAMES enters the cottage, stepping into the warmth and safety it represents.
+### Scene 18: Interior - James's Parents' Cottage - Day (Revised)
+
+**INT. JAMES'S PARENTS' COTTAGE - DAY**
+
+The cottage, warm and inviting, bathes in the soft glow of daylight filtering through small windows. The air inside is thick with the smell of fresh baking, a homely scent that speaks of simpler times and familial love.
+
+Upon seeing JAMES enter, his MOTHER, a portly woman brimming with affection and concern, lights up with unmistakable joy. She moves towards him with open arms, her movements quick with anticipation.
+
+MOTHER  
+(beaming with happiness)  
+James! What a delight. I see so little of you these days.
+
+She envelops him in a tight hug, a gesture that conveys years of worry, love, and the silent strength of a mother's love.
+
+JAMES  
+(returning the hug, with a lightness in his voice)  
+Ah, I am very busy. My line of work means that I must travel long distances, but it pays the bills. Margaret rarely wants for anything, and my children seem to have grown every time I return!
+
+MOTHER  
+(slightly chiding but with warmth)  
+Such is the way with children and as they grow, their demands grow with them. However, they do need a father around. Your father was always here for you.
+
+JAMES  
+(pondering, with a touch of humor)  
+Indeed he was, but my strongest memories of my father have him holding a strap.
+
+MOTHER  
+(laughing softly, shaking her head)  
+You were so undisciplined, it was needed.
+
+JAMES  
+(smiling)  
+All children are undisciplined. It is only by pushing the boundaries that a child learns where they are.
+
+MOTHER  
+(changing the subject, with practicality)  
+Are you hungry? I just finished my baking, there is hot bread waiting there on the table.
+
+JAMES  
+(standing, with determination)  
+No, mother, I am anxious to spend more time with Maggie and the children. I hope to remain at home for a few weeks over Christmas.
+
+MOTHER  
+(concerned, yet with a hint of defiance)  
+You do not intend to celebrate Christmas, do you? You know that Parliament made it illegal.
+
+JAMES  
+(resolute, with a spark of defiance)  
+Mother, I have spent the past seven years fighting Parliament and their hideous laws of repression. Do you really think I intend to deprive my children of the joy of celebrating the birth of Christ?
+
+MOTHER  
+(worriedly)  
+Do be careful. They are getting quite strict now.
+
+JAMES  
+(assuringly)  
+Mother, they will be too busy celebrating Christmas themselves; you surely do not believe that the ban on Christmas celebrations was intended for themselves? It was aimed solely at the poor.
+
+MOTHER  
+(teasingly, but with a touch of caution)  
+Your perception may be a little biased, my son. But be careful, nevertheless.
+
+JAMES  
+(reassuringly)  
+I shall mother. But now I must go home, I have been missing Maggie sorely.
+
+MOTHER  
+(softly)  
+And she you. She visits us regularly. More regularly than do you.
+
+JAMES  
+(half-joking, half-serious)  
+I have no choice. But I must go. Pass my regards to father.
+
+MOTHER  
+(sincerely)  
+I shall.
+
+As JAMES heads towards the door, his MOTHER blows him a kiss, a gesture filled with love and the unspoken worries of a parent. The door closes gently behind him, leaving her in the silent warmth of the cottage, her thoughts undoubtedly following him out into the wider world.
+
+### Scene 18: Interior - James's Parents' Cottage - Day (Revised)
+
+**INT. JAMES'S PARENTS' COTTAGE - DAY**
+
+The cottage, warm and inviting, bathes in the soft glow of daylight filtering through small windows. The air inside is thick with the smell of fresh baking, a homely scent that speaks of simpler times and familial love.
+
+Upon seeing JAMES enter, his MOTHER, a portly woman brimming with affection and concern, lights up with unmistakable joy. She moves towards him with open arms, her movements quick with anticipation.
+
+MOTHER  
+(beaming with happiness)  
+James! What a delight. I see so little of you these days.
+
+She envelops him in a tight hug, a gesture that conveys years of worry, love, and the silent strength of a mother's love.
+
+JAMES  
+(returning the hug, with a lightness in his voice)  
+Ah, I am very busy. My line of work means that I must travel long distances, but it pays the bills. Margaret rarely wants for anything, and my children seem to have grown every time I return!
+
+MOTHER  
+(slightly chiding but with warmth)  
+Such is the way with children and as they grow, their demands grow with them. However, they do need a father around. Your father was always here for you.
+
+JAMES  
+(pondering, with a touch of humor)  
+Indeed he was, but my strongest memories of my father have him holding a strap.
+
+MOTHER  
+(laughing softly, shaking her head)  
+You were so undisciplined, it was needed.
+
+JAMES  
+(smiling)  
+All children are undisciplined. It is only by pushing the boundaries that a child learns where they are.
+
+MOTHER  
+(changing the subject, with practicality)  
+Are you hungry? I just finished my baking, there is hot bread waiting there on the table.
+
+JAMES  
+(standing, with determination)  
+No, mother, I am anxious to spend more time with Maggie and the children. I hope to remain at home for a few weeks over Christmas.
+
+MOTHER  
+(concerned, yet with a hint of defiance)  
+You do not intend to celebrate Christmas, do you? You know that Parliament made it illegal.
+
+JAMES  
+(resolute, with a spark of defiance)  
+Mother, I have spent the past seven years fighting Parliament and their hideous laws of repression. Do you really think I intend to deprive my children of the joy of celebrating the birth of Christ?
+
+MOTHER  
+(worriedly)  
+Do be careful. They are getting quite strict now.
+
+JAMES  
+(assuringly)  
+Mother, they will be too busy celebrating Christmas themselves; you surely do not believe that the ban on Christmas celebrations was intended for themselves? It was aimed solely at the poor.
+
+MOTHER  
+(teasingly, but with a touch of caution)  
+Your perception may be a little biased, my son. But be careful, nevertheless.
+
+JAMES  
+(reassuringly)  
+I shall mother. But now I must go home, I have been missing Maggie sorely.
+
+MOTHER  
+(softly)  
+And she you. She visits us regularly. More regularly than do you.
+
+JAMES  
+(half-joking, half-serious)  
+I have no choice. But I must go. Pass my regards to father.
+
+MOTHER  
+(sincerely)  
+I shall.
+
+As JAMES heads towards the door, his MOTHER blows him a kiss, a gesture filled with love and the unspoken worries of a parent. The door closes gently behind him, leaving her in the silent warmth of the cottage, her thoughts undoubtedly following him out into the wider world.
+
+### Scene 19: Interior - James's Home - Day (Revised)
+
+**INT. JAMES'S HOME - DAY**
+
+The scene unfolds in the cozy, bustling interior of JAMES's home, where life and love overflow in every corner. As JAMES steps through the door, his world transforms from one of danger and duty to one of family and warmth. BABY CHARLES giggles in delight at the sight of his father, a sound that fills the room with pure joy.
+
+ALICE, a spirited 9-year-old with eyes full of mischief, immediately seizes her chance, her voice a blend of hope and strategy.
+
+ALICE  
+(excitedly)  
+Father, can I ride your horse?
+
+JAMES, balancing the roles of doting father and disciplinarian, responds with a gentle reminder of responsibilities.
+
+JAMES  
+(firmly, but with a smile)  
+You must clean the kitchen first, young lady, just like your mother told you a while ago.
+
+ALICE, undeterred, tries her luck with a drawn-out plea, her eyes wide with the universal language of childlike bargaining.
+
+ALICE  
+(drawling)  
+Pleeeease?
+
+JAMES  
+(amused, but unwavering)  
+Clean first, ride second.
+
+ALICE shuffles off towards the kitchen, her resolve switching from pleading to action, in search of the cleaning rag. Meanwhile, a YOUNGER BROTHER's curiosity leads him towards JAMES’s gun, a moment of innocence flirting dangerously with peril.
+
+MAGGIE, ever the vigilant mother, addresses the risk with a calm urgency, her concern for their safety paramount.
+
+MAGGIE  
+(worriedly)  
+I do wish you would take those off in the house, Jimmy. It only takes a moment of distraction, and we could have a disaster on our hands.
+
+JAMES acknowledges her wisdom with a nod, the constant tension between his life's demands and his family's safety weighing heavily on him.
+
+JAMES  
+(conceding)  
+You’re right, my love, as always. But sadly, I have to leave shortly.
+
+He carefully removes his weapons, placing them out of reach on a high shelf beside the fireplace, a temporary measure in a life where danger is a constant companion.
+
+In a moment of levity, JAMES scoops up the two young boys, transforming into a playful steed, their laughter a balm to the soul's weariness. MAGGIE's laughter joins theirs, a reminder of the joy amidst the chaos.
+
+MAGGIE  
+(laughing, mock chiding)  
+Stop that! You’ll make them sick!
+
+JAMES, reveling in the normalcy of family life, retorts with feigned indignation, his heart light for the moment.
+
+JAMES  
+(playfully)  
+I finally get time to spend with my family, and I’m not allowed to play with them!
+
+The moment is fleeting, as JAMES’s duty calls him away once more. He prepares to leave, the weight of parting heavy on his shoulders.
+
+JAMES  
+(solemnly, to MAGGIE)  
+I must move on now. I was hoping to be able to spend a little time with you, but apparently, it is not to be. I must report to the king across the water, so it may well be a while before I return. I have some money for you.
+
+He hands her a bag, the practicalities of their life together mingling with the tenderness of their farewell.
+
+JAMES  
+(seriously)  
+I suggest you bury it beneath the stone in the garden in case they do decide to search. But now I really must leave. Goodbye, my love, I shall be counting the days until my return.
+
+Their kiss is a seal on promises made and kept, a testament to their enduring bond. JAMES takes a moment with each child, a hug, a smile, a silent vow of return.
+
+With a final, loving glance at his family, JAMES steps back into the world outside, his departure marked by the careful avoidance of prying eyes, the perpetual balance between the man he is and the duties he bears.
+
+

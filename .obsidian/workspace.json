@@ -11,8 +11,12 @@
             "id": "a0960c90008dba34",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Admin/GTPS/Screenplay Writer/Screenplay Formatting.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Admin/GTPS/Screenplay Writer/Screenplay Formatting.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Admin/GTPS/Screenplay Writer/Screenplay Formatting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Admin/GTPS/Screenplay Writer/Screenplay Formatting.md"
+              }
             }
           }
         ]
@@ -140,6 +148,9 @@
   },
   "active": "a0960c90008dba34",
   "lastOpenFiles": [
+    "Admin/GTPS/Screenplay Writer/Screenplay Formatting.md",
+    "Admin/GTPS/Screenplay Writer",
+    "Admin/GTPS",
     "Editorial/Writers/S/Sam Hall/Abyssal Thrum/Chunk 4/Chunk 4 - Feedback.md",
     "Editorial/Writers/S/Sam Hall/Abyssal Thrum/Chunk 4/Chunk 4 - Feedback.pdf",
     "Editorial/Reports/Developmental Editing/Non-fiction/NON-FICTION - Editors Report - Developmental Editing - BubbleCow.md",
@@ -152,9 +163,7 @@
     "Editorial/Writers/R/Rickey Clay/Bagman Blues/Developmental Editing/Chunk 3",
     "Editorial/Writers/R/Rickey Clay/Bagman Blues/Developmental Editing",
     "Editorial/Writers/R/Rickey Clay/Bagman Blues",
-    "Editorial/Writers/R/Rickey Clay",
     "Editorial/Writers/C/Cy Tid/Spaceballs/Spaceballs - Editors Report - Developmental Editing - BubbleCow.md",
-    "Editorial/Writers/C/Cy Tid/Spaceballs/Developmental Editing/spaceball_bubblecow_developmental_edit_edited.docx",
     "Admin/Strategy/Marketing/Blog Post Pillar System.md",
     "Publishing/Writing Manual/12.md",
     "Admin/Emails/Copy Editing Without Word Count.md",

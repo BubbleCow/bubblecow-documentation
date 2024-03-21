@@ -1231,3 +1231,24 @@ He takes one last look in the mirror, nodding to himself, the final acknowledgme
 
 The door closes softly behind him, and JAMES disappears into the bustling streets of London, a lone figure on a mission, his appearance a testament to the lengths he will go to for those he is sworn to protect.
 
+### Scene 29
+
+**EXT./INT. SIR THOMAS FAIRFAX'S LONDON RESIDENCE - DAY**
+
+The London streets are alive with the hustle of daily life, but JAMES, or rather, 'Edward Willoughby,' cuts through the crowd like a shadow. His scowl is a shield, parting the sea of people before him. It's a quiet amusement for him, noting how quickly others avert their gaze or change their path to avoid his stern approach. The effect of his Puritan disguise is palpable, lending him an aura of unapproachable austerity.
+
+Turning off the busy street, JAMES finds himself on a quieter lane, lined with elaborately decorated buildings that speak of wealth and influence. He strides with purpose, his destination clear. The residence of Sir Thomas Fairfax looms ahead, its facade imposing yet distinguished.
+
+Without hesitation, JAMES climbs the steps to the front door, his hand rapping firmly against the wood. The door swings open, revealing a MANSERVANT, taken aback by the sudden appearance of this stern visitor.
+
+**JAMES:**  
+(With an authoritative tone)  
+Edward Willoughby to see the General.
+
+Without waiting for an invitation or acknowledgment, JAMES, still embodying the character of Edward Willoughby, steps past the threshold, his presence commanding and his scowl unwavering. The MANSERVANT, momentarily flustered by the abrupt entrance, hurries to close the door behind him, casting a wary glance at the visitor's retreating back.
+
+Inside, the residence is a testament to Sir Thomas Fairfax's status, each room meticulously appointed and echoing the footsteps of history. JAMES moves with a confident stride, the heavy thud of his boots on the polished floors a stark contrast to the hushed reverence of the surroundings.
+
+As he is led deeper into the heart of the house, the air seems to thicken, charged with the anticipation of the impending encounter. JAMES's disguise, a calculated choice, now serves its most crucial purpose: to bring him face-to-face with Sir Thomas Fairfax, a meeting that could change the course of events to come.
+
+SCENE 31 IN TEH FILE IS NEXT, IT IS SCENE 30 HERE

@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "8d7ea8d8c13a0457",
+        "id": "17e5938f6685b372",
         "type": "tabs",
         "children": [
           {
-            "id": "907fc2652eb832a3",
+            "id": "a0960c90008dba34",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Editorial/Writers/S/Sam Hall/Abyssal Thrum/Chunk 4/Chunk 4 - Feedback.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Editorial/Writers/S/Sam Hall/Abyssal Thrum/Chunk 4/Chunk 4 - Feedback.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Editorial/Writers/S/Sam Hall/Abyssal Thrum/Chunk 4/Chunk 4 - Feedback.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Editorial/Writers/S/Sam Hall/Abyssal Thrum/Chunk 4/Chunk 4 - Feedback.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,10 +138,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "907fc2652eb832a3",
+  "active": "a0960c90008dba34",
   "lastOpenFiles": [
-    "Editorial/Reports/Developmental Editing/Non-fiction/NON-FICTION - Editors Report - Developmental Editing - BubbleCow.md",
     "Editorial/Writers/S/Sam Hall/Abyssal Thrum/Chunk 4/Chunk 4 - Feedback.md",
+    "Editorial/Writers/S/Sam Hall/Abyssal Thrum/Chunk 4/Chunk 4 - Feedback.pdf",
+    "Editorial/Reports/Developmental Editing/Non-fiction/NON-FICTION - Editors Report - Developmental Editing - BubbleCow.md",
     "Editorial/Writers/C/Cy Tid/Spaceballs/Developmental Editing/Spaceballs - Editors Report - Developmental Editing - BubbleCow.pdf",
     "Editorial/Writers/R/Rickey Clay/Bagman Blues/Developmental Editing/Chunk 3/THIRD 15k_Bagman Blues_(Pre Edit) - developmental editing - bubblecow - edited.docx",
     "Editorial/Writers/R/Rickey Clay/Bagman Blues/Developmental Editing/Chunk 3/Bagman Blues 3 - Editors Report - Developmental Editing - BubbleCow.md",
@@ -171,7 +164,6 @@
     "Publishing/Writing Manual/02.md",
     "Publishing/Writing Manual/01.md",
     "Images/Pasted image 20231127073437.png",
-    "Publishing/Writing Manual",
     "Untitled.md",
     "Admin/Strategy/Community.md",
     "Marketing/Blog/Pillars/BubbleCow Pillar Strategy.md",
@@ -186,7 +178,6 @@
     "Images/Pasted image 20240305153114.png",
     "Admin/Strategy/Marketing/AI Search Optimization.md",
     "Admin/Mindset/Permission Marketing.md",
-    "Admin/Mindset/Modular Production of Books.md",
     "Images/Pasted image 20231127104925.png",
     "Images/Pasted image 20231127104435.png",
     "Images/Pasted image 20240301090501.png",

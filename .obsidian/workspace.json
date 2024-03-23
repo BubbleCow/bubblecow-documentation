@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Admin/Emails/Manuscript Assessment Without Word Count.md",
+                "file": "Admin/Emails/Copy Editing Without Word Count.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Admin/Emails/Manuscript Assessment Without Word Count.md",
+                "file": "Admin/Emails/Copy Editing Without Word Count.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Admin/Emails/Manuscript Assessment Without Word Count.md",
+                "file": "Admin/Emails/Copy Editing Without Word Count.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Admin/Emails/Manuscript Assessment Without Word Count.md"
+                "file": "Admin/Emails/Copy Editing Without Word Count.md"
               }
             }
           }
@@ -148,6 +148,7 @@
   },
   "active": "a0960c90008dba34",
   "lastOpenFiles": [
+    "Admin/Emails/Manuscript Assessment Without Word Count.md",
     "Editorial/Writers/T/Tony Cordwell/Royalist Rogue/Screenplay/Royalist Rogue Screenplay.md",
     "Editorial/Writers/T/Tony Cordwell/Royalist Rogue/Screenplay/Royalist Rogue Screenplay.pdf",
     "Editorial/Writers/T/Tony Cordwell/Royalist Rogue/Screenplay/Royalist Rogue Screenplay_rewrite.docx",
@@ -184,7 +185,6 @@
     "Admin/Strategy/Website Changes.md",
     "Admin/Strategy/BubbleCow Strategy.md",
     "Admin/Strategy/Future Predictions.md",
-    "Admin/Emails/Manuscript Assessment Without Word Count.md",
     "Images/Pasted image 20240305153127.png",
     "Images/Pasted image 20240305153114.png",
     "Images/Pasted image 20231127104925.png",

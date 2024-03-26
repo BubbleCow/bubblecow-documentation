@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "17e5938f6685b372",
+        "id": "63924b1a37abb0e2",
         "type": "tabs",
         "children": [
           {
-            "id": "a0960c90008dba34",
+            "id": "55969eec89699a5a",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Editorial/Writers/S/Sam Hall/Abyssal Thrum/Chunk 4/Chunk 4 - Feedback.pdf"
+                "file": "Editorial/Writers/N/Nzar Xald Jaff/Children of Solace/Developmental Edit/Children of Solace - Editors Report - Developmental Editing - BubbleCow.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Editorial/Writers/S/Sam Hall/Abyssal Thrum/Chunk 4/Chunk 4 - Feedback.pdf",
+                "file": "Editorial/Writers/N/Nzar Xald Jaff/Children of Solace/Developmental Edit/Children of Solace - Editors Report - Developmental Editing - BubbleCow.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Editorial/Writers/S/Sam Hall/Abyssal Thrum/Chunk 4/Chunk 4 - Feedback.pdf",
+                "file": "Editorial/Writers/N/Nzar Xald Jaff/Children of Solace/Developmental Edit/Children of Solace - Editors Report - Developmental Editing - BubbleCow.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Editorial/Writers/S/Sam Hall/Abyssal Thrum/Chunk 4/Chunk 4 - Feedback.pdf"
+                "file": "Editorial/Writers/N/Nzar Xald Jaff/Children of Solace/Developmental Edit/Children of Solace - Editors Report - Developmental Editing - BubbleCow.md"
               }
             }
           }
@@ -144,28 +146,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a0960c90008dba34",
+  "active": "341fb5c098c93da7",
   "lastOpenFiles": [
+    "Editorial/Reports/Developmental Editing/Fiction/Edit/FICTION - Editors Report - Developmental Editing - BubbleCow.md",
+    "Editorial/Writers/N/Nzar Xald Jaff/Children of Solace/Developmental Edit/Children of Solace - Editors Report - Developmental Editing - BubbleCow.md",
+    "Editorial/Writers/S/Sam Hall/Abyssal Thrum/Chunk 4/Chunk 4 - Feedback.pdf",
+    "Editorial/Writers/N/Nzar Xald Jaff/Children of Solace/Developmental Edit/Children of Solace - developmental editing - bubblecow.docx",
+    "Editorial/Writers/N/Nzar Xald Jaff/Children of Solace/Developmental Edit/Unconfirmed 424203.crdownload",
+    "Editorial/Writers/N/Nzar Xald Jaff/Children of Solace/Developmental Edit",
+    "Editorial/Writers/N/Nzar Xald Jaff/Children of Solace",
+    "Editorial/Writers/N/Nzar Xald Jaff",
+    "Editorial/Writers/N",
     "Admin/Emails/Copy Editing Without Word Count.md",
     "Admin/Emails/Manuscript Assessment Without Word Count.md",
     "Editorial/Writers/T/Tony Cordwell/Royalist Rogue/Screenplay/Royalist Rogue Screenplay.md",
     "Editorial/Writers/T/Tony Cordwell/Royalist Rogue/Screenplay/Royalist Rogue Screenplay.pdf",
     "Editorial/Writers/T/Tony Cordwell/Royalist Rogue/Screenplay/Royalist Rogue Screenplay_rewrite.docx",
     "Editorial/Writers/T/Tony Cordwell/Royalist Rogue/Screenplay/Royalist Rogue Screenplay.docx",
-    "Editorial/Writers/T/Tony Cordwell/Royalist Rogue/Screenplay/lu5377rckg.tmp",
     "Admin/GTPS/Screenplay Writer/Custom Instructions.md",
-    "Editorial/Writers/T/Tony Cordwell/Royalist Rogue/Screenplay/ARR reshape.docx",
-    "Editorial/Writers/T/Tony Cordwell/Royalist Rogue/Screenplay/Unconfirmed 126572.crdownload",
-    "Editorial/Writers/T/Tony Cordwell/Royalist Rogue/Screenplay/A Royalist Rogue.docx",
-    "Editorial/Writers/T/Tony Cordwell/Royalist Rogue/Screenplay/Unconfirmed 186322.crdownload",
-    "Editorial/Writers/T/Tony Cordwell/Royalist Rogue/Screenplay",
     "Editorial/Writers/T/Tony Cordwell/Untitled.canvas",
-    "Editorial/Writers/T/Tony Cordwell/Royalist Rogue",
     "Admin/GTPS/Screenplay Writer/Screenplay Formatting.md",
     "Editorial/Writers/S/Sam Hall/Abyssal Thrum/Chunk 4/Chunk 4 - Feedback.md",
     "Editorial/Reports/Developmental Editing/Non-fiction/NON-FICTION - Editors Report - Developmental Editing - BubbleCow.md",
     "Editorial/Writers/R/Rickey Clay/Bagman Blues/Developmental Editing/Chunk 3/Bagman Blues 3 - Editors Report - Developmental Editing - BubbleCow.md",
-    "Editorial/Reports/Developmental Editing/Fiction/Edit/FICTION - Editors Report - Developmental Editing - BubbleCow.md",
     "Editorial/Writers/C/Cy Tid/Spaceballs/Spaceballs - Editors Report - Developmental Editing - BubbleCow.md",
     "Admin/Strategy/Marketing/Blog Post Pillar System.md",
     "Publishing/Writing Manual/12.md",

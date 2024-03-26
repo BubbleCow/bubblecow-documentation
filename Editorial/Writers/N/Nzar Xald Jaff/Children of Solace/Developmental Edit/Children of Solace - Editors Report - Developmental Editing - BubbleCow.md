@@ -93,6 +93,8 @@ First-person.
 ## Strengths and Weaknesses
 This section contains specific feedback about elements of your book that are immediately actionable. I have strived not only to explain any problems I have encountered but also to provide at least one solution you can apply to your book. 
 
+there was major problems with formatting and ediing, I had to start again with a clean document.
+
 ### Indentation
 In crafting a well-presented manuscript, understanding paragraph indentation is crucial. Indentation serves not just a functional purpose in delineating paragraphs but also plays an aesthetic role, enhancing readability and providing visual cues to the reader. However, there's a nuanced exception to the rule of indentation that is often overlooked but is paramount for maintaining a professional appearance in your writing: the first paragraph of each chapter should be flush with the left margin, while subsequent paragraphs should be indented.
 #### The Rule of Indentation
@@ -184,5 +186,5 @@ This section contains specific feedback about your chapters. This feedback is in
 In the hall. Switch to Omar. Bakery. 
 - The line spacing is different in this chapter, you need to ensure its the same throughout.  
 ### Chapter 2
-Omar in the ally. Donkey. 
-- It i
+Omar in the ally. Donkey. Stopped by guards. 
+- I feel strongly that chapters 1 and 2 should be combined into a single chapter. This will read better. It is also makes more sense to end the chapter at his moment of kidnap. 
